@@ -52,8 +52,8 @@ class newBingCrawler:
 
         async def main(loop):
             #driver = webdriver.Chrome()
-            #driver = webdriver.PhantomJS()
-            driver = webdriver.PhantomJS(executable_path="D:\\phantomjs.exe")
+            driver = webdriver.PhantomJS()
+            #driver = webdriver.PhantomJS(executable_path="D:\\phantomjs.exe")
             url = "https://www.bing.com/"
             driver.get(url)
             elem = driver.find_element_by_xpath('//*[@id="sb_form_q"]')
