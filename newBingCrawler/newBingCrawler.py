@@ -23,7 +23,7 @@ df_comps = pd.read_csv("labelData/" + files[0], index_col=None, header=None)
 
 companies = list(df_comps[0])
 for company in companies:   
-    input_companies.put(company+" product")
+    input_companies.put("{} product".format(company))
 
 
 
