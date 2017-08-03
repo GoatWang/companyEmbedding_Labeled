@@ -41,12 +41,12 @@ Investor Alert
 
 
 
-New York Markets Open in:
+New York Markets Close in:
 
 
 
 Market Snapshot
-Analyst Ratings
+Winners and Losers
 
 
 
@@ -187,14 +187,14 @@ Log In
 
 
 
-9:01 AM EDT
+9:48 AM EDT
 August 1, 2017
 
 
 /marketstate/country/us
 New York
 
-	Pre
+	Open
 
 
 /marketstate/country/uk
@@ -240,26 +240,26 @@ View All
 Latest News
 
 /news/latest
-9:00aHere’s how a slap-happy stock market may get derailed
-9:00aSenate Democrats press for bipartisan tax talks | White House panel recommends declaring emergency on opioids   
-9:00aGold challenged to hold seven-week highs
-8:58aAIG earnings: Investors expect an update from new CEO Brian Duperreault
-8:47aIn Hollywood women are still seen and not heard
-8:47aFlying in coach could be harmful to your health
-8:46aSimon Property Group jumps as company raises guidance, ups dividend
-8:45aAmerican Airlines' stock rallies after second upgrade in two days
-8:35aConsumer spending inches up 0.1% in June
-8:34a2-year Treasury note yield up 0.4 basis point at 1.359%
-8:34a10-year Treasury note yield up 0.8 basis point at 2.303%
-8:33aTreasury yields up slightly after PCE, other U.S. economic data
-8:32aGold little changed after spending, income, inflation reports 
-8:32aDecember gold 0.1% lower at $1,272.50/oz.
-8:31aS&P 500 futures up 0.2% at 2,473
-8:31aU.S. stock future hold gains after personal income data
-8:31aNasdaq-100 futures up 0.3% at 5,898
-8:31aDow futures futures up 0.4% at 21,936
-8:31aU.S. dollar maintains modest gain after personal income and spending data
-8:30aPCE rises 1.4%  in past 12 months; core 1.5%
+9:48aIHS Markit final manufacturing PMI is 53.3 in July vs 52 
+9:47aWhy women are poised to make a terrible mistake when it comes to their money 
+9:46aGM US July sales down 14%
+9:43aPandora Media stock price target cut to $11 from $12 at BMO Capital
+9:43aCriteo started at outperform with $70 stock price target at BMO Capital
+9:41aGoPro earnings: Analysts are still not expecting a turnaround 
+9:39aUPDATE: Athenahealth stock surges 4.2% on strategic changes, including $100 mln in cost-saving opportunities
+9:39aDollar claws up from 15-month lows
+9:35aCORRECTEDE.W. Scripps buys 4 networks from Katz broadcast for $292 million
+9:33aDow flirts with a fresh milestone: 22,000 
+9:33aBREAKINGDow nears 22,000 at the open, as S&P 500, Nasdaq trade in record territory
+9:32aDow industrials rise 93 points to 21,984
+9:32aNasdaq Composite up 0.4% at 6,374.71
+9:31aS&P 500 up 0.3% at 2,477.20
+9:31aBREAKINGStocks open higher; Dow nears 22,000 milestone
+9:30aRockwell Collins stock price target raised to $125 from $108 at Canaccord Genuity
+9:30aRockwell Collins upgraded to buy from hold at Canaccord Genuity
+9:22aBoeing, McDonald's the biggest drivers of Dow's climb toward 22,000 milestone
+9:22aHow to turn $60 into $40,000: Invest in a poker player and get lucky
+9:19aDow set for all-time high at the open, with Apple quarterly results on deck
 Loading more headlines...
 
 
@@ -268,10 +268,10 @@ Loading more headlines...
 dow
 
 /quotes/zigman/627449/realtime
-21,891.12
+21,950.86
 
-+60.81
-+0.28%
++59.74
++0.27%
 
 
 
@@ -280,10 +280,10 @@ dow
 nasdaq
 
 /quotes/zigman/12633936/realtime
-6,348.12
+6,361.36
 
--26.55
--0.42%
++13.24
++0.21%
 
 
 
@@ -292,10 +292,10 @@ nasdaq
 s&p 500
 
 /quotes/zigman/3870025/realtime
-2,470.30
+2,474.68
 
--1.80
--0.07%
++4.38
++0.18%
 
 
 
@@ -630,12 +630,12 @@ Investor Alert
 
 
 
-New York Markets Open in:
+New York Markets Close in:
 
 
 
 Market Snapshot
-Analyst Ratings
+Winners and Losers
 
 
 
@@ -1445,14 +1445,14 @@ Log In
 
 
 
-9:01 AM EDT
+9:48 AM EDT
 August 1, 2017
 
 
 /marketstate/country/us
 New York
 
-	Pre
+	Open
 
 
 /marketstate/country/uk
@@ -1498,26 +1498,26 @@ View All
 Latest News
 
 /news/latest
-9:00aHere’s how a slap-happy stock market may get derailed
-9:00aSenate Democrats press for bipartisan tax talks | White House panel recommends declaring emergency on opioids   
-9:00aGold challenged to hold seven-week highs
-8:58aAIG earnings: Investors expect an update from new CEO Brian Duperreault
-8:47aIn Hollywood women are still seen and not heard
-8:47aFlying in coach could be harmful to your health
-8:46aSimon Property Group jumps as company raises guidance, ups dividend
-8:45aAmerican Airlines' stock rallies after second upgrade in two days
-8:35aConsumer spending inches up 0.1% in June
-8:34a2-year Treasury note yield up 0.4 basis point at 1.359%
-8:34a10-year Treasury note yield up 0.8 basis point at 2.303%
-8:33aTreasury yields up slightly after PCE, other U.S. economic data
-8:32aGold little changed after spending, income, inflation reports 
-8:32aDecember gold 0.1% lower at $1,272.50/oz.
-8:31aS&P 500 futures up 0.2% at 2,473
-8:31aU.S. stock future hold gains after personal income data
-8:31aNasdaq-100 futures up 0.3% at 5,898
-8:31aDow futures futures up 0.4% at 21,936
-8:31aU.S. dollar maintains modest gain after personal income and spending data
-8:30aPCE rises 1.4%  in past 12 months; core 1.5%
+9:48aIHS Markit final manufacturing PMI is 53.3 in July vs 52 
+9:47aWhy women are poised to make a terrible mistake when it comes to their money 
+9:46aGM US July sales down 14%
+9:43aPandora Media stock price target cut to $11 from $12 at BMO Capital
+9:43aCriteo started at outperform with $70 stock price target at BMO Capital
+9:41aGoPro earnings: Analysts are still not expecting a turnaround 
+9:39aUPDATE: Athenahealth stock surges 4.2% on strategic changes, including $100 mln in cost-saving opportunities
+9:39aDollar claws up from 15-month lows
+9:35aCORRECTEDE.W. Scripps buys 4 networks from Katz broadcast for $292 million
+9:33aDow flirts with a fresh milestone: 22,000 
+9:33aBREAKINGDow nears 22,000 at the open, as S&P 500, Nasdaq trade in record territory
+9:32aDow industrials rise 93 points to 21,984
+9:32aNasdaq Composite up 0.4% at 6,374.71
+9:31aS&P 500 up 0.3% at 2,477.20
+9:31aBREAKINGStocks open higher; Dow nears 22,000 milestone
+9:30aRockwell Collins stock price target raised to $125 from $108 at Canaccord Genuity
+9:30aRockwell Collins upgraded to buy from hold at Canaccord Genuity
+9:22aBoeing, McDonald's the biggest drivers of Dow's climb toward 22,000 milestone
+9:22aHow to turn $60 into $40,000: Invest in a poker player and get lucky
+9:19aDow set for all-time high at the open, with Apple quarterly results on deck
 Loading more headlines...
 
 
@@ -1526,9 +1526,9 @@ Loading more headlines...
 dow
 
 /quotes/zigman/627449/realtime
-21,891.12
+21,951.59
 
-+60.81
++60.47
 +0.28%
 
 
@@ -1538,10 +1538,10 @@ dow
 nasdaq
 
 /quotes/zigman/12633936/realtime
-6,348.12
+6,361.26
 
--26.55
--0.42%
++13.14
++0.21%
 
 
 
@@ -1550,10 +1550,10 @@ nasdaq
 s&p 500
 
 /quotes/zigman/3870025/realtime
-2,470.30
+2,474.67
 
--1.80
--0.07%
++4.37
++0.18%
 
 
 
@@ -1848,9 +1848,9 @@ Link to MarketWatch's Slice.
 
 
 
+Stocks Index - Markets Index
 
 
-Itls International Development Co., Ltd.-Product
 
 
 
@@ -1865,7 +1865,6 @@ Itls International Development Co., Ltd.-Product
 
 
 
-sitemap  | ä¸­æ
 
 
 
@@ -1874,12 +1873,14 @@ sitemap  | ä¸­æ
 
 
 
+Bulletin
 
 
 
 
 
 
+Investor Alert
 
 
 
@@ -1887,33 +1888,135 @@ sitemap  | ä¸­æ
 
 
 
+New York Markets Close in:
 
 
 
+Market Snapshot
+Winners and Losers
 
 
 
-       About itls   |   History   |   References
 
 
 
 
 
 
-       Product Catalog   |   Image DM
 
 
 
 
 
-      Sealant   |   Adhesive   |   Waterproof   |   Hardware   |   Acoustic
 
 
+Stocks
+Rates
+Funds
+Bonds
+Benchmarks
+Real Estate Investment Trusts
+Futures
+American Depository Receipt Stocks
+Exchange Traded Notes
+Warrants
+Indexes
+Exchange Traded Funds
+Currencies
+Crypto Currencies
 
+Browse Stocks
+Stocks A-Z
 
 
+0-9ABCDEFGHIJKLMNOPQRSTUVWXYZOther
 
+Browse by Location
 
+Argentina
+Australia
+Austria
+Bahamas
+Bahrain
+Belgium
+Bermuda
+Botswana
+Brazil
+British Virgin Islands
+Canada
+Cayman Islands
+Chile
+China
+Colombia
+Curacao
+Cyprus
+Czech Republic
+Denmark
+Egypt
+Estonia
+Finland
+France
+Germany
+Gibraltar
+Greece
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Ireland
+Isle of Man
+Israel
+Italy
+Japan
+Jordan
+Kazakhstan
+Kuwait
+Latvia
+Lebanon
+Liechtenstein
+Lithuania
+Luxembourg
+Malaysia
+Malta
+Mauritius
+Mexico
+Monaco
+Money Rates
+Morocco
+Namibia
+Netherlands
+New Zealand
+Norway
+Oman
+Pakistan
+Panama
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Saudi Arabia
+Singapore
+Slovakia
+Slovenia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sweden
+Switzerland
+Taiwan
+Thailand
+Tunisia
+Turkey
+Ukraine
+United Arab Emirates
+United States
+Venezuela
+Western Samoa
 
 
 
@@ -1926,22 +2029,45 @@ sitemap  | ä¸­æ
 
 
 
+Log In
 
 
 
 
+9:48 AM EDT
+August 1, 2017
 
 
+/marketstate/country/us
+New York
+
+	Open
 
 
+/marketstate/country/uk
+London
+
+	Open
 
-HOME / Product
 
+/marketstate/country/jp
+Tokyo
+
+	Closed
 
 
 
 
 
+/marketstate/country/us
+ 
+
+
+/marketstate/country/uk
+ 
+
+
+/marketstate/country/jp
  
 
 
@@ -1954,30 +2080,69 @@ HOME / Product
 
 
 
+View All
 
 
 
+Latest News
 
+/news/latest
+9:48aIHS Markit final manufacturing PMI is 53.3 in July vs 52 
+9:47aWhy women are poised to make a terrible mistake when it comes to their money 
+9:46aGM US July sales down 14%
+9:43aPandora Media stock price target cut to $11 from $12 at BMO Capital
+9:43aCriteo started at outperform with $70 stock price target at BMO Capital
+9:41aGoPro earnings: Analysts are still not expecting a turnaround 
+9:39aUPDATE: Athenahealth stock surges 4.2% on strategic changes, including $100 mln in cost-saving opportunities
+9:39aDollar claws up from 15-month lows
+9:35aCORRECTEDE.W. Scripps buys 4 networks from Katz broadcast for $292 million
+9:33aDow flirts with a fresh milestone: 22,000 
+9:33aBREAKINGDow nears 22,000 at the open, as S&P 500, Nasdaq trade in record territory
+9:32aDow industrials rise 93 points to 21,984
+9:32aNasdaq Composite up 0.4% at 6,374.71
+9:31aS&P 500 up 0.3% at 2,477.20
+9:31aBREAKINGStocks open higher; Dow nears 22,000 milestone
+9:30aRockwell Collins stock price target raised to $125 from $108 at Canaccord Genuity
+9:30aRockwell Collins upgraded to buy from hold at Canaccord Genuity
+9:22aBoeing, McDonald's the biggest drivers of Dow's climb toward 22,000 milestone
+9:22aHow to turn $60 into $40,000: Invest in a poker player and get lucky
+9:19aDow set for all-time high at the open, with Apple quarterly results on deck
+Loading more headlines...
 
 
 
 
+dow
 
+/quotes/zigman/627449/realtime
+21,955.67
 
++64.55
++0.29%
 
 
 
 
 
+nasdaq
 
+/quotes/zigman/12633936/realtime
+6,361.72
 
++13.59
++0.21%
 
 
 
 
 
+s&p 500
 
+/quotes/zigman/3870025/realtime
+2,474.92
 
++4.62
++0.19%
 
 
 
@@ -1985,398 +2150,159 @@ HOME / Product
 
 
 
- 
 
 
 
 
- 
 
 
+Kiosk
 
 
+1352872800000
+1352872800000
 
 
-
-
-
-
-
-
-
-
-  DS-BIO
-Color:
-                                        Specification: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  DSM7Silicone
-Color:
-                                        Specification:300ã Cartridge, 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  DS929Silicone
-Color:White, gray, Bl
-                                        Specification:300ml, 500ml 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  Aftek Expanding 
-Color:
-                                        Specification: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  Aftek
-Color:
-                                        Specification: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  Silicone CV
-Color:
-                                        Specification: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-  1 2 3 4  
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-          Adds:3F,No.356,Sec.1,NeiHu Rd.,Taipei, Taiwan.  Tel:+886-2-27996558   Fax:+886-2-27998009                               Copyringht © 2010 ITLS International Development Co.,LTD.
-
-
-
-
-
+The RetireMentors
 
 
 
 
 
 
-        FASHION PRODUCT DEVELOPMENT CO LTD
+				Retirement advice from our industry experts
+				Our team of financial professionals can help you plan and save 
+					for retirement, then 
+				live well in it.
 
 
 
+/conga/kiosk/retirementors.html
+361307
 
 
 
 
+1320411600000
+1320616500000
 
 
+Alerts
 
 
 
+/conga/kiosk/alerts.html
+310238
 
 
-weiku.comJoin Free  |
- My Weiku
 
- 
- 
 
+1333717800000
+1333964100000
 
 
+Virtual Stock Exchange
 
 
 
 
 
+Our free stock-market game
+				• Trade your virtual portfolio in real time
+				• Talk strategies in group discussions
+				• Find or create a game that suits you
+				• Use our learning center to improve 
 
 
 
+/conga/kiosk/games.html
+310284
 
 
 
 
+1245657600000
+1277280000000
 
-  
- FASHION PRODUCT DEVELOPMENT CO LTD Halloween decoration  Halloween toy   Toy Christmas decoration  Christmas toy   OEM ODM service   Product design   Store HomeProductsAbout UsContact
 
+Location Scouts
 
 
 
 
+Housing-market insights from our realty pros
+																																																							Plus the latest data from Realtor.com on 21 home markets across the U.S.
+• See our complete Real Estate site
 
-Enterprise Certification Product Certification& Enterprise Certification
-More Detail
 
+/conga/kiosk/real_estate.html
+357012
 
-FASHION PRODUCT DEVELOPMENT CO LTD
 
-Credibility: 
 
 
-Country:
-                    China (Mainland)
-                
+1404799200000
+1404799200000
 
-Established Time:2009
-                
 
-Business License:Did not upload
-Total Stuff:11 - 50 People
-
-Business type:Manufacturer, Trading Company, Business Service (Transportation, finance, travel, Ads, etc)
-Certification:
-
-
-Contact:Contact Now
-
-
-
-
-Refine Search
-
-
-
-
-
-
-Products
- Christmas Sway Snowman Hugs the snowman husband Pumpkin hat RIDE MY CAR EVERYDAY BEAR TWISTING GIFT SNOWMAN Flap bear Hugs the bone dog Christmas santa Miniature snowman Hits the fart to sing the deer The swing ear moves the donkey Hits the fart black Walks the dog RAP Husband Street sign snowman More
-
-
-Contact us
-
-Tel:852-852-23701026
-Fax:86-755-29693294
-Province/state:-1
-Street:Kowloon
-
-
-
-
-
-
- About us Welcome To Our Site!Fashion Product Development Co., Limited. was established in 2000, specialized in the product development and export business. We are located in the Chinese Toy and Gift City- Bao'an District, Shenzhen City. We always think of our client first, and credit foremost, providing innovative designs, high quality items and efficient work. 
-
-We have a professional team with several professional designers. Every year, we release plenty of new designs. We mainly produce and sell decoration and toys...Click for details>>
-
-Product Showcase
-
-
-
-
-
-View all products from this supplierFeatured Products
-
-
-
-
-
-
-
-
-
- Christmas Sway Snowman
-
-
-
-
-
-
-
-
-
- Hugs the snowman husband
-
-
-
-
-
-
-
-
-
- Pumpkin hat
-
-
-
-
-
-
-
-
-
- RIDE MY CAR EVERYDAY BEAR
-
-
-
-
-
-
-
-
-
- TWISTING GIFT SNOWMAN
-
-
-
-
-
-
-
-
-
- Flap bear
-
-
-
-
-
-
-
-
-
- Hugs the bone dog
-
-
-
-
-
-
-
-
-
- Christmas santa
-
+Lazy Portfolios
 
 
 
 
 
-                    Send a message direct to supplier(s)
-
-To:
-                        Mr.
+				Set it and forget it
+				Check out the returns on our 8 Lazy Portfolios that are made up 
+				of low-cost 
+				buy-and-hold index funds.
 
-                            FASHION PRODUCT DEVELOPMENT CO LTD
+				• How to create your own Lazy Portfolio
+
+
+/conga/kiosk/lazy_portfolio.html
+313134
 
 
 
-*Message:
 
 
-Enter your Message here
--Enter between 20 to 2000 characters. English only.Word count:0
-                            character(s). 
+
+
+
+
+
+
+
+
+
+MarketWatch.com
+
+
+
+
+Site Index
+Topics
+Help
+Feedback
+Newsroom Roster
 
-                            Enter your inquiry details such as:
-Self-introductionRequired specificationsInquire about price/MOQ
+                    Media Archive
+Premium Products
+Mobile
 
 
- 
+Company Info
+Code of Conduct
+Corrections
+Advertising Media Kit
+Advertise Locally
+Reprints & Licensing
+Broker Center
+
+                    Your Ad Choices
+
+
+Follow MarketWatch
 
 
 
@@ -2385,11 +2311,50 @@ Self-introductionRequired specificationsInquire about price/MOQ
 
 
 
-Recommended For Youhigh quality products
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RSS
+Podcasts
+
+
+
+
+
+
+WSJ.com
+Barron's Online
+BigCharts
+Virtual Stock Exchange
+
+
+Financial News London
+WSJ.com Small Business
+realtor.com
+Mansion Global
 
 
 
@@ -2402,20 +2367,64 @@ Recommended For Youhigh quality products
 
 
 
- “My Showroom”sevice is provided by weiku.com
+		Copyright © 2017 MarketWatch, Inc.  All rights reserved.
+		By using this site, you agree to the Terms of Service,
+        Privacy Policy and Cookie Policy.
+	
+
+
+
+            Intraday Data provided by SIX Financial Information and subject to terms of use. Historical and current end-of-day data provided by SIX Financial Information. All quotes are in local exchange time. Real-time last sale data for U.S. stock quotes reflect trades reported through Nasdaq only. Intraday data delayed at least 15 minutes or per exchange requirements.
+        
 
 
 
 
-Manufacturers - Sell - Last Products- Chemicals - Quality Products - Suppliers - Site Map
-
-©2011 Weiku.com,License: 浙ICP备08004510号
 
 
+MarketWatch Top Stories
+Link to MarketWatch's Slice.
+
+15
 
 
 
- or select more products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2602,15 +2611,15 @@ Range
 
 
 
-Asia Dow
+Dow
 
-3,511.62
+21,951.43
 
 
-13.06
+60.31
 
 
-0.37%
+0.28%
 
 
 
@@ -2622,15 +2631,15 @@ Asia Dow
 
 
 
-Nikkei 225
+S&P 500
 
-19,985.79
+2,474.66
 
 
-60.61
+4.36
 
 
-0.30%
+0.18%
 
 
 
@@ -2642,15 +2651,15 @@ Nikkei 225
 
 
 
-Hang Seng
+Nasdaq
 
-27,540.23
+6,361.25
 
 
-216.24
+13.13
 
 
-0.79%
+0.21%
 
 
 
@@ -2662,15 +2671,15 @@ Hang Seng
 
 
 
-Shanghai
+GlobalDow
 
-3,292.64
+2,864.71
 
 
-19.61
+11.19
 
 
-0.60%
+0.39%
 
 
 
@@ -2682,15 +2691,15 @@ Shanghai
 
 
 
-Sensex
+Gold
 
-32,575.17
+1,274.40
 
 
-60.23
+1.00
 
 
-0.19%
+0.08%
 
 
 
@@ -2702,15 +2711,15 @@ Sensex
 
 
 
-Singapore
+Oil
 
-3,338.20
+49.61
 
 
-8.68
+-0.56
 
 
-0.26%
+-1.12%
 
 
 
@@ -2732,52 +2741,52 @@ S&P 500 Movers(%)
 
 
 
-CHTR 
-5.8
-
-
-
-
 SCG 
 5.0
 
 
 
 
-UA 
-4.3
-
-
-
-
-AMG 
+RCL 
 4.0
 
 
 
 
-
-
-DISCK
--9.3
-
-
-
-
-DISCA
--8.2
+XYL 
+3.9
 
 
 
 
-COL
--6.3
+APD 
+3.7
 
 
 
 
-MU
--4.0
+
+
+UA
+-8.6
+
+
+
+
+MOS
+-8.4
+
+
+
+
+UAA
+-7.2
+
+
+
+
+CMI
+-5.2
 
 
 
@@ -2801,68 +2810,68 @@ Latest NewsAll Times Eastern
 
 
 
-9:00a
+9:47a
+
+Why women are poised to make a terrible mistake when it comes to their money 
+
+
+
+9:46a
+
+GM US July sales down 14%
+
+
+
+9:43a
+
+Pandora Media stock price target cut to $11 from $12 at BMO Capital
+
+
+
+9:42a
+
+Criteo started at outperform with $70 stock price target at BMO Capital
+
+
+
+9:40a
+
+GoPro earnings: Analysts are still not expecting a turnaround 
+
+
+
+9:39a
+
+Updated
+Dollar claws up from 15-month lows
+
+
+
+9:39a
+
+Updated
+UPDATE: Athenahealth stock surges 4.2% on strategic changes, including $100 mln in cost-saving opportunities
+
+
+
+9:35a
+
+Corrected
+E.W. Scripps buys 4 networks from Katz broadcast for $292 million
+
+
+
+9:32a
 
 Updated
 Dow flirts with a fresh milestone: 22,000 
 
 
 
-9:00a
+9:32a
 
-Here’s how a slap-happy stock market may get derailed
-
-
-
-8:59a
-
-Senate Democrats press for bipartisan tax talks | White House panel recommends declaring emergency on opioids   
-
-
-
-8:59a
-
-Updated
-Gold challenged to hold seven-week highs
-
-
-
-8:58a
-
-Updated
-AIG earnings: Investors expect an update from new CEO Brian Duperreault
-
-
-
-8:47a
-
-Updated
-Flying in coach could be harmful to your health
-
-
-
-8:47a
-
-In Hollywood women are still seen and not heard
-
-
-
-8:45a
-
-Simon Property Group jumps as company raises guidance, ups dividend
-
-
-
-8:44a
-
-American Airlines' stock rallies after second upgrade in two days
-
-
-
-8:35a
-
-Updated
-Consumer spending inches up 0.1% in June
+Breaking
+Dow nears 22,000 at the open, as S&P 500, Nasdaq trade in record territory
 
 
 
@@ -3590,7 +3599,7 @@ Powered by
 
 SHOP
 
--0.66%
+11.23%
 
 
 
@@ -3601,7 +3610,18 @@ SHOP
 
 UAA
 
-2.98%
+-7.34%
+
+
+
+
+
+
+
+
+LL
+
+27.67%
 
 
 
@@ -3612,7 +3632,7 @@ UAA
 
 P
 
--5.49%
+0.34%
 
 
 
@@ -3621,20 +3641,9 @@ P
 
 
 
-S
+ZIOP
 
--2.92%
-
-
-
-
-
-
-
-
-AAPL
-
--0.52%
+4.52%
 
 
 
@@ -3727,6 +3736,1043 @@ Video Center
 
 
 Learn more.Storyful, a division of News Corp, which owns MarketWatch, is a leading social media services company headquartered in Dublin, Ireland. Storyful combines world class journalism with industry-leading technology to discover, verify and acquire original content and provide the on-the-ground sources news and media organizations need to tell the stories that matter to their audience.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ACTOP Oem Accept Low Price Door Bell Wireless Factory From China, View door bell wireless factory, ACTOP Product Details from Shenzhen Zhuohao Intelligent Electronic Development Co., Ltd. on Alibaba.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alibaba.com
+
+
+
+
+
+                            Sourcing Solutions
+                            
+
+
+
+
+                            Services & Membership
+                            
+
+
+
+
+                            Help & Community
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+YRS
+
+
+Shenzhen Zhuohao Intelligent Electronic Development Co., Ltd.
+
+
+
+
+Trade Assurance
+
+
+
+China (Mainland)
+
+
+Transaction Level:
+
+
+
+
+
+
+
+
+
+Supplier Assessments:
+
+
+
+
+
+
+
+2 Transactions
+                            
+
+
+1,000+
+
+
+                                The supplier’s transactions conduted via Alibaba.com in the past 6 months.
+                            
+
+
+
+
+
+
+Response Time
+
+
+
+ <24h
+
+
+
+
+
+Response Rate
+
+
+
+ 65.8%
+
+
+
+
+
+
+
+
+
+Contact Detail
+
+
+
+
+
+
+
+
+The supplier supports Trade Assurance – A free service that protects your orders from payment to delivery.Supplier's Trade Assurance Limit:  US $63,000Learn More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to My Favorites
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+YR
+
+
+
+
+
+
+
+The supplier supports Trade Assurance – A free service that protects your orders from payment to delivery.Supplier's Trade Assurance Limit:  US $63,000Learn More
+
+
+
+
+
+
+
+
+
+
+
+How do I set this?
+
+
+
+
+
+
+
+
+
+Home
+
+
+Product Categories
+
+
+Company Profile
+
+Company Overview
+Industrial Certification
+Company Capability
+Business Performance
+
+
+
+Exhibition
+
+
+News
+
+
+Contacts
+
+
+
+
+
+
+
+
+How do I set this?
+
+
+
+
+
+
+
+
+Home
+> Product Categories
+> WiFi Video Door Phone
+
+
+
+
+
+
+
+How do I set this?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View larger image
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share to:
+
+
+
+
+
+
+
+ 
+
+
+Add to My Cart
+
+
+
+
+
+
+Add to My Favorites
+
+
+
+		Added to My Favorites
+
+
+
+
+
+
+
+
+
+
+
+
+ACTOP Oem Accept Low Price Door Bell Wireless Factory From China                        
+
+
+
+ Transactions
+
+
+FOB Price:
+
+
+US $50 - 60  / Set                                                                    
+|
+Get Latest
+                                        Price
+
+
+
+Min.Order Quantity:
+1 Set/Sets door alarm system
+
+
+Supply Ability:
+50000 Pound/Pounds per   Month door alarm system
+
+
+Port:
+shenzhen
+
+
+Payment Terms:
+T/T,Western Union,paypal
+
+
+
+
+
+
+
+
+
+
+                            Contact Supplier
+                        
+
+
+
+Loading...
+                        
+
+
+
+Start Order
+
+
+Place orders online to get full protection. close 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You May Like
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How do I set this?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Product Detail
+
+Transaction History
+
+
+
+Report Suspicious Activity
+
+
+
+
+
+Quick Details
+
+
+Place of Origin:
+Guangdong, China (Mainland)
+
+
+Brand Name:
+ACTOP
+
+
+Model Number:
+VDP-602A
+
+
+Camera:
+CCD & CMOS
+
+
+Power:
+100-240V
+
+
+Material:
+Metal
+
+
+intercom:
+intercom with smart phone
+
+
+unlock:
+remote control electric lock
+
+
+pixel:
+300,000
+
+
+color:
+silver
+
+
+oem /odm:
+support
+
+
+wifi and cable:
+both is ok
+
+
+night light source:
+6 LEDs
+
+
+ios and Android:
+both support
+
+
+hot sell model:
+yes
+
+
+
+
+Packaging & Delivery
+
+
+Packaging Details:
+door alarm system 
+standard export cardboard cartons
+Package:24pcs/carton
+
+
+Delivery Detail:
+15-25working days
+
+
+
+
+
+
+ Product Description ACTOP Oem Accept Low Price Door Bell Wireless Factory From China                    Model : wifi-602A Advantage:Only have one outdoor device , indoor is your smart phone support both ios and Android clear voice & imagetake photo and video swipe card enter systemOutdoor device can connect to internet by both wifi and internet cable  DescriptionYour phone can intercom with the doorbell by connect to wifi or 3G/4G1 camera can suppport 8 pcs smart phone at most Camera can be CMOS swipe card inter systemHidden cameraRainproof cover cameraRemote unlock the electornic lock alarm function connect to power by adapter Hand free intercom,clear voice Night vision with 6IR lights in the camera Where to used:Can be used to all kinds of separate house, multi-departments or villas,appartments  Business Type:Manufacturer, Trading company Main products:    wireless video door phonewired video door phone,digital peephole door viwerwireless door bellvote systemshool education productmotor anti-forgotten reminder  ExperienceWe have 5 years experience of We are factory of manufacturing wireless and wired video door phone for villa and apartmentGood AfterSales ServiceShipment and sample quality tracking includes lifetime and maintenance.Any small problem happening our goods will be solved at the most prompt time.We always offer relative technical support/consultant.Quick response, all your inquiry will be replied within 24 hours.MarketOur products are sold well in USA, also we are open up our second largemarket EUROPE market.            Packaging & Shipping Packing DetailsCamera *114V/1A adaptoer*1Terminal extension cable*2User Manual*1Rain proof cover*1Indoor bell*1     Company Information  FAQ Are you Manufacturer ? ACTOP : Yes,we are manufacturer  What is your MOQ ?ACTOP: Our MOQ is 1set  Do you offer free of samples ?ACTOP: We can talk the details  What is your leadtime?ACTOP: Our leadtime is 3days for sample 30das for bulk order Company Information ACTOP Oem Accept Low Price Door Bell Wireless Factory From ChinaACTOP Oem Accept Low Price Door Bell Wireless Factory From ChinaACTOP Oem Accept Low Price Door Bell Wireless Factory From China https://szjohao.en.alibaba.com/product/60661221297-800256676/Video_Doorbell_Wireless_Wireless_Door_Bell_For_Apartment.html?spm=a2700.8304367.0.0.fV65R0  
+
+
+
+
+
+
+
+Transaction History of the Supplier
+
+Below is the information about the supplier's transactions conducted via Alibaba.com. If you require further details regarding the transaction data, please contact the supplier directly.
+
+
+
+            Transaction Overview
+            
+
+
+
+
+Transactions
+
+
+
+
+Export Markets
+
+
+
+
+No. of Transactions
+
+
+Transaction Value
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transaction Details
+
+
+
+
+This supplier has completedtransactions with buyers from .
+
+
+
+Shipping Destination
+Transaction Value
+
+Transaction Date
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How do I set this?
+
+
+
+
+
+
+
+Email to this supplier
+
+
+
+
+
+
+
+How do I set this?
+
+
+
+
+
+
+
+
+Related Keywords
+
+door bell wireless factory
+door bell wireless from china
+door bell wireless
+
+
+
+
+
+
+
+How do I set this?
+
+
+
+
+
+
+
+
+
+
+
+
+Trade Assurance
+
+
+
+
+
+9
+YRS
+
+
+Shenzhen Zhuohao Intelligent Electronic Development Co., Ltd.
+
+
+
+
+China (Mainland)
+
+
+Transaction Level:
+
+
+
+
+
+
+
+
+
+Supplier Assessments:
+
+
+
+
+
+
+
+2 Transactions
+                            
+
+
+1,000+
+
+
+                                The supplier’s transactions conduted via Alibaba.com in the past 6 months.
+                            
+
+
+
+
+
+
+Response Time
+
+
+
+<24h
+
+
+
+
+
+Response Rate
+
+
+
+65.8%
+
+
+
+
+
+
+
+
+
+Contact Detail
+
+
+
+
+
+
+
+
+The supplier supports Trade Assurance – A free service that protects your orders from payment to delivery.Supplier's Trade Assurance Limit:  US $63,000Learn More
+
+
+
+
+
+
+
+
+How do I set this?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How do I set this?
+
+
+
+
+
+
+
+Product Showcase
+
+
+
+
+
+
+How do I set this?
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How do I set this?
+
+
+
+
+
+
+  
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4204,11 +5250,11 @@ DOW
 
 ▲
 
-21,891.12
+21,951.20
 
 
-+60.81
-+0.28%
++60.08
++0.27%
 
 
 
@@ -4223,7 +5269,7 @@ DOW
 
 
 Last updated time
-8/1/2017 9:00 AM EDT
+8/1/2017 9:48 AM EDT
 
 
 
@@ -4243,15 +5289,15 @@ NASDAQ
 
 
 
-▼
+▲
 
-6,348.12
-
-
+6,361.65
 
 
--26.55
--0.42%
+
+
++13.52
++0.21%
 
 
 
@@ -4270,13 +5316,13 @@ FTSE 100
 
 ▲
 
-7,432.34
+7,427.87
 
 
 
 
-+60.34
-+0.82%
++55.87
++0.76%
 
 
 
@@ -4412,6 +5458,1741 @@ Help & Support
 
 
 
+
+
+
+
+
+China Tubular Motor, production screen, roller shutter supplier - Shenzhen A-Ok Technology Grand Development Co., Ltd.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign In
+
+
+
+Join Free
+
+
+
+ 
+My Acount
+
+
+
+
+
+
+New Message(s) 0
+
+
+Unquoted Sourcing Request(s) 0
+
+
+New Quote(s) of Sourcing Request 0
+
+
+Manage Products
+
+
+Edit My Showroom
+
+
+
+Sign Out
+
+
+
+
+
+
+For Buyer
+
+
+
+Search Products & Suppliers
+
+Product Directory
+
+
+Supplier Discovery
+
+
+Post Sourcing Request
+
+
+
+
+Sourcing Solutions
+
+Source from Industry Hubs
+
+
+Customize Your Products
+
+
+Distribute Competitive Products
+
+
+MEI Awards-Winning Products
+
+
+Smart Expo
+
+
+
+
+
+
+Service
+
+New User Guide
+
+
+Product Alert
+
+
+Supplier Audit Report
+
+
+Meet Suppliers
+
+
+Download APP for Buyer
+
+
+Contact Us
+
+
+
+
+Quick Links
+
+My Favorites
+
+
+Recent Visit History
+
+
+
+
+
+
+
+
+
+
+Inquiry Basket 
+
+
+
+English
+
+Español
+Português
+Français
+Русский язык
+Italiano
+Deutsch
+Nederlands
+العربية
+한국어
+日本語
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+Suppliers
+Sourcing Requests
+
+
+Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Categories
+    
+
+
+
+
+
+
+
+Agriculture & Food
+
+
+
+
+
+Apparel & Accessories
+
+
+
+
+
+Arts & Crafts
+
+
+
+
+
+Auto, Motorcycle Parts & Accessories
+
+
+
+
+
+Bags, Cases & Boxes
+
+
+
+
+
+Chemicals
+
+
+
+
+
+Computer Products
+
+
+
+
+
+Construction & Decoration
+
+
+
+
+
+Consumer Electronics
+
+
+
+
+
+Electrical & Electronics
+
+
+
+
+
+Furniture
+
+
+
+
+
+Health & Medicine
+
+
+
+
+
+Industrial Equipment & Components
+
+
+
+
+
+Instruments & Meters
+
+
+
+
+
+
+
+Light Industry & Daily Use
+
+
+
+
+
+Lights & Lighting
+
+
+
+
+
+Manufacturing & Processing Machinery
+
+
+
+
+
+Metallurgy, Mineral & Energy
+
+
+
+
+
+Office Supplies
+
+
+
+
+
+Packaging & Printing
+
+
+
+
+
+Security & Protection
+
+
+
+
+
+Service
+
+
+
+
+
+Sporting Goods & Recreation
+
+
+
+
+
+Textile
+
+
+
+
+
+Tools & Hardware
+
+
+
+
+
+Toys
+
+
+
+
+
+Transportation
+
+
+
+
+
+
+
+
+
+Post Sourcing Request
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+
+Manufacturers/Suppliers
+
+
+
+
+
+
+
+
+ Inquiry Basket
+Company Favorites
+
+
+
+
+
+
+
+
+Shenzhen A-Ok Technology Grand Development Co., Ltd.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Miss Minnie Zhu
+
+
+
+
+
+                                Address:
+                            
+
+                                3f, 34 Bldg., Chentian Industrial District, Xixiang, Bao′an, Shenzhen, Guangdong, China
+                            
+
+
+
+Telephone:
+Zip Code:
+Fax:
+
+
+
+
+
+                                            Please sign in to view contact details
+                                        
+
+
+
+
+
+
+
+                        Multi-Language Showroom 
+
+
+Español 
+Português 
+Français 
+Русский язык 
+Italiano 
+Deutsch 
+Nederlands 
+العربية
+한국어 
+日本語 
+
+
+
+
+
+
+Account Registered in:
+2008
+
+
+Last Login Date:
+Sep 25, 2010
+
+
+Business Type:
+Manufacturer/Factory, Trading Company
+
+
+Main Products:
+
+Tubular Motor, production screen, roller shutter, blinds
+
+
+
+
+Company Introduction
+
+
+
+                                    We are the manufacture professionally works on designing and manufacturing the tubular motor and its relevant control systems(remote control), application widely spread to power-driven garage gate, motorised awning, motorised rolling window, motorised curtain, motorised projection screen and some other fields. Our products have got the certificates of CE, RoHS, UL, TUV. We have been working on ...
+                                
+
+                                        We are the manufacture professionally works on designing and manufacturing the tubular motor and its relevant control systems(remote control), application widely spread to power-driven garage gate, motorised awning, motorised rolling window, motorised curtain, motorised projection screen and some other fields. Our products have got the certificates of CE, RoHS, UL, TUV. 
+
+We have been working on motor item since from 1998, and added control units since from 2003. 
+
+A-OK is the first company who has our own SMT machine, among the domestic factroies who produce controller for the tubular motor.
+                                    
+
+
+More 
+Less 
+
+
+
+
+
+
+
+
+The Selected Suppliers You Might Like
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    High Quality of Tubular Motor
+                                                
+
+
+
+
+
+
+                                                    Contact now
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Professional Hurricane Storm Security Roller Shutter
+                                                
+
+
+                                                    Featured Product
+                                                
+
+
+
+                                                    Contact now
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Good Quality Electric Manual Roller Blind
+                                                
+
+
+                                                    Featured Product
+                                                
+
+
+
+                                                    Contact now
+                                                
+
+
+
+
+
+
+Shanghai TOMA Building Material Co., Ltd.
+
+
+
+
+Gold Member
+                                        
+
+
+
+
+
+Audited Supplier
+                                                                                                    
+
+
+
+Audit Content: (click Logo for more details)
+                                                    
+
+
+
+
+General Information
+
+
+
+Foreign Trade Capacity
+
+Product Research & Development Capacity
+
+
+Management System and Product Certification
+
+
+
+Production Capacity & Quality Control
+
+Financial Position
+Working Environment
+
+
+Photos
+
+Industry Information
+Energy Saving and Emission Reduction
+
+
+
+
+
+
+
+
+Business Type:
+Manufacturer/Factory
+
+
+Main Products:
+Roller Shutter, Blinds, Awnings, Aluminium Window, Motor Control Automation and Parts
+
+
+City/Province
+Shanghai, Shanghai, China
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Electric Tubular Motor (SL M45A) for Roller Shutters
+                                                
+
+
+                                                    Featured Product
+                                                
+
+
+
+                                                    Contact now
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Twin Skin Insulated Roller Shutters
+                                                
+
+
+                                                    Featured Product
+                                                
+
+
+
+                                                    Contact now
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Aluminum Windows Blind Outdoor
+                                                
+
+
+
+
+
+
+                                                    Contact now
+                                                
+
+
+
+
+
+
+Hunan Shinilion Energy Saving Technology Corporation Limited
+
+
+
+
+Gold Member
+                                        
+
+
+
+
+
+Audited Supplier
+                                                                                                    
+
+
+
+Audit Content: (click Logo for more details)
+                                                    
+
+
+
+
+General Information
+
+Foreign Trade Capacity
+Product Research & Development Capacity
+Management System and Product Certification
+
+
+Production Capacity & Quality Control
+
+Financial Position
+Working Environment
+
+
+Photos
+
+Industry Information
+Energy Saving and Emission Reduction
+
+
+
+
+
+
+
+
+Business Type:
+Manufacturer/Factory & Trading Company
+
+
+Main Products:
+Roller Shutters, Rolling Shutters, Tubular Motors, Garage Doors, Awnings
+
+
+City/Province
+Changsha, Hunan, China
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Remote Control Roller Shutter Windows Tubular Motor/Various Torque Tubular Motor
+                                                
+
+
+
+
+
+
+                                                    Contact now
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Shutter Roller, Rolling Windows, Rolling Shutter Windows, Aluminum Rolling Shutter
+                                                
+
+
+
+
+
+
+                                                    Contact now
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Chinese Rolling Shutter / Aluminum Rolling Shutter/Roller Blinds/Roman Blinds/Aluminium Extrusions/Vertical Window Blinds
+                                                
+
+
+
+
+
+
+                                                    Contact now
+                                                
+
+
+
+
+
+
+Master Well Enterprise Limited
+
+
+
+
+Gold Member
+                                        
+
+
+
+
+Audited Supplier
+                                                                                            
+
+
+
+
+
+Business Type:
+Manufacturer/Factory, Trading Company
+
+
+Main Products:
+Garage Door, Roller Shutter, Rolling Shutter, Roller Door, Rolling Door, Automatic Door, Stainless Door, Door Opener, Parking Lock, Solar Light
+
+
+City/Province
+Wuxi, Jiangsu, China
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Electric Tubular Motor of Roller Shutter (Hz-M891)
+                                                
+
+
+
+
+
+
+                                                    Contact now
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Ritehite Tachnical High Speed Door Security Door Roller Shutter (Hz-FC2010)
+                                                
+
+
+
+
+
+
+                                                    Contact now
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Outdoor Installed High Speed Aluminium Roller Shutter (Hz-RE0527)
+                                                
+
+
+
+
+
+
+                                                    Contact now
+                                                
+
+
+
+
+
+
+Shenzhen Hongze Automatic Door Co., Ltd.
+
+
+
+
+Gold Member
+                                        
+
+
+
+
+
+Audited Supplier
+                                                                                                    
+
+
+
+Audit Content: (click Logo for more details)
+                                                    
+
+
+
+
+General Information
+
+
+
+Foreign Trade Capacity
+
+Product Research & Development Capacity
+Management System and Product Certification
+
+
+Production Capacity & Quality Control
+
+Financial Position
+Working Environment
+
+
+Photos
+
+Industry Information
+Energy Saving and Emission Reduction
+
+
+
+
+
+
+
+
+Business Type:
+Manufacturer/Factory & Trading Company
+
+
+Main Products:
+PVC High Speed Door, Overhead Lifting Door, Airtight Hospital Door, Automatic Sliding Door, Aluminum Rapid Rolling Door, Self-recovery PVC Rapid Door, Garage Door, Electric Folding Gate
+
+
+City/Province
+Shenzhen, Guangdong, China
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    35/45/59/92mm Electric Roller Shutter Tubular Motor (HFM01)
+                                                
+
+
+                                                    Featured Product
+                                                
+
+
+
+                                                    Contact now
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Aluminum Roller Shutters
+                                                
+
+
+
+
+
+
+                                                    Contact now
+                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Aluminum Roller Shutter for Garage Door
+                                                
+
+
+
+
+
+
+                                                    Contact now
+                                                
+
+
+
+
+
+
+Shenzhen Hongfa Automatic Door Co., Ltd.
+
+
+
+
+Gold Member
+                                        
+
+
+
+
+
+Audited Supplier
+                                                                                                    
+
+
+
+Audit Content: (click Logo for more details)
+                                                    
+
+
+
+
+General Information
+
+
+
+Foreign Trade Capacity
+
+
+
+Product Research & Development Capacity
+
+
+
+Management System and Product Certification
+
+
+
+Production Capacity & Quality Control
+
+Financial Position
+Working Environment
+
+
+Photos
+
+Industry Information
+Energy Saving and Emission Reduction
+
+
+
+
+
+
+
+
+Business Type:
+Manufacturer/Factory
+
+
+Main Products:
+Automatic Door, High Speed Door.
+
+
+City/Province
+Shenzhen, Guangdong, China
+
+
+
+
+
+
+
+
+
+
+
+Post Sourcing Request
+Industry Channels
+Regional Channels
+Other Services:
+Explore Trade Resources
+View More in Buyer Guide
+
+
+Search Sourcing Requests
+加入认证供应商
+进入会员e家
+
+
+Contact Us
+FAQ
+Submit a Complaint
+
+
+
+
+
+
+
+Hot Products
+
+China Products
+
+Chinese Manufacturers/Suppliers
+
+China Wholesale
+
+Industry Sites
+
+Regional Channels
+
+Offer Board
+
+Product Index
+
+Mobile Site
+
+
+Language Options: 
+Español
+
+Português
+
+Français
+
+Русский язык
+
+Italiano
+
+Deutsch
+
+Nederlands
+
+العربية
+
+한국어
+
+日本語
+
+
+
+
+Terms & Conditions
+
+Declaration
+
+Privacy Policy
+
+
+    Copyright © 1998-2017 Focus Technology Co., Ltd. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to Lawton Building
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+
+
+
+09 444 1183
+build@lawtons.co.nz
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+  
+ Building your Vision  
+
+  
+ Generations of Experience  
+
+  
+ Concept to Creation  
+
+  
+ Construction to Count On  
+
+  
+ Building Better  
+
+
+
+
+
+
+
+
+
+
+
+
+You are hereHome » Welcome to Lawton Building 
+
+
+
+
+
+Welcome to Lawton Building
+
+
+
+Lawton Building is an Auckland based commercial construction company.  Large enough to tackle your multi-storey apartments, experienced enough to work through your specialised construction needs and small enough to provide that personal touch.  We appreciate the return business of our good clients and welcome new clients and new projects in this vital and developing industry.  You will be building better with Lawton's.
+read more
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+  
+ Commercial 
+ Commercial
+View Projects  
+
+  
+ Multistorey Apartments 
+ Multistorey Apartments
+View Projects  
+
+  
+ Retirement Villages 
+ Retirement Villages
+View Projects  
+
+  
+ Retail 
+ Retail
+View Projects  
+
+  
+ Educational 
+ Educational
+View Projects  
+
+  
+ Specialised Construction 
+ Specialised Construction
+View Projects  
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+© Lawton Building Ltd 2016. All Rights Reserved
+Site by Zest IT
+
+
+
+
+
+
+
+     600209.CN Stock Price & News - Lawton Development Co. Ltd. A - Wall Street Journal                                    DOW JONES, A NEWS CORP COMPANY         News Corp is a network of leading companies in the worlds of diversified media, news, education, and information services.  DOW JONES  Barron's BigCharts DJX Dow Jones Newswires Factiva Financial News Mansion Global MarketWatch   Newsmart NewsPlus Private Markets Risk & Compliance WSJ.com WSJ Pro WSJ Conference WSJ Video    NEWS CORP  Big Decisions Business Spectator Checkout51 Harper Collins New York Post PropTiger REA   realtor.com Storyful The Australian The Sun The Times              DJIA ▲  21951.17 0.27%        S&P 500 ▲  2474.72 0.18%        Nasdaq ▲  6361.42 0.21%        U.S. 10 Yr ▲  0/32 yield 2.295%        Crude Oil ▲  49.59 -1.16%        Euro ▲  1.1814 -0.24%                 Subscribe Now Sign In      The Wall Street Journal     Asia Edition  U.S. Asia Europe India 中国 (China) 日本 (Japan)    1 August 2017   Today's Paper     Sections    My Journal       Home   World   U.S.   Politics   Economy   Business   Tech   Markets   Opinion   Arts   Life   Real Estate   Today's Paper   SHOW ALL SECTIONS HIDE ALL SECTIONS     World Home   Africa Asia Canada China Europe Latin America Middle East   Economy   World Video     U.S. Home   Economy Law New York Politics   Real Time Economics Washington Wire   Journal Report U.S. Video What's News Podcast     Politics Home   Washington Wire   Politics Video WSJ/NBC News Poll     Economy Home   Real Time Economics   Economic Forecasting Survey Economy Video     Business Home   Management Tech/WSJ.D   Aerospace & Defense Autos & Transportation Commercial Real Estate Consumer Products Energy Entrepreneurship Financial Services Food & Services Health Care Hospitality Law Manufacturing Media & Marketing Natural Resources Retail   CFO Journal CIO Journal CMO Today Logistics Report Risk & Compliance   Heard on the Street   Business Video Journal Report Business Podcast     Tech Home   CIO Journal   Geoffrey Fowler Christopher Mims Joanna Stern Li Yuan   Billion Dollar Startup Club Tech Video Tech Podcast Startup Stock Trader     Markets Home   Bonds Commercial Real Estate Commodities & Futures Currencies Deals Financial Services Funds Stocks Your Money   Heard on the Street MoneyBeat Wealth Adviser Ahead of the Tape   CFO Journal Journal Report Market Data Markets Video Markets Podcast MoneyBeat Podcast Watching Your Wealth Podcast     Opinion Home   James Freeman William A. Galston Daniel Henninger Holman W. Jenkins William McGurn Peggy Noonan Mary Anastasia O'Grady Jason Riley Kimberley A. Strassel   Books Film Television Theater Art Masterpiece Series Music Dance Opera Exhibition Cultural Commentary   Editorials Commentary Letters to the Editor The Weekend Interview Potomac Watch Podcast Foreign Edition Podcast Opinion Video Notable & Quotable Best of the Web Newsletter Morning Editorial Report Newsletter     Arts Home   Books Film Television Theater Art Masterpiece Series   Arts Video WSJ. Magazine     Life Home   Careers Cars Food & Drink Health Ideas Real Estate Science Sports Style & Fashion Travel   Life Video WSJ. Magazine WSJ Puzzles The Future of Everything     Real Estate Home   Commercial Real Estate House of the Day Mansion   Real Estate Video      HIDE ALL SECTIONS      Aim higher, reach further.  Get the Wall Street Journal $12 for 12 weeks. Subscribe Now   Sign In   Reveal Navigation Options    Subscribe Sign In               Lawton Development Co. Ltd. A 600209 (China: Shanghai)      search    View All companies            3:30 PM CST 07/10/17     ¥13.29 CNY     -0.50 -3.63%     Volume 31,117,739       Volume 31,117,739     65 Day Avg Vol 20,435,507     1 Day Range 0.00 - 0.00     52 Week Range 9.57 - 17.98 (05/16/17 - 03/30/17)          1 D 5 D 1 M 3 M YTD 1 Y 3 Y    $ %            Advanced Charting Compare     Compare to Benchmark:   DJIA   S&P 500   GLOBAL DOW   NASDAQ   Real Estate/Construction      Compare to    Add          Open  0.00   Prior Close  13.79 (07/07/17)     1 Day    600209 -3.63%     DJIA 0.28%     S&P 500 0.18%     Real Estate/Construction 0.00%                             Overview     Overview Profile Financials Income Statement Balance Sheet Cash Flow Research & Ratings Historical Prices Options Advanced Charting              News Lawton Development Co. Ltd. A600209  No news for 600209 in the past two years.         Key Stock Data     ?    P/E Ratio (TTM) The Price to Earnings (P/E) ratio, a key valuation measure, is calculated by dividing the stock's most recent closing price by the sum of the diluted earnings per share from continuing operations for the trailing 12 month period.  Earnings Per Share (TTM) A company's net income for the trailing twelve month period expressed as a dollar amount per fully diluted shares outstanding. Market Capitalization Reflects the total market value of a company. Market Cap is calculated by multiplying the number of shares outstanding by the stock's price. For companies with multiple common share classes, market capitalization includes both classes. Shares Outstanding Number of shares that are currently held by investors, including restricted shares owned by the company's officers and insiders as well as those held by the public. Public Float The number of shares in the hands of public investors and available to trade. To calculate, start with total shares outstanding and subtract the number of restricted shares. Restricted stock typically is that issued to company insiders with limits on when it may be traded. Dividend Yield A company's dividend expressed as a percentage of its current stock price.      Key Stock Data    P/E Ratio (TTM) N/A     EPS (TTM)  ¥-0.10      Market Cap ¥5.83 B     Shares Outstanding 422.04 M     Public Float 275.32 M     Yield 0.01% (07/10/17)      Latest Dividend ¥0.00172 (05/10/16)      Ex-Dividend Date 05/10/16       ?    Shares Sold Short The total number of shares of a security that have been sold short and not yet repurchased. Change from Last Percentage change in short interest from the previous report to the most recent report. Exchanges report short interest twice a month. Percent of Float Total short positions relative to the number of shares available to trade.      Short Interest ()   N/A      ?    Money Flow Uptick/Downtick Ratio Money flow measures the relative buying and selling pressure on a stock, based on the value of trades made on an "uptick" in price and the value of trades made on a "downtick" in price. The up/down ratio is calculated by dividing the value of uptick trades by the value of downtick trades. Net money flow is the value of uptick trades minus the value of downtick trades. Our calculations are based on comprehensive, delayed quotes.      Stock Money Flow   N/A              Advertisement         Competitors 600209   Data not available.    More information on 600209   Competitor Data Provided By: capital cube           Profile 600209      Lawton Development Co. Ltd. engages in the management of hotel of operations. Its business activities include decoration, design, consultation, and construction of hotels; sale of petroleum products; video multimedia; production and processing of beverage and food;...      12th Floor Haikou Hainan 570208 China   Website Map       Employees  267    Sector  Construction      Sales or Revenue  150.31 M    Industry  Real Estate/Construction      1Y Sales Change  43.02%    Fiscal Year Ends December 31 Download Reports          Song Gao Chairman       Qian Yu General Manager & Director       Qing Ming Xu Chief Financial Officer       Fei Liu Director & Executive Deputy General Manager        More             Research & Ratings Lawton Development Co. Ltd. A600209 Per-Share Earnings, Actuals and Estimates      Quarterly   Annual    600209 will report FY 2017 earnings on false   600209 will report Q2 earnings on false         Actual     Analyst Range     Consensus             N/A     N/A     N/A     N/A      N/A     N/A                     0.20  0.10  0.00  -0.10         N/A     N/A     N/A     N/A                      Q2 2017 Estimate Trends     Current: ¥-   1 month ago: ¥-   3 months ago: ¥-       Q3 2017 Estimate Trends     Current: ¥-   1 month ago: ¥-   3 months ago: ¥-         FY 2017 Estimate Trends     Current: ¥-   1 month ago: ¥-   3 months ago: ¥-       FY 2018 Estimate Trends     Current: ¥-   1 month ago: ¥-   3 months ago: ¥-         More         Financials Lawton Development Co. Ltd. A600209     Quarterly   Annual      Net Income      0  90M                 0  -90M                 Mar 2016   Jun 2016   Sep 2016   Dec 2016   Mar 2017         0  20M                 0  -20M  -40M  -60M                '12 '13 '14 '15 '16         Mar 2017 5-quarter trend   Net Income Growth +3.00%                     Sales or Revenue 7.58 M                Sales or Revenue Growth -53.36%                     EBITDA -                          2016 5-year trend  Net Income Growth -1925.61%                     Sales or Revenue 150.31 M                Sales or Revenue Growth +43.02%                     EBITDA -36.33 M                            More             Overview    Notes & Data Providers   Real-time U.S. stock quotes reflect trades reported through Nasdaq only. International stock quotes are delayed as per exchange requirements. Indexes may be real-time or delayed; refer to time stamps on index quote pages for information on delay times. Quote data, except U.S. stocks, provided by SIX Financial Information. Data is provided "as is" for informational purposes only and is not intended for trading purposes. SIX Financial Information (a) does not make any express or implied warranties of any kind regarding the data, including, without limitation, any warranty of merchantability or fitness for a particular purpose or use; and (b) shall not be liable for any errors, incompleteness, interruption or delay, action taken in reliance on any data, or for any damages resulting therefrom. Data may be intentionally delayed pursuant to supplier requirements.  All of the mutual fund and ETF information contained in this display was supplied by Lipper, A Thomson Reuters Company, subject to the following: Copyright  © Thomson Reuters. All rights reserved. Any copying, republication or redistribution of Lipper content, including by caching, framing or similar means, is expressly prohibited without the prior written consent of Lipper. Lipper shall not be liable for any errors or delays in the content, or for any actions taken in reliance thereon. Bond quotes are updated in real-time. Source: Tullett Prebon. Currency quotes are updated in real-time. Source: Tullet Prebon. Fundamental company data and analyst estimates provided by FactSet. Copyright  FactSet Research Systems Inc. All rights reserved.        Advertisement                  
+
+
+
+
+
+
+
+
+
+
+Product – Yangon Development Co., Ltd.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+  
+A Leading IT Distributor in Myanmar. 
+
+
+
+A Leading IT Distributor in Myanmar.Home
+Product
+Support
+Contact Us
+About Us
+  
+
+
+
+
+
+Home » Product
+
+
+
+
+
+
+
+
+
+Product 
+
+IT Hardware & Software Products
+ 
+
+
+
+
+Philips Monitor
+
+
+
+www.philips.com
+
+
+
+
+ASRock Motherboard
+
+
+
+www.asrock.com
+
+
+
+
+CyberPower UPS
+
+
+
+www.cpsww.com.mm
+
+
+
+
+ESET Antivirus
+
+
+
+www.eset.com
+
+
+
+
+CoolerMaster Chasis & Power Supply
+
+
+
+www.coolermaster.com
+
+
+
+
+XFX Graphic Card
+
+
+
+www.xfxforce.com
+
+
+
+
+Patriot Memory
+
+
+
+www.patriotmemory.com
+
+
+
+
+SuperMicro Server
+
+
+
+www.supermicro.com
+
+
+
+
+EverFocus CCTV DVR & Camera
+
+
+
+www.everfocus.com
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 600209 Stock Price - Lawton Development Co. Ltd. A Stock Quote (China: Shanghai) - MarketWatch
@@ -4589,15 +7370,15 @@ Range
 
 
 
-Asia Dow
+Dow
 
-3,511.62
+21,955.67
 
 
-13.06
+64.55
 
 
-0.37%
+0.29%
 
 
 
@@ -4609,72 +7390,12 @@ Asia Dow
 
 
 
-Nikkei 225
+S&P 500
 
-19,985.79
+2,474.92
 
 
-60.61
-
-
-0.30%
-
-
-
-
-
-
-
-
-
-
-
-Hang Seng
-
-27,540.23
-
-
-216.24
-
-
-0.79%
-
-
-
-
-
-
-
-
-
-
-
-Shanghai
-
-3,292.64
-
-
-19.61
-
-
-0.60%
-
-
-
-
-
-
-
-
-
-
-
-Sensex
-
-32,575.17
-
-
-60.23
+4.62
 
 
 0.19%
@@ -4689,15 +7410,75 @@ Sensex
 
 
 
-Singapore
+Nasdaq
 
-3,338.20
-
-
-8.68
+6,361.72
 
 
-0.26%
+13.59
+
+
+0.21%
+
+
+
+
+
+
+
+
+
+
+
+GlobalDow
+
+2,864.65
+
+
+11.13
+
+
+0.39%
+
+
+
+
+
+
+
+
+
+
+
+Gold
+
+1,274.60
+
+
+1.20
+
+
+0.09%
+
+
+
+
+
+
+
+
+
+
+
+Oil
+
+49.61
+
+
+-0.56
+
+
+-1.12%
 
 
 
@@ -4719,52 +7500,52 @@ S&P 500 Movers(%)
 
 
 
-CHTR 
-5.8
-
-
-
-
 SCG 
 5.0
 
 
 
 
-UA 
-4.3
-
-
-
-
-AMG 
+RCL 
 4.0
 
 
 
 
-
-
-DISCK
--9.3
-
-
-
-
-DISCA
--8.2
+XYL 
+3.9
 
 
 
 
-COL
--6.3
+APD 
+3.9
 
 
 
 
-MU
--4.0
+
+
+UA
+-8.4
+
+
+
+
+MOS
+-8.4
+
+
+
+
+UAA
+-7.4
+
+
+
+
+ETN
+-5.0
 
 
 
@@ -4788,68 +7569,67 @@ Latest NewsAll Times Eastern
 
 
 
-9:00a
+9:47a
+
+IHS Markit final manufacturing PMI is 53.3 in July vs 52 
+
+
+
+9:47a
+
+Why women are poised to make a terrible mistake when it comes to their money 
+
+
+
+9:46a
+
+GM US July sales down 14%
+
+
+
+9:43a
+
+Pandora Media stock price target cut to $11 from $12 at BMO Capital
+
+
+
+9:42a
+
+Criteo started at outperform with $70 stock price target at BMO Capital
+
+
+
+9:40a
+
+GoPro earnings: Analysts are still not expecting a turnaround 
+
+
+
+9:39a
+
+Updated
+Dollar claws up from 15-month lows
+
+
+
+9:39a
+
+Updated
+UPDATE: Athenahealth stock surges 4.2% on strategic changes, including $100 mln in cost-saving opportunities
+
+
+
+9:35a
+
+Corrected
+E.W. Scripps buys 4 networks from Katz broadcast for $292 million
+
+
+
+9:32a
 
 Updated
 Dow flirts with a fresh milestone: 22,000 
-
-
-
-9:00a
-
-Here’s how a slap-happy stock market may get derailed
-
-
-
-8:59a
-
-Senate Democrats press for bipartisan tax talks | White House panel recommends declaring emergency on opioids   
-
-
-
-8:59a
-
-Updated
-Gold challenged to hold seven-week highs
-
-
-
-8:58a
-
-Updated
-AIG earnings: Investors expect an update from new CEO Brian Duperreault
-
-
-
-8:47a
-
-Updated
-Flying in coach could be harmful to your health
-
-
-
-8:47a
-
-In Hollywood women are still seen and not heard
-
-
-
-8:45a
-
-Simon Property Group jumps as company raises guidance, ups dividend
-
-
-
-8:44a
-
-American Airlines' stock rallies after second upgrade in two days
-
-
-
-8:35a
-
-Updated
-Consumer spending inches up 0.1% in June
 
 
 
@@ -5577,7 +8357,7 @@ Powered by
 
 SHOP
 
--0.66%
+11.10%
 
 
 
@@ -5588,7 +8368,18 @@ SHOP
 
 UAA
 
-2.98%
+-7.41%
+
+
+
+
+
+
+
+
+LL
+
+27.80%
 
 
 
@@ -5599,7 +8390,7 @@ UAA
 
 P
 
--5.49%
+0.40%
 
 
 
@@ -5608,20 +8399,9 @@ P
 
 
 
-S
+ZIOP
 
--2.92%
-
-
-
-
-
-
-
-
-AAPL
-
--0.52%
+4.52%
 
 
 
@@ -5726,9 +8506,7 @@ Learn more.Storyful, a division of News Corp, which owns MarketWatch, is a leadi
 
 
 
-
-Stocks Index - Markets Index
-
+Lin Lijuan, Lawton Development Co Ltd: Profile & Biography - Bloomberg
 
 
 
@@ -5752,27 +8530,6 @@ Stocks Index - Markets Index
 
 
 
-Bulletin
-
-
-
-
-
-
-Investor Alert
-
-
-
-
-
-
-
-New York Markets Open in:
-
-
-
-Market Snapshot
-Analyst Ratings
 
 
 
@@ -5787,505 +8544,500 @@ Analyst Ratings
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback
+
+
+
+
+
+Lin Lijuan
+
+Secretary,
+Lawton Development Co Ltd
+
+
+
+
+
+
+Career History
+
+
+
+
+Secretary
+Lawton Development Co Ltd, 5/2014-PRESENT
+
+
+
+
+
+
+
+
+
+Website:
+www.lawtonfz.com.cn
+
+
+
+
+
+
+Corporate Information
+Address:
+
+12/F North 68 Renmin Avenue
+Haikou, Hainan, 570208
+China
+
+
+Phone:
+86-898-6625-8868
+
+
+Fax:
+86-898-6625-4868
+
+
+Web url:
+www.lawtonfz.com.cn
+
+
+
+
+
+
+
+
+
+
+
+From The Web
+
+
+
+
+
+
+
+
+
+
+
+
+Sponsored Financial Commentaries
+
+
+
+
+
+
+
+More From The Web
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+News
+
+
+Top Headlines
+Most Popular
+Exclusive
+Law
+Entrepreneurs
+Leaders
+Economy
+Environment
+Science
+Sports
+Markets Magazine
+Pursuits Magazine
+Bloomberg Visual Data
+Bloomberg Best (and Worst)
+For comments or complaints about news coverage click here
+
+
+Regions
+U.S.
+China
+Europe
+Asia
+U.K. & Ireland
+Australia & New Zealand
+Canada
+India & Pakistan
+Japan
+Africa
+Eastern Europe
+Latin America
+Middle East
+Markets
+Commodities
+Currencies
+Bonds
+Stocks
+Energy Markets
+Municipal Bonds
+Emerging Markets
+Funds
+Islamic Finance
+Industries
+Energy
+Technology
+Real Estate
+Finance
+Health Care
+Transportation
+Insurance
+Retail
+Media
+Manufacturing
+
+
+
+
+Quick
+
+
+Market Data
 
 
 Stocks
-Rates
-Funds
-Bonds
-Benchmarks
-Real Estate Investment Trusts
-Futures
-American Depository Receipt Stocks
-Exchange Traded Notes
-Warrants
-Indexes
-Exchange Traded Funds
+Stock Futures
+World Indexes
+Americas
+Europe, Middle East, & Africa
+Asia-Pacific
+Gainers & Losers
+Earnings Calendar
+Industry Leaders
 Currencies
-Crypto Currencies
-
-Browse Stocks
-Stocks A-Z
-
-
-0-9ABCDEFGHIJKLMNOPQRSTUVWXYZOther
-
-Browse by Location
-
-Argentina
-Australia
-Austria
-Bahamas
-Bahrain
-Belgium
-Bermuda
-Botswana
-Brazil
-British Virgin Islands
-Canada
-Cayman Islands
-Chile
-China
-Colombia
-Curacao
-Cyprus
-Czech Republic
-Denmark
-Egypt
-Estonia
-Finland
-France
-Germany
-Gibraltar
-Greece
-Hong Kong
-Hungary
-Iceland
-India
-Indonesia
-Ireland
-Isle of Man
-Israel
-Italy
-Japan
-Jordan
-Kazakhstan
-Kuwait
-Latvia
-Lebanon
-Liechtenstein
-Lithuania
-Luxembourg
-Malaysia
-Malta
-Mauritius
-Mexico
-Monaco
-Money Rates
-Morocco
-Namibia
-Netherlands
-New Zealand
-Norway
-Oman
-Pakistan
-Panama
-Peru
-Philippines
-Poland
-Portugal
-Qatar
-Romania
-Russia
-Saudi Arabia
-Singapore
-Slovakia
-Slovenia
-South Africa
-South Korea
-Spain
-Sri Lanka
-Sweden
-Switzerland
-Taiwan
-Thailand
-Tunisia
-Turkey
-Ukraine
-United Arab Emirates
-United States
-Venezuela
-Western Samoa
+Americas
+Europe, Middle East, & Africa
+Asia-Pacific
+Foreign Exchange Cross Rates
+FX Fixings
+Currency Converter
+Forex Trading Videos
+Commodities
+Energy Prices
+Metals Prices
+Agricultural Prices
 
 
+Rates & Bonds
+US Treasuries
+UK Gilts
+Germany Bunds
+Japan Bonds
+Australia Bonds
+Bloomberg Bond Indexes
+Corporate Bonds
+Consumer Rates
+Economic Calendar
+Watchlist
+European Debt Crisis
+Symbol Search
+The Market Now
 
 
 
 
+Personal Finance
 
 
+Top Headlines
+Saving & Investing
+Real Estate
+Retirement Planning
+Financial Advisers
+Taxes
+Blog: Ventured & Gained
+Real Cost Of
+Money Gallery
+Calculators
+Watchlist (Portfolio Tracker)
 
 
 
 
-Log In
+Tech
 
 
+Top Headlines
+Social Media
+Mobile & Wireless
+Web
+Enterprise Tech
+TV, Games & Movies
+Apple
+Tech Deals
+Global Tech
+Slideshows
+Videos
 
 
-9:01 AM EDT
-August 1, 2017
 
 
-/marketstate/country/us
-New York
-
-	Pre
+U.S. Politics
 
 
-/marketstate/country/uk
-London
-
-	Open
+Sustainability
 
 
-/marketstate/country/jp
-Tokyo
-
-	Closed
+Top Headlines
+Energy
+Corporate Sustainability
+Policy
+Natural Resources
+Health & Population
+Slideshows
+Videos
+Blog: The Grid
 
 
 
 
+Luxury
 
-/marketstate/country/us
- 
 
+Top Headlines
+Autos
+Billionaires
+Living
+Property
+Travel
+Well Spent
+Loot Blog
+Pursuits Magazine
+Videos
 
-/marketstate/country/uk
- 
 
 
-/marketstate/country/jp
- 
 
+TV
 
 
+Live TV
+Channel Finder
+Personalities
+Apple TV
+iPad App
+Schedule
+U.S.
+Asia
+Europe
 
 
+Shows
+Surveillance
+Market Makers
+Lunch Money
+Street Smart
+Bloomberg West
+Game Changers
 
 
 
 
+Video
 
 
-View All
+Must See
+Latest
+Live TV
+Shows
+Playlist
 
 
 
-Latest News
 
-/news/latest
-9:00aHere’s how a slap-happy stock market may get derailed
-9:00aSenate Democrats press for bipartisan tax talks | White House panel recommends declaring emergency on opioids   
-9:00aGold challenged to hold seven-week highs
-8:58aAIG earnings: Investors expect an update from new CEO Brian Duperreault
-8:47aIn Hollywood women are still seen and not heard
-8:47aFlying in coach could be harmful to your health
-8:46aSimon Property Group jumps as company raises guidance, ups dividend
-8:45aAmerican Airlines' stock rallies after second upgrade in two days
-8:35aConsumer spending inches up 0.1% in June
-8:34a2-year Treasury note yield up 0.4 basis point at 1.359%
-8:34a10-year Treasury note yield up 0.8 basis point at 2.303%
-8:33aTreasury yields up slightly after PCE, other U.S. economic data
-8:32aGold little changed after spending, income, inflation reports 
-8:32aDecember gold 0.1% lower at $1,272.50/oz.
-8:31aS&P 500 futures up 0.2% at 2,473
-8:31aU.S. stock future hold gains after personal income data
-8:31aNasdaq-100 futures up 0.3% at 5,898
-8:31aDow futures futures up 0.4% at 21,936
-8:31aU.S. dollar maintains modest gain after personal income and spending data
-8:30aPCE rises 1.4%  in past 12 months; core 1.5%
-Loading more headlines...
+Radio
 
 
-
-
-dow
-
-/quotes/zigman/627449/realtime
-21,891.12
-
-+60.81
-+0.28%
-
-
-
-
-
-nasdaq
-
-/quotes/zigman/12633936/realtime
-6,348.12
-
--26.55
--0.42%
-
-
-
-
-
-s&p 500
-
-/quotes/zigman/3870025/realtime
-2,470.30
-
--1.80
--0.07%
-
-
-
-
-
-
-
-
-
-
-
-
-
-Kiosk
-
-
-1352872800000
-1352872800000
-
-
-The RetireMentors
-
-
-
-
-
-
-				Retirement advice from our industry experts
-				Our team of financial professionals can help you plan and save 
-					for retirement, then 
-				live well in it.
-
-
-
-/conga/kiosk/retirementors.html
-361307
-
-
-
-
-1320411600000
-1320616500000
-
-
-Alerts
-
-
-
-/conga/kiosk/alerts.html
-310238
-
-
-
-
-1333717800000
-1333964100000
-
-
-Virtual Stock Exchange
-
-
-
-
-
-Our free stock-market game
-				• Trade your virtual portfolio in real time
-				• Talk strategies in group discussions
-				• Find or create a game that suits you
-				• Use our learning center to improve 
-
-
-
-/conga/kiosk/games.html
-310284
-
-
-
-
-1245657600000
-1277280000000
-
-
-Location Scouts
-
-
-
-
-Housing-market insights from our realty pros
-																																																							Plus the latest data from Realtor.com on 21 home markets across the U.S.
-• See our complete Real Estate site
-
-
-/conga/kiosk/real_estate.html
-357012
-
-
-
-
-1404799200000
-1404799200000
-
-
-Lazy Portfolios
-
-
-
-
-
-				Set it and forget it
-				Check out the returns on our 8 Lazy Portfolios that are made up 
-				of low-cost 
-				buy-and-hold index funds.
-
-				• How to create your own Lazy Portfolio
-
-
-/conga/kiosk/lazy_portfolio.html
-313134
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-MarketWatch.com
-
-
-
-
-Site Index
-Topics
-Help
-Feedback
-Newsroom Roster
-
-                    Media Archive
-Premium Products
-Mobile
-
-
-Company Info
-Code of Conduct
-Corrections
-Advertising Media Kit
-Advertise Locally
-Reprints & Licensing
-Broker Center
-
-                    Your Ad Choices
-
-
-Follow MarketWatch
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-RSS
+Live Radio
+Shows
+Schedule
+Personalities
 Podcasts
+Bloomberg Brief
+Featured Podcasts and New Shows
+Bloomberg View
+Masters in Business
+First Word
+Surveillance
+Bloomberg Advantage
+In the Loop
+Bloomberg Law
+Taking Stock
+Bloomberg Best
+More Podcasts
 
 
 
 
+Blogs
 
 
-WSJ.com
-Barron's Online
-BigCharts
-Virtual Stock Exchange
+Global Tech
+The Grid
+Loot
+The Market Now
+Political Capital
+Tech Deals
+Ventured and Gained
 
 
-Financial News London
-WSJ.com Small Business
-realtor.com
-Mansion Global
 
 
+Opinion
 
 
 
 
+My Saved
 
 
 
+Registration
 
 
-
-		Copyright © 2017 MarketWatch, Inc.  All rights reserved.
-		By using this site, you agree to the Terms of Service,
-        Privacy Policy and Cookie Policy.
-	
 
+Sign In
 
-
-            Intraday Data provided by SIX Financial Information and subject to terms of use. Historical and current end-of-day data provided by SIX Financial Information. All quotes are in local exchange time. Real-time last sale data for U.S. stock quotes reflect trades reported through Nasdaq only. Intraday data delayed at least 15 minutes or per exchange requirements.
-        
 
 
+Bloomberg.com
 
 
 
+Businessweek.com
 
-MarketWatch Top Stories
-Link to MarketWatch's Slice.
 
-15
 
+Company
 
 
 
+About
+Blog
+Careers
+Diversity & Inclusion
+News Mission
+Philanthropy & Engagement
+Press Room
+Procurement
+Sustainability
 
 
 
 
+Products
 
 
 
+Financial Products
+Bloomberg Professional Service
+Bloomberg Anywhere
+Bloomberg Tradebook
+Bloomberg Briefs
+Bloomberg Indexes
+Bloomberg SEF
+Service Center
+Customer Support
+Enterprise Products
+Enterprise Solutions
+Trading Solutions
+Industry Products
+Bloomberg BNA
+Bloomberg Government
+Bloomberg Law
+Bloomberg Link
+Bloomberg New Energy Finance
+Bloomberg Sports
+Content Licensing
 
 
 
 
+Bloomberg Anywhere
 
 
 
+Mobile Apps
 
 
 
+Bloomberg Visual Data
 
 
 
@@ -6317,376 +9069,6 @@ Link to MarketWatch's Slice.
 
 
 
-
-
-
-
-
-
-
-Product – Yangon Development Co., Ltd.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-  
-A Leading IT Distributor in Myanmar. 
-
-
-
-A Leading IT Distributor in Myanmar.Home
-Product
-Support
-Contact Us
-About Us
-  
-
-
-
-
-
-Home » Product
-
-
-
-
-
-
-
-
-
-Product 
-
-IT Hardware & Software Products
- 
-
-
-
-
-Philips Monitor
-
-
-
-www.philips.com
-
-
-
-
-ASRock Motherboard
-
-
-
-www.asrock.com
-
-
-
-
-CyberPower UPS
-
-
-
-www.cpsww.com.mm
-
-
-
-
-ESET Antivirus
-
-
-
-www.eset.com
-
-
-
-
-CoolerMaster Chasis & Power Supply
-
-
-
-www.coolermaster.com
-
-
-
-
-XFX Graphic Card
-
-
-
-www.xfxforce.com
-
-
-
-
-Patriot Memory
-
-
-
-www.patriotmemory.com
-
-
-
-
-SuperMicro Server
-
-
-
-www.supermicro.com
-
-
-
-
-EverFocus CCTV DVR & Camera
-
-
-
-www.everfocus.com
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-Welcome to Lawton Building
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Skip to main content
-
-
-
-
-
-
-
-
-Toggle navigation
-
-
-
-
-
-
-
-
-09 444 1183
-build@lawtons.co.nz
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-  
- Building your Vision  
-
-  
- Generations of Experience  
-
-  
- Concept to Creation  
-
-  
- Construction to Count On  
-
-  
- Building Better  
-
-
-
-
-
-
-
-
-
-
-
-
-You are hereHome » Welcome to Lawton Building 
-
-
-
-
-
-Welcome to Lawton Building
-
-
-
-Lawton Building is an Auckland based commercial construction company.  Large enough to tackle your multi-storey apartments, experienced enough to work through your specialised construction needs and small enough to provide that personal touch.  We appreciate the return business of our good clients and welcome new clients and new projects in this vital and developing industry.  You will be building better with Lawton's.
-read more
- 
-
-
-
-
-
-
-
- 
-
-
-
-
-  
- Commercial 
- Commercial
-View Projects  
-
-  
- Multistorey Apartments 
- Multistorey Apartments
-View Projects  
-
-  
- Retirement Villages 
- Retirement Villages
-View Projects  
-
-  
- Retail 
- Retail
-View Projects  
-
-  
- Educational 
- Educational
-View Projects  
-
-  
- Specialised Construction 
- Specialised Construction
-View Projects  
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
- 
-
-© Lawton Building Ltd 2016. All Rights Reserved
-Site by Zest IT
-
-
-
-
-
-
-
-     600209.CN Stock Price & News - Lawton Development Co. Ltd. A - Wall Street Journal                                    DOW JONES, A NEWS CORP COMPANY         News Corp is a network of leading companies in the worlds of diversified media, news, education, and information services.  DOW JONES  Barron's BigCharts DJX Dow Jones Newswires Factiva Financial News Mansion Global MarketWatch   Newsmart NewsPlus Private Markets Risk & Compliance WSJ.com WSJ Pro WSJ Conference WSJ Video    NEWS CORP  Big Decisions Business Spectator Checkout51 Harper Collins New York Post PropTiger REA   realtor.com Storyful The Australian The Sun The Times              DJIA Futures ▲  21945 0.47%        S&P 500 F ▲  2474.50 0.26%        Stoxx 600 ▲  380.15 0.61%        U.S. 10 Yr ▲  -4/32 yield 2.313%        Crude Oil ▲  49.80 -0.74%        Euro ▲  1.1819 -0.20%                 Subscribe Now Sign In      The Wall Street Journal     Asia Edition  U.S. Asia Europe India 中国 (China) 日本 (Japan)    1 August 2017   Today's Paper     Sections    My Journal       Home   World   U.S.   Politics   Economy   Business   Tech   Markets   Opinion   Arts   Life   Real Estate   Today's Paper   SHOW ALL SECTIONS HIDE ALL SECTIONS     World Home   Africa Asia Canada China Europe Latin America Middle East   Economy   World Video     U.S. Home   Economy Law New York Politics   Real Time Economics Washington Wire   Journal Report U.S. Video What's News Podcast     Politics Home   Washington Wire   Politics Video WSJ/NBC News Poll     Economy Home   Real Time Economics   Economic Forecasting Survey Economy Video     Business Home   Management Tech/WSJ.D   Aerospace & Defense Autos & Transportation Commercial Real Estate Consumer Products Energy Entrepreneurship Financial Services Food & Services Health Care Hospitality Law Manufacturing Media & Marketing Natural Resources Retail   CFO Journal CIO Journal CMO Today Logistics Report Risk & Compliance   Heard on the Street   Business Video Journal Report Business Podcast     Tech Home   CIO Journal   Geoffrey Fowler Christopher Mims Joanna Stern Li Yuan   Billion Dollar Startup Club Tech Video Tech Podcast Startup Stock Trader     Markets Home   Bonds Commercial Real Estate Commodities & Futures Currencies Deals Financial Services Funds Stocks Your Money   Heard on the Street MoneyBeat Wealth Adviser Ahead of the Tape   CFO Journal Journal Report Market Data Markets Video Markets Podcast MoneyBeat Podcast Watching Your Wealth Podcast     Opinion Home   James Freeman William A. Galston Daniel Henninger Holman W. Jenkins William McGurn Peggy Noonan Mary Anastasia O'Grady Jason Riley Kimberley A. Strassel   Books Film Television Theater Art Masterpiece Series Music Dance Opera Exhibition Cultural Commentary   Editorials Commentary Letters to the Editor The Weekend Interview Potomac Watch Podcast Foreign Edition Podcast Opinion Video Notable & Quotable Best of the Web Newsletter Morning Editorial Report Newsletter     Arts Home   Books Film Television Theater Art Masterpiece Series   Arts Video WSJ. Magazine     Life Home   Careers Cars Food & Drink Health Ideas Real Estate Science Sports Style & Fashion Travel   Life Video WSJ. Magazine WSJ Puzzles The Future of Everything     Real Estate Home   Commercial Real Estate House of the Day Mansion   Real Estate Video      HIDE ALL SECTIONS      Aim higher, reach further.  Get the Wall Street Journal $12 for 12 weeks. Subscribe Now   Sign In   Reveal Navigation Options    Subscribe Sign In               Lawton Development Co. Ltd. A 600209 (China: Shanghai)      search    View All companies            3:30 PM CST 07/10/17     ¥13.29 CNY     -0.50 -3.63%     Volume 31,117,739       Volume 31,117,739     65 Day Avg Vol 20,435,507     1 Day Range 0.00 - 0.00     52 Week Range 9.57 - 17.98 (05/16/17 - 03/30/17)          1 D 5 D 1 M 3 M YTD 1 Y 3 Y    $ %            Advanced Charting Compare     Compare to Benchmark:   DJIA   S&P 500   GLOBAL DOW   NASDAQ   Real Estate/Construction      Compare to    Add          Open  0.00   Prior Close  13.79 (07/07/17)     1 Day    600209 -3.63%     DJIA 0.28%     S&P 500 -0.07%     Real Estate/Construction 0.00%                             Overview     Overview Profile Financials Income Statement Balance Sheet Cash Flow Research & Ratings Historical Prices Options Advanced Charting              News Lawton Development Co. Ltd. A600209  No news for 600209 in the past two years.         Key Stock Data     ?    P/E Ratio (TTM) The Price to Earnings (P/E) ratio, a key valuation measure, is calculated by dividing the stock's most recent closing price by the sum of the diluted earnings per share from continuing operations for the trailing 12 month period.  Earnings Per Share (TTM) A company's net income for the trailing twelve month period expressed as a dollar amount per fully diluted shares outstanding. Market Capitalization Reflects the total market value of a company. Market Cap is calculated by multiplying the number of shares outstanding by the stock's price. For companies with multiple common share classes, market capitalization includes both classes. Shares Outstanding Number of shares that are currently held by investors, including restricted shares owned by the company's officers and insiders as well as those held by the public. Public Float The number of shares in the hands of public investors and available to trade. To calculate, start with total shares outstanding and subtract the number of restricted shares. Restricted stock typically is that issued to company insiders with limits on when it may be traded. Dividend Yield A company's dividend expressed as a percentage of its current stock price.      Key Stock Data    P/E Ratio (TTM) N/A     EPS (TTM)  ¥-0.10      Market Cap ¥5.83 B     Shares Outstanding 422.04 M     Public Float 275.32 M     Yield 0.01% (07/10/17)      Latest Dividend ¥0.00172 (05/10/16)      Ex-Dividend Date 05/10/16       ?    Shares Sold Short The total number of shares of a security that have been sold short and not yet repurchased. Change from Last Percentage change in short interest from the previous report to the most recent report. Exchanges report short interest twice a month. Percent of Float Total short positions relative to the number of shares available to trade.      Short Interest ()   N/A      ?    Money Flow Uptick/Downtick Ratio Money flow measures the relative buying and selling pressure on a stock, based on the value of trades made on an "uptick" in price and the value of trades made on a "downtick" in price. The up/down ratio is calculated by dividing the value of uptick trades by the value of downtick trades. Net money flow is the value of uptick trades minus the value of downtick trades. Our calculations are based on comprehensive, delayed quotes.      Stock Money Flow   N/A              Advertisement         Competitors 600209   Data not available.    More information on 600209   Competitor Data Provided By: capital cube           Profile 600209      Lawton Development Co. Ltd. engages in the management of hotel of operations. Its business activities include decoration, design, consultation, and construction of hotels; sale of petroleum products; video multimedia; production and processing of beverage and food;...      12th Floor Haikou Hainan 570208 China   Website Map       Employees  267    Sector  Construction      Sales or Revenue  150.31 M    Industry  Real Estate/Construction      1Y Sales Change  43.02%    Fiscal Year Ends December 31 Download Reports          Song Gao Chairman       Qian Yu General Manager & Director       Qing Ming Xu Chief Financial Officer       Fei Liu Director & Executive Deputy General Manager        More             Research & Ratings Lawton Development Co. Ltd. A600209 Per-Share Earnings, Actuals and Estimates      Quarterly   Annual    600209 will report FY 2017 earnings on false   600209 will report Q2 earnings on false         Actual     Analyst Range     Consensus             N/A     N/A     N/A     N/A      N/A     N/A                     0.20  0.10  0.00  -0.10         N/A     N/A     N/A     N/A                      Q2 2017 Estimate Trends     Current: ¥-   1 month ago: ¥-   3 months ago: ¥-       Q3 2017 Estimate Trends     Current: ¥-   1 month ago: ¥-   3 months ago: ¥-         FY 2017 Estimate Trends     Current: ¥-   1 month ago: ¥-   3 months ago: ¥-       FY 2018 Estimate Trends     Current: ¥-   1 month ago: ¥-   3 months ago: ¥-         More         Financials Lawton Development Co. Ltd. A600209     Quarterly   Annual      Net Income      0  90M                 0  -90M                 Mar 2016   Jun 2016   Sep 2016   Dec 2016   Mar 2017         0  20M                 0  -20M  -40M  -60M                '12 '13 '14 '15 '16         Mar 2017 5-quarter trend   Net Income Growth +3.00%                     Sales or Revenue 7.58 M                Sales or Revenue Growth -53.36%                     EBITDA -                          2016 5-year trend  Net Income Growth -1925.61%                     Sales or Revenue 150.31 M                Sales or Revenue Growth +43.02%                     EBITDA -36.33 M                            More             Overview    Notes & Data Providers   Real-time U.S. stock quotes reflect trades reported through Nasdaq only. International stock quotes are delayed as per exchange requirements. Indexes may be real-time or delayed; refer to time stamps on index quote pages for information on delay times. Quote data, except U.S. stocks, provided by SIX Financial Information. Data is provided "as is" for informational purposes only and is not intended for trading purposes. SIX Financial Information (a) does not make any express or implied warranties of any kind regarding the data, including, without limitation, any warranty of merchantability or fitness for a particular purpose or use; and (b) shall not be liable for any errors, incompleteness, interruption or delay, action taken in reliance on any data, or for any damages resulting therefrom. Data may be intentionally delayed pursuant to supplier requirements.  All of the mutual fund and ETF information contained in this display was supplied by Lipper, A Thomson Reuters Company, subject to the following: Copyright  © Thomson Reuters. All rights reserved. Any copying, republication or redistribution of Lipper content, including by caching, framing or similar means, is expressly prohibited without the prior written consent of Lipper. Lipper shall not be liable for any errors or delays in the content, or for any actions taken in reliance thereon. Bond quotes are updated in real-time. Source: Tullett Prebon. Currency quotes are updated in real-time. Source: Tullet Prebon. Fundamental company data and analyst estimates provided by FactSet. Copyright  FactSet Research Systems Inc. All rights reserved.        Advertisement                  
 
 
 

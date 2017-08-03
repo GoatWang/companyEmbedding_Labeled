@@ -19,7 +19,8 @@ fail_log = queue.Queue()
 
 files = listdir("labelData")
 files.pop(0)
-df_comps = pd.read_csv("labelData/" + files[0], index_col=None, header=None)
+openfile = files[2]
+df_comps = pd.read_csv("labelData/" + openfile, index_col=None, header=None)
 
 companies = list(df_comps[0])
 for company in companies:   
@@ -52,8 +53,8 @@ class newBingCrawler:
 
         async def main(loop):
             #driver = webdriver.Chrome()
-            driver = webdriver.PhantomJS()
-            #driver = webdriver.PhantomJS(executable_path="D:\\phantomjs.exe")
+            #driver = webdriver.PhantomJS()
+            driver = webdriver.PhantomJS(executable_path="D:\\phantomjs.exe")
             url = "https://www.bing.com/"
             driver.get(url)
             elem = driver.find_element_by_xpath('//*[@id="sb_form_q"]')
@@ -111,8 +112,9 @@ class newBingCrawler:
 
 
 threads = []
-for i in range(4):
+for i in range(7):
     loop = asyncio.new_event_loop()
+    #loop = asyncio.get_event_loop()
     newthread = threading.Thread(target=newBingCrawler(loop))
     newthread.start()
     threads.append(newthread)
@@ -123,10 +125,12 @@ for thread in threads:
 logs = []
 while True:
     try:
-        logs.append(fail_log.get(timeout=1))
+        logLi = fail_log.get(timeout=1)
+        if logLi != []:
+            logs.append(logLi)
     except:
         break
-file = open("log.txt",'w', encoding='utf8')
-file.write(json.dump(logs))
-file.close()
+
+with open(openfile+"log.txt",'w', encoding='utf8') as fp:
+    json.dump(logs, fp)
 

@@ -41,12 +41,12 @@ Investor Alert
 
 
 
-New York Markets Open in:
+New York Markets Close in:
 
 
 
 Market Snapshot
-Analyst Ratings
+Winners and Losers
 
 
 
@@ -187,14 +187,14 @@ Log In
 
 
 
-9:00 AM EDT
+9:47 AM EDT
 August 1, 2017
 
 
 /marketstate/country/us
 New York
 
-	Pre
+	Open
 
 
 /marketstate/country/uk
@@ -240,26 +240,26 @@ View All
 Latest News
 
 /news/latest
-9:00aSenate Democrats press for bipartisan tax talks | White House panel recommends declaring emergency on opioids   
-9:00aGold challenged to hold seven-week highs
-8:58aAIG earnings: Investors expect an update from new CEO Brian Duperreault
-8:47aIn Hollywood women are still seen and not heard
-8:47aFlying in coach could be harmful to your health
-8:46aSimon Property Group jumps as company raises guidance, ups dividend
-8:45aAmerican Airlines' stock rallies after second upgrade in two days
-8:35aConsumer spending inches up 0.1% in June
-8:34a2-year Treasury note yield up 0.4 basis point at 1.359%
-8:34a10-year Treasury note yield up 0.8 basis point at 2.303%
-8:33aTreasury yields up slightly after PCE, other U.S. economic data
-8:32aGold little changed after spending, income, inflation reports 
-8:32aDecember gold 0.1% lower at $1,272.50/oz.
-8:31aS&P 500 futures up 0.2% at 2,473
-8:31aU.S. stock future hold gains after personal income data
-8:31aNasdaq-100 futures up 0.3% at 5,898
-8:31aDow futures futures up 0.4% at 21,936
-8:31aU.S. dollar maintains modest gain after personal income and spending data
-8:30aPCE inflation index flat in June, core up 0.1%
-8:30aPCE rises 1.4%  in past 12 months; core 1.5%
+9:46aGM US July sales down 14%
+9:43aPandora Media stock price target cut to $11 from $12 at BMO Capital
+9:43aCriteo started at outperform with $70 stock price target at BMO Capital
+9:41aGoPro earnings: Analysts are still not expecting a turnaround 
+9:39aUPDATE: Athenahealth stock surges 4.2% on strategic changes, including $100 mln in cost-saving opportunities
+9:39aDollar claws up from 15-month lows
+9:35aCORRECTEDE.W. Scripps buys 4 networks from Katz broadcast for $292 million
+9:33aDow flirts with a fresh milestone: 22,000 
+9:33aBREAKINGDow nears 22,000 at the open, as S&P 500, Nasdaq trade in record territory
+9:32aDow industrials rise 93 points to 21,984
+9:32aNasdaq Composite up 0.4% at 6,374.71
+9:31aS&P 500 up 0.3% at 2,477.20
+9:31aBREAKINGStocks open higher; Dow nears 22,000 milestone
+9:30aRockwell Collins stock price target raised to $125 from $108 at Canaccord Genuity
+9:30aRockwell Collins upgraded to buy from hold at Canaccord Genuity
+9:22aBoeing, McDonald's the biggest drivers of Dow's climb toward 22,000 milestone
+9:22aHow to turn $60 into $40,000: Invest in a poker player and get lucky
+9:19aDow set for all-time high at the open, with Apple quarterly results on deck
+9:19aIntesa Sanpaolo profit up, aided by public funds
+9:18aHere’s how a slap-happy stock market may get derailed
 Loading more headlines...
 
 
@@ -268,9 +268,9 @@ Loading more headlines...
 dow
 
 /quotes/zigman/627449/realtime
-21,891.12
+21,953.38
 
-+60.81
++62.26
 +0.28%
 
 
@@ -280,10 +280,10 @@ dow
 nasdaq
 
 /quotes/zigman/12633936/realtime
-6,348.12
+6,363.83
 
--26.55
--0.42%
++15.70
++0.25%
 
 
 
@@ -292,10 +292,10 @@ nasdaq
 s&p 500
 
 /quotes/zigman/3870025/realtime
-2,470.30
+2,475.20
 
--1.80
--0.07%
++4.90
++0.20%
 
 
 
@@ -590,8 +590,7 @@ Link to MarketWatch's Slice.
 
 
 
-MarketWatch.com Topics
-
+Stocks Index - Markets Index
 
 
 
@@ -631,12 +630,12 @@ Investor Alert
 
 
 
-New York Markets Open in:
+New York Markets Close in:
 
 
 
 Market Snapshot
-Analyst Ratings
+Winners and Losers
 
 
 
@@ -653,410 +652,113 @@ Analyst Ratings
 
 
 
+Stocks
+Rates
+Funds
+Bonds
+Benchmarks
+Real Estate Investment Trusts
+Futures
+American Depository Receipt Stocks
+Exchange Traded Notes
+Warrants
+Indexes
+Exchange Traded Funds
+Currencies
+Crypto Currencies
+
+Browse Stocks
+Stocks A-Z
 
 
-Topics
+0-9ABCDEFGHIJKLMNOPQRSTUVWXYZOther
 
+Browse by Location
 
-
-
-
-
-
-		Istanbul
-
-
-
-			Brexit
-
-
-
-
-		Guns
-
-
-
-
-
-
-
-		Millennials
-
-
-
-
-		Immigration
-
-
-
-			Apple
-
-/conga/topics/main.html
-369880
-
-
-
-Subjects in the news
-
-
-
-Energy and Power
-
-
-Ice
-
-
-Markets
-
-
-Production
-
-
-Gas Prices
-
-
+Argentina
+Australia
+Austria
+Bahamas
+Bahrain
+Belgium
+Bermuda
+Botswana
+Brazil
+British Virgin Islands
+Canada
+Cayman Islands
+Chile
+China
+Colombia
+Curacao
+Cyprus
+Czech Republic
+Denmark
+Egypt
+Estonia
+Finland
+France
+Germany
+Gibraltar
+Greece
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Ireland
+Isle of Man
+Israel
+Italy
+Japan
+Jordan
+Kazakhstan
+Kuwait
+Latvia
+Lebanon
+Liechtenstein
+Lithuania
+Luxembourg
+Malaysia
+Malta
+Mauritius
+Mexico
+Monaco
+Money Rates
+Morocco
+Namibia
+Netherlands
+New Zealand
+Norway
+Oman
+Pakistan
+Panama
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
 Russia
-
-
-
-
+Saudi Arabia
+Singapore
+Slovakia
+Slovenia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sweden
+Switzerland
+Taiwan
+Thailand
+Tunisia
+Turkey
+Ukraine
+United Arab Emirates
+United States
 Venezuela
-
-
-Oil
-
-
-U.S. Politics
-
-
-U.S. Dollar
-
-
-Europe
-
-
-European Markets
-
-
-
-
-Chemicals
-
-
-Coffee
-
-
-Currency
-
-
-Interest Rates
-
-
-iPhone
-
-
-Nasdaq Composite Index
-
-
-
-
-
-
-People in the news
-
-
-
-Trump, Donald
-
-
-Donovan, Paul
-
-
-Madden, Steven
-
-
-Washington, George
-
-
-David, George
-
-
-George, David
-
-
-
-
-Musk, Elon
-
-
-Gates, Bill
-
-
-Putin, Vladimir
-
-
-Buffett, Warren
-
-
-Bono
-
-
-King, John
-
-
-
-
-Gray, John
-
-
-Blankfein, Lloyd
-
-
-Murphy, Michael
-
-
-Obama, Barack
-
-
-Jobs, Steve
-
-
-Lauder, Estee
-
-
-
-
-
-
-Companies in the news
-
-
-
-West
-
-
-International Monetary Fund
-
-
-Performance
-
-
-Metal Exchange
-
-
-American Manufacturing
-
-
-Apple Inc.
-
-
-
-
-Facebook
-
-
-Jones
-
-
-Allstate Corp.
-
-
-Bank of America Corp.
-
-
-Chevron Corp.
-
-
-Dow Jones & Co.
-
-
-
-
-News Corp.
-
-
-Pfizer Inc.
-
-
-Southern Co.
-
-
-Xerox Corp.
-
-
-United Health Services
-
-
-Travel
-
-
-
-
-
-
-Organizations in the news
-
-
-
-European Union
-
-
-OPEC
-
-
-European Central Bank
-
-
-Nasdaq Stock Market
-
-
-American Medical Association
-
-
-George Washington University
-
-
-
-
-New York University
-
-
-United Nations
-
-
-University of Washington
-
-
-Washington University
-
-
-Congress
-
-
-Gazprom
-
-
-
-
-Senate
-
-
-General Assembly
-
-
-Treasury Department
-
-
-London Stock Exchange
-
-
-Food and Drug Administration
-
-
-Education Department
-
-
-
-
-
-
-
-
-
-
-
-
-Browse topics:
-
-
-A
-
-
-B
-
-
-C
-
-
-D
-
-
-E
-
-
-F
-
-
-G
-
-
-H
-
-
-I
-
-
-J
-
-
-K
-
-
-L
-
-
-M
-
-
-N
-
-
-O
-
-
-P
-
-
-Q
-
-
-R
-
-
-S
-
-
-T
-
-
-U
-
-
-V
-
-
-W
-
-
-X
-
-
-Y
-
-
-Z
-
-
-0-9
-
-
-
-
-
-
-
-
-
+Western Samoa
 
 
 
@@ -1074,14 +776,14 @@ Log In
 
 
 
-9:00 AM EDT
+9:47 AM EDT
 August 1, 2017
 
 
 /marketstate/country/us
 New York
 
-	Pre
+	Open
 
 
 /marketstate/country/uk
@@ -1127,26 +829,26 @@ View All
 Latest News
 
 /news/latest
-9:00aSenate Democrats press for bipartisan tax talks | White House panel recommends declaring emergency on opioids   
-9:00aGold challenged to hold seven-week highs
-8:58aAIG earnings: Investors expect an update from new CEO Brian Duperreault
-8:47aIn Hollywood women are still seen and not heard
-8:47aFlying in coach could be harmful to your health
-8:46aSimon Property Group jumps as company raises guidance, ups dividend
-8:45aAmerican Airlines' stock rallies after second upgrade in two days
-8:35aConsumer spending inches up 0.1% in June
-8:34a2-year Treasury note yield up 0.4 basis point at 1.359%
-8:34a10-year Treasury note yield up 0.8 basis point at 2.303%
-8:33aTreasury yields up slightly after PCE, other U.S. economic data
-8:32aGold little changed after spending, income, inflation reports 
-8:32aDecember gold 0.1% lower at $1,272.50/oz.
-8:31aS&P 500 futures up 0.2% at 2,473
-8:31aU.S. stock future hold gains after personal income data
-8:31aNasdaq-100 futures up 0.3% at 5,898
-8:31aDow futures futures up 0.4% at 21,936
-8:31aU.S. dollar maintains modest gain after personal income and spending data
-8:30aPCE inflation index flat in June, core up 0.1%
-8:30aPCE rises 1.4%  in past 12 months; core 1.5%
+9:46aGM US July sales down 14%
+9:43aPandora Media stock price target cut to $11 from $12 at BMO Capital
+9:43aCriteo started at outperform with $70 stock price target at BMO Capital
+9:41aGoPro earnings: Analysts are still not expecting a turnaround 
+9:39aUPDATE: Athenahealth stock surges 4.2% on strategic changes, including $100 mln in cost-saving opportunities
+9:39aDollar claws up from 15-month lows
+9:35aCORRECTEDE.W. Scripps buys 4 networks from Katz broadcast for $292 million
+9:33aDow flirts with a fresh milestone: 22,000 
+9:33aBREAKINGDow nears 22,000 at the open, as S&P 500, Nasdaq trade in record territory
+9:32aDow industrials rise 93 points to 21,984
+9:32aNasdaq Composite up 0.4% at 6,374.71
+9:31aS&P 500 up 0.3% at 2,477.20
+9:31aBREAKINGStocks open higher; Dow nears 22,000 milestone
+9:30aRockwell Collins stock price target raised to $125 from $108 at Canaccord Genuity
+9:30aRockwell Collins upgraded to buy from hold at Canaccord Genuity
+9:22aBoeing, McDonald's the biggest drivers of Dow's climb toward 22,000 milestone
+9:22aHow to turn $60 into $40,000: Invest in a poker player and get lucky
+9:19aDow set for all-time high at the open, with Apple quarterly results on deck
+9:19aIntesa Sanpaolo profit up, aided by public funds
+9:18aHere’s how a slap-happy stock market may get derailed
 Loading more headlines...
 
 
@@ -1155,9 +857,9 @@ Loading more headlines...
 dow
 
 /quotes/zigman/627449/realtime
-21,891.12
+21,953.38
 
-+60.81
++62.26
 +0.28%
 
 
@@ -1167,10 +869,10 @@ dow
 nasdaq
 
 /quotes/zigman/12633936/realtime
-6,348.12
+6,363.83
 
--26.55
--0.42%
++15.70
++0.25%
 
 
 
@@ -1179,10 +881,10 @@ nasdaq
 s&p 500
 
 /quotes/zigman/3870025/realtime
-2,470.30
+2,475.20
 
--1.80
--0.07%
++4.90
++0.20%
 
 
 
@@ -1475,9 +1177,7 @@ Link to MarketWatch's Slice.
 
 
 
-
-10-Q: INSYNERGY PRODUCTS, INC - MarketWatch
-
+Insynergy Products Inc (ISYG.PK)  Company Profile | Reuters.com
 
 
 
@@ -1536,7 +1236,547 @@ Link to MarketWatch's Slice.
 
 
 
-Latest News
+X
+
+
+
+Edition:
+
+United States
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Africa
+América Latina
+
+
+عربي
+Argentina
+
+
+Brasil
+Canada
+
+
+中国
+Deutschland
+
+
+España
+France
+
+
+India
+Italia
+
+
+日本
+México
+
+
+РОССИЯ
+United Kingdom
+
+United States
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Profile: Insynergy Products Inc (ISYG.PK)
+
+
+
+
+
+Related Topics: 
+StocksStock ScreenerAdvertising & Marketing
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                        Overview
+                    
+
+
+
+                
+                        News
+                    
+
+
+
+                
+                        Key Developments
+                    
+
+
+
+                
+                        People
+                    
+
+
+
+                
+                        Charts
+                    
+
+
+
+                
+                        Financials
+                    
+
+
+
+                
+                        Analysts
+                    
+
+
+
+                    
+                            Research
+                        
+
+
+
+                    
+                            Pulse
+                        
+
+
+
+
+
+
+
+
+
+
+				ISYG.PK on OTC Markets Group
+
+
+				0.12USD
+--
+
+
+
+
+
+				    Change	(% chg)
+
+
+		    
+						    --
+
+
+					            (--)
+					        
+
+
+
+
+
+
+Prev Close
+
+$0.12
+
+
+Open
+
+--
+
+
+
+
+Day's High
+
+--
+
+
+Day's Low
+
+--
+
+
+
+
+Volume
+
+--
+
+
+Avg. Vol
+
+1,797
+
+
+
+
+52-wk High
+
+$0.30
+
+
+52-wk Low
+
+$0.02
+
+
+
+
+
+
+
+
+
+
+
+
+					Full Description
+
+
+
+Insynergy Products, Inc., incorporated on January 26, 2010, is engaged in direct response marketing. The Company selects products invented by others for use in a Direct Response Marketing Program, but also develops its own products for sale as well. The Company markets health and fitness products, skin, hair and personal care products, nutritional supplements, house wares and appliances. It also markets anti-aging products. It is focused on marketing Plumber's Hero, a product that clears normal clogs in the shower, tub, kitchen sink, bathroom sink and toilet.The Company's Plumber's Hero kit comes with a canister containing over 20 applications of the Plumber's Hero formula, a large and a small rubber drain cover to work on kitchen sinks, including double sinks with a disposal, bathroom, shower and tub drains, as well as an extension handle for use in the toilet. The Company writes, produces, hires the talent, directs, shoots and edits many of its infomercials in-house. The Company focuses on hiring outside production companies who have had shooting shows with products in the same genre as the products it releases, such as fitness, house wares and hair care.
+
+» Full Overview of ISYG.PK
+
+
+
+
+
+
+
+					Company Address
+
+
+
+Insynergy Products Inc
+2501 Burbank Blvd, Suite #201BURBANK   CA   91505
+P: +1818.7601644F: +1818.7601079
+
+
+
+
+
+
+
+					Company Web Links
+
+
+
+Home Page
+
+
+
+
+
+
+
+
+					Officers & Directors
+
+
+
+
+
+
+Name
+Compensation
+
+
+
+
+							 Sanford Lang
+
+7,762
+
+
+
+
+							 Martin Goldrod
+
+4,650
+
+
+
+
+							 Rachel Boulds
+
+--
+
+
+
+
+							 Steven Corso
+
+--
+
+
+
+
+							 Ross Sklar
+
+--
+
+
+
+
+» More Officers & Directors
+
+
+
+
+
+					Insynergy Products Inc News
+
+
+
+
+» More ISYG.PK  News
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related Topics: 
+StocksStock ScreenerAdvertising & Marketing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ISYG Stock Price - Insynergy Products Inc. Stock Quote (U.S.: OTC) - MarketWatch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sections
+
+Watchlist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signup
+ • 
+Login
+
+Search
+
+
+
+
+
+
+
+Bulletin
+
+
+
+
+
+
+
+
+
+
+
+US
+Europe
+Asia
+FX
+Rates
+Futures
+
+
+Range
+
+
+1D
+5D
+1M
+3M
+6M
+1Y
+2Y
+
 
 
 
@@ -1549,20 +1789,18 @@ Latest News
 
 Dow
 
-21,891
-+60.81
-+0.28%
+21,954.10
+
+
+62.98
+
+
+0.29%
 
 
 
 
 
-
-Nasdaq
-
-6,348
--26.55
--0.42%
 
 
 
@@ -1571,9 +1809,13 @@ Nasdaq
 
 S&P 500
 
-2,470
--1.80
--0.07%
+2,475.26
+
+
+4.96
+
+
+0.20%
 
 
 
@@ -1583,214 +1825,297 @@ S&P 500
 
 
 
-8:59 A.M. ET
 
 
-                                  Senate Democrats press for bipartisan tax talks | White House panel recommends declaring emergency on opioids   
-                                
+Nasdaq
+
+6,364.13
+
+
+16.00
+
+
+0.25%
 
 
 
 
 
- 
-8:59 A.M. ET
 
+
+
+
+
+
+GlobalDow
+
+2,865.07
+
+
+11.55
+
+
+0.40%
+
+
+
+
+
+
+
+
+
+
+
+Gold
+
+1,274.40
+
+
+1.00
+
+
+0.08%
+
+
+
+
+
+
+
+
+
+
+
+Oil
+
+49.68
+
+
+-0.49
+
+
+-0.98%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+S&P 500 Movers(%)
+
+
+
+SCG 
+4.9
+
+
+
+
+RCL 
+4.1
+
+
+
+
+XYL 
+3.9
+
+
+
+
+APD 
+3.7
+
+
+
+
+
+
+UA
+-9.1
+
+
+
+
+UAA
+-8.0
+
+
+
+
+MOS
+-8.0
+
+
+
+
+ETN
+-5.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest NewsAll Times Eastern
+
+
+
+
+
+
+
+
+9:46a
+
+GM US July sales down 14%
+
+
+
+9:43a
+
+Pandora Media stock price target cut to $11 from $12 at BMO Capital
+
+
+
+9:42a
+
+Criteo started at outperform with $70 stock price target at BMO Capital
+
+
+
+9:40a
+
+GoPro earnings: Analysts are still not expecting a turnaround 
+
+
+
+9:39a
 
 Updated
-      Gold challenged to hold seven-week highs
-                                
+Dollar claws up from 15-month lows
 
 
 
-
-
- 
-8:58 A.M. ET
-
+9:39a
 
 Updated
-      AIG earnings: Investors expect an update from new CEO Brian Duperreault
-                                
+UPDATE: Athenahealth stock surges 4.2% on strategic changes, including $100 mln in cost-saving opportunities
 
 
 
+9:35a
 
-
- 
-8:47 A.M. ET
-
-
-Updated
-      Flying in coach could be harmful to your health
-                                
+Corrected
+E.W. Scripps buys 4 networks from Katz broadcast for $292 million
 
 
 
-
-
- 
-8:47 A.M. ET
-
-
-                                  In Hollywood women are still seen and not heard
-                                
-
-
-
-
-
- 
-8:45 A.M. ET
-
-
-                                  Simon Property Group jumps as company raises guidance, ups dividend
-                                
-
-
-
-
-
- 
-8:44 A.M. ET
-
-
-                                  American Airlines' stock rallies after second upgrade in two days
-                                
-
-
-
-
-
- 
-8:35 A.M. ET
-
+9:32a
 
 Updated
-      Consumer spending inches up 0.1% in June
-                                
+Dow flirts with a fresh milestone: 22,000 
 
 
 
+9:32a
 
+Breaking
+Dow nears 22,000 at the open, as S&P 500, Nasdaq trade in record territory
 
- 
-8:33 A.M. ET
 
 
-                                  2-year Treasury note yield up 0.4 basis point at 1.359%
-                                
+9:32a
 
+Dow industrials rise 93 points to 21,984
 
 
 
 
- 
-8:33 A.M. ET
 
 
-                                  10-year Treasury note yield up 0.8 basis point at 2.303%
-                                
 
 
 
 
 
- 
-8:33 A.M. ET
 
+to be replaced
 
-                                  Treasury yields up slightly after PCE, other U.S. economic data
-                                
 
 
 
 
 
- 
-8:32 A.M. ET
 
 
-                                  December gold 0.1% lower at $1,272.50/oz.
-                                
 
 
 
 
 
- 
-8:32 A.M. ET
 
 
-                                  Gold little changed after spending, income, inflation reports 
-                                
 
 
 
 
 
- 
-8:31 A.M. ET
 
 
-                                  Nasdaq-100 futures up 0.3% at 5,898
-                                
 
 
 
 
 
- 
-8:31 A.M. ET
 
 
-                                  Dow futures futures up 0.4% at 21,936
-                                
 
 
 
 
 
- 
-8:31 A.M. ET
 
 
-                                  S&P 500 futures up 0.2% at 2,473
-                                
 
 
 
 
 
- 
-8:31 A.M. ET
 
 
-                                  U.S. stock future hold gains after personal income data
-                                
 
 
 
 
 
- 
-8:30 A.M. ET
 
 
-                                  U.S. dollar maintains modest gain after personal income and spending data
-                                
 
 
 
 
 
- 
-8:30 A.M. ET
-PCE rises 1.4%  in past 12 months; core 1.5%
- 
-8:30 A.M. ET
-PCE inflation index flat in June, core up 0.1%
- 
 
 
 
@@ -1831,7 +2156,6 @@ PCE inflation index flat in June, core up 0.1%
 
 
 
-Log In
 
 
 
@@ -1847,13 +2171,9 @@ Log In
 
 
 
- 
 
 
-Until New York Markets Open
 
-Market Snapshot
-Analyst Ratings
 
 
 
@@ -1862,8 +2182,7 @@ Analyst Ratings
 
 
 
-
-
+    
 
 
 
@@ -1871,61 +2190,163 @@ Analyst Ratings
 Home
 
 
+Investing
+
+
+Quotes
+
+
+Stocks
+
+
+United States
+
+
+ISYG
+
+
+Overview
+
+
+
+Compare Quotes
+Stock Screener
+Earnings Calendar
+Sectors
+
+ 
+
+
+
+ISYG
+U.S.: OTC
+
+
+Join TD Ameritrade
+
+Find a Broker
+
+
+Insynergy Products Inc.
+
+Watchlist 
+CreateISYGAlert
+
+
+
+  
+
+
+Open
+
+Last Updated: Jul 25, 2017 5:20 p.m. EDT
+Delayed quote
+
+
+
+$
+0.12
+
+
+
+-0.065
+-35.14%
 
 
 
 
-Edgar Online -  (EDG = 10Q, 10K)
+
+
+Previous Close
 
 
 
 
-Get email alerts
+$0.1850
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+Advanced Charting
+
+
+1D
+5D
+1M
+3M
+6M
+YTD
+1Y
+3Y
+All
+
+
+
+
+$
+%
+Vol
+
+
+Advanced Charting
+
+  
+
+
+
+
+41.72% vs Avg.
+
 
 
 
-         10-Q: INSYNERGY PRODUCTS, INC
-    
-
-
-
-
-
-
+                Volume:               
+                
+                    150
+                
 
 
-    By
-
-Published: Nov 14, 2014 2:08 p.m. ET
-
-Share
+                65 Day Avg. - 359.6
+            
 
 
 
 
 
+Open: 0.00
+Last: 0.12
+
+
+
+0.0000
+Day Low/High
+0.0000
 
 
 
 
 
+Day Range
 
 
 
+0.0200
+52 Week Low/High
+0.3000
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+   
 
 
 
@@ -1934,6 +2355,16 @@ Share
 
 
 
+Your Watchlist
+
+
+
+Customize MarketWatch
+Have Watchlists? Log in to see them here or sign up to get started.
+
+Create Account
+
+                    … or Log In
 
 
 
@@ -1949,6 +2380,213 @@ Share
 
 
 
+
+
+Symbol
+Last
+Chg
+Chg %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No Items in Watchlist
+There are currently no items in this Watchlist.
+
+Add Ticker to Watchlist
+
+
+
+
+ (Go to Your Watchlist) 
+
+
+
+
+No Saved Watchlists
+Create a list of the investments you want to track.
+
+Create Watchlist
+
+                    …or try this starter list
+
+
+
+
+
+
+Uh oh
+Something went wrong while loading Watchlist.
+
+Go to Watchlist
+
+
+
+ 
+
+Recently Viewed Tickers
+
+
+
+No Recent Tickers
+Visit a quote page and your recently viewed tickers will be displayed here.
+
+Search Tickers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+Overview
+
+
+Profile
+
+
+News
+
+
+Charts
+
+
+Financials
+
+
+Historical Quotes
+
+
+Analyst Estimates
+
+
+Options
+
+
+SEC Filings
+
+
+Insiders
+
+
+
+   
+
+
+
+
+Key Data
+
+
+
+Open
+$0.00
+
+
+
+Day Range
+0.0000 - 0.0000
+
+
+
+52 Week Range
+0.0200 - 0.3000
+
+
+
+Market Cap
+$6.71M
+
+
+
+Shares Outstanding
+36.26M
+
+
+
+Public Float
+26.83M
+
+
+
+Beta
+n/a
+
+
+
+Rev. per Employee
+$205.38K
+
+
+
+P/E Ratio
+n/a
+
+
+
+EPS
+$-0.02
+
+
+
+Yield
+n/a
+
+
+
+Dividend
+n/a
+
+
+
+Ex-Dividend Date
+n/a
+
+
+
+Short Interest
+n/a
+n/a
+
+
+% of Float Shorted
+n/a
+
+
+
+Average Volume
+359.57
 
 
 
@@ -1956,46 +2594,227 @@ Share
  
 
 
+Performance
+
+
+
+
+5 Day
+
+
+-35.14%
+
+
+
+
+
+
+
+1 Month
+
+
+-35.14%
+
+
+
+
+
+
+
+3 Month
+
+
+-3.23%
+
+
+
+
+
+
+
+YTD
+
+
+-34.75%
+
+
+
+
+
+
+
+1 Year
+
+
+-34.75%
+
+
+
+
+
+
+
+
+
+  
+
+ 
+ 
+
+
+Recent News
+
+
+
+MarketWatch
+Other Dow Jones
+
+
+
+
+No Headlines Available
+
+
+
+
+No Headlines Available
+
+
+
+
+
+
+
+
+
+
+
+Recent News
+
+
+
+Other News
+Press Releases
+
+
+
+
+
+
+10-Q: INSYNERGY PRODUCTS, INC
+10-Q: INSYNERGY PRODUCTS, INC
+
+May. 8, 2017 at 2:51 p.m. ET
+on Edgar Online -  (EDG = 10Q, 10K)
+
+
+
+
+
+10-K: INSYNERGY PRODUCTS, INC
+
+
+Mar. 31, 2017 at 4:32 p.m. ET
+on Edgar Online -  (EDG = 10Q, 10K)
+
+
+
+
+
+10-Q: INSYNERGY PRODUCTS, INC
+
+
+Nov. 14, 2016 at 5:09 p.m. ET
+on Edgar Online -  (EDG = 10Q, 10K)
+
+
+
+
+
+10-Q: INSYNERGY PRODUCTS, INC
+
+
+Sep. 8, 2016 at 5:11 p.m. ET
+on Edgar Online -  (EDG = 10Q, 10K)
+
+
+
+
+
+
+
+No Headlines Available
+
+
+
+
+
+
+
+
+Insynergy Products Inc.
+
+
+            
+            Insynergy Products, Inc. is a consumer goods company. It markets and distributes develops consumer products and sells to retailers worldwide in the health & fitness, home solutions and beauty categories. The company was founded by Sanford Lang and Martin Goldrod on January 26, 2010 and is headquartered in Burbank, CA.
+
+            
+            (See Full Profile)
+
+
+  
+
+
 
  
 
 
+Competitors
 
 
 
 
+Name
+Chg %
+Market Cap
 
 
 
 
+Simon Worldwide Inc.
+28.57%
+$126.65K
 
 
+Rocket Fuel Inc.
+0.19%
+$122.12M
 
 
+Lamar Advertising Co. Cl A
+0.69%
+$6.91B
 
-(EDGAR Online via COMTEX) -- ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS  The following information should be read in conjunction with our financial statements and related notes thereto included in Part I, Item 1. We also urge you to review and consider our disclosures describing various risks that may affect our business, which are set forth under the heading "Risk Factors," below.  Executive Overview  Insynergy Products Inc. (the "Company") was incorporated in the State of Nevada on January 26, 2010. The Company was organized to engage in Direct Response marketing that has the ability to take a product from the drawing board to the ultimate consumer via sales through television, Internet and retail.  The Company's management believes the Direct Response market to be a booming business that has evolved during the past two decades from an entrepreneurial industry to one that now encompasses the marketing efforts of a vast number of companies to produce sales of a myriad of products. According to the Electronic Retailing Association (www.retailing.org), the only trade association that represents larger companies in the direct-to-consumer marketplace, this is an estimated more than $300 billion market. Management believes, but cannot assure, that this is a reasonable assessment of the size of this market.  Direct Response Marketing  Direct Response Marketing generally takes the form of the marketing and sale of products utilizing infomercials which are broadcast over local television channels, paired with a Call Response Center which takes the calls generated by potential purchasers who call in after viewing the infomercial, and a fulfillment center, which ships out the product.  The infomercial is designed to solicit a direct response in the target audience which is specific and quantifiable. The delivery of the response is directly between the viewer and the advertiser, that is, the customer responds to the marketer or its agent directly. In direct marketing (such as telemarketing), there is no intermediary broadcast media involved. In Direct "Response" Marketing, marketers use broadcast media to encourage customers to contact them directly. This direct response marketing seeks to elicit action. Marketing results from a Direct Response Marketing Program can be tracked, measured, and quantified.  Direct Response Marketing is characterized by:  *  An offer of a specific product or combination of products  *  Sufficient information for the consumer to make a decision whether to act and buy  *  An explicit "call to action"  *  Provision of a means for buy response (typically multiple options such as toll free number, web page, and email)  Direct Response Marketing Products  Direct Response Marketing is often used for new and innovative products that can be demonstrated and shown to make life easier or better, or products which solve a specific problem the target audience may have.  Health and fitness products, skin, hair and personal care products, nutritional supplements, house wares and appliances, have all been successfully marketed.  Our Company selects products invented by others for use in a Direct Response Marketing Program, but we also develop our own products for sale as well. We will analyze each product presented to us to see if it looks like it would be an attractive candidate for a direct marketing campaign. We will look for products which satisfy a specific need that can be concretely presented in the infomercial, lend themselves to generation of a call for action motivation in the target audience, provide for a substantial markup on the sales price over their cost (typically somewhere in the realm of a 5 to 1 markup), have a lower range target price in order to encourage immediate discretionary purchase, and have anticipated staying power as a useful product which the Company can sell over and over again.  We will license products from the inventor or owner of the product, with license fees paid on collected revenue from the sales of the product, net of returns and allowances. Typical license fees run between 2% and 4% of net sales for sales generated over television and the internet, and if the Company is able to then take the product for distribution to traditional brick and mortar outlets for further sales, an increased license fee of between 4% and 6% is typically paid. The license rights typically run for between 24 and 36 months, and are generally renewable. Products may or may not have patent protection, copyright protection, and/or trademark protection.  Initial Products to Be Marketed  During the year ended December 31, 2013, the Company entered into eight new licensing agreements with various third parties. The Agreements were with Shifferaw LLC, Hanamade, Concept One International, Charles Perez, Pineapple Planet, Inc. and Guinness Design, LLC. Of the eight Agreements, we have already produced two television spots, Best Ball (Concept One International) and Scrub n Slide (Charles Perez). We have tested both spots and will be making some changes to both. The remaining six products are still in the development stage.  Two of the current products selected by the Company are in the area of fitness and we have executed licensing agreements for both products. One product is a fitness product called the Best Ball. The Best Ball is a 65cm rubber gym ball which provides progressive stability and progressive resistance. Using it may increase core strength, balance and flexibility. A workout DVD and pump is included in the package.  We have a License Agreement for the Best Ball covering World Wide rights through the term of the License Agreement, giving us the exclusive Worldwide right to advertise, promote, market, manufacturer, distribute, sell and exploit the product in any and all media, means, markets and channels of trade and distribution. The initial term may be renewed annually provided a minimum number of units are sold at a minimum price over each period. Management believes the Company's net profit may range up to 40%, but there is, of course, no assurance that the product will be successful or produce significant profits.  The other product to be released by Insynergy is a patented fitness product called Spidercore which was invented by a medical doctor who developed it because he was not satisfied with the physical therapy he was receiving after back surgery and felt he could develop a better protocol. It will come with a basic workout DVD. Additional DVD's will be available for more advanced workouts. We have gone to a third party to test Spidercore for 10 weeks with very positive results. Many of the participants in this program have lost both weight and inches. We have shot video testimonials and will incorporate this footage into the 30 minute infomercial to be shot in the near future.  Our exclusive License Agreement gives us worldwide rights to advertise, promote, market, manufacture, distribute, sell and/or exploit the product in any and all media, means and markets and all channels of trade and distribution now known or hereafter devised. The term extends through October 16, 2017 provided that a minimum number of units have been sold by October 16, 2014 and that a minimum number of units are sold year 3, year 4 and year 5.  During the first quarter of 2014 the Company shot a two minute television spot for our plumbing product called Plumber's Hero designed to clear most normal clogs in your kitchen sink, bathroom sink, tub, shower and toilet. It even is designed to work through disposals. This product is made entirely in the US. This product was developed by the Company and, therefore, gives us worldwide rights. The product is currently being manufactured and a marketing campaign is planned for the fourth quarter of 2014. We are currently running our two minute spot on television and we are presenting Plumber's Hero to many of the top retailers in the US. To date, the reaction from these retailers has been very favorable and we are going through the process of becoming a vendor with them.  Another product expected to generate revenue in early 2015 is a hair care product called American Blowout that straightens curly and frizzy hair and, we believe, will be effective for a two to three month period. We anticipate shooting a 30 minute infomercial in early 2015 to market this product.  Results of Operation for the Three Months Ended September 30, 2014 and 2013  Revenues  For the three months ended September 30, 2014 the Company recorded revenues of $4,662 compared to $9,613 for the three months ended September 30, 2013. Cost of goods sold was $664, compared to $36,213 in the prior period. In the prior year revenue was generated from the sale of The Kruncher, a product which has since been discontinued, while in the current period revenue was generated from our new Plumbers Hero product. In the prior period cost of goods sold included $33,938 of impairment expense for the write down of inventory.  Operating Expenses  For the three months ended September 30, 2014, the Company incurred compensation expense of $39,561 compared to $68,707 for the three months ended September 30, 2013, a decrease of $29,146.  For the three months ended September 30, 2014, the Company incurred $10,171 in advertising and promotional expense as compared to $136,581 for three months ended September 30, 2013, a decrease of $126,410, or 92.5%. The decrease is a result of the timing of spending on promotional activities for the Company's many new products.  For the three months ended September 30, 2014, the Company incurred $23,025 in professional fees compared to $19,415 in the prior period. Professional fees are mainly for accounting, auditing and legal services associated with our quarterly filings as a public company.  For the three months ended September 30, 2014, the Company incurred $305,525 in general and administrative expense as compared to $122,842 for the same period in the prior year, an increase of $182,683. The increase can be attributed to an increase in non-cash expense of stock issued for services.  For the three months ended September 30, 2014, the Company recorded a net loss of $379,498 as compared to a net loss of $409,892 in the prior period, a $30,394, or 7.5% decrease. The decrease in net loss can be attributed to a $35,259 loss on the disposal of asset that was recorded in the prior year increasing that period's loss.  Results of Operation for the Nine Months Ended September 30, 2014 and 2013  Revenues  For the nine months ended September 30, 2014 the Company recorded revenues of $7,877 compared to $23,421 for the nine months ended September 30, 2013. Cost of goods sold was $3,584, compared to $53,655 in the prior period. In the prior year revenue was generated from the sale of The Kruncher, a product which has since been discontinued, while in the current period revenue was generated from our new Plumbers Hero product. In the prior period cost of goods sold included $45,397 of impairment expense for the write down of inventory.  Operating Expenses  For the nine months ended September 30, 2014, the Company incurred compensation expense of $165,644 compared to $216,207 for the nine months ended September 30, 2013, a decrease of $50,563 or 23.3%. In mid-2013 the Company's officers agreed to reduce their salaries.  For the nine months ended September 30, 2014, the Company incurred $77,263 in advertising and promotional expense as compared to $205,966 for nine months ended September 30, 2013, a decrease of $128,703, or 62%. The decrease is a result of the timing of spending on promotional activities for the Company's many new products.  For the nine months ended September 30, 2014, the Company incurred $54,434 in professional fees compared to $312,420 in the prior period. In the prior year the Company issued stock for legal services in the amount of $250,000. Professional fees are mainly for accounting, auditing and legal services associated with our quarterly filings as a public company.  For the nine months ended September 30, 2014, the Company incurred $483,995 in general and administrative expense as compared to $380,013 for the same period in the prior year, an increase of $103,982 or 27%. The increase can be attributed to an increase in non-cash expense of stock issued for services.  For the nine months ended September 30, 2014, the Company recorded a net loss of $791,709 as compared to a net loss of $1,064,391 in the prior period, a $272,682 or 25.6% decrease. The decrease can be largely attributed to the $250,000 stock for services expense incurred in the prior year and lower compensation expense.  Liquidity and Capital Resources  During the nine months ended September 30, 2014 the Company relied upon advances from management and proceeds from notes payable for operations. In addition, the Company issued shares of common stock for services and cash (See Part II, Item 2, below.)  During the nine months ended September 30, 2014, net cash used by operating activities was $344,472 compared to $521,937 for the same period in the prior year.  Net cash flows from financing activities for the nine months ended September 30, 2014 were $396,883 compared to $512,076 for the nine months ended September 30, 2014. We received $75,000 from the issuance of 210,898 shares of common stock, $10,400 from advances from an officer and $376,847 from the issuance of notes payable.  The Company needs to locate investment capital sources and raise privately $1,000,000 which will be used for product testing, product manufacture, video production, air time purchase, and operation of the initial marketing campaigns, and for overhead expenses and working capital.  Obligations and Commitments  On January 7, 2014, the Company received $35,000 from Paul Berchin for a short term loan to assist in funding operating costs. The loan accrues interest at 6% and is due on demand.  During the three months ended March 31, 2014, the Company issued three separate promissory notes to Kenneth Tran, a non-related third party, totaling $84,000. The loans are uncollateralized, bear interest at 3% and mature in six months.  On July 9, 2014, the Board of Directors approved an investment arrangement with Steven Chao, a non-related third party. Per the terms of the agreement the investor has transferred $150,000 to the Company for which he is now entitled to the following. $1 per Spidercore unit sold through all retail outlets including online and retail shopping shows until the investment is paid back in full. Once the original investment is recouped the investor shall then receive a 2% royalty in perpetuity on all future retail sales of the Spidercore product.  On October 3, 2014, the Company executed a promissory note with Kenneth Tran for $50,000. The note bears interest at 3% and matures in six months. This loan was converted to common stock on October 8, 2014.  On October 20, 2014, the Company executed a promissory note with Kenneth Tran for $69,000. The note bears interest at 3% and matures in six months. This loan was converted into 363,158 shares of common stock.  As of December 31, 2013 the Company owed its CEO, Sandy Lang $32,500. During the nine months ended September 30, 2014, he advanced the Company an additional $10,400 and was repaid $32,900, leaving a balance due as of September 30, 2014 of $10,000.  Going Concern  We have been the subject of a going concern opinion by our independent auditors who have raised substantial doubt as to our ability to continue as a going concern.  Our financial statements have been prepared assuming we will continue as a going concern. The Company has an accumulated deficit of $5,484,814 as of September 30, 2014 and had a net loss of $791,709 for the nine months ended September 30, 2014. The Company is dependent on obtaining additional working capital in order to continue to implement our business plan and our product campaign, and the source, availability and terms for such additional capital are uncertain at this date. If such additional capital is not obtained, and/or if the products selected for marketing prove to be unsuccessful, the Company may fail and be unable to continue as a going concern.  The Company's financial statements do not include any adjustments to reflect the possible future effects on the recoverability and classification of assets or the amounts and classification of liabilities that may result from the possible inability of the Company to continue as a going concern. This need for additional capital and the uncertainty of obtaining such capital, along with other factors, raise substantial doubt about our ability to continue as a going concern. Our financial statements do not include any adjustment that might result from the outcome of this uncertainty. Assurances cannot be given that adequate financing can be obtained to meet our capital needs, which we estimate at a minimum of $1,000,000.  Critical Accounting Policies  The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities of the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Note 1 to the Consolidated Financial Statements describes the significant accounting policies and methods used in the preparation of the Consolidated Financial Statements. Estimates are used for, but not limited to, contingencies and taxes. Actual results could differ materially from those estimates. The following critical accounting policies are impacted significantly by judgments, assumptions, and estimates used in the preparation of the Consolidated Financial Statements.  We are subject to various loss contingencies arising in the ordinary course of business. We consider the likelihood of loss or impairment of an asset or the incurrence of a liability, as well as our ability to reasonably estimate the amount of loss in determining loss contingencies. An estimated loss contingency is accrued when management concludes that it is probable that an asset has been impaired or a liability has been incurred and the amount of the loss can be reasonably estimated. We regularly evaluate current information available to us to determine whether such accruals should be adjusted.  We recognize deferred tax assets (future tax benefits) and liabilities for the expected future tax consequences of temporary differences between the book carrying amounts and the tax basis of assets and liabilities. The deferred tax assets and liabilities represent the expected future tax return consequences of those differences, which are expected to be either deductible or taxable when the assets and liabilities are recovered or settled. Future tax benefits have been fully offset by a 100% valuation allowance as management is unable to determine that it is more likely than not that this deferred tax asset will be realized.  Emerging Growth Company  We qualify as an "emerging growth company" under the recently enacted Jumpstart Our Business Startups Act of 2012 (the "JOBS Act"). As a result, we are permitted to, and intend to, rely on exemptions from certain disclosure requirements. For so long as we are an emerging growth company, among other things, we will not be required to:   Have an auditor report on our internal controls over financial reporting pursuant to Section 404(b) of the Sarbanes-Oxley Act;   Submit certain executive compensation matters to shareholder advisory votes, such as "say-on-pay" and "say-on-frequency"   Obtain shareholder approval of any golden parachute payments not previously approved; and   Disclose certain executive compensation related items such as the correlation between executive compensation and performance and comparisons of the Chief Executives compensation to median employee compensation.  In addition, Section 107 of the JOBS Act also provides that an emerging growth company can take advantage of the extended transition period provided in Section 7(a)(2)(B) of the Securities Act for complying with new or revised accounting standards.  In other words, an emerging growth company can delay the adoption of certain accounting standards until those standards would otherwise apply to private companies. We have elected to take advantage of the benefits of this extended transition period. Our financial statements may therefore not be comparable to those of companies that comply with such new or revised accounting standards.  We will remain an "emerging growth company" for up to five years, or until the earliest of (i) the last day of the first fiscal year in which our total annual gross revenues exceed $1 billion; (ii) the date that we become a "large accelerated filer" as defined in Rule 12b-2 under the Securities Exchange Act of 1934, which would occur if the market value of our ordinary shares that is held by non-affiliates exceeds $700 million as of the last business day of our most recently completed second fiscal quarter or (iii) the date on which we have issued more than $1 billion in non-convertible debt during the preceding three-year period.  Off-Balance Sheet Arrangements  We have not entered into any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources and would be considered material to investors.  Recent Accounting Pronouncements  In July 2013, the FASB issued Accounting Standards Update 2013-11 Income Taxes (Topic 740) Presentation of an Unrecognized Tax Benefit When a Net Operating Loss Carry-forward, a Similar Tax Loss, or a Tax Credit Carry-forward Exists. An unrecognized tax benefit, or a portion of an unrecognized tax benefit, should be presented in the financial statements as a reduction to a deferred tax asset for a net operating loss carry-forward, a similar tax loss or a tax credit carry-forward, except as follows. To the extent a net operating loss carry-forward, a similar tax loss or a tax credit carry-forward is not available at the reporting date under the tax law of the applicable jurisdiction to settle any additional income taxes that would result from the disallowance of a tax position or the tax law of the applicable jurisdiction does not require the entity to use, and the entity does not intend to use the deferred tax asset for such purpose, the unrecognized tax benefit should be presented in the financial statements as a liability and should not be combined with deferred tax assets. The assessment of whether a deferred tax asset is available is based on the unrecognized tax benefit and deferred tax asset that exist at the reporting date and should be made presuming disallowance of the tax position at the reporting date. This Update applies to all entities that have unrecognized tax benefits when a net operating loss carry-forward, a similar tax loss, or a tax credit carry-forward exists at the reporting date. The amendments in this Update are effective for fiscal years, and interim periods within those years, beginning after December 15, 2013.  The Company has implemented all new accounting pronouncements that are in effect. These pronouncements did not have any material impact on the financial statements unless otherwise disclosed, and the Company does not believe that there are any other new accounting pronouncements that have been issued that might have a material impact on our financial position or results of operations.  Nov 14, 2014  (c) 1995-2014 Cybernet Data Systems, Inc. All Rights Reserved 
 
 
-More from MarketWatch
 
+Competitor Data Provided By
 
 
+   
 
 
 
 
 
 
-More Coverage
+   
 
 
-Where did baby boomers go wrong? This generation isn’t financially prepared for retirement
 
 
-Wall Street isn’t ready for a 1,100-point tumble in the Dow industrials
 
 
-There could be one big reason why some singletons have trouble landing a date
 
 
 
@@ -2011,48 +2830,46 @@ There could be one big reason why some singletons have trouble landing a date
 
 
 
-Most Popular
 
 
 
 
 
-Elon Musk admits to ‘unrelenting stress,’ says he may be bipolar
 
+Partner Content
 
 
 
 
-Dow set for all-time high at the open, with Apple quarterly results on deck
 
 
 
 
 
-Are Gates and Bezos really the richest men in the world? Nyet, says one fund manager
 
 
 
 
 
-Avi Gilburt: I expect a ‘healthy’ decline in stocks to begin soon
 
 
 
 
 
-Before NASA can send humans to Mars, it needs to solve these problems
 
 
 
 
-MarketWatch Partner Center
+Trending Tickers
+Powered by 
 
 
 
 
 
+SHOP
 
+11.11%
 
 
 
@@ -2061,31 +2878,31 @@ MarketWatch Partner Center
 
 
 
+UAA
 
+-7.64%
 
 
 
 
 
- 
 
 
 
+LL
 
+29.02%
 
 
 
-
-            We Want to
-            Hear from You
 
 
-Join the conversation
-Comment
 
 
 
+P
 
+-0.22%
 
 
 
@@ -2094,11 +2911,20 @@ Comment
 
 
 
+ZIOP
 
+4.99%
 
 
 
-Sponsored Headlines
+
+
+
+
+
+
+
+
 
 
 
@@ -2168,6 +2994,7 @@ No results found
 
 
 
+Video Center
 
 
 
@@ -2178,16 +3005,7 @@ No results found
 
 
 
- 
-
-
-
-
-
-
-
-
-
+Learn more.Storyful, a division of News Corp, which owns MarketWatch, is a leading social media services company headquartered in Dublin, Ireland. Storyful combines world class journalism with industry-leading technology to discover, verify and acquire original content and provide the on-the-ground sources news and media organizations need to tell the stories that matter to their audience.
 
 
 
@@ -2241,12 +3059,12 @@ Investor Alert
 
 
 
-New York Markets Open in:
+New York Markets Close in:
 
 
 
 Market Snapshot
-Analyst Ratings
+Winners and Losers
 
 
 
@@ -3056,14 +3874,14 @@ Log In
 
 
 
-9:00 AM EDT
+9:47 AM EDT
 August 1, 2017
 
 
 /marketstate/country/us
 New York
 
-	Pre
+	Open
 
 
 /marketstate/country/uk
@@ -3109,26 +3927,26 @@ View All
 Latest News
 
 /news/latest
-9:00aSenate Democrats press for bipartisan tax talks | White House panel recommends declaring emergency on opioids   
-9:00aGold challenged to hold seven-week highs
-8:58aAIG earnings: Investors expect an update from new CEO Brian Duperreault
-8:47aIn Hollywood women are still seen and not heard
-8:47aFlying in coach could be harmful to your health
-8:46aSimon Property Group jumps as company raises guidance, ups dividend
-8:45aAmerican Airlines' stock rallies after second upgrade in two days
-8:35aConsumer spending inches up 0.1% in June
-8:34a2-year Treasury note yield up 0.4 basis point at 1.359%
-8:34a10-year Treasury note yield up 0.8 basis point at 2.303%
-8:33aTreasury yields up slightly after PCE, other U.S. economic data
-8:32aGold little changed after spending, income, inflation reports 
-8:32aDecember gold 0.1% lower at $1,272.50/oz.
-8:31aS&P 500 futures up 0.2% at 2,473
-8:31aU.S. stock future hold gains after personal income data
-8:31aNasdaq-100 futures up 0.3% at 5,898
-8:31aDow futures futures up 0.4% at 21,936
-8:31aU.S. dollar maintains modest gain after personal income and spending data
-8:30aPCE inflation index flat in June, core up 0.1%
-8:30aPCE rises 1.4%  in past 12 months; core 1.5%
+9:46aGM US July sales down 14%
+9:43aPandora Media stock price target cut to $11 from $12 at BMO Capital
+9:43aCriteo started at outperform with $70 stock price target at BMO Capital
+9:41aGoPro earnings: Analysts are still not expecting a turnaround 
+9:39aUPDATE: Athenahealth stock surges 4.2% on strategic changes, including $100 mln in cost-saving opportunities
+9:39aDollar claws up from 15-month lows
+9:35aCORRECTEDE.W. Scripps buys 4 networks from Katz broadcast for $292 million
+9:33aDow flirts with a fresh milestone: 22,000 
+9:33aBREAKINGDow nears 22,000 at the open, as S&P 500, Nasdaq trade in record territory
+9:32aDow industrials rise 93 points to 21,984
+9:32aNasdaq Composite up 0.4% at 6,374.71
+9:31aS&P 500 up 0.3% at 2,477.20
+9:31aBREAKINGStocks open higher; Dow nears 22,000 milestone
+9:30aRockwell Collins stock price target raised to $125 from $108 at Canaccord Genuity
+9:30aRockwell Collins upgraded to buy from hold at Canaccord Genuity
+9:22aBoeing, McDonald's the biggest drivers of Dow's climb toward 22,000 milestone
+9:22aHow to turn $60 into $40,000: Invest in a poker player and get lucky
+9:19aDow set for all-time high at the open, with Apple quarterly results on deck
+9:19aIntesa Sanpaolo profit up, aided by public funds
+9:18aHere’s how a slap-happy stock market may get derailed
 Loading more headlines...
 
 
@@ -3137,9 +3955,9 @@ Loading more headlines...
 dow
 
 /quotes/zigman/627449/realtime
-21,891.12
+21,952.85
 
-+60.81
++61.73
 +0.28%
 
 
@@ -3149,10 +3967,10 @@ dow
 nasdaq
 
 /quotes/zigman/12633936/realtime
-6,348.12
+6,363.29
 
--26.55
--0.42%
++15.17
++0.24%
 
 
 
@@ -3161,10 +3979,10 @@ nasdaq
 s&p 500
 
 /quotes/zigman/3870025/realtime
-2,470.30
+2,475.14
 
--1.80
--0.07%
++4.84
++0.20%
 
 
 
@@ -3456,744 +4274,6 @@ Link to MarketWatch's Slice.
 
 
 
-
-
-
-Stocks Index - Markets Index
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Bulletin
-
-
-
-
-
-
-Investor Alert
-
-
-
-
-
-
-
-New York Markets Open in:
-
-
-
-Market Snapshot
-Analyst Ratings
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Stocks
-Rates
-Funds
-Bonds
-Benchmarks
-Real Estate Investment Trusts
-Futures
-American Depository Receipt Stocks
-Exchange Traded Notes
-Warrants
-Indexes
-Exchange Traded Funds
-Currencies
-Crypto Currencies
-
-Browse Stocks
-Stocks A-Z
-
-
-0-9ABCDEFGHIJKLMNOPQRSTUVWXYZOther
-
-Browse by Location
-
-Argentina
-Australia
-Austria
-Bahamas
-Bahrain
-Belgium
-Bermuda
-Botswana
-Brazil
-British Virgin Islands
-Canada
-Cayman Islands
-Chile
-China
-Colombia
-Curacao
-Cyprus
-Czech Republic
-Denmark
-Egypt
-Estonia
-Finland
-France
-Germany
-Gibraltar
-Greece
-Hong Kong
-Hungary
-Iceland
-India
-Indonesia
-Ireland
-Isle of Man
-Israel
-Italy
-Japan
-Jordan
-Kazakhstan
-Kuwait
-Latvia
-Lebanon
-Liechtenstein
-Lithuania
-Luxembourg
-Malaysia
-Malta
-Mauritius
-Mexico
-Monaco
-Money Rates
-Morocco
-Namibia
-Netherlands
-New Zealand
-Norway
-Oman
-Pakistan
-Panama
-Peru
-Philippines
-Poland
-Portugal
-Qatar
-Romania
-Russia
-Saudi Arabia
-Singapore
-Slovakia
-Slovenia
-South Africa
-South Korea
-Spain
-Sri Lanka
-Sweden
-Switzerland
-Taiwan
-Thailand
-Tunisia
-Turkey
-Ukraine
-United Arab Emirates
-United States
-Venezuela
-Western Samoa
-
-
-
-
-
-
-
-
-
-
-
-
-Log In
-
-
-
-
-9:00 AM EDT
-August 1, 2017
-
-
-/marketstate/country/us
-New York
-
-	Pre
-
-
-/marketstate/country/uk
-London
-
-	Open
-
-
-/marketstate/country/jp
-Tokyo
-
-	Closed
-
-
-
-
-
-/marketstate/country/us
- 
-
-
-/marketstate/country/uk
- 
-
-
-/marketstate/country/jp
- 
-
-
-
-
-
-
-
-
-
-
-
-View All
-
-
-
-Latest News
-
-/news/latest
-9:00aSenate Democrats press for bipartisan tax talks | White House panel recommends declaring emergency on opioids   
-9:00aGold challenged to hold seven-week highs
-8:58aAIG earnings: Investors expect an update from new CEO Brian Duperreault
-8:47aIn Hollywood women are still seen and not heard
-8:47aFlying in coach could be harmful to your health
-8:46aSimon Property Group jumps as company raises guidance, ups dividend
-8:45aAmerican Airlines' stock rallies after second upgrade in two days
-8:35aConsumer spending inches up 0.1% in June
-8:34a2-year Treasury note yield up 0.4 basis point at 1.359%
-8:34a10-year Treasury note yield up 0.8 basis point at 2.303%
-8:33aTreasury yields up slightly after PCE, other U.S. economic data
-8:32aGold little changed after spending, income, inflation reports 
-8:32aDecember gold 0.1% lower at $1,272.50/oz.
-8:31aS&P 500 futures up 0.2% at 2,473
-8:31aU.S. stock future hold gains after personal income data
-8:31aNasdaq-100 futures up 0.3% at 5,898
-8:31aDow futures futures up 0.4% at 21,936
-8:31aU.S. dollar maintains modest gain after personal income and spending data
-8:30aPCE inflation index flat in June, core up 0.1%
-8:30aPCE rises 1.4%  in past 12 months; core 1.5%
-Loading more headlines...
-
-
-
-
-dow
-
-/quotes/zigman/627449/realtime
-21,891.12
-
-+60.81
-+0.28%
-
-
-
-
-
-nasdaq
-
-/quotes/zigman/12633936/realtime
-6,348.12
-
--26.55
--0.42%
-
-
-
-
-
-s&p 500
-
-/quotes/zigman/3870025/realtime
-2,470.30
-
--1.80
--0.07%
-
-
-
-
-
-
-
-
-
-
-
-
-
-Kiosk
-
-
-1352872800000
-1352872800000
-
-
-The RetireMentors
-
-
-
-
-
-
-				Retirement advice from our industry experts
-				Our team of financial professionals can help you plan and save 
-					for retirement, then 
-				live well in it.
-
-
-
-/conga/kiosk/retirementors.html
-361307
-
-
-
-
-1320411600000
-1320616500000
-
-
-Alerts
-
-
-
-/conga/kiosk/alerts.html
-310238
-
-
-
-
-1333717800000
-1333964100000
-
-
-Virtual Stock Exchange
-
-
-
-
-
-Our free stock-market game
-				• Trade your virtual portfolio in real time
-				• Talk strategies in group discussions
-				• Find or create a game that suits you
-				• Use our learning center to improve 
-
-
-
-/conga/kiosk/games.html
-310284
-
-
-
-
-1245657600000
-1277280000000
-
-
-Location Scouts
-
-
-
-
-Housing-market insights from our realty pros
-																																																							Plus the latest data from Realtor.com on 21 home markets across the U.S.
-• See our complete Real Estate site
-
-
-/conga/kiosk/real_estate.html
-357012
-
-
-
-
-1404799200000
-1404799200000
-
-
-Lazy Portfolios
-
-
-
-
-
-				Set it and forget it
-				Check out the returns on our 8 Lazy Portfolios that are made up 
-				of low-cost 
-				buy-and-hold index funds.
-
-				• How to create your own Lazy Portfolio
-
-
-/conga/kiosk/lazy_portfolio.html
-313134
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-MarketWatch.com
-
-
-
-
-Site Index
-Topics
-Help
-Feedback
-Newsroom Roster
-
-                    Media Archive
-Premium Products
-Mobile
-
-
-Company Info
-Code of Conduct
-Corrections
-Advertising Media Kit
-Advertise Locally
-Reprints & Licensing
-Broker Center
-
-                    Your Ad Choices
-
-
-Follow MarketWatch
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-RSS
-Podcasts
-
-
-
-
-
-
-WSJ.com
-Barron's Online
-BigCharts
-Virtual Stock Exchange
-
-
-Financial News London
-WSJ.com Small Business
-realtor.com
-Mansion Global
-
-
-
-
-
-
-
-
-
-
-
-
-		Copyright © 2017 MarketWatch, Inc.  All rights reserved.
-		By using this site, you agree to the Terms of Service,
-        Privacy Policy and Cookie Policy.
-	
-
-
-
-            Intraday Data provided by SIX Financial Information and subject to terms of use. Historical and current end-of-day data provided by SIX Financial Information. All quotes are in local exchange time. Real-time last sale data for U.S. stock quotes reflect trades reported through Nasdaq only. Intraday data delayed at least 15 minutes or per exchange requirements.
-        
-
-
-
-
-
-
-MarketWatch Top Stories
-Link to MarketWatch's Slice.
-
-15
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Insynergy Products Inc, ISYG:QBB profile - FT.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Subscribe
-
-
-Sign In
-
-
-
-
-
-
-
-
-Menu
-
-
-Search
-
-
-
-
-Financial Times
-
-
-
-
-myFT
-
-
-
-
-
-
-
-
-
-
-Search the FT
-
-
-					Search
-				
-
-
-
-
-
-
-Search the FT
-
-
-					Search
-				
-
-Close
-
-
-
-
-
-
-
-
-
-MarketsMarkets DataEquities
-
-
-
-
-
-
-
-Financial TimesCloseSearch theFTSearch
-
-Equities
-
-
-Insynergy Products IncISYG:QBBSelect symbolUnited StatesISYG:QBBOTCQBInsynergy Products IncActionsAdd to watchlistAdd to portfolioAdd an alertConsumer ServicesMediaPrice (USD)0.12Today's Change0.00 / 0.00%Shares traded0.001 Year change-34.75%Beta--Data delayed at least 15 minutes.More ▼ApplyCancelActionsAdd to Your WatchlistsNew watchlistNameCancelAddAdd to Your PortfolioNew portfolioNameCurrencySelect a currencyUK Pound (GBP)Argentinian Nuevo Peso (ARS)Australian Dollar (AUD)Bahraini Dinar (BHD)Brunei Dollar (BND)Brazilian Real (BRL)Canadian Dollar (CAD)Chilean Peso (CLP)Chinese Yuan Renminbi (CNY)Czech Koruna (CZK)Danish Krone (DKK)Egyptian Pound (EGP)Euro (EUR)Fiji Dollar (FJD)Hong Kong Dollar (HKD)Hungarian Forint (HUF)Israeli Shekel (ILS)Indian Rupee (INR)Indonesian Rupiah (IDR)Japanese Yen (JPY)Kuwaiti Dinar (KWD)Sri Lankan Rupee (LKR)Moroccan Dirham (MAD)Malaysian Ringgit (MYR)Mexican New Peso (MXN)New Zealand Dollar (NZD)Norwegian Krone (NOK)Omani Rial (OMR)Peruvian New Sol (PEN)Papua New Guinean Kina (PGK)Philippine Peso (PHP)Pakistani Rupee (PKR)Polish New Zloty (PLN)Russian Ruble (RUB)Saudi Riyal (SAR)Solomon Islands Dollar (SBD)Seychelles Rupee (SCR)Singapore Dollar (SGD)South African Rand (ZAR)Republic of Korean Won (KRW)Swedish Krona (SEK)Swiss Franc (CHF)Tongan Pa'anga (TOP)Taiwan Dollar (TWD)Thai Baht (THB)Turkish Lira (TRY)UAE Dirham (AED)Vietnamese Dong (VND)Vanuatu Vatu (VUV)Samoan Tala (WST)French Pacific Franc (XPF)US Dollar (USD)Ghana Cedi (GHS)Nigeria Naira (NGN)Ukraine Hryvnia (UAH)Kenya Shilling (KES)CancelContinueYour alertsDoneYou must be a registered user to save alerts.  Please sign in or register.
-
-
-
-
-
-Profile data is unavailable for this security.About the companyInsynergy Products, Inc. is engaged in direct response marketing. The Company selects products invented by others for use in a Direct Response Marketing Program, but also develops its own products for sale as well. The Company markets health and fitness products, skin, hair and personal care products, nutritional supplements, house wares and appliances. It also markets anti-aging products. It is focused on marketing Plumber's Hero, a product that clears normal clogs in the shower, tub, kitchen sink, bathroom sink and toilet. The Company's Plumber's Hero kit comes with a canister containing over 20 applications of the Plumber's Hero formula, a large and a small rubber drain cover to work on kitchen sinks, including double sinks with a disposal, bathroom, shower and tub drains, as well as an extension handle for use in the toilet. The Company writes, produces, hires the talent, directs, shoots and edits many of its infomercials in-house.Revenue in USD (TTM)410.75kNet income in USD-566.49kIncorporated2010Employees3.00LocationInsynergy Products Inc2501 Burbank Blvd, Suite #201BURBANK 91505United StatesUSAPhone+1 (818) 760-1644Fax+1 (818) 760-1079Websitehttp://www.insynergyproducts.com/More ▼Peer analysisKey InformationKey InformationStock PerformancePer Share DataEfficiencyManagement EffectivenessProfitabilityFinancial StrengthGrowth RatesCompanyRevenue (TTM)Net income (TTM)Market capEmployeesPrice/earnings (TTM)Price/book value (MRQ)Price/cash flow (TTM)Price/sales (TTM)EPS (excl. extraordinary items, TTM)EPS (incl. extraordinary items, TTM)Revenue per share (TTM)Book value per share (MRQ)Asset turnover (TTM)Inventory turnover (TTM)Receivables turnover (TTM)Revenues per employee (TTM)Return on avg assets (TTM)Return on avg assets (5 yr avg)Return on investment (TTM)Return on investment (5 yr avg)Gross margin (TTM)Gross margin(5 yr avg)Net profit margin (TTM)Net Profit margin(5 yr avg)Quick ratio (MRQ)Interest coverage (TTM)Total debt to capital (MRQ)Payout ratio(5 yr avg)Revenue(YOY change %)Revenue(5 yr growth rate)Net income(YOY change %)Net income(5 yr growth rate)Capital expenditure(5 yr growth rate)Dividend(5 yr growth rate)Rjd Green Inc2.12m173.10k2.72m--11.21----1.280.00120.00120.0087-0.00646.09------60.80------42.86--9.98--0.2434----------0.0815------China Networks Intl. Hldgs. Ltd0.00-14.16m3.04m7.00--0.604-----0.2148-0.21480.000.06060.00-------47.47-61.03-91.89--------------0.00------14.17------Paid, Inc.1.98m-539.03k3.99m7.00--0.4545--2.01-0.5905-0.59051.977.990.2316--40.38282,807.20-6.31-46.70-7.70-79.3543.5925.79-27.23-43.17---12.830.0034--91.91-40.3273.46------Southern States Sign Co10.06m-12.06m4.10m1.00--0.1618--0.407-0.3003-0.3170.25060.63060.084--0.344110,061,690.00-9.97---14.74--31.98---118.64-----5.670.705---21.20---373.86------United Communications Partners Inc51.74m601.00k4.10m28.0010.618.736.350.07930.00020.00020.01610.00032.95--5.35--3.46-3.68779.49-220.328.1111.211.18-1.62----0.7058--29.3626.19301.97------Insynergy Products Inc410.75k-566.49k4.35m3.00------10.59-0.0213-0.02130.0154-0.03311.32-------181.86-679.22-----0.389514.53-137.92-645.74---75.02-----71.53--91.33------rVue Holdings Inc790.56k-1.59m5.01m9.00--78.79--6.33-0.0091-0.00910.00430.00021.94--12.91---388.26-221.35-6,715.04-465.9025.9335.76-200.54-277.59---4.210.00---13.5211.98-52.35---8.84--Data as of --. Currency figures normalised to Insynergy Products Inc's reporting currency: US Dollar USD 
-Income statement (USD)Year on year Insynergy Products Inc had revenues fall -71.53% from 1.50m to 426.15k, though the company grew net income from a loss of 8.24m to a smaller loss of 714.03k.FT Lexicon{0}{0}{2}{0}{0}{2}For more information, visit the FT LexiconLexicon on this pageExplore our toolsAlertsData archivePortfolioWorld marketsEquities screenerFunds overview
-
-
-
- © Thomson Reuters Click for restrictions
-All markets data located on FT.com is subject to the FT Terms & ConditionsAll content on FT.com is for your general information and use only and is not intended to address your particular requirements. In particular, the content does not constitute any form of advice, recommendation, representation, endorsement or arrangement by FT and is not intended to be relied upon by users in making (or refraining from making) any specific investment or other decisions.Any information that you receive via FT.com is at best delayed intraday data and not "real time". Share price information may be rounded up/down and therefore not entirely accurate. FT is not responsible for any use of content by you outside its scope as stated in the FT Terms & Conditions.
-
-
-
-
-
-
-
-					Welcome to the FT.com Markets Data
-				
-
-					We’re constantly improving and would like to hear from you.
-				
-
-
-Provide Feedback
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 
 
 ISYG Stock Price - Insynergy Products Inc. Stock Quote (U.S.: OTC) - MarketWatch
@@ -4371,15 +4451,15 @@ Range
 
 
 
-Asia Dow
+Dow
 
-3,511.61
+21,953.89
 
 
-13.05
+62.77
 
 
-0.37%
+0.29%
 
 
 
@@ -4391,15 +4471,15 @@ Asia Dow
 
 
 
-Nikkei 225
+S&P 500
 
-19,985.79
+2,475.24
 
 
-60.61
+4.94
 
 
-0.30%
+0.20%
 
 
 
@@ -4411,15 +4491,15 @@ Nikkei 225
 
 
 
-Hang Seng
+Nasdaq
 
-27,540.23
+6,364.01
 
 
-216.24
+15.89
 
 
-0.79%
+0.25%
 
 
 
@@ -4431,15 +4511,15 @@ Hang Seng
 
 
 
-Shanghai
+GlobalDow
 
-3,292.64
+2,865.07
 
 
-19.61
+11.55
 
 
-0.60%
+0.40%
 
 
 
@@ -4451,15 +4531,15 @@ Shanghai
 
 
 
-Sensex
+Gold
 
-32,575.17
+1,274.40
 
 
-60.23
+1.00
 
 
-0.19%
+0.08%
 
 
 
@@ -4471,15 +4551,15 @@ Sensex
 
 
 
-Singapore
+Oil
 
-3,338.20
+49.66
 
 
-8.68
+-0.51
 
 
-0.26%
+-1.02%
 
 
 
@@ -4501,52 +4581,52 @@ S&P 500 Movers(%)
 
 
 
-CHTR 
-5.8
-
-
-
-
 SCG 
-5.0
+4.9
 
 
 
 
-UA 
-4.3
-
-
-
-
-AMG 
+RCL 
 4.0
 
 
 
 
-
-
-DISCK
--9.3
-
-
-
-
-DISCA
--8.2
+XYL 
+3.9
 
 
 
 
-COL
--6.3
+APD 
+3.7
 
 
 
 
-MU
--4.0
+
+
+UA
+-8.9
+
+
+
+
+UAA
+-8.0
+
+
+
+
+MOS
+-8.0
+
+
+
+
+ETN
+-5.1
 
 
 
@@ -4570,67 +4650,68 @@ Latest NewsAll Times Eastern
 
 
 
-8:59a
+9:46a
+
+GM US July sales down 14%
+
+
+
+9:43a
+
+Pandora Media stock price target cut to $11 from $12 at BMO Capital
+
+
+
+9:42a
+
+Criteo started at outperform with $70 stock price target at BMO Capital
+
+
+
+9:40a
+
+GoPro earnings: Analysts are still not expecting a turnaround 
+
+
+
+9:39a
 
 Updated
-Gold challenged to hold seven-week highs
+Dollar claws up from 15-month lows
 
 
 
-8:58a
-
-Updated
-AIG earnings: Investors expect an update from new CEO Brian Duperreault
-
-
-
-8:47a
+9:39a
 
 Updated
-Flying in coach could be harmful to your health
+UPDATE: Athenahealth stock surges 4.2% on strategic changes, including $100 mln in cost-saving opportunities
 
 
 
-8:47a
+9:35a
 
-In Hollywood women are still seen and not heard
-
-
-
-8:45a
-
-Simon Property Group jumps as company raises guidance, ups dividend
+Corrected
+E.W. Scripps buys 4 networks from Katz broadcast for $292 million
 
 
 
-8:44a
-
-American Airlines' stock rallies after second upgrade in two days
-
-
-
-8:35a
+9:32a
 
 Updated
-Consumer spending inches up 0.1% in June
+Dow flirts with a fresh milestone: 22,000 
 
 
 
-8:33a
+9:32a
 
-2-year Treasury note yield up 0.4 basis point at 1.359%
-
-
-
-8:33a
-
-10-year Treasury note yield up 0.8 basis point at 2.303%
+Breaking
+Dow nears 22,000 at the open, as S&P 500, Nasdaq trade in record territory
 
 
 
-8:33a
+9:32a
 
-Treasury yields up slightly after PCE, other U.S. economic data
+Dow industrials rise 93 points to 21,984
 
 
 
@@ -4820,7 +4901,7 @@ CreateISYGAlert
   
 
 
-Closed
+Open
 
 Last Updated: Jul 25, 2017 5:20 p.m. EDT
 Delayed quote
@@ -4908,7 +4989,7 @@ Advanced Charting
 
 
 Open: 0.12
-Close: 0.12
+Last: 0.12
 
 
 
@@ -5370,12 +5451,12 @@ $126.65K
 
 
 Rocket Fuel Inc.
-0.00%
+0.19%
 $122.12M
 
 
 Lamar Advertising Co. Cl A
--0.95%
+0.69%
 $6.91B
 
 
@@ -5452,7 +5533,7 @@ Powered by
 
 SHOP
 
--0.66%
+11.14%
 
 
 
@@ -5463,7 +5544,18 @@ SHOP
 
 UAA
 
-2.98%
+-7.64%
+
+
+
+
+
+
+
+
+LL
+
+28.21%
 
 
 
@@ -5474,7 +5566,7 @@ UAA
 
 P
 
--5.49%
+0.22%
 
 
 
@@ -5483,20 +5575,9 @@ P
 
 
 
-S
+ZIOP
 
--2.92%
-
-
-
-
-
-
-
-
-AAPL
-
--0.52%
+4.99%
 
 
 
@@ -5607,6 +5688,967 @@ Learn more.Storyful, a division of News Corp, which owns MarketWatch, is a leadi
 
 
 
+Insynergy Products Inc, ISYG:QBB profile - FT.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+Sign In
+
+
+
+
+
+
+
+
+Menu
+
+
+Search
+
+
+
+
+Financial Times
+
+
+
+
+myFT
+
+
+
+
+
+
+
+
+
+
+Search the FT
+
+
+					Search
+				
+
+
+
+
+
+
+Search the FT
+
+
+					Search
+				
+
+Close
+
+
+
+
+
+
+
+
+
+MarketsMarkets DataEquities
+
+
+
+
+
+
+
+Financial TimesCloseSearch theFTSearch
+
+Equities
+
+
+Insynergy Products IncISYG:QBBSelect symbolUnited StatesISYG:QBBOTCQBInsynergy Products IncActionsAdd to watchlistAdd to portfolioAdd an alertConsumer ServicesMediaPrice (USD)0.12Today's Change0.00 / 0.00%Shares traded0.001 Year change-34.75%Beta--Data delayed at least 15 minutes.More ▼ApplyCancelActionsAdd to Your WatchlistsNew watchlistNameCancelAddAdd to Your PortfolioNew portfolioNameCurrencySelect a currencyUK Pound (GBP)Argentinian Nuevo Peso (ARS)Australian Dollar (AUD)Bahraini Dinar (BHD)Brunei Dollar (BND)Brazilian Real (BRL)Canadian Dollar (CAD)Chilean Peso (CLP)Chinese Yuan Renminbi (CNY)Czech Koruna (CZK)Danish Krone (DKK)Egyptian Pound (EGP)Euro (EUR)Fiji Dollar (FJD)Hong Kong Dollar (HKD)Hungarian Forint (HUF)Israeli Shekel (ILS)Indian Rupee (INR)Indonesian Rupiah (IDR)Japanese Yen (JPY)Kuwaiti Dinar (KWD)Sri Lankan Rupee (LKR)Moroccan Dirham (MAD)Malaysian Ringgit (MYR)Mexican New Peso (MXN)New Zealand Dollar (NZD)Norwegian Krone (NOK)Omani Rial (OMR)Peruvian New Sol (PEN)Papua New Guinean Kina (PGK)Philippine Peso (PHP)Pakistani Rupee (PKR)Polish New Zloty (PLN)Russian Ruble (RUB)Saudi Riyal (SAR)Solomon Islands Dollar (SBD)Seychelles Rupee (SCR)Singapore Dollar (SGD)South African Rand (ZAR)Republic of Korean Won (KRW)Swedish Krona (SEK)Swiss Franc (CHF)Tongan Pa'anga (TOP)Taiwan Dollar (TWD)Thai Baht (THB)Turkish Lira (TRY)UAE Dirham (AED)Vietnamese Dong (VND)Vanuatu Vatu (VUV)Samoan Tala (WST)French Pacific Franc (XPF)US Dollar (USD)Ghana Cedi (GHS)Nigeria Naira (NGN)Ukraine Hryvnia (UAH)Kenya Shilling (KES)CancelContinueYour alertsDoneYou must be a registered user to save alerts.  Please sign in or register.
+
+
+
+
+
+Profile data is unavailable for this security.About the companyInsynergy Products, Inc. is engaged in direct response marketing. The Company selects products invented by others for use in a Direct Response Marketing Program, but also develops its own products for sale as well. The Company markets health and fitness products, skin, hair and personal care products, nutritional supplements, house wares and appliances. It also markets anti-aging products. It is focused on marketing Plumber's Hero, a product that clears normal clogs in the shower, tub, kitchen sink, bathroom sink and toilet. The Company's Plumber's Hero kit comes with a canister containing over 20 applications of the Plumber's Hero formula, a large and a small rubber drain cover to work on kitchen sinks, including double sinks with a disposal, bathroom, shower and tub drains, as well as an extension handle for use in the toilet. The Company writes, produces, hires the talent, directs, shoots and edits many of its infomercials in-house.Revenue in USD (TTM)410.75kNet income in USD-566.49kIncorporated2010Employees3.00LocationInsynergy Products Inc2501 Burbank Blvd, Suite #201BURBANK 91505United StatesUSAPhone+1 (818) 760-1644Fax+1 (818) 760-1079Websitehttp://www.insynergyproducts.com/More ▼Peer analysisKey InformationKey InformationStock PerformancePer Share DataEfficiencyManagement EffectivenessProfitabilityFinancial StrengthGrowth RatesCompanyRevenue (TTM)Net income (TTM)Market capEmployeesPrice/earnings (TTM)Price/book value (MRQ)Price/cash flow (TTM)Price/sales (TTM)EPS (excl. extraordinary items, TTM)EPS (incl. extraordinary items, TTM)Revenue per share (TTM)Book value per share (MRQ)Asset turnover (TTM)Inventory turnover (TTM)Receivables turnover (TTM)Revenues per employee (TTM)Return on avg assets (TTM)Return on avg assets (5 yr avg)Return on investment (TTM)Return on investment (5 yr avg)Gross margin (TTM)Gross margin(5 yr avg)Net profit margin (TTM)Net Profit margin(5 yr avg)Quick ratio (MRQ)Interest coverage (TTM)Total debt to capital (MRQ)Payout ratio(5 yr avg)Revenue(YOY change %)Revenue(5 yr growth rate)Net income(YOY change %)Net income(5 yr growth rate)Capital expenditure(5 yr growth rate)Dividend(5 yr growth rate)Rjd Green Inc2.12m173.10k2.72m--11.21----1.280.00120.00120.0087-0.00646.09------60.80------42.86--9.98--0.2434----------0.0815------China Networks Intl. Hldgs. Ltd0.00-14.16m3.04m7.00--0.604-----0.2148-0.21480.000.06060.00-------47.47-61.03-91.89--------------0.00------14.17------Paid, Inc.1.98m-539.03k3.99m7.00--0.4545--2.01-0.5905-0.59051.977.990.2316--40.38282,807.20-6.31-46.70-7.70-79.3543.5925.79-27.23-43.17---12.830.0034--91.91-40.3273.46------Southern States Sign Co10.06m-12.06m4.10m1.00--0.1618--0.407-0.3003-0.3170.25060.63060.084--0.344110,061,690.00-9.97---14.74--31.98---118.64-----5.670.705---21.20---373.86------United Communications Partners Inc51.74m601.00k4.10m28.0010.618.736.350.07930.00020.00020.01610.00032.95--5.35--3.46-3.68779.49-220.328.1111.211.18-1.62----0.7058--29.3626.19301.97------Insynergy Products Inc410.75k-566.49k4.35m3.00------10.59-0.0213-0.02130.0154-0.03311.32-------181.86-679.22-----0.389514.53-137.92-645.74---75.02-----71.53--91.33------rVue Holdings Inc790.56k-1.59m5.01m9.00--78.79--6.33-0.0091-0.00910.00430.00021.94--12.91---388.26-221.35-6,715.04-465.9025.9335.76-200.54-277.59---4.210.00---13.5211.98-52.35---8.84--Data as of --. Currency figures normalised to Insynergy Products Inc's reporting currency: US Dollar USD 
+Income statement (USD)Year on year Insynergy Products Inc had revenues fall -71.53% from 1.50m to 426.15k, though the company grew net income from a loss of 8.24m to a smaller loss of 714.03k.FT Lexicon{0}{0}{2}{0}{0}{2}For more information, visit the FT LexiconLexicon on this pageExplore our toolsAlertsData archivePortfolioWorld marketsEquities screenerFunds overview
+
+
+
+ © Thomson Reuters Click for restrictions
+All markets data located on FT.com is subject to the FT Terms & ConditionsAll content on FT.com is for your general information and use only and is not intended to address your particular requirements. In particular, the content does not constitute any form of advice, recommendation, representation, endorsement or arrangement by FT and is not intended to be relied upon by users in making (or refraining from making) any specific investment or other decisions.Any information that you receive via FT.com is at best delayed intraday data and not "real time". Share price information may be rounded up/down and therefore not entirely accurate. FT is not responsible for any use of content by you outside its scope as stated in the FT Terms & Conditions.
+
+
+
+
+
+
+
+					Welcome to the FT.com Markets Data
+				
+
+					We’re constantly improving and would like to hear from you.
+				
+
+
+Provide Feedback
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+INSYNERGY PRODUCTS, INC IPO - NASDAQ.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hot Topics:
+ETFs |
+Smart Portfolio |
+Currencies |
+Online Broker Center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home > 
+    Markets > 
+    IPOs  > 
+    Company IPO Overview
+
+
+
+
+
+INSYNERGY PRODUCTS, INC IPO
+
+
+
+
+Overview
+
+
+
+
+News Headlines
+
+
+
+
+Financials & Filings
+
+
+
+
+Experts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Key Data
+Use of Proceeds
+Competitors
+
+
+
+
+Company Overview
+
+
+Company Name
+INSYNERGY PRODUCTS, INC
+
+
+Company Address
+4705 LAUREL CANYON BLVD., SUITE 2025STUDIO CITY, CA 91607
+
+
+Company Phone
+818-760-1644
+
+
+Company Website
+www.insynergyproducts.com
+
+
+CEO
+Sanford Lang
+
+
+Employees  (as of 6/1/2012) 
+3
+
+
+State of Inc
+NV
+
+
+Fiscal Year End
+12/31
+
+
+Status
+Filed (1/31/2012)
+
+
+Proposed Symbol
+ -- 
+
+
+Exchange
+OTCBB
+
+
+Share Price
+$0.50
+
+
+Shares Offered
+2,154,130
+
+
+Offer Amount
+$1,077,065.00
+
+
+Total Expenses
+$10,623.50
+
+
+Shares Over Alloted
+ -- 
+
+
+Shareholder Shares Offered
+2,154,130
+
+
+Shares Outstanding
+15,101,900
+
+
+Lockup Period (days)
+180
+
+
+Lockup Expiration
+ -- 
+
+
+Quiet Period Expiration
+ -- 
+
+
+CIK
+0001539850
+
+
+
+
+All shares of our common stock offered by this prospectus are being 
+registered for the account of the selling stockholders. We will not 
+receive any of the proceeds from the sale of these shares.
+
+
+There is significant competition in the Direct Response industry from both 
+small and large companies since there are really no barriers to entry.  As 
+a result, there are literally hundreds of direct response companies that 
+operate in the US and off a wide variety of products across all categories 
+of consumer goods. 
+
+The Company will have to rely on the skills of its management to pick 
+products which produce successful direct response marketing campaigns 
+and ultimately profits to the Company.
+
+
+Company Description
+The Company is a development stage company that is in the process of 
+implementing its business plan, but has had no revenues to date.  We are 
+not a blank check Company and have no plans or intention to engage in a 
+merger or acquisition with an unidentified company, companies, entity or 
+person,
+
+
+ nor do we nor any of our affiliates intend for the Company, once 
+it is publicly traded, to be used as a vehicle for some other private 
+company to become a publicly traded company. 
+
+Insynergy Products, Inc. (formerly Insynergy, Inc.) (the "Company") was 
+incorporated in the State of Nevada on January 26, 2010 to engage in Direct 
+Response retail marketing and sale of  consumer products through Television 
+and the Internet, followed up for successful products with more traditional 
+distribution and sale of such products through traditional retail outlets, 
+once a brand for the product has been established. 
+
+Our current headquarters are located at 4705 Laurel Canyon Blvd., Suite 205, 
+Studio City, CA 91607. Our website is located at www.insynergyproducts.com. 
+Our telephone number is (818)760-1644.
+
+
+Full Description
+
+The IPO profiles may contain historical records. Please visit the latest IPOs for the most recent information.
+
+
+
+
+Company Financials
+
+
+
+Revenue
+ -- 
+
+
+Net Income
+-$181,459
+
+
+Total Assets
+$194,472
+
+
+
+
+
+
+Total Liabilities
+$520,553
+
+
+Stockholders' Equity
+-$326,081
+
+
+
+
+Company Filings
+
+                                    Viewing: 1 - 5 Total: 5
+					            
+
+
+
+Company Name
+Form Type
+Date Received
+View
+
+
+
+INSYNERGY PRODUCTS, INC
+S-1/A
+6/1/2012
+Filing
+
+
+
+INSYNERGY PRODUCTS, INC
+S-1/A
+5/24/2012
+Filing
+
+
+
+INSYNERGY PRODUCTS, INC
+S-1/A
+5/3/2012
+Filing
+
+
+
+INSYNERGY PRODUCTS, INC
+S-1/A
+4/17/2012
+Filing
+
+
+
+INSYNERGY PRODUCTS, INC
+S-1
+1/31/2012
+Filing
+
+
+
+
+
+
+
+Experts
+
+
+Auditor
+HJ Associates & Consultants, LLP
+
+
+Company Counsel
+Law Offices of Davis & Associates
+
+
+Transfer Agent
+ -- 
+
+
+Underwriter
+ -- 
+
+
+
+
+
+
+                                There are no news stories for this IPO at this time.
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+Today's Market Activity
+
+
+
+
+
+NASDAQ
+
+6363.25
+
+
+15.13
+ ▲ 
+0.24%
+
+
+
+
+
+DJIA
+
+21953.93
+
+
+62.81
+ ▲ 
+0.29%
+
+
+
+
+
+S&P 500
+
+2475.12
+
+
+4.82
+ ▲ 
+0.20%
+
+
+
+
+
+
+
+
+
+
+Data as of Aug 1, 2017 | 09:46AM
+
+
+Try for Free: NASDAQ LiveQuotes Platform
+
+
+
+View All
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest News Headlines
+
+
+
+
+                            Windstream adds improved customer experience and network connectivity options to its successful SD-
+                        
+
+
+
+	                     9:30AM ET  - GlobeNewswire
+	                
+
+
+
+
+                            School Specialty Sets Date for its Fiscal 2017 Second Quarter Financial Results
+                        
+
+
+
+	                     9:30AM ET  - GlobeNewswire
+	                
+
+
+
+
+                            Penn Virginia Corporation Schedules Second Quarter 2017 Results Conference Call
+                        
+
+
+
+	                     9:29AM ET  - GlobeNewswire
+	                
+
+
+
+
+                            Guggenheim CurrencyShares® Exchange Traded Products Declare Monthly Distributions
+                        
+
+
+
+	                     9:28AM ET  - GlobeNewswire
+	                
+
+
+
+
+
+View All Latest Headlines
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Upcoming Earnings
+
+
+
+Company
+Expected Report Date
+
+
+
+
+AAPL
+TBA
+
+
+SYY
+Aug 14, 2017
+
+
+HD
+Aug 15, 2017
+
+
+A
+Aug 15, 2017
+
+
+COH
+Aug 15, 2017
+
+
+AMZN
+Aug 15, 2017
+
+
+VIAV
+Aug 15, 2017
+
+
+URBN
+Aug 15, 2017
+
+
+
+
+
+Earnings Calendar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CLOSEX
+
+Edit Favorites
+
+Enter up to 25 symbols separated by commas or spaces in the text box below. These symbols will be available during your session for use on applicable pages.
+
+
+
+
+
+
+Update
+
+Clear List
+
+
+
+
+
+
+
+CLOSEX
+Customize your NASDAQ.com experience
+Background Color Selector
+
+Select the background color of your choice:
+
+
+
+
+
+ Black
+							
+
+
+
+
+
+ Slate Gray
+							
+
+
+
+
+
+
+ Light Gray
+							
+
+
+
+
+
+ Gray Blue
+							
+
+
+
+
+
+
+Quote Search
+
+Select a default target page for your quote search:
+
+
+
+						 Real-Time
+
+						 After Hours
+
+						 Pre-Market
+ News
+					
+
+
+						 Flash Quote
+
+						 Summary Quote
+
+						 Interactive Charts
+
+						 Default Setting
+
+
+
+
+					Please note that once you make your selection, it will apply to all future visits to NASDAQ.com.
+					If, at any time, you are interested in reverting to our default settings, please select Default Setting above.
+					
+					If you have any questions or encounter any issues in changing your default settings, please email isfeedback@nasdaq.com.
+				
+
+
+
+
+
+CLOSEX
+Please confirm your selection:
+
+					You have selected to change your default setting for the Quote Search. This will now be your default target page;
+					unless you change your configuration again, or you delete your
+					cookies. Are you sure you want to change your settings?
+
+
+YES
+NO
+
+
+
+
+
+
+
+
+
+
+
+
+
+CLOSEX
+
+
+Please disable your ad blocker (or update your settings to ensure that javascript and cookies are enabled), so that we can continue to provide you with the first-rate market news and data you've come to expect from us.
+
+
+
+
+
+CLOSEX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Insynergy Products, Inc. Company Financial Information
@@ -5636,7 +6678,7 @@ Insynergy Products, Inc. Company Financial Information
 
 
 
-01/08/2017 14:00:10
+01/08/2017 14:47:23
 
 
 
@@ -6059,7 +7101,7 @@ ADVFN US
 Finance Manila
 
 
-P:43 V:us D:20170801 13:00:10
+P:43 V:us D:20170801 13:47:23
 
 
 Welcome   
@@ -6111,8 +7153,9 @@ Don't have an account?  Register Now.
 
 
 
+ 
 
-Insynergy Products Inc (ISYG.PK)  Company Profile | Reuters.com
+INSYNERGY PRODUCTS, INC. (OTCMKTS:ISYG) Files An 8-K Unregistered Sales of Equity Securities - Market Exclusive
 
 
 
@@ -6146,11 +7189,24 @@ Insynergy Products Inc (ISYG.PK)  Company Profile | Reuters.com
 
 
 
+                          Sign in Join Home  About Us  Privacy Policy  Disclaimer     Advertise On Market Exclusive About Marketexclusive.com Contributors Sitemap Submit a Scoop! Contact Us Become a Contributor!   Stock Market News Stocks  Analyst Ratings Insider Trading SEC Filings Earnings   Biotech Stocks Small Caps     Sign in  Welcome!Log into your accountyour usernameyour password
+Forgot your password?   Sign up Welcome!Register for an account your emailyour username
+A password will be e-mailed to you.   Password recovery Recover your passwordyour email     Search 
+      Sign in / JoinMy Account orders                         Sign inWelcome! Log into your accountyour usernameyour password
+Forgot your password? Get helpCreate an account Create an accountWelcome! Register for an accountyour emailyour username
+A password will be e-mailed to you. Password recoveryRecover your passwordyour email
+A password will be e-mailed to you.     Market Exclusive              Home  About Us  Privacy Policy  Disclaimer     Advertise On Market Exclusive About Marketexclusive.com Contributors Sitemap Submit a Scoop! Contact Us Become a Contributor!   Stock Market News Stocks  Analyst Ratings Insider Trading SEC Filings Earnings   Biotech Stocks Small Caps           
 
+  Home  SEC Filings  INSYNERGY PRODUCTS, INC. (OTCMKTS:ISYG) Files An 8-K Unregistered Sales of Equity Securities     SEC Filings  INSYNERGY PRODUCTS, INC. (OTCMKTS:ISYG) Files An 8-K Unregistered Sales of Equity Securities  ByME Staff 8-k -April 10, 2017 32  Share on Facebook
+Tweet on Twitter
 
 
+ INSYNERGY PRODUCTS, INC. (OTCMKTS:ISYG) Files An 8-K Unregistered Sales of Equity SecuritiesItem 3.02 Unregistered Sales of Equity Securities   On April 4, 2017, the Company’s Board of Directors determined it was in the best interest of the Company to issue additional shares to Paul Bershin and Alan Diamante in consideration for funds previously loaned to the Company. Accordingly, the Company issued 3,811,594 shares of common stock to Paul Bershin at $0.03 per share and issued 4,846,376 shares of common stock to Alan Diamante at $0.03 per share.  The Company relied on an exemption from the registration requirements provided by Section 4(a) (2) of the Securities Act.   About INSYNERGY PRODUCTS, INC. (OTCMKTS:ISYG) Insynergy Products, Inc. is engaged in direct response marketing. The Company selects products invented by others for use in a Direct Response Marketing Program, but also develops its own products for sale as well. The Company markets health and fitness products, skin, hair and personal care products, nutritional supplements, house wares and appliances. It also markets anti-aging products. It is focused on marketing Plumber’s Hero, a product that clears normal clogs in the shower, tub, kitchen sink, bathroom sink and toilet. The Company’s Plumber’s Hero kit comes with a canister containing over 20 applications of the Plumber’s Hero formula, a large and a small rubber drain cover to work on kitchen sinks, including double sinks with a disposal, bathroom, shower and tub drains, as well as an extension handle for use in the toilet. The Company writes, produces, hires the talent, directs, shoots and edits many of its infomercials in-house. INSYNERGY PRODUCTS, INC. (OTCMKTS:ISYG) Recent Trading Information INSYNERGY PRODUCTS, INC. (OTCMKTS:ISYG) closed its last trading session 00.000 at 0.150 with shares trading hands.
+Please enable JavaScript to view the comments powered by Disqus.An ad to help with our costs
 
+RELATED ARTICLESMORE FROM AUTHOR      WEBSTER FINANCIAL CORPORATION (NYSE:WBS) Files An 8-K Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain...    CAPITAL CITY BANK GROUP, INC. (NASDAQ:CCBG) Files An 8-K Results of Operations and Financial Condition    Southern First Bancshares, Inc. (NASDAQ:SFST) Files An 8-K Results of Operations and Financial Condition     MUTUALFIRST FINANCIAL, INC. (NASDAQ:MFSF) Files An 8-K Results of Operations and Financial Condition    Lamb Weston Holdings, Inc. (NYSE:LW) Files An 8-K Results of Operations and Financial Condition    INVACARE CORPORATION (NYSE:IVC) Files An 8-K Regulation FD Disclosure  Subscribe to our Newsletter
 
+Email *
 
 
 
@@ -6162,22 +7218,33 @@ Insynergy Products Inc (ISYG.PK)  Company Profile | Reuters.com
 
 
 
+First nameLast nameEmail
 
 
 
+A word from the sponsor      Latest Articles
+ PINGTAN MARINE ENTERPRISE LTD. (NASDAQ:PME) Files An 8-K Results of Operations and Financial Condition 
+ RAYONIER ADVANCED MATERIALS INC. (NYSE:RYAM) Files An 8-K Financial Statements and Exhibits 
+ ARMSTRONG WORLD INDUSTRIES, INC. (NYSE:AWI) Files An 8-K Submission of Matters to a Vote of Security Holders 
 
+  Recent Posts 
+ WEBSTER FINANCIAL CORPORATION (NYSE:WBS) Files An 8-K Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers 
+ CAPITAL CITY BANK GROUP, INC. (NASDAQ:CCBG) Files An 8-K Results of Operations and Financial Condition 
+ Southern First Bancshares, Inc. (NASDAQ:SFST) Files An 8-K Results of Operations and Financial Condition 
+ MUTUALFIRST FINANCIAL, INC. (NASDAQ:MFSF) Files An 8-K Results of Operations and Financial Condition 
+ Lamb Weston Holdings, Inc. (NYSE:LW) Files An 8-K Results of Operations and Financial Condition 
 
+ Sponsored      EDITOR PICKS    Here’s What Just Happened With NeuroDerm Ltd. (NASDAQ:NDRM)  July 25, 2017   Biotech Movers At Both End Of The Space: GlaxoSmithKline plc (ADR)...  July 24, 2017   Here’s What Just Happened With Ironwood Pharmaceuticals, Inc. (NASDAQ:IRWD) and Aeterna...  July 21, 2017 POPULAR POSTS    This Small Nasdaq Hidden Gem May Have a $2.8B Drug  July 16, 2017   Weekly Biotech Report covering – Opko Health Inc (NYSE:OPK) Intercept...  April 11, 2016   Facebook Inc – (NASDAQ:FB) Might Be Moving Away From Its...  April 8, 2016 POPULAR CATEGORYSEC Filings38546Analyst Ratings2007LSE1947Stocks1364Tech News1269Biotech Stocks1186Stock Market News1119Small Caps724Insider Trading554   ABOUT USMarket Exclusive offers the latest financial news and analysis for selected US stocks and securities. We are an investor driven research platform where new investment ideas from a exclusively selected group of seasoned investment analysts and qualified members from various disciplines are able to deliver their investment thesis’ across various industries and sectors. Our burgeoning team is comprised of individuals with strong backgrounds from various disciplines and businesses. Our goal is to provide an exclusive forum for contributors and users to leverage the knowledge base in order to make smarter investing decisions.
+At Market Exclusive, we believe that quality information from experienced well seasoned contributors provide our members with an edge that allows them to make wise investment choices.
+Market Exclusive is not a registered investment broker/dealer. The content on this site is for informational purposes only. Additionally, the content on this site does not represent the views of Market Exclusive and is solely a representation of the authors who publish them. Before investing in any security you should do your own due diligence and consult with a registered broker or financial advisor.Contact us: [email protected]FOLLOW US
 
 
 
 
-X
 
 
 
-Edition:
 
-United States
 
 
 
@@ -6188,392 +7255,7 @@ United States
 
 
 
-
-
-
-
-
-
-
-
-Africa
-América Latina
-
-
-عربي
-Argentina
-
-
-Brasil
-Canada
-
-
-中国
-Deutschland
-
-
-España
-France
-
-
-India
-Italia
-
-
-日本
-México
-
-
-РОССИЯ
-United Kingdom
-
-United States
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Profile: Insynergy Products Inc (ISYG.PK)
-
-
-
-
-
-Related Topics: 
-StocksStock ScreenerAdvertising & Marketing
-
-
-
-
-
-
-
-
-
-
-
-
-                
-                        Overview
-                    
-
-
-
-                
-                        News
-                    
-
-
-
-                
-                        Key Developments
-                    
-
-
-
-                
-                        People
-                    
-
-
-
-                
-                        Charts
-                    
-
-
-
-                
-                        Financials
-                    
-
-
-
-                
-                        Analysts
-                    
-
-
-
-                    
-                            Research
-                        
-
-
-
-                    
-                            Pulse
-                        
-
-
-
-
-
-
-
-
-
-
-				ISYG.PK on OTC Markets Group
-
-
-				0.12USD
---
-
-
-
-
-
-				    Change	(% chg)
-
-
-		    
-						    --
-
-
-					            (--)
-					        
-
-
-
-
-
-
-Prev Close
-
-$0.12
-
-
-Open
-
---
-
-
-
-
-Day's High
-
---
-
-
-Day's Low
-
---
-
-
-
-
-Volume
-
---
-
-
-Avg. Vol
-
-1,797
-
-
-
-
-52-wk High
-
-$0.30
-
-
-52-wk Low
-
-$0.02
-
-
-
-
-
-
-
-
-
-
-
-
-					Full Description
-
-
-
-Insynergy Products, Inc., incorporated on January 26, 2010, is engaged in direct response marketing. The Company selects products invented by others for use in a Direct Response Marketing Program, but also develops its own products for sale as well. The Company markets health and fitness products, skin, hair and personal care products, nutritional supplements, house wares and appliances. It also markets anti-aging products. It is focused on marketing Plumber's Hero, a product that clears normal clogs in the shower, tub, kitchen sink, bathroom sink and toilet.The Company's Plumber's Hero kit comes with a canister containing over 20 applications of the Plumber's Hero formula, a large and a small rubber drain cover to work on kitchen sinks, including double sinks with a disposal, bathroom, shower and tub drains, as well as an extension handle for use in the toilet. The Company writes, produces, hires the talent, directs, shoots and edits many of its infomercials in-house. The Company focuses on hiring outside production companies who have had shooting shows with products in the same genre as the products it releases, such as fitness, house wares and hair care.
-
-» Full Overview of ISYG.PK
-
-
-
-
-
-
-
-					Company Address
-
-
-
-Insynergy Products Inc
-2501 Burbank Blvd, Suite #201BURBANK   CA   91505
-P: +1818.7601644F: +1818.7601079
-
-
-
-
-
-
-
-					Company Web Links
-
-
-
-Home Page
-
-
-
-
-
-
-
-
-					Officers & Directors
-
-
-
-
-
-
-Name
-Compensation
-
-
-
-
-							 Sanford Lang
-
-7,762
-
-
-
-
-							 Martin Goldrod
-
-4,650
-
-
-
-
-							 Rachel Boulds
-
---
-
-
-
-
-							 Steven Corso
-
---
-
-
-
-
-							 Ross Sklar
-
---
-
-
-
-
-» More Officers & Directors
-
-
-
-
-
-					Insynergy Products Inc News
-
-
-
-
-» More ISYG.PK  News
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Related Topics: 
-StocksStock ScreenerAdvertising & Marketing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ISYG Stock Price - Insynergy Products Inc. Stock Quote (U.S.: OTC) - MarketWatch
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    SEC Filings Stocks Stock Market News Tech News Biotech Stocks Featured Small Caps gold Other News Oil Become a Contributor! About Marketexclusive.com Contributors Advertise On Market Exclusive Contact Us   © Market Exclusive 2015
 
  
 
@@ -6596,1350 +7278,6 @@ ISYG Stock Price - Insynergy Products Inc. Stock Quote (U.S.: OTC) - MarketWatch
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Sections
-
-Watchlist
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Signup
- • 
-Login
-
-Search
-
-
-
-
-
-
-
-Bulletin
-
-
-
-
-
-
-
-
-
-
-
-US
-Europe
-Asia
-FX
-Rates
-Futures
-
-
-Range
-
-
-1D
-5D
-1M
-3M
-6M
-1Y
-2Y
-
-
-
-
-
-
-
-
-
-
-
-Asia Dow
-
-3,511.63
-
-
-13.07
-
-
-0.37%
-
-
-
-
-
-
-
-
-
-
-
-Nikkei 225
-
-19,985.79
-
-
-60.61
-
-
-0.30%
-
-
-
-
-
-
-
-
-
-
-
-Hang Seng
-
-27,540.23
-
-
-216.24
-
-
-0.79%
-
-
-
-
-
-
-
-
-
-
-
-Shanghai
-
-3,292.64
-
-
-19.61
-
-
-0.60%
-
-
-
-
-
-
-
-
-
-
-
-Sensex
-
-32,575.17
-
-
-60.23
-
-
-0.19%
-
-
-
-
-
-
-
-
-
-
-
-Singapore
-
-3,338.20
-
-
-8.68
-
-
-0.26%
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-S&P 500 Movers(%)
-
-
-
-CHTR 
-5.8
-
-
-
-
-SCG 
-5.0
-
-
-
-
-UA 
-4.3
-
-
-
-
-AMG 
-4.0
-
-
-
-
-
-
-DISCK
--9.3
-
-
-
-
-DISCA
--8.2
-
-
-
-
-COL
--6.3
-
-
-
-
-MU
--4.0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Latest NewsAll Times Eastern
-
-
-
-
-
-
-
-
-8:59a
-
-Senate Democrats press for bipartisan tax talks | White House panel recommends declaring emergency on opioids   
-
-
-
-8:59a
-
-Updated
-Gold challenged to hold seven-week highs
-
-
-
-8:58a
-
-Updated
-AIG earnings: Investors expect an update from new CEO Brian Duperreault
-
-
-
-8:47a
-
-Updated
-Flying in coach could be harmful to your health
-
-
-
-8:47a
-
-In Hollywood women are still seen and not heard
-
-
-
-8:45a
-
-Simon Property Group jumps as company raises guidance, ups dividend
-
-
-
-8:44a
-
-American Airlines' stock rallies after second upgrade in two days
-
-
-
-8:35a
-
-Updated
-Consumer spending inches up 0.1% in June
-
-
-
-8:33a
-
-2-year Treasury note yield up 0.4 basis point at 1.359%
-
-
-
-8:33a
-
-10-year Treasury note yield up 0.8 basis point at 2.303%
-
-
-
-
-
-
-
-
-
-
-
-
-to be replaced
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-Home
-
-
-Investing
-
-
-Quotes
-
-
-Stocks
-
-
-United States
-
-
-ISYG
-
-
-Overview
-
-
-
-Compare Quotes
-Stock Screener
-Earnings Calendar
-Sectors
-
- 
-
-
-
-ISYG
-U.S.: OTC
-
-
-Join TD Ameritrade
-
-Find a Broker
-
-
-Insynergy Products Inc.
-
-Watchlist 
-CreateISYGAlert
-
-
-
-  
-
-
-Closed
-
-Last Updated: Jul 25, 2017 5:20 p.m. EDT
-Delayed quote
-
-
-
-$
-0.12
-
-
-
--0.065
--35.14%
-
-
-
-
-
-
-Previous Close
-
-
-
-
-$0.1850
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-Advanced Charting
-
-
-1D
-5D
-1M
-3M
-6M
-YTD
-1Y
-3Y
-All
-
-
-
-
-$
-%
-Vol
-
-
-Advanced Charting
-
-  
-
-
-
-
-41.72% vs Avg.
-
-
-
-
-                Volume:               
-                
-                    150
-                
-
-
-                65 Day Avg. - 359.6
-            
-
-
-
-
-
-Open: 0.00
-Close: 0.12
-
-
-
-0.0000
-Day Low/High
-0.0000
-
-
-
-
-
-Day Range
-
-
-
-0.0200
-52 Week Low/High
-0.3000
-
-
-   
-
-
-
-
-
-
-
-
-Your Watchlist
-
-
-
-Customize MarketWatch
-Have Watchlists? Log in to see them here or sign up to get started.
-
-Create Account
-
-                    … or Log In
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Symbol
-Last
-Chg
-Chg %
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-No Items in Watchlist
-There are currently no items in this Watchlist.
-
-Add Ticker to Watchlist
-
-
-
-
- (Go to Your Watchlist) 
-
-
-
-
-No Saved Watchlists
-Create a list of the investments you want to track.
-
-Create Watchlist
-
-                    …or try this starter list
-
-
-
-
-
-
-Uh oh
-Something went wrong while loading Watchlist.
-
-Go to Watchlist
-
-
-
- 
-
-Recently Viewed Tickers
-
-
-
-No Recent Tickers
-Visit a quote page and your recently viewed tickers will be displayed here.
-
-Search Tickers
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-
-
-
-
-
-Overview
-
-
-Profile
-
-
-News
-
-
-Charts
-
-
-Financials
-
-
-Historical Quotes
-
-
-Analyst Estimates
-
-
-Options
-
-
-SEC Filings
-
-
-Insiders
-
-
-
-   
-
-
-
-
-Key Data
-
-
-
-Open
-$0.00
-
-
-
-Day Range
-0.0000 - 0.0000
-
-
-
-52 Week Range
-0.0200 - 0.3000
-
-
-
-Market Cap
-$6.71M
-
-
-
-Shares Outstanding
-36.26M
-
-
-
-Public Float
-26.83M
-
-
-
-Beta
-n/a
-
-
-
-Rev. per Employee
-$205.38K
-
-
-
-P/E Ratio
-n/a
-
-
-
-EPS
-$-0.02
-
-
-
-Yield
-n/a
-
-
-
-Dividend
-n/a
-
-
-
-Ex-Dividend Date
-n/a
-
-
-
-Short Interest
-n/a
-n/a
-
-
-% of Float Shorted
-n/a
-
-
-
-Average Volume
-359.57
-
-
-
-
- 
-
-
-Performance
-
-
-
-
-5 Day
-
-
--35.14%
-
-
-
-
-
-
-
-1 Month
-
-
--35.14%
-
-
-
-
-
-
-
-3 Month
-
-
--3.23%
-
-
-
-
-
-
-
-YTD
-
-
--34.75%
-
-
-
-
-
-
-
-1 Year
-
-
--34.75%
-
-
-
-
-
-
-
-
-
-  
-
- 
- 
-
-
-Recent News
-
-
-
-MarketWatch
-Other Dow Jones
-
-
-
-
-No Headlines Available
-
-
-
-
-No Headlines Available
-
-
-
-
-
-
-
-
-
-
-
-Recent News
-
-
-
-Other News
-Press Releases
-
-
-
-
-
-
-10-Q: INSYNERGY PRODUCTS, INC
-10-Q: INSYNERGY PRODUCTS, INC
-
-May. 8, 2017 at 2:51 p.m. ET
-on Edgar Online -  (EDG = 10Q, 10K)
-
-
-
-
-
-10-K: INSYNERGY PRODUCTS, INC
-
-
-Mar. 31, 2017 at 4:32 p.m. ET
-on Edgar Online -  (EDG = 10Q, 10K)
-
-
-
-
-
-10-Q: INSYNERGY PRODUCTS, INC
-
-
-Nov. 14, 2016 at 5:09 p.m. ET
-on Edgar Online -  (EDG = 10Q, 10K)
-
-
-
-
-
-10-Q: INSYNERGY PRODUCTS, INC
-
-
-Sep. 8, 2016 at 5:11 p.m. ET
-on Edgar Online -  (EDG = 10Q, 10K)
-
-
-
-
-
-
-
-No Headlines Available
-
-
-
-
-
-
-
-
-Insynergy Products Inc.
-
-
-            
-            Insynergy Products, Inc. is a consumer goods company. It markets and distributes develops consumer products and sells to retailers worldwide in the health & fitness, home solutions and beauty categories. The company was founded by Sanford Lang and Martin Goldrod on January 26, 2010 and is headquartered in Burbank, CA.
-
-            
-            (See Full Profile)
-
-
-  
-
-
-
- 
-
-
-Competitors
-
-
-
-
-Name
-Chg %
-Market Cap
-
-
-
-
-Simon Worldwide Inc.
-28.57%
-$126.65K
-
-
-Rocket Fuel Inc.
-0.00%
-$122.12M
-
-
-Lamar Advertising Co. Cl A
--0.95%
-$6.91B
-
-
-
-
-Competitor Data Provided By
-
-
-   
-
-
-
-
-
-
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Partner Content
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Trending Tickers
-Powered by 
-
-
-
-
-
-SHOP
-
--0.66%
-
-
-
-
-
-
-
-
-UAA
-
-2.98%
-
-
-
-
-
-
-
-
-P
-
--5.49%
-
-
-
-
-
-
-
-
-S
-
--2.92%
-
-
-
-
-
-
-
-
-AAPL
-
--0.52%
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Advanced Search
-
-
-
-
-
-
-
-Stocks
-
-
-
-Columns
-
-
-Authors
-
-
-Topics
-
-
-
-
-
-
-
-No results found
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Video Center
-
-
-
-
-
-
-
-
-
-
-Learn more.Storyful, a division of News Corp, which owns MarketWatch, is a leading social media services company headquartered in Dublin, Ireland. Storyful combines world class journalism with industry-leading technology to discover, verify and acquire original content and provide the on-the-ground sources news and media organizations need to tell the stories that matter to their audience.
 
 
 
@@ -8570,11 +7908,11 @@ International Trade Starts With Our Data
 
 Other companies in our database
 
- JC PENNEY
+ INTEL TECHNOLOGY SDN BHD
  PEPSICO
  NINTENDO OF AMERICA INC.
- DELL PRODUCTS
- PANASONIC CONSUMER ELECTRONICS COMP
+ TOSHIBA ELECTROMEX.S.A. DE C.V.    
+ TOYS R-US (WAREHOUSE #0083)
 
 
 
@@ -9415,23 +8753,23 @@ Company Profiles
 
 
 
-                                    Tianjin Jing International Ocean Lo                                
+                                    Grays Of Cambridge (int L) Ltd                                
 
 
 
-                                    Zhangijagang Pro Fixture Co Ltd                                
+                                    Gunius Korea Co Ltd                                
 
 
 
-                                    E-livi(shenzhen)electonics Co.,ltd                                
+                                    Li & Fung Trading (shanghai) Limite                                
 
 
 
-                                    Capsum Sas                                
+                                    Sundia C/o Americold-compton Ca                                
 
 
 
-                                    Foshan Huatao Construction Material                                
+                                    Deutsch Fn!ily Wine & Spirits                                
 
 
 
@@ -9525,7 +8863,7 @@ Back to top
 
 
 
-All Rights Reserved. Copyright © 2017. Trade Data Services, Inc. 0.4028
+All Rights Reserved. Copyright © 2017. Trade Data Services, Inc. 0.3136
  
 
 
@@ -9571,818 +8909,6 @@ Send
 
 
 X
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-INSYNERGY PRODUCTS, INC IPO - NASDAQ.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Hot Topics:
-ETFs |
-Smart Portfolio |
-Currencies |
-Online Broker Center
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Search
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Home > 
-    Markets > 
-    IPOs  > 
-    Company IPO Overview
-
-
-
-
-
-INSYNERGY PRODUCTS, INC IPO
-
-
-
-
-Overview
-
-
-
-
-News Headlines
-
-
-
-
-Financials & Filings
-
-
-
-
-Experts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Key Data
-Use of Proceeds
-Competitors
-
-
-
-
-Company Overview
-
-
-Company Name
-INSYNERGY PRODUCTS, INC
-
-
-Company Address
-4705 LAUREL CANYON BLVD., SUITE 2025STUDIO CITY, CA 91607
-
-
-Company Phone
-818-760-1644
-
-
-Company Website
-www.insynergyproducts.com
-
-
-CEO
-Sanford Lang
-
-
-Employees  (as of 6/1/2012) 
-3
-
-
-State of Inc
-NV
-
-
-Fiscal Year End
-12/31
-
-
-Status
-Filed (1/31/2012)
-
-
-Proposed Symbol
- -- 
-
-
-Exchange
-OTCBB
-
-
-Share Price
-$0.50
-
-
-Shares Offered
-2,154,130
-
-
-Offer Amount
-$1,077,065.00
-
-
-Total Expenses
-$10,623.50
-
-
-Shares Over Alloted
- -- 
-
-
-Shareholder Shares Offered
-2,154,130
-
-
-Shares Outstanding
-15,101,900
-
-
-Lockup Period (days)
-180
-
-
-Lockup Expiration
- -- 
-
-
-Quiet Period Expiration
- -- 
-
-
-CIK
-0001539850
-
-
-
-
-All shares of our common stock offered by this prospectus are being 
-registered for the account of the selling stockholders. We will not 
-receive any of the proceeds from the sale of these shares.
-
-
-There is significant competition in the Direct Response industry from both 
-small and large companies since there are really no barriers to entry.  As 
-a result, there are literally hundreds of direct response companies that 
-operate in the US and off a wide variety of products across all categories 
-of consumer goods. 
-
-The Company will have to rely on the skills of its management to pick 
-products which produce successful direct response marketing campaigns 
-and ultimately profits to the Company.
-
-
-Company Description
-The Company is a development stage company that is in the process of 
-implementing its business plan, but has had no revenues to date.  We are 
-not a blank check Company and have no plans or intention to engage in a 
-merger or acquisition with an unidentified company, companies, entity or 
-person,
-
-
- nor do we nor any of our affiliates intend for the Company, once 
-it is publicly traded, to be used as a vehicle for some other private 
-company to become a publicly traded company. 
-
-Insynergy Products, Inc. (formerly Insynergy, Inc.) (the "Company") was 
-incorporated in the State of Nevada on January 26, 2010 to engage in Direct 
-Response retail marketing and sale of  consumer products through Television 
-and the Internet, followed up for successful products with more traditional 
-distribution and sale of such products through traditional retail outlets, 
-once a brand for the product has been established. 
-
-Our current headquarters are located at 4705 Laurel Canyon Blvd., Suite 205, 
-Studio City, CA 91607. Our website is located at www.insynergyproducts.com. 
-Our telephone number is (818)760-1644.
-
-
-Full Description
-
-The IPO profiles may contain historical records. Please visit the latest IPOs for the most recent information.
-
-
-
-
-Company Financials
-
-
-
-Revenue
- -- 
-
-
-Net Income
--$181,459
-
-
-Total Assets
-$194,472
-
-
-
-
-
-
-Total Liabilities
-$520,553
-
-
-Stockholders' Equity
--$326,081
-
-
-
-
-Company Filings
-
-                                    Viewing: 1 - 5 Total: 5
-					            
-
-
-
-Company Name
-Form Type
-Date Received
-View
-
-
-
-INSYNERGY PRODUCTS, INC
-S-1/A
-6/1/2012
-Filing
-
-
-
-INSYNERGY PRODUCTS, INC
-S-1/A
-5/24/2012
-Filing
-
-
-
-INSYNERGY PRODUCTS, INC
-S-1/A
-5/3/2012
-Filing
-
-
-
-INSYNERGY PRODUCTS, INC
-S-1/A
-4/17/2012
-Filing
-
-
-
-INSYNERGY PRODUCTS, INC
-S-1
-1/31/2012
-Filing
-
-
-
-
-
-
-
-Experts
-
-
-Auditor
-HJ Associates & Consultants, LLP
-
-
-Company Counsel
-Law Offices of Davis & Associates
-
-
-Transfer Agent
- -- 
-
-
-Underwriter
- -- 
-
-
-
-
-
-
-                                There are no news stories for this IPO at this time.
-                            
-
-
-
-
-
-
-
-
-
-
-
-
-Today's Market Activity
-
-
-
-
-
-NASDAQ
-
-6348.12
-
-
--26.56
- ▼ 
-0.42%
-
-
-
-
-
-DJIA
-
-21891.12
-
-
-60.81
- ▲ 
-0.28%
-
-
-
-
-
-S&P 500
-
-2470.30
-
-
--1.80
- ▼ 
-0.07%
-
-
-
-
-
-
-
-
-
-
-Data as of Jul 31, 2017
-
-
-Try for Free: NASDAQ LiveQuotes Platform
-
-
-
-View All
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Latest News Headlines
-
-
-
-
-                            Reis, Inc. Announces Second Quarter 2017 Results
-                        
-
-
-
-	                     8:45AM ET  - GlobeNewswire
-	                
-
-
-
-
-                            IGC Builds Team Adding Industry Leader Dr. Chuanhai Cao, an expert on THC-Based Alzheimer’s Disease
-                        
-
-
-
-	                     8:42AM ET  - GlobeNewswire
-	                
-
-
-
-
-                            TICC Capital Corp. Schedules Second Quarter 2017 Earnings Release and Conference Call for August 8,
-                        
-
-
-
-	                     8:39AM ET  - GlobeNewswire
-	                
-
-
-
-
-                            Liolios 6th Annual Gateway Conference to Showcase 100 Companies at the Four Seasons San Francisco o
-                        
-
-
-
-	                     8:34AM ET  - GlobeNewswire
-	                
-
-
-
-
-
-View All Latest Headlines
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Upcoming Earnings
-
-
-
-Company
-Expected Report Date
-
-
-
-
-AAPL
-TBA
-
-
-SYY
-Aug 14, 2017
-
-
-HD
-Aug 15, 2017
-
-
-A
-Aug 15, 2017
-
-
-COH
-Aug 15, 2017
-
-
-AMZN
-Aug 15, 2017
-
-
-VIAV
-Aug 15, 2017
-
-
-URBN
-Aug 15, 2017
-
-
-
-
-
-Earnings Calendar
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CLOSEX
-
-Edit Favorites
-
-Enter up to 25 symbols separated by commas or spaces in the text box below. These symbols will be available during your session for use on applicable pages.
-
-
-
-
-
-
-Update
-
-Clear List
-
-
-
-
-
-
-
-CLOSEX
-Customize your NASDAQ.com experience
-Background Color Selector
-
-Select the background color of your choice:
-
-
-
-
-
- Black
-							
-
-
-
-
-
- Slate Gray
-							
-
-
-
-
-
-
- Light Gray
-							
-
-
-
-
-
- Gray Blue
-							
-
-
-
-
-
-
-Quote Search
-
-Select a default target page for your quote search:
-
-
-
-						 Real-Time
-
-						 After Hours
-
-						 Pre-Market
- News
-					
-
-
-						 Flash Quote
-
-						 Summary Quote
-
-						 Interactive Charts
-
-						 Default Setting
-
-
-
-
-					Please note that once you make your selection, it will apply to all future visits to NASDAQ.com.
-					If, at any time, you are interested in reverting to our default settings, please select Default Setting above.
-					
-					If you have any questions or encounter any issues in changing your default settings, please email isfeedback@nasdaq.com.
-				
-
-
-
-
-
-CLOSEX
-Please confirm your selection:
-
-					You have selected to change your default setting for the Quote Search. This will now be your default target page;
-					unless you change your configuration again, or you delete your
-					cookies. Are you sure you want to change your settings?
-
-
-YES
-NO
-
-
-
-
-
-
-
-
-
-
-
-
-
-CLOSEX
-
-
-Please disable your ad blocker (or update your settings to ensure that javascript and cookies are enabled), so that we can continue to provide you with the first-rate market news and data you've come to expect from us.
-
-
-
-
-
-CLOSEX
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

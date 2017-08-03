@@ -17,625 +17,7 @@ System IntroductionPickup SystemSearch SystemMember SystemManagement SystemCouri
 	Fax: 86021-64609680
 	Contact: Miss. Hu, Mr. Lan
 	Email: 13818597088@139.com
-HomeSystemsProductsNewsCaseFAQOrderAbout UsContact UsMain Products Shanghai Baoqing Intelligent Technology Co. Ltd  Copyright © 2010-2014 
-
-Integer.pl News
-	| Owler
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- We just sent you an email to verify your account. Check your inbox!     
-				Resend verification link > 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Sign In  
-Sign In 
-
-Sign Up
-
-
-
-
-
-
-
-
-
-
-
-
-
-EDIT Address
-EDIT Funding
-EDIT Acq
-EDIT CEO
-EDIT Name And Picture
-EDIT CEO Link
-EDIT Acq Link
-EDIT Links
-EDIT Funding
-EDIT Address Link
-EDIT Twitter Link
-EDIT Facebook Link
-
-
-
-
-
-
-
-
-            You have just joined {{count}} of your colleagues at {{name}} who read the Owler Daily Snapshot everyday.
-        
-
-            You have just joined over 1 million business professionals on Owler who read the Daily Snapshot everyday.
-        
-
-            Go to 'My Portfolio' to follow the companies that matter to you to customize your Daily Snapshot.
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ALERT
-{{task_c.msg}}
-
-Ok
-
-
-
-
-
-
-
-
-
-
-What section would you like to update?
-What does it mean to update a profile?
-
-
-
-
-
-
- Company Logo
- Company Name & URL
- Company Description
- Founded Date
- Company Status
- HQ Address
- Social Links
-
-
-
-
- CEO Name & Picture
- Competitor Set
- Funding Events
- Acquisition Events
- Revenue
- Headcount
- Industry Links
-
-
-
-What does it mean to update a profile?
-
-
-
-
-
-Owler is a community of business professionals working together to build a database of company information. One contribution reaches thousands of members across the Owler community.
-When you contribute on Owler you're shaping the database for all people consuming Owler data. Your updates will flow through to company profiles, competitive intelligence reports, daily snapshots and more. All verified members of the Owler community can update Owler profiles.  Members help the community by sharing data, such as a company's headquarters, and also by weighing-in on sentiment-based questions, such as CEO rating.
-Community members make this all happen. That being said, each data update is reviewed by at least one other person to ensure accuracy. All updates are kept anonymous. Happy updating!
-
-
-< BACK
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-ADD COMPANY
-						LOGO 
-
-
-
-ADD COMPANY
-						LOGO 
-
-
-ADD COMPANY
-					LOGO 
-
-
-Edit founded date
-Edit oveview
-Edit Website URL
-Edit Links
-Edit Industry Tags
-
-
-
-
-
-
-
-{{companyBasicDetails.name}}
-
- |   {{companyBasicDetails.website | removeHttpPrefix}}
-
-
-
-
-{{companyBasicDetails.description}}
-
-
-
-Click here to provide a company description for
-						{{companyBasicDetails.name}}
-					
-
-
-
-
-
-
-
-FOLLOW ({{company_num_of_followers}})
-FOLLOWING ({{company_num_of_followers}})
-
-
-
-
-
-
-
-EDIT PROFILE ({{companyBasicDetails.profileCompletenessScore}}%)
-
-
-
-
-
-
-
-SHARE
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-			Back to	Profile
-		
-
-{{companyBasicDetails.shortName}} News
-
-
-Filter
-
-
-
-Select Filter
-(All)
-(None)
-
-
-
-
-{{filter.FeedCategoryDisplayName}}
-
-
-Apply Changes
-
-
-Back to Profile
-
-
-
-
-
-
-
-
-
-
-
-
-{{feed.title}}
-
-
-{{feed.title}}
-
-{{feedsCtrl.getArticleDescription(feed)}}
-
-{{feed.source}}
-+ {{feed.cluster_count-1}} 
-                            	OTHER SOURCES
-
-{{feed.feed_time}}
-
-
-
-Share
-
-
-
-
-
-
-
-There are currently no items.
-
-
-
- There
-							are no filters Present Turn
-								on some filters to view feed items.
-
-
-
-
-
-
-There are currently no items.
-
-
-
-  Follow More
-									companies
- prospects, clients,
-								partners, vendors, investments, etc...
-
-
-
-
-
-Back to Profile
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Sorry!
-Editing data is currently only available on tablets or desktops
-
-Email our support team >
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- Your team is already using Owler. 
- Join them. 
-
-
-
-
-
-
-
-
-
-
-{{ErrorMsg}}
-
-
-
-{{InfoMsg}}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-73% of high-growth companies use Owler every day.
-Unlock {{compName}} company profile by entering your work email
-
-
-
-
-
-
-
-
-Sign me up for Owler's email products. You can unsubscribe at any time. See our Terms of Use and Privacy Policy for more details.
-
-
-
-{{ErrorMsg}}
-
-
-
-{{InfoMsg}}
-
-
-
-{{SignUpEmailErrorMsg}}
-
-
-
-
-
-Sign me up for Owler's email products. You can unsubscribe at any time. See our Terms of Use and Privacy Policy for more details.
-
-
-
-{{ErrorMsg}}
-
-
-
-{{InfoMsg}}
-
-
-
-{{SignUpEmailErrorMsg}}
-
-
-
-
-
-Sign In >
-Sign In >
-
-
-
-
-
-
-Hmmm...are you sure that's your work email?
-
-
-
-We can't add you to your team if we don't have your work email.
-
-
-
-
-
-
-
-{{ErrorMsg}}
-
-
-
-{{InfoMsg}}
-
-
-
-
-
-
-{{email}} is my work email >
-I don't have a work email >
-
-
-
-
-
-
-
-
-Last thing...we promise.
-
-                            Where do you work?
-                        
-
-
-
-
-
-
-
-{{CompanyErrorMsg}}
-
-
-
-
-{{CompanyErrorMsg}}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   Market Analysis - Integer                                manage you subscriptionsOR stay where you areClosePlease note: the downloads on this page may not work on your browser (Internet Explorer 7 or 8 from Microsoft) as we use encryption technology (to make your browsing experience as safe and secure as possible) which is newer than IE7 or IE8 supports. Rather than downgrade our security, we apologise and request that you update to the latest version – IE11 – or alternatively download Google Chrome or Firefox – which work without issues. Alternatively, please email info@integer-research.com and let us know which download you require so we can send it to you directly. Your login details: Username:   E-mail:    Password Password confirmation TitleMrMrsMissDr First Name* Last Name* Company* Job title / Position* Address Street Town / City* Postal code/ZIP* Telephone contact number Choose a Country*AfghanistanÅland IslandsAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua And BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBosnia And HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBrunei DarussalamBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCongoCongo The Democratic Republic Of TheCook IslandsCosta RicaCote D'ivoireCroatiaCubaCyprusCzech RepublicDenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland Islands (Malvinas)Faroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-bissauGuyanaHaitiHeard Island And Mcdonald IslandsHoly See (Vatican City State)HondurasHong KongHungaryIcelandIndiaIndonesiaIran Islamic Republic OfIraqIrelandIsle Of ManIsraelItalyJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKorea Democratic People's Republic OfKorea Republic OfKuwaitKyrgyzstanLao People's Democratic RepublicLatviaLebanonLesothoLiberiaLibyan Arab JamahiriyaLiechtensteinLithuaniaLuxembourgMacaoMacedonia The Former Yugoslav Republic OfMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesia Federated States OfMoldova Republic OfMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNetherlands AntillesNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorwayOmanPakistanPalauPalestinian Territory OccupiedPanamaPapua New GuineaParaguayPeruPhilippinesPitcairnPolandPortugalPuerto RicoQatarReunionRomaniaRussian FederationRwandaSaint HelenaSaint Kitts And NevisSaint LuciaSaint Pierre And MiquelonSaint Vincent And The GrenadinesSamoaSan MarinoSao Tome And PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia And The South Sandwich IslandsSpainSri LankaSudanSurinameSvalbard And Jan MayenSwazilandSwedenSwitzerlandSyrian Arab RepublicTaiwan Province Of ChinaTajikistanTanzania United Republic OfThailandTimor-lesteTogoTokelauTongaTrinidad And TobagoTunisiaTurkeyTurkmenistanTurks And Caicos IslandsTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUnited States Minor Outlying IslandsUruguayUzbekistanVanuatuVenezuelaViet NamVirgin Islands (British)Virgin Islands (U.S)Wallis And FutunaWestern SaharaYemenZambiaZimbabwe Business Type*Bank/FinancialConsultancyDistributor/Logistics/FleetEducation/LibraryEquipment supplier/OEMGovernment/RegulatorTrade/Industry AssociationPress/MediaProducer/manufacturerRaw Material SupplierOther Select the regions of interest to you (hold cntrl + click to select more than one)Africa & Middle EastAsia/Asia Pacific/AustralasiaEuropeRussia & CISNorth America (incl. Mexico)South & Central America  Please keep me informed of the latest news, research and conferences*  I do not wish to be contacted by emailRead the terms and conditions*  I have read and agree to the website Terms and Conditions Password Confirm Password    +    =        Your interests* - select more than one if necessaryEnvironment & EmissionsDEF/AdBlue/ARLA 32Emissions Control TechnologiesMarine EmissionsOn-Road - Light Duty Vehicles/Passenger carNon-Road/Off-HighwayLNG/CNG/Alternative fuelsOn-Road - Heavy Duty VehiclesEngine/Vehicle ManufactureFertilizers & ChemicalsAmmonium SulphateNitrogenPhosphateUANSulphurAmmonium NitratePhosphate RockPotash (SOP)Potash (MOP)NPKSulphuric AcidUreaValue Added and Specialty FertilizersWire & CableData, signal & controlEnamelled/magnet wireFibre optic cableFire performance cablePower cableSpecialty cableAutomotive Cable REGISTERYour login details: E-mail:  Password  Remember me?     forgot password?Member LoginRegisterC   HomeAbout UsMarket AnalysisConferencesConsultancyExclusive ContentContact UsMenuHomeAbout UsMarket AnalysisConferencesConsultancyExclusive ContentContact Us ?>Market Analysis []  Translate Click here to read this in:  Translate Click here to read this in:What are you looking for? By Industry all industriesEnvironment & EmissionsFertilizers & ChemicalsWire & Cable By Subject please select industry first   Global Power Cable Supply: HV/EHV and Submarine Cable Break down of power cable supply for HV, EHV, UHV and Submarine power cableData coverage across 28 countries between the years of 2008 - 2016 + forecastsProduction and capacity by supplier in value (US$m), gross cable weight ('000tonnes), core km lengths Delivered as an Excel Database + Supporting PDF/PowerPoint slides    NEW: The Global SCR Forecast Service Overview of global emissions standards Global vehicle sales forecast to 2026 Global SCR sales forecast to 2026 Global SCR fleet forecast to 2026 All forecasts split out by country and region    Wire & Cable Market: Asia Pacific and South Asia Essential analysis and data for the Asia Pacific and South Asia markets Five year forecasts for supply and demand and analysis from 2008 Revenue production by cable type for plants/factories, companies, countries, or region Factory/plant locations and bi-annual excel and slide updates    Wire & Cable Market: Europe and CIS Essential analysis and data for Europe & CIS markets Five year forecasts for supply and demand and analysis from 2008 + bi-annual excel and slide updates Factory/plant and geolocations/addresses Three years of revenue production by cable type for plants/factories, companies, countries, or region    Spotlight Report – Chinese SulphurReveal how trade into China has changed and developed in recent yearsDiscover which new projects will impact China’s supply/demand balance in the outlookAccess future market prices for China out to 2027    Wire & Cable Market: Americas Essential analysis and data for the North and South American markets Five year forecasts for supply and demand and analysis from 2008 Revenue production by cable type for plants/factories, companies, countries, or region Factory/plant geolocations/addresses and bi-annual excel and slide updates    Wire & Cable Market: Middle East & Africa Essential analysis and data for the Middle East & Africa Wire & Cable market Five year forecasts for supply and demand and analysis from 2008 Revenue production by cable type for plants/factories, companies, countries, or region Factory/plant locations and bi-annual excel and slide updates    Spotlight Report: Latin American Sulphuric Acid MarketDiscover how the downturn in metals prices is impacting sulphuric acid production and demandUnderstand how the new plant in Cuba is likely to impact market dynamicsReveal future market prices for Latin American sulphuric acid exports across three scenarios out to 2026Learn how trade from Latin America is likely to evolve over the next 10 years    The Monitor: AdBlue, DEF & ARLA 32 marketsAdBlue, DEF and Arla 32 market news and regulatory developmentsRegional retail pump networksMonthly AUS 32 consumption estimates and underlying costsSCR-equipped vehicle sales estimates    NEW: The India SCR & AdBlue® Forecast Service Regulation breakdown Integer analysis on the likelihood of Bharat VI going ahead AGU demand forecast AdBlue® demand forecast    OUT NOW: The South Korea SCR & AdBlue® Forecast Service Essential emissions legislation overview and outlook South Korea AdBlue® consumption forecast, Adblue® and urea pricing South Korean AdBlue® producers details and locations Analysis of current and future OEM strategies to meet standards    New: The Market for Specialty CableDrivers of demand by end-use and production in US$ millionSpecifications, standards and key consumers by sectorSize of the market by OEM product by region and countryProjected new build and cable demand forecasts to 2020    NEW: Nitrogen 10-Year Outlook ServiceReveal the 10 year forecasts of capacity additions, incorporating several scenariosDiscover the demand forecast for all of the primary nitrogen products, end products and end marketsUnderstand the role of the most prominent importers and exporters by end productAccess the forecast costs for key importers, exporters and end users of the primary nitrogen products    NEW: The China SCR & AdBlue® Forecast Service Who are the largest AdBlue® producers in China? Where do they operate? What are the main areas for growth in the Chinese AdBlue® sector? How will AdBlue® consumption grow over time? And what factors govern its trajectory?    NEW: Nitrogen Cost and Profit Margin ServiceProduction costs by producer, the prices and margins they achieve and how these are likely to change in the futureHow feedstock costs, including shale gas, will impact production economicsIdentify swing producers and where they are on the cost/supply curveNew capacity (greenfield and brownfield) likely to be added in the medium term    New: Global NPK Supply, Demand and Trade DatabaseDiscover the size of the marketGain insight into global trade flowsReveal current and historical supply and demandIncorporate the comprehensive datasets into your planning and use them to inform and support your decision making    The Integer Top 100 Global Wire and Cable Producers DatabaseWho are the biggest wire and cable manufacturers in the world?What are their annual revenues and how large is the global industry in total?How have the producers rankings changed over the last 6 yearsWho are the new entrants, and how close is the competition?    Emissions Control in Non-Road Mobile Machinery (NRMM) MarketsNRMM emissions legislation summaryAUS 32 demand forecast to 2026SCR equipment forecast to 2026OEM emissions control strategies    New: Spotlight Report – West European SulphurUnderstand how trade has changed and developed in recent yearsDiscover which countries are now net importers of sulphur, instead of exportersReveal future market prices for West Europe out to 2026Use the report’s readily accessible data – including country level sulphur production split by type (oil, gas)    NEW: Spotlight Report – Global Phosphate InvestmentReveal which projects are likely to go ahead in the medium termIdentify which projects have advanced in the last year and whyDiscover future investment projects across the globeCompare capital costs and mine-site costs of junior minors    NEW: The Chinese Urea Industry – 2016 EditionExplore the development of, and outlook for, the urea industry in ChinaUnderstand the costs of production and export based on our Chinese urea cost curveDiscover which producers are most likely to approach export markets and whyTrack likely future supply developments with forecasts to 2020    NEW: Spotlight Report – North American SulphurDiscover how the oil price crash is impacting sulphur supply in North AmericaUnderstand how the new Mosaic melter in Florida is likely to impact market dynamicsReveal future market prices for US & Canadian sulphur exports through to 2025Learn how trade from Canada and the US is likely to evolve over the next 10 years    The North American SCR & DEF Forecast Service Overview and forecasts - SCR and DEF markets Legislation, demand, supply and pricing Structural features of the DEF market    NEW: Fertilizer Country Profiles – Latin AmericaBrazil, Mexico, Argentina and more added throughout the yearDemand and import by product and country of origin for 2009-2014Domestic policy framework, market structure and crop productionCost estimates and trade maps of fertilizer import flows    NEW: The Sulphur Market Dynamics ServiceExamination of the major trends likely to reshape the industry in the next 5-10 yearsAnalysis of sulphur prices and key drivers impacting price volatilityExploration of demand in the fertilizer and industrial sectorsForecasts to 2024 for sulphur supply and demand by region, including a breakdown of sulphur types    NEW: The Sulphuric Acid Market ServiceTrack future supply developments, key projects and trends to 2025Reveal future demand developments in the fertilizer and industrial sectorsLearn what trade routes are shifting in the outlook to 2025Discover future market prices based around three different scenarios    NEW: Phosphate Cost and Profit Margin ServiceProduction costs by producer, the prices and margins they achieve and how these are likely to change in the futureNew capacity (greenfield and brownfield) likely to be added in the medium termThe junior miners' likely positions on the cost curveHow phosphate demand, supply and pricing will evolve in the next 10 years.    NEW: The Potash Market ServiceThe production costs by producer, the prices and margins they achieve and how these will change in the futureHow much new capacity – greenfield and brownfield – is likely to be added in the medium termHow potash demand, supply and pricing will evolve in the next ten yearsStay up-to-date on the market with data and analysis updated quarterly    NEW: The SOP Outlook ReportSOP cash costs for each producer and what prices and margins they achieveThe future of the SOP price premium over MOP and how this is being impacted by supply economicsNew SOP projects by region and how much new greenfield and brownfield capacity is likely to be added in the medium termHow SOP demand, supply and pricing will evolve in the next ten years    Wire & Cable Data ServiceTrack the latest developments in the wire and cable market (80 key countries covered)Discover where and for which products demand is growingIdentify and capitalize on exciting new ‘hotspots’ by geography and product groupFive year forecasts on consumption, production and trade data.    Wire and Cable Plant DatabasesRevenues by plant and locationRevenue by country and productCountry/Company productionLocate plants with geocodes and full addresses    NEW: Expert Briefing – The VW diesel emissions crisis Implications of the recall remedy for VW and US customers Regulations and test cycles for emissions and fuel economy How will VW's engine and emissions technology suppliers be affected?    NEW: Sulphur Quarterly InsightQuarterly high level analysisForecasts and intelligence on the Sulphur marketSupply / Demand / Trade / Pricing / ProjectsPurchase a single quarter or subscribe for a year    NEW: The Automotive Grade Urea (AGU) Forecast Sevice Brand new report on Automotive Grade Urea (AGU) AGU supply and demand AGU trade and pricing    NEW: Sulphuric Acid Quarterly InsightQuarterly high level analysisForecasts and intelligence on the Sulphuric Acid marketSupply / Demand / Trade / Pricing / ProjectsPurchase a single quarter or subscribe for a year    Fertilizer Country Profiles – Sub-Saharan AfricaNigeria, Ghana, Ethiopia, Kenya, Mozambique, South Africa, Tanzania + more added throughout the yearDemand + import by product and country of origin from 2009-2014Domestic policy framework, market structure and crop productionCost estimates and trade maps of fertilizer import flows    Company Profiles – Potash ProducersArabPotash, ICL, Intrepid Potash, Mosaic, PotashCorp, Qinghai Salt Lake, Uralkali + more added throughout the yearMarket position, export volumes by country, financials, production costs per tonne, investment + expansionsEssential SWOT (Strengths, Weaknesses, Opportunities, Threats) AnalysisIndication of producer position on Integer potash cost curve    The Chinese UAN Industry – addressing the global impactReveal the outlook for UAN production from producers of both AN and urea, including plant level detail for major exportersDiscover the outlook for UAN projects: capacities and geography, and the impact these may have on trade forecastsView production developments in China and potential export availability by supplierIdentify potential exporters with logistical advantages to reach the international market    The European SCR and AdBlue® Forecast Service Updated AdBlue® forecasts and pricing Vehicle forecasts Selective Catalytic Reduction (SCR) forecasts and developments    UPDATED: The Brazil SCR & ARLA 32 Forecast Service ARLA 32 producers/AGU producers mapped and detailed Consumptions forecast of the market and AGU premium discussed List of ARLA 32 producers Consumption/price forecasts    The Chinese Phosphate Industry: addressing the global impactTrack the development of and outlook for the phosphate industry in ChinaDiscover the industry’s costs of production and export potential based on the Chinese phosphate cost curveGain insight into government export policy and possible future export scenariosUnderstand likely future supply developments with forecasts to 2020    The DEF Demand Outlook Integer estimates of current and future DEF consumption The main drivers for DEF demand in North America Main manufacturers' strategies and technologies used to meet these requirements    Power Generators and Diesel Exhaust Fluid (DEF) demand in North America An introduction to emissions standards legislation in the power generator market The affects of the power generator market on DEF consumption What is driving the market for DEF in relation to power generators    The Integer Top 200 Chinese Wire & Cable Producers DatabaseBalanced and unbiased ranking of major chinese players by revenueCompare and analyse figures across each of the last 6 yearsBreakdown of production by region in China, showing activity hotspotsEasy Excel file with in-built pivot tables and charts for easy reference    The DEF Market Dynamics ReportDiesel Exhaust Fluid (DEF) production and consumption in North AmericaDEF supply & pricingVehicle and DEF demand forecastsOEM plans for SCR in the region.    Focus Report: Phosphate Rock Supply, Demand and Pricing Outlook to 2023What is the future direction of phosphate rock supply by rock type over the next 10 years?What is the outlook for phosphate rock demand by rock type and application over the next 10 years?How does phosphate rock quality affect both market demand and price?    Industry Insight: Navigating the North American Nitrogen MarketComprehensive snapshot of this dynamic regional marketKey statistics, trends and driversEasy-to-use online format with colour charts, tables and unlimited printEverything you need to know about the North American Nitrogen Market    European Diesel Emissions Control & AdBlue Market StudyExtensive 3 Volume exploration of the impact of Euro VI/6 legislation1. Euro VI medium and heavy-duty commercial vehicles2. Euro 6 diesel passenger cars and light duty vehicles3. The European AdBlue® market    The Global Ammonium Sulphate Market ServiceAS producers and product offeringsAS grade preferences by marketPrice premiums by grade and country/regionFuture AS producers and market outlooks    Wire & Cable Focus Report: ASEAN MarketsConsumption by country and product for 2007-2013, plus forecasts to 2018Analysis of 70 leading cable producers in the ASEAN regionProduct mix and revenues by product, and production share by countryTrade and demand forecasts.    Focus Report: The European Fire Performance Cable MarketOutlook for the consumption and production of FPC in Europe 2007-2018Profiles of key producers of FPC Impact of Construction Products Regulation (CPR) and other legislationAnalysis of key trendsAnalysis of the use of materials – including polymers and flame retardants    Global Fertilizer Demand: The Long-Term OutlookHow global crop production and fertilizer consumption are set to change to 2030Evaluate the link between crop and fertilizer demand in all major countries, by nutrient, for all major cropsHow over and under application of fertilizers can open up new opportunitiesIdentify the future prospects for your business and plan ahead confidently    Brazil Diesel Emissions & ARLA 32 Market Study: 2013 EditionCurrent and future diesel emissions legislation and standards in BrazilHeavy-duty truck market analysis - production, sales, engine usage, pricing and aftertreatmentARLA 32 market pricing, supply and demand overviewARLA 32 price, supply and demand forecasts    China Diesel Emissions & AdBlue Market StudyVehicle emissions and fuel quality legislation in ChinaSize of Chinese diesel market and lubricant market and it’s major playersAdBlue demand forecast for ChinaAdBlue supply and distribution review, and AdBlue costs and prices.    Wire and Cable Focus Report: Middle East and North Africa MarketsUnderstand how the Arab Spring has affected MENA wire and cable marketsDiscover where and for which products regional demand is growingLearn how MENA cable makers are performingDetermine what the implications of the market outlook are for industry participants.    The Outlook for UAN (2011 Edition)Compare new entrants with existing suppliers and their response to increased competitionHow new UAN supply will affect the markets for urea, nitrates and direct application ammoniaThe influence of changing trade flows on logistics and storageProduction costs and profit margins achieved for major producers worldwide    Wire and Cable Regional Study: BrazilComprehensive analysis of Brazil's cable industry performanceMaps in detail the main drives of demand in BrazilPlant and product mix for the leading 100 cablemakersIn-depth profiles on leading cable companies operating in Brazil.    Wire and Cable Regional Study: North AmericaComprehensive analysis of USA's cable industry performanceMaps in detail the main drives of demand in USAPlant and product mix for the leading 200 cablemakers in the USAIn-depth profiles on leading cable companies operating in the USA.    Wire and Cable Regional Study: IndiaFull profiles of the top Indian producersCompany analysis, overview and structure, raw materials usage, production and capacity by product, and company financialsProduction shares for the top 50 Indian cable producersPlant and product mix for the leading 200 Indian cablemakers.    Wire and Cable Focus Report: Eastern EuropeExplores how the region will develop over the next eight yearsExamines the main drivers of demand for each country in the regionProduction shares and detailed product splits of the top 130 cablemakers in the regionAnalysis of emerging cable clusters and the cross-border electronic hub centred on Hungary. 0000Related ConferencesAdvanced Cable North America 2018Integer Emissions Summit & AdBlue® Forum China 20184th Advanced Cable Middle East 2018Integer Emissions Summit & AdBlue® Forum Asia Pacific 2018Value Added Fertilizer Summit Asia 2018NewsThe Integer View 26 July 2017 – BioNitrogen ceases operations, Ma’aden’s Wa’ad al Shamal starts prouction, Uralkali/China sign potash contract, Chinese sulphur imports continue to fall year-on-yearIs your DEF business the one to beat? Find out at The DEF Awards 2017Integer View from China 12 July 2017 – Optimizing China’s fertilizer capacity; China’s slow release fertilizer industryEuropacable and its members actively contributing to making sure CPR is a successThe Integer View 03 July 2017 – OPZ, Togliatti shut down ammonia plants; Syrian Phosphate Revival; “Innovative” Potash Mine Advances Home About IntegerOverviewCompany HistoryOur ServicesMeet the TeamCareers at Integer Market AnalysisGlobal Power Cable Supply: HV/EHV and Submarine CableNEW: The Global SCR Forecast ServiceWire & Cable Market: Asia Pacific and South AsiaWire & Cable Market: Europe and CISSpotlight Report – Chinese SulphurWire & Cable Market: AmericasWire & Cable Market: Middle East & AfricaSpotlight Report: Latin American Sulphuric Acid MarketThe Monitor: AdBlue, DEF & ARLA 32 marketsNEW: The India SCR & AdBlue® Forecast ServiceOUT NOW: The South Korea SCR & AdBlue® Forecast ServiceNew: The Market for Specialty CableNEW: Nitrogen 10-Year Outlook ServiceNEW: The China SCR & AdBlue® Forecast ServiceNEW: Nitrogen Cost and Profit Margin ServiceNew: Global NPK Supply, Demand and Trade DatabaseThe Integer Top 100 Global Wire and Cable Producers DatabaseEmissions Control in Non-Road Mobile Machinery (NRMM) MarketsNew: Spotlight Report – West European SulphurNEW: Spotlight Report – Global Phosphate InvestmentNEW: The Chinese Urea Industry – 2016 EditionNEW: Spotlight Report – North American SulphurThe North American SCR & DEF Forecast ServiceNEW: Fertilizer Country Profiles – Latin AmericaNEW: The Sulphur Market Dynamics ServiceNEW: The Sulphuric Acid Market ServiceNEW: Phosphate Cost and Profit Margin ServiceNEW: The Potash Market ServiceNEW: The SOP Outlook ReportWire & Cable Data ServiceWire and Cable Plant DatabasesNEW: Expert Briefing – The VW diesel emissions crisisNEW: Sulphur Quarterly InsightNEW: The Automotive Grade Urea (AGU) Forecast SeviceNEW: Sulphuric Acid Quarterly InsightFertilizer Country Profiles – Sub-Saharan AfricaCompany Profiles – Potash ProducersThe Chinese UAN Industry – addressing the global impactThe European SCR and AdBlue® Forecast ServiceUPDATED: The Brazil SCR & ARLA 32 Forecast ServiceThe Chinese Phosphate Industry: addressing the global impactThe DEF Demand OutlookPower Generators and Diesel Exhaust Fluid (DEF) demand in North AmericaThe Integer Top 200 Chinese Wire & Cable Producers DatabaseThe DEF Market Dynamics ReportFocus Report: Phosphate Rock Supply, Demand and Pricing Outlook to 2023Industry Insight: Navigating the North American Nitrogen MarketEuropean Diesel Emissions Control & AdBlue Market StudyThe Global Ammonium Sulphate Market ServiceWire & Cable Focus Report: ASEAN MarketsFocus Report: The European Fire Performance Cable MarketGlobal Fertilizer Demand: The Long-Term OutlookBrazil Diesel Emissions & ARLA 32 Market Study: 2013 EditionChina Diesel Emissions & AdBlue Market StudyWire and Cable Focus Report: Middle East and North Africa MarketsThe Outlook for UAN (2011 Edition)Wire and Cable Regional Study: BrazilWire and Cable Regional Study: North AmericaWire and Cable Regional Study: IndiaWire and Cable Focus Report: Eastern Europe ConferencesAdvanced Cable North America 2018Integer Emissions Summit & AdBlue® Forum China 20184th Advanced Cable Middle East 2018Integer Emissions Summit & AdBlue® Forum Asia Pacific 2018Value Added Fertilizer Summit Asia 201810th Integer Emissions Summit USA 20177th Integer Emissions Summit & AdBlue® Forum India 2017Integer DEF Forum USA 2017The DEF Awards 201713th Integer Emissions Summit & AdBlue® Forum Europe 201710th Integer Emissions Summit & AdBlue® Forum China 20172nd Integer Emissions Summit & AdBlue® Forum Asia Pacific 20173rd Advanced Cable Middle East 2017Value Added Fertilizer Summit Asia 20179th Integer Emissions Summit & DEF Forum USA 20166th Integer Emissions Summit & AdBlue®  Forum India 201612th Integer Emissions Summit & AdBlue® Forum Europe 20161st Integer Emissions Summit & AdBlue® Forum Asia Pacific 20166th Integer Emissions Summit & ARLA 32 Forum Brazil 20169th Integer Emissions Summit & AdBlue® Forum China 20162nd Advanced Cable Middle East 20168th Integer Emissions Summit & DEF Forum USA 20154th Integer Emissions Summit & AdBlue® Forum Russia & CIS 20158th Integer Emissions Summit & AdBlue® Forum Asia 20155th Integer Emissions Summit & ARLA 32 Forum Brazil 2015Advanced Cable Middle East 201511th Integer Emissions Summit & AdBlue® Forum Europe 201510th Integer Emissions Summit Europe 20144th Integer Emissions Summit Brazil 20147th Integer Emissions Summit Asia 20143rd Integer Emissions Summit Russia 20142nd Advanced Cable Asia 2013Diesel Emissions Conference India 2013Diesel Emissions Conference & DEF Forum USA 2013Diesel Emissions Conference & AdBlue Forum Europe 20137th Integer Emissions Summit USA 2014Diesel Emissions Conference & ARLA 32 Brazil 20133rd Advanced Cable Asia 2014Diesel Emissions Conference & AdBlue Forum Asia 20135th Integer Emissions Summit India 2015 ConsultancyEnvironment & EmissionsFertilizers & ChemicalsWire & Cable Contact UsOverviewLondonBeijingJapanMeet the Team Member LoginRegisterCopyrightTerms & ConditionsPrivacy PolicySite by totalsurf ©  2017 Integer Research Limited. All rights reserved                           This site uses cookies: Find out more.Okay, thanks 
-Development strategy - Integer.pl SA GroupInvestor relationsPress officeGlobal operationsContactProfile of our activitiesStructureDevelopment strategyReferences and prizesEU Projects
+HomeSystemsProductsNewsCaseFAQOrderAbout UsContact UsMain Products Shanghai Baoqing Intelligent Technology Co. Ltd  Copyright © 2010-2014 Development strategy - Integer.pl SA GroupInvestor relationsPress officeGlobal operationsContactProfile of our activitiesStructureDevelopment strategyReferences and prizesEU Projects
                                                 Integer.pl - Grupa Kapitałowa
                     EN
                                      POLISHInteger.pl SA GroupSelect a subpageProfile of our activitiesStructureDevelopment strategyReferences and prizesEU ProjectsContactINTEGER.pl SA
@@ -1666,1674 +1048,6 @@ Sign Me Up  ➤
 
 
 
-
-
-
-
-
-
-Integer.pl Grupa Kapitalowa - Supplier | Colombia | Import Genius
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-Plans
-
-
-
-
-Limited
-
-
-
-
-Plus
-
-
-
-
-Premium
-
-
-
-
-
-
-
-
-            LimitedMonitor Your Competitors
-
-
-
-Data
-
-Access data on U.S. ocean freight imports from the last 3 months for all companies
-You'll have access to data from the previous 6-months from the date of your search. We use a rolling date range, so you can always look back 6 months from the current date.
-
-
-
-
-            LimitedMonitor Your Competitors
-
-
-
-Data
-
-Access data on U.S. ocean freight imports from the last 3 months for all companies
-Access data on U.S. ocean freight imports from the last 3 months for all companies
-You'll have access to data from the previous 3-months from the date of your search. We use a rolling date range, so you can always look back 3-months from the current date.
-
-
-
-
-            PlusSmall & Medium Business
-
-
-
-Data
-
-Access data on U.S. ocean freight imports from the last 12 months for all companies
-You'll have access to data from the previous 12-months from the date of your search. We use a rolling date range, so you can always look back 12-months from the current date.
-U.S. ocean freight exports from January 1, 2014 to present for all companies
-
-
-
-
-            Premium            Empire Builder
-
-
-
-Data
-
-Access data on U.S. ocean freight imports from November 2006 to the present for all companies
-You'll have access to our entire database of shipping manifests of U.S. Ocean freight imports going back to November 2006.
-U.S. ocean freight exports from January 1, 2014 to present for all companies
-
-
-
-
-
-            LimitedMonitor Your Competitors
-
-
-
-Usage
-
-Track the shipping activities of your 3 chosen companies
-Our Limited Plan lets you monitor the shipping activities of any three companies across all our databases. Be the first to know when your target company clears a shipment through customs in one of the countries we track.
-3 Contact Info Requests Per Month
-Our team of account managers and research assistants will help you find contact information for up to 3 companies in our database each month.
-Download (CSV and XLS) 5k Records Per Month
-If you're planning to do more in-depth research on the companies in our database, you should upgrade to the Plus or Premium plans, which allow more downloads.
-Email Alerts for up to 3 Searches
-If you need to track more than 3 companies, product segments, or trade lanes, you should upgrade to the Plus or Premium plan, which allow more email alerts.
-
-
-
-
-            LimitedMonitor Your Competitors
-
-
-
-Usage
-
-10 Company Searches Per Day
-10 searches per day may be enough if you are just monitoring a few competitors or researching suppliers in a single industry. If you're looking to connect with sales leads or do more in-depth research, you should upgrade to the Plus or Premium plan which allows more searches.
-3 Contact Info Requests Per Month
-Our team of account managers and research assistants will help you find contact information for up to 3 companies in our database each month.
-Download (CSV and XLS) 1k Records Per Month
-If you're planning to do more in-depth research on the companies in our database, you should upgrade to the Plus or Premium plan, which allow more downloads.
-Email Alerts for up to 3 Company Searches
-If you need to track more than 3 companies, product segments, or trade lanes, you should upgrade to the Plus or Premium plan, which allow more email alerts.
-
-
-
-
-            Plus            Small & Medium Business
-
-
-
-Usage
-
-25 Searches Per Day
-25 searches per day may be enough if you are just monitoring a few competitors or researching suppliers in a single industry. If you're looking to connect with sales leads or do more in-depth research, you should upgrade to the Premium plan which allows more searches.
-25 Contact Info Requests Per Month
-Our team of account managers and research assistants will help you find contact information for up to 25 companies in our database each month.
-Download (CSV and XLS) 10k Records Per Month
-If you're planning to do more in-depth research on the companies in our database, you should upgrade to the Premium plan, which allow more downloads.
-Email Alerts for up to 5 Searches
-If you need to track more than 5 companies, product segments, or trade lanes, you should upgrade to the Premium plan, which allow more email alerts.
-
-
-
-
-            Premium            Empire Builder
-
-
-
-Usage
-
-50 Searches Per Day
- 
-50 Contact Info Requests Per Month
-Our team of account managers and research assistants will help you find contact information for up to 50 companies in our database each month
-Download (CSV and XLS) 25k Records Per Month
-If you're planning to do more in-depth research on the companies in our database, contact the Sales Department to purchase more credits and export additional shipping records.
-Email Alerts for up to 10 Searches
-
-
-
-
-
-             Plus             Small & Medium Business
-
-
-
-Features
-
-Visual Mapping
-Our Visual Mapping technology provides an instant snapshot of any company's trade connections. Navigate the global web of trading partners with the click of a mouse and visualize the relationships between companies many degrees apart.
-
-
-
-
-
-
-
-            Premium            Empire Builder
-
-
-
-Features
-
-Visual Mapping
-Our Visual Mapping technology provides an instant snapshot of any company's trade connections. Navigate the global web of trading partners with the click of a mouse and visualize the relationships between companies many degrees apart.
-
-
-
-
-
-
-
-            Limited            Monitor Your Competitors
-
-
-
-Support
-
-Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
-Call or e-mail our Customer Service Agents. They will get back to as soon as possible to assist you with your data needs.
-
-
-
-
-            Plus            Small & Medium Business
-
-
-
-Support
-
-Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
-Call or e-mail our Customer Service Agents. They will get back to as soon as possible to assist you with your data needs.
-
-
-
-
-            Premium            Empire Builder
-
-
-
-Support
-
-Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
-Call or e-mail our Customer Service Agents. They will get back to as soon as possible to assist you with your data needs.
-Dedicated Research Assistant
-An experienced trade data specialist will serve as your dedicated account manager to locate hard-to-reach data, perform searches and compile reports on your behalf.
-
-
-
-
-            Limited            Monitor Your Competitors
-
-
-
-Data
-
-Access data on U.S. ocean freight imports from the last 3 months for all companies
-You'll have access to data from the previous 6-months from the date of your search. We use a rolling date range, so you can always look back 6 months from the current date.
-
-
-
-
-
-
-
-X
-
-
-
-
-
-
-
-
-
-
-
-
-                   Home                
-
-
-
-
-
-                        How It Works                    
-
-
-
-                            U.S. Data                        
-
-                            Additional Countries                        
-
-                            Our Datasets                        
-
-                            Our Clients                        
-
-                            IG Reviews                        
-
-                            Videos                        
-
-                            Pictures                        
-
-                            Presentation                        
-
-
-
-                   Plans & Pricing                
-
-                    Search                
-
-                  Contact Us                
-Live Chat				
-
-                    Free Demo                
-
-                    Sign In                
-
-                    Join Now                
-
-
-
-
-
-
-
-
-
-
-
-English
-中文
-French
-
-
-
-
-
-
-
-
-
-
-English
-
-
-
-中文
-
-
-
-French
-
-
-
-
-
-
-
-
-
-
-			                                                Service: 855-573-9976 
-                        Sales: +1-855-573-9976
-
- Live Chat
-
-Choose Language
- English
- 中文
- French
-
-
-
-
- 
-
-
-
-Hi, may I help you with something?
-
-An ImportGenius.com sales agent is available to answer your question.
-
-
-							Chat Live Now						
-
-						No, thanks.					
-
-
-
-
-
-
-
-Sign Up
-
-
-
-
-
-
-Home
-How It Works
-Plans & Pricing
-Search
-Contact Us
-
-
-Live Chat
-
-2
-  
-
-
-
- 
-
-
-
-
-
-Integer.pl Grupa Kapitalowa
-
-Integerpl Grupa Kapitalowa is an overseas supplier in Polonia that exports products to Servicios Postales Nacionales Sa. Transportation Type Maritimo.        
-
-
-
-
-
- Call +1 (480) 744 2559
-
-
-
-
-Import Genius
-
-
-
-
-
-
-                                Our bill of lading data reveals the trading activities of Integer.pl Grupa Kapitalowa and millions of other manufacturers.                            
-
-
-Learn More
-Join Now
-
-
-
-
-Request a Demo
-
-
-
-
-
-Would you like to schedule a free demo?
-We'd love to show you international trade data relevant to your own business.
-
-
-
-
-
-
-
-
-
-
-Name
-
-
-
-
-Email
-
-
-
-
-
-Phone
-
-
-
-
-
-
-Schedule A Free Demo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Play muted
-
-
-International Trade Starts With Our Data
-
-
-
-
-
-
-
-
-
-Other companies in our database
-
-
- MANSOUR KARIM ZINE                            
-
- BUITRAGO LOZANO JHONATAN                            
-
- Kimberly-Clark Global Sales, LLC Evergreen Logistics                            
-
- HUNAN KELI MOTOR CO LTD                            
-
- FAB DE MERMELADAS Y CARAMELOS WATTS                            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-View Sample Shipment Records
-Shipment Alert Subscription
-Contact This Company
-
-
-
-Sign Up
-
- 
-
-
-
-
-
-Sample shipment record for Integer.pl Grupa Kapitalowa
-Integerpl Grupa Kapitalowa is an overseas supplier in Polonia that exports products to Servicios Postales Nacionales Sa. Transportation Type Maritimo.
-
-
-            Bill of Lading        
-
-
-
-
-
-Manufacturer / Shipper
-Consignee
-
-
-
-Integerpl Grupa Kapitalowa
-UL. MALBORSKA 130, 30-624 KRAKOW.
-
-
-Servicios Postales Nacionales Sa
-DG 25 G   95 A   55
-
-
-
-Acquisition
-Destination
-
-
-
-Polonia
-
-
-Colombia
-
-
-
-Product Description
-
-
-
-
-
-                                        DO 180140500777 ,PEDIDO  ,FORMATO 2 DE 2; FACTURA(S)...PROFORMA1/06/2014/CO 09/06/2014;MER                                    
-
-                                        DO 180140500777 ,PEDIDO  ,FORMATO 2 DE 2; FACTURA(S)...PROFORMA1/06/2014/CO 09/06/2014;MER                                    
-
-
-
-
-
-Other Information Available
-
-
-
-
-Gross Weight (KG), FOB (USD), Insurance (USD), Freight (USD), CIF (USD), Brand ID, Operation Type
-
-
-
-
-
-
-
-
-Arrival Date2014-07-23Transportation TypeMaritimoHS Code8470901000CustomsCartagenaQuantity / Unit1.00/U 
-
-
-
-
-
-Subscribe to access the complete shipping history for Integer.pl Grupa Kapitalowa Join Now
-
-
-
-
-
-
-
-
-How will your business use our trade data?
-If you're involved in international trade, our database of shipping manifests will help you find opportunities to grow your business.
-
-Find Trading Partners You Can Trust
-Monitor Competitors' Shipping Activities
-Connect With Sales Prospects
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                            "Very informative and great site and so quick. Pretty slick."
-                        
-
-
-
-
-
-
-
-Betty Fatzie
-
-                                                                    President,                                 
-                                                                    Lab Products, Inc.                                
-                            
-
-
-
-
-
-
-                            "The service was great, with a reasonable price and great results. We have now started using another supplier from China. We just ordered our first container from the new supplier and with the savings it more than paid for the ImportGenius.com service on the first container load."
-                        
-
-
-
-
-
-
-
-Cleve Kurz
-
-                                
-                                                                    Gifford Monument Works                                
-                            
-
-
-
-
-
-
-                            "Import Genius is not merely an investment for our organization, it’s a vital instrument to effectively manage our time. It has afforded us the ability to quickly segment, target and position ourselves in front of prospective clients. Thank you, Import Genius!"
-                        
-
-
-
-
-
-
-
-David Bryant
-
-                                                                    Director of Business Development,                                 
-                                                                    John S. James Co.                                
-                            
-
-
-
-
-
-
-                            "Import Genius data is fantastic for evaluating component manufacturers in China."
-                        
-
-
-
-
-
-
-
-Sanjay Dastoor
-
-                                
-                                                                    BoostedBoards.com                                
-                            
-
-
-
-
-
-
-                            "We have confidence that we're working with the best manufacturers in part because Import Genius showed us that they already supply some of the world's top brands"
-                        
-
-
-
-
-
-
-
-Yaniv Masjedi
-
-                                                                    Vice President,                                 
-                                                                    Nextiva.com                                
-                            
-
-
-
-
-
-
-                            "Import Genius is a highly informative tool for monitoring public companies' operating activities. It is an invaluable part of our research."
-                        
-
-
-
-
-
-
-
-Eric DeLamarter
-
-                                                                    Managing Partner,                                 
-                                                                    Half Moon Capital                                
-                            
-
-
-
-
-
-
-                            "We find new clients for our customs brokerage in the ImportGenius database almost every day"
-                        
-
-
-
-
-
-
-
-Jayson Gispan
-
-                                                                    Customs Brokerage Operations Manager,                                 
-                                                                    Flexport.com                                
-                            
-
-
-
-
-
-
-                            "ImportGenius is a great research tool. We use it to evaluate manufacturers to make sure we are working with only the highest quality, most reliable suppliers"
-                        
-
-
-
-
-
-
-
-Chris Friedland
-
-                                                                    Founder / CEO,                                 
-                                                                    Build.com                                
-                            
-
-
-
-
-
-
-                            "ImportGenius gave us visibility into the actual shipping histories of the manufacturers we were evaluating and helped us feel comfortable we were working with the best suppliers in China."
-                        
-
-
-
-
-
-
-
-Morena Simitic
-
-                                                                    COO,                                 
-                                                                    BellaBeat.com                                
-                            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Shipment Alert Subscription
-
-
-
-                        Receive free shipment alerts by email whenever Integer.pl Grupa Kapitalowa clears a shipment through customs.                        
-
-Processing, please wait ...
-
-
-
-
-
-
-
-Submit
-
-
-
-
-
-
-
-
-
-
-
-
-Contact Integer.pl Grupa Kapitalowa
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-Name
-
-
-
-Business
-
-
-
-Email
-
-
-
-Phone
-
-
-
-
-Submit
-
-
-
-
-Processing, please wait ...
-
- 
-
- 
-
-
-
-
-Features
-
-
-
-Save and Share Reports
-Easily get your searches out of Import Genius and into your team’s hands for further analysis. Export your findings to XLS or CSV, or send reports via email. It’s the simple things that make our trade data even more valuable to you.
-
-
-
-See the Supply Chain
-Visual Mapping shows you exactly how your target companies and their trading partners connect. Search by shipper and see everyone they’ve shipped to. Or search by consignee and see all their suppliers. Zoom in on any company to see their own trading network. Dive deep into international trade and discover the links in anyone’s supply chain.
-
-
-
-Get Real-time Shipment Alerts
-Stay on top of your competitors, suppliers, and customers with real-time alerts. Just set up a search and get an email whenever a new shipment matches your terms. Import Genius lets you know the moment they bring in a rival product or start shipping to a new partner.
-
-
-
-
-
-
-
-
-
-Integer.pl Grupa Kapitalowa
-You've viewed 20 profile pages on Import Genius, which is the most we allow for free. Sign up for ImportGenius to get more details on over 3 million importers and exporters. It only takes seconds.
-
-
-
-
-
-
-Sign Up for Import Genius! 
-
-
-
-
-
-
-
-
-Plans
-
-
-
-
-Limited
-Monitor Your Competitors
-
-
-
-
-Recommended Plan
-Plus
-Small & Medium Business
-
-
-
-
-Premium
-Empire Builder
-
-
-
-
-
-
-Price
-
-
-
-
-
-$
-99
-594
-/month
-for 6 months
-
-
-
-                        Sign Up                    
-
-
-
-
-
-
-$
-199
-1,194
-/month
-for 6 months
-
-
-
-                        Sign Up                    
-
-
-
-
-
-
-$
-399
-2,394
-/month
-for 6 months
-
-
-
-                        Sign Up                    
-
-
-
-
-
-
-
-Data
-
-
-
-
-Access data on U.S. ocean freight imports from the last 3 months for all companies
-View Details
-
-
-
-
-Access data on U.S. ocean freight imports from the last 12 months for all companies
-U.S. ocean freight exports from January 1, 2014 to present for all companies
-View Details
-
-
-
-
-Access data on U.S. ocean freight imports from November 2006 to the present for all companies
-U.S. ocean freight exports from January 1, 2014 to present for all companies
-View Details
-
-
-
-
-
-
-Usage
-
-
-
-
-
-Track the shipping activities of your 3 chosen companies
-3 Contact Info Requests Per Month
-Download (CSV and XLS) 5k Records Per Month
-Email Alerts for up to 3 Searches
-
-View Details
-
-
-
-
-
-25 Searches Per Day
-25 Contact Info Requests Per Month
-Download (CSV and XLS) 10k Records Per Month
-Email Alerts for up to 5 Searches
-
-View Details
-
-
-
-
-
-50 Searches Per Day
-50 Contact Info Requests Per Month
-Download (CSV and XLS) 25k Records Per Month
-Email Alerts for up to 10 Searches
-
-View Details
-
-
-
-
-
-
-Features
-
-
- 
-
-
-Visual Mapping
-View Details
-
-
-
-
-Visual Mapping
-View Details
-
-
-
-
-
-
-Support
-
-
-
-
-Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
-View Details
-
-
-
-
-Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
-View Details
-
-
-
-
-
-Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
-Dedicated Research Assistant
-
-View Details
-
-
-
-
-
-
-  
-
-
-
-
-
-
-View All U.S. Imports
-Instantly search 21,508,010 ocean freight records to monitor U.S. importers, research suppliers, generate sales leads and more.
-
-
-As Featured In
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-What is Import Genius
-
-
-
-
-
-Who Uses Import Genius
-
-
-
-
-
-Available Data Fields
-
-
-
-
-
-Schedule Live Demo
-
-
-
-
-
-
-
-What is Import Genius
-
-
-												Import Genius reveals the trading activities of importers and exporters around the world.								
-
-												We give you hard data about your overseas suppliers and domestic competitors. Using shipping databases from Customs agencies in the United States, Latin America, and India, Import Genius can help you find reliable new trading partners, monitor your competitors’ shipments, and keep an eye on your current suppliers and customers.								
-
-												Our team of seasoned import-export veterans, cutting-edge software developers, and customer service professionals has worked for years to build the world's most powerful and accessible database of international trade intelligence.								
-
-
-
-												We do this for a diverse client base that requires keen insight into international trade.								
-
-												Our customers include some of the world's top importers, exporters, freight forwarders, logistics companies, manufacturers, investment banks, financial analysts, intellectual property attorneys, and more. They use our tools to:								
-
-Research the trade activity of importers and suppliers
-Identify and vet new sources for any kind of product
-Monitor the competition and their trade connections
-Generate sales leads for transportation and logistics companies
-Track the activity of publicly-traded companies
-Investigate and enforce intellectual property infringement
-Ensure exclusive agent compliance
-
-
-
-
-Who Uses Import Genius
-
-Sourcing Professionals...
-
-			Use our service to view shipping histories for suppliers.		
-
-			We provide access to detailed customs records, letting you verify suppliers' true shipping volumes and U.S. customer lists. You can also look up your competing import firms to find where they buy their goods.		
-+ Learn More
-Competitive Intelligence Analysts...
-
-			Use our service to learn where rivals source products.		
-
-			We give clear insights into the importing volumes, new product releases, and broader competitive dynamics of your industry.		
-+ Learn More
-
-
-Sales & Marketing Teams...
-
-			Use our service to generate sales prospects.		
-
-			We give you the tools to target importers based on product type, location, shipping volumes, and more.		
-+ Learn More
-Financial Analysts...
-
-			Use our service to monitor public companies' imports.		
-
-			We offer rare data on the success or failure of new product launches, shipping trends and other operating data for companies in any industry.		
-+ Learn More
-
-
-
-Available Data Fields
-
-Import Genius Data Fields
-
-												By collecting the ocean freight bill of lading for all U.S. imports in our database, Import Genius provides unprecedented access to near real-time information on virtually every industry and company importing goods into the country.								
-
-												For each shipment entering the U.S. by ocean, we provide access to the following information.								
-Additional Fields Available for Some Shipments:
-
-Phone Number
-Fax Number
-Email
-Contact Person
-
-
-
-List of Data Fields
-
-
-
-ConsigneeThe company importing the shipment into the U.S.Consignee AddressThe address of the company importing the shipment into the U.S.ShipperThe overseas company exporting the shipment to the U.S.Shipper AddressThe address of the overseas company exporting the shipment to the U.S.Product DescriptionThe exporter's description of the shipment as it appears on the bill of lading or shipping manifestGross WeightThe gross weight of the shipment, excluding the weight of the actual container. This can appear in either pounds or kilograms at the discretion of the exporterNumber Of UnitsThe quantity of boxes customs would find if they were to open the shipment for inspection.VolumeThe volume of the shipment, generally defined in cubic meters or container base measurements (CBM)Arrival DateThe date the shipment arrives within the customs territory of the U.S.Foreign PortThe last port the shipment passes through before arriving in the U.S.Country Of OriginThe country of the last foreign port the shipment passes through before arriving in the U.S.U.S. PortThe U.S. port where the shipment enters the customs territory of the U.S.Carrier CodeThe four digit Standard Carrier Alpha Code of the ocean carrier or freight forwarder managing the transit of the shipmentVoyage NumberA unique code assigned to that particular sailing of the ship between two portsVessel NameThe name of the ship transporting the shipmentShip Registered InThe country where the ship is officially registeredBill Of Lading NumberThe unique number assigned to this particular shipment by the ocean carrier or freight forwarderContainer NumberThe unique number assigned to the ocean shipping container carrying the shipment in questionMarks & NumbersAny text or numbers appearing on the cartons 
-
-
-
-
-
-
-Ready for a live demo?
-Fill out this form and we'll contact you right away to set up a live demo of Import Genius.
-
-
-Schedule Live Demo
-
-
-
-Processing, please wait ...
-
-
-
-
-
-Name
-
-Tell us your Full Name
-
-
-Email
-
-Enter a valid email address
-
-
-Phone
-
-Enter valid phone number
-
-
-Preferred Date
-
-Let us know your preferred date
-
-
-Preferred Time (In Your Country)
-
-01:00 am
-01:30 am
-02:00 am
-02:30 am
-03:00 am
-03:30 am
-04:00 am
-04:30 am
-05:00 am
-05:30 am
-06:00 am
-06:30 am
-07:00 am
-07:30 am
-08:00 am
-08:30 am
-09:00 am
-09:30 am
-10:00 am
-10:30 am
-11:00 am
-11:30 am
-12:00 am
-12:30 am
-01:00 pm
-01:30 pm
-02:00 pm
-02:30 pm
-03:00 pm
-03:30 pm
-04:00 pm
-04:30 pm
-05:00 pm
-05:30 pm
-06:00 pm
-06:30 pm
-07:00 pm
-07:30 pm
-08:00 pm
-08:30 pm
-09:00 pm
-09:30 pm
-10:00 pm
-10:30 pm
-11:00 pm
-11:30 pm
-12:00 pm
-
-Let us know your preferred time
-
-
-Country
-
-Required
-
-
-Timezone
-
-Required
-
-
-What data are you interested in?
-
-Let us know what you are most interested to learn
-
-
-
-Submit
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Import Genius
-
-How It Works
-Plans & Pricing
-Our Trade Data Blog
-Search
-Latin Trade Data
-
-Import Genius Reviews & Press Coverage
-Who Uses Import Genius
-Contact Us
-
-
-
-Latest Posts
-
-
-
-
-                                    Trump Properties Have…                                
-
-
-
-
-                                    Solar panels: imports…                                
-
-
-
-
-                                    Limited Plan Now Available                                
-
-
-
-
-                                    Chilean salmon exports…                                
-
-
-
-
-                                    India, US palm oil imports…                                
-
-
-
-
-Company Profiles
-
-
-
-                                    Jardines Del Portal  Sas                                
-
-
-
-                                    Haining Chaodi Plastic Co.,ltd                                
-
-
-
-                                    Power & Tel Supply Company                                
-
-
-
-                                    Kaneko Seeds Co. Ltda                                
-
-
-
-                                    Pica Plasticos Industriales C.a.                                
-
-
-
-
-
-
-
-
-
-
-
-                     
-                                            21,508,010  Records in our database and counting
-
-
-
-
-
-Customer Support Team: 
-
-                    Tel:  855-573-9976
-                    International: +1 480-745-3396
-                    Fax: +1 602-428-9400
-info@importgenius.com
-
-                    8901 E Pima Center Pkwy, 
-		    Suite 105 
-                    Scottsdale, AZ 85258
-
-
-Shanghai, China:
-
-                    Tel: +86-21-63806036
-
-
-                    Mobile No.: +86-13671737628
-                    Fax Number: +86-21-63806036
-
-
-Shenzhen, China
-                    
-                            Tel: +86-755-89517585
-                            Mob: +86-13925258002
-                            Fax: +86-755-89517585                
-
-
-
-Have questions? We'll reply quickly!
-
-
-
-
-
-									         		Type your info below								         		
-
-
-
-
-
-
-
-
-
-
-
-Message
-
-
-
-Submit
-
-Processing, please wait ...
-
- 
-
- 
-
-                Trainings, Demos, and General Contact All Available            
-Or Call Us:
-Service:
-
-                    +1-855-573-9976                
-Sales:
-
-                    +1-855-573-9976                
-Back to top
-
- 
-
-
-
-
-
-All Rights Reserved. Copyright © 2017. Trade Data Services, Inc. 0.3466
- 
-
-
-
-
-
-
- 
-
- 
-
-
-
-
-We're Offline
-Please leave us a message
-
-
-
-To chat with a representative of Import Genius, your browser needs to be Internet Explorer 9 or higher. Please fill out the form below and a representative will contact you as soon as possible.
-
-
-
-Name
-
-
-
-Email
-
-
-
-Phone
-
-
-
-Message
-
-
-
-Send
-
-
-
-
-X
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Awards - Integer.pl SA GroupInvestor relationsPress officeGlobal operationsContactProfile of our activitiesStructureDevelopment strategyReferences and prizesTrust usReferencesCertificatesAwardsEU Projects
                                                 Integer.pl - Grupa Kapitałowa
                     EN
@@ -3352,6 +1066,1993 @@ Awards - Integer.pl SA GroupInvestor relationsPress officeGlobal operationsConta
                                                                                              / AwardsAwardsWorld Post & Parcel Awards in the category Customer Service for its “Make it social”. The InPost programme applies digitally based social media tools to non-digital customer service issues, using social media tools and exposure in order to solve customer service issues.Forbes Diamond 2015 - 1st place in the ranking of large companies from the Malopolska region have reached revenues of over 250 million PLN.Leader of New Technologies Competition 2014 (December 2014) - Grand Prix in the 10th anniversary edition of the competition.Supplier of the Year title for Paczkomaty InPost at Post-Expo fair 2014 in StockholmPolish Masters of Business - Grand Prix for Paczkomaty InPost at the 1st edition of the competitionDobra Marka 2014 - title awarded to both companies - Paczkomaty and InPost in the category 'parcel delivery'Solidny Pracodawca 2013 title in competition organized by 'Rzeczpospolita', 'Dziennik Gazeta Prawna' and 'Monitor Gospodarczy'.The Delivery Excellence Award 2014 in the 'Best Carrier Contribution to Delivery Innovation' category.World Mail Awards in following categories: 'Customer Service' (2013), 'E-commerce' and 'Innovation' (2011), 'Growth' (2010)Postal Technology International Awards 2013 in the 'Retail Innovation of the Year category' for the modular parcel terminal of 5th GenerationEkomersy 2012 i 2013 in the competition organized by Polak 2.0 Foundation in categories: 'Best logisitic solution for e-commerce' and 'Best product / service supporting e-shop''Ten, który zmienia polski przemysł' – Nowy Przemysł and Wnp.pl competitionSuperbrands Created in Poland 2013 - prize for InPost in the category 'Media and Services Providers'Ambasador Polskiej Gospodarki - title awarded by Business Centre Club to Integer.pl in May 2012 in the category 'European Brand'Wielka Piątka of innovative Central European companies in the Deloitte Technology Fast 50 Central Europe 2011 i 2012 Ranking - 40th positionMałopolska Nagroda Gospodarcza - awarded to Integer.pl Capital Group in October 2011 for winning buiness model and important contribution to the region's economyNajbardziej innowacyjna firma w Polsce - title awarded by Polish Market magazine under the auspices of Polish Chamber of CommercePerła Polskiej Giełdy - prize awarded to Integer.pl by Gazeta Giełdy ParkietTeraz Polska - InPost wins the competition in 2008 and 2009Medal Europejski awarded to InPost in 2008 for highest standards of quality in business and management in the competition organized by Business Centre Club and Office of the Commitee for European IntegrationOur brandsInteger.pl SA GroupProfile of our activitiesStructureDevelopment strategyReferences and prizesEU ProjectsInvestor relationsCompanyBasic financial indicatorsReportsStock exchangeAnalysis and presentationsCalendarUseful linksPress officePress releaseDownloadGlobal operationsSOCIAL MEDIAFacebookTwitterYouTubeGrupa Kapitałowa Integer 2014. Wszelkie prawa
                             zastrzeżone.BACK TO TOP
                                             To report a fault or other technical issue on this website email webmaster@inpost.pl×«»
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Integer.Pl SA - Research and Markets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABOUT US
+BLOG
+CONTACT US
+FAQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+USD
+EUR
+GBP
+
+
+
+USD 
+▼
+
+USD
+EUR
+GBP
+
+
+
+
+
+
+€
+EUR
+$
+USD
+£
+GBP
+
+
+
+
+
+
+
++353-1-416-8900REST OF WORLD
+
+
+
+1-800-526-8630U.S. (TOLL FREE)
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Advanced
+
+
+
+
+
+
+
+
+Price:
+€75EUR$90USD£69GBP 
+View Pricing
+
+
+
+
+You are here:
+
+
+Home
+>
+
+
+
+
+
+
+Categories
+>
+
+
+
+
+
+
+Company Reports
+
+
+
+
+
+
+
+
+
+
+
+ 
+SELECT A FORMAT
+
+
+
+
+
+
+
+
+€75EUR$90USD£69GBP
+
+
+
+                                                        Single User
+                                                         Electronic (PDF)
+
+
+
+
+
+
+                                                                            
+                                                                            This is a single user license, allowing one specific user access to the product. The report will be emailed to you.  The report is sent in PDF format. 
+
+                                                
+
+
+
+
+
+
+
+  ADD TO BASKET
+
+
+
+
+                                                                        order by fax
+                                        
+
+                                            need a quote ?
+                                        
+
+
+
+ 
+
+OUR CLIENTS
+
+
+
+
+
+
+
+
+
+
+
+
+HAVE A QUESTION?
+EMAIL US
+VIEW FAQs
+
+
+
+RECENTLY VIEWED PRODUCTS
+
+
+
+
+
+
+
+
+
+
+
+Partner of Research and MarketsVACCINATING 40,000 CHILDREN IN 2017
+
+
+
+
+
+WHY CHOOSE RESEARCH AND MARKETS?
+
+
+
+WORLD'S LARGEST SELECTION
+
+
+
+
+TRUSTED BY THE BEST
+
+
+
+
+CUSTOMER FOCUSED
+
+
+
+
+SAFE & SECURE
+
+
+
+
+
+
+
+Thank you again for all of your help throughout the process of purchasing the US Osteoarthritis Market
+
+                         Highlight - 2014 report.
+I appreciate your promptness in responding to my emails and your sense of urgency.
+                        
+                    
+
+
+
+                            READ MORE
+                        
+
+
+Frederique F Buntoum
+Global Marketing Business Analyst
+Bioventus LLC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Integer.Pl SA
+
+
+
+ID: 2750376
+Company Profile
+June 2017
+68 Pages
+
+Wright Investors Service                            
+
+
+
+
+
+
+
+
+
+
+
+DESCRIPTION
+
+
+TABLE OF CONTENTS
+
+
+SAMPLES
+
+
+FORMATS
+
+
+
+
+
+
+
+1 of 4
+
+
+
+
+
+
+
+
+                            LOGIN TO ACCESS EXECUTIVE SUMMARY
+                        
+
+
+
+                            PRINTER FRIENDLY
+                        
+
+
+
+                            PRINTABLE PDF BROCHURE
+                        
+
+SEND TO A FRIEND
+
+
+
+
+
+
+                                                                                A textual analysis of the financial results for Integer.Pl SA  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company, including contact information, senior officers and Wright Quality Rating analyses is also provided.Quantitative analyses of financial statements (Income Statement, Balance Sheet and Sources of Capital), extensive ratio tables (Accounting, Asset Utilization, Employee Efficiency, Fixed Charges Coverage, Leverage Analysis, Liquidity Analysis, Per-share Data and Profitability Analysis) and proprietary Wright Quality Rating® analyses tables. The Wright Quality Rating measures the liquidity of the stock and the financial strength, profitability and corporate growth characteristics of Integer.Pl SA A textual review of the financial results of Integer.Pl SA versus InPost SA, OT Logistics SA and Enter Air SA is includedrepo.   The comparative analysis,of these companies,compares Sales, Company Valuations and Financial Position. Also included for Integer.Pl SA are: Company Description, Recent Stock Performance, Profitability Analysis, Dividend Analysis, and key data items. Additional research for Integer.Pl SA includes tables with up to 10-years of history of computed ratios, sales, earnings, and security prices. The company’s financial results are compared in a series of reports (i.e. financial statements, sales, key ratios, etc.) to global industry averages.
+                                                                            
+
+Note: Product cover images may vary from those shown
+
+
+
+
+2 of 4
+
+
+
+
+
+
+
+                            LOGIN TO ACCESS EXECUTIVE SUMMARY
+                        
+
+
+
+                            PRINTER FRIENDLY
+                        
+
+
+
+                            PRINTABLE PDF BROCHURE
+                        
+
+SEND TO A FRIEND
+
+
+
+
+
+
+                                                                    Company Fundamentals- Company Profile- Comparative Business Analysis- Summary Analysis per Share- Sales Analysis- Price Analysis- Earnings and Dividends AnalysisFinancial Statement Analyses- Balance Sheet - Common Size- Balance Sheet - Year-Year Percent Change- Balance Sheet - Five-Year Averages- Income Statement - Common Size- Income Statement - Year-Year Percent Change- Income Statement - Five-Year Averages- Sources of CapitalFinancial Ratio Analyses- Accounting Ratios- Asset Utilization- Employee Efficiency- Fixed Charges Coverage- Leverage Analysis- Liquidity Analysis- Per-Share Data- Profitability AnalysisWright Quality Rating Analyses- Investment Acceptance- Financial Strength- Profitability and Stability- Corporate Growth
+                                                                
+Note: Product cover images may vary from those shown
+
+
+
+
+3 of 4
+
+
+
+
+
+LOADING...
+
+
+
+
+
+
+
+4 of 4
+
+
+
+
+
+
+Note: Product cover images may vary from those shown
+
+
+
+
+
+
+
+
+RELATED PRODUCTS 
+
+
+
+
+
+
+
+Kruk SA
+
+
+ Company Profile
+67 Pages
+July 2017
+
+
+
+
+
+
+€75EUR$90USD£69GBP
+
+
+
+
+
+
+
+Benefit Systems SA
+
+
+ Company Profile
+68 Pages
+June 2017
+
+
+
+
+
+
+€75EUR$90USD£69GBP
+
+
+
+
+
+
+
+Asm Group Sa
+
+
+ Company Profile
+67 Pages
+July 2017
+
+
+
+
+
+
+€75EUR$90USD£69GBP
+
+
+
+
+
+
+
+Integer Holdings Corp
+
+
+ Company Profile
+64 Pages
+October 2016
+
+
+
+
+
+
+€75EUR$90USD£69GBP
+
+
+
+
+
+
+
+Lark.pl SA
+
+
+ Company Profile
+68 Pages
+July 2017
+
+
+
+
+
+
+€75EUR$90USD£69GBP
+
+
+
+
+
+
+
+Oponeo.Pl S.A.
+
+
+ Company Profile
+68 Pages
+June 2017
+
+
+
+
+
+
+€75EUR$90USD£69GBP
+
+
+
+
+
+
+
+Comperia PL SA
+
+
+ Company Profile
+67 Pages
+June 2017
+
+
+
+
+
+
+€75EUR$90USD£69GBP
+
+
+
+
+
+
+
+Netshops.pl SA
+
+
+ Company Profile
+48 Pages
+December 2014
+
+
+
+
+
+
+€75EUR$90USD£69GBP
+
+
+
+
+
+
+
+Easycall.Pl Sa
+
+
+ Company Profile
+54 Pages
+December 2014
+
+
+
+
+
+
+€75EUR$90USD£69GBP
+
+
+
+
+
+
+
+PLS Plantations Bhd
+
+
+ Company Profile
+66 Pages
+June 2017
+
+
+
+
+
+
+€75EUR$90USD£69GBP
+
+
+
+
+
+
+
+
+ close
+
+Integer.Pl SA
+
+
+
+ close
+
+ASK A QUESTION
+
+*Required Information
+ 
+Product: Integer.Pl SA
+
+
+YOUR QUESTION*
+
+
+
+
+
+
+
+YOUR CONTACT DETAILS*
+
+Title
+Mr
+Mrs
+Dr
+Miss
+Ms
+Prof
+
+
+
+
+First Name
+
+
+
+
+Last Name
+
+
+
+
+Email Address
+
+
+
+
+Country
+Please Select
+------------------------------
+United States
+United Kingdom
+Germany
+Canada
+Australia
+------------------------------
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica-Casey
+Antarctica-Scott
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Ascension Island
+Ashmore and Cartier Islands
+Atlantic East
+Atlantic West
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Clipperton Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaco 
+Cyprus
+Czech Republic
+Democratic Republic of Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Islas Malvinas)
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guiana
+French Polynesia
+Gabon
+Gambia
+Gaza Strip
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Ivory Coast
+Ivory Coast (Cote d'Ivoire)
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte Islands
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Islands
+North Korea
+Northern Ireland
+Northern Marianas
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Christopher Nevis
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome
+Saudi Arabia
+Scotland
+Senegal
+Serbia
+Serbia and Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Tahiti
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City (Holy See)
+Venezuela
+Vietnam
+Virgin Islands
+Wallis And Futuna
+West Bank
+West Indies
+Western Sahara
+Yemen
+Yugoslavia
+Zaire
+Zambia
+Zimbabwe
+
+
+
+
+Phone Number
+
+
+
++1
++11
++1-242
++1-246
++1-264
++1-268
++1-284
++1-345
++1-441
++1-473
++1-649
++1-664
++1-670
++1-671
++1-684
++1-758
++1-767
++1-784
++1-787
++1-809
++1-868
++1-869
++1-876
++20
++212
++213
++216
++218
++220
++221
++222
++224
++225
++226
++227
++228
++229
++23
++230
++231
++232
++233
++234
++235
++236
++237
++238
++239
++240
++241
++242
++243
++244
++245
++247
++248
++249
++250
++251
++252
++253
++254
++255
++256
++257
++258
++260
++261
++263
++264
++265
++266
++267
++268
++269
++27
++284
++290
++291
++297
++298
++299
++30
++31
++32
++33
++34
++350
++351
++352
++353
++354
++355
++356
++357
++358
++359
++36
++370
++371
++372
++373
++374
++375
++376
++377
++378
++379
++380
++381
++382
++385
++386
++387
++389
++39
++40
++41
++420
++421
++423
++43
++44
++45
++46
++47
++48
++49
++500
++501
++502
++503
++504
++505
++506
++507
++509
++51
++52
++53
++54
++55
++56
++57
++58
++590
++591
++592
++593
++594
++595
++596
++597
++598
++599
++60
++61
++6101
++62
++63
++64
++65
++66
++670
++672
++673
++674
++675
++677
++678
++679
++680
++681
++682
++683
++685
++686
++687
++688
++689
++691
++692
++7
++81
++82
++84
++850
++852
++853
++855
++856
++86
++869
++871
++874
++880
++886
++90
++91
++92
++93
++94
++95
++960
++961
++962
++963
++964
++965
++966
++967
++968
++970
++971
++972
++973
++974
++975
++976
++977
++98
++992
++993
++994
++995
++996
++998
+
+
+
+
+
+
+
+
+
+
+
+
+We request your telephone number so we can contact you in the event we have difficulty reaching you via email.
+                    We aim to respond to all questions on the same business day.
+
+
+
+
+
+ 
+
+
+
+ close
+
+SEND TO A FRIEND
+
+* Required Information
+ FRIEND'S DETAILS
+
+Full Name*
+
+
+
+
+Email Address*
+
+
+
+
+Message to friend
+
+
+
+
+YOUR CONTACT DETAILS
+
+Full Name*
+
+
+
+
+Email Address*
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ close
+
+Request a Quote
+
+ 
+Please complete the below form and click "send request" to obtain a pdf quotation and order form.
+This document will be available for immediate download and will also be emailed to you.
+            
+* Required Information
+
+
+YOUR ADDRESS
+
+Address 1*
+
+
+
+
+Address 2
+
+
+
+
+Address 3
+
+
+
+
+City*
+
+
+
+
+Postal/ZIP Code
+
+
+
+
+Country*
+Please Select
+------------------------------
+United States
+United Kingdom
+Germany
+Canada
+Australia
+------------------------------
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica-Casey
+Antarctica-Scott
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Ascension Island
+Ashmore and Cartier Islands
+Atlantic East
+Atlantic West
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Clipperton Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaco 
+Cyprus
+Czech Republic
+Democratic Republic of Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Islas Malvinas)
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guiana
+French Polynesia
+Gabon
+Gambia
+Gaza Strip
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Ivory Coast
+Ivory Coast (Cote d'Ivoire)
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte Islands
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Islands
+North Korea
+Northern Ireland
+Northern Marianas
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Christopher Nevis
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome
+Saudi Arabia
+Scotland
+Senegal
+Serbia
+Serbia and Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Tahiti
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City (Holy See)
+Venezuela
+Vietnam
+Virgin Islands
+Wallis And Futuna
+West Bank
+West Indies
+Western Sahara
+Yemen
+Yugoslavia
+Zaire
+Zambia
+Zimbabwe
+
+
+
+
+State
+
+
+
+
+
+YOUR DETAILS
+
+Title*
+Mr
+Mrs
+Dr
+Miss
+Ms
+Prof
+
+
+
+
+First Name*
+
+
+
+
+Last Name*
+
+
+
+
+Organisation*
+
+
+
+
+Email Address*
+
+
+
+
+Phone Number*
+
+
+
++1
++11
++1-242
++1-246
++1-264
++1-268
++1-284
++1-345
++1-441
++1-473
++1-649
++1-664
++1-670
++1-671
++1-684
++1-758
++1-767
++1-784
++1-787
++1-809
++1-868
++1-869
++1-876
++20
++212
++213
++216
++218
++220
++221
++222
++224
++225
++226
++227
++228
++229
++23
++230
++231
++232
++233
++234
++235
++236
++237
++238
++239
++240
++241
++242
++243
++244
++245
++247
++248
++249
++250
++251
++252
++253
++254
++255
++256
++257
++258
++260
++261
++263
++264
++265
++266
++267
++268
++269
++27
++284
++290
++291
++297
++298
++299
++30
++31
++32
++33
++34
++350
++351
++352
++353
++354
++355
++356
++357
++358
++359
++36
++370
++371
++372
++373
++374
++375
++376
++377
++378
++379
++380
++381
++382
++385
++386
++387
++389
++39
++40
++41
++420
++421
++423
++43
++44
++45
++46
++47
++48
++49
++500
++501
++502
++503
++504
++505
++506
++507
++509
++51
++52
++53
++54
++55
++56
++57
++58
++590
++591
++592
++593
++594
++595
++596
++597
++598
++599
++60
++61
++6101
++62
++63
++64
++65
++66
++670
++672
++673
++674
++675
++677
++678
++679
++680
++681
++682
++683
++685
++686
++687
++688
++689
++691
++692
++7
++81
++82
++84
++850
++852
++853
++855
++856
++86
++869
++871
++874
++880
++886
++90
++91
++92
++93
++94
++95
++960
++961
++962
++963
++964
++965
++966
++967
++968
++970
++971
++972
++973
++974
++975
++976
++977
++98
++992
++993
++994
++995
++996
++998
+
+
+
+
+
+
+
+
+
+
+
+                                PO Number
+                                (if applicable)
+
+
+
+
+
+
+
+PRODUCT FORMAT
+
+
+
+
+License
+Format
+Properties
+Price
+
+
+
+
+ 
+SINGLE USER Electronic (PDF)                                                
+
+
+
+                                            The report will be emailed to you.  The report is sent in PDF format. 
+                                        
+
+                                            This is a single user license, allowing one specific user access to the product.
+                                        
+
+€75EUR$90USD£69GBP
+
+
+
+
+
+
+
+* The price quoted above is only valid for 30 days. Please submit your order within that time frame to avail of this price as all prices are subject to change.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Market Analysis - Integer                                manage you subscriptionsOR stay where you areClosePlease note: the downloads on this page may not work on your browser (Internet Explorer 7 or 8 from Microsoft) as we use encryption technology (to make your browsing experience as safe and secure as possible) which is newer than IE7 or IE8 supports. Rather than downgrade our security, we apologise and request that you update to the latest version – IE11 – or alternatively download Google Chrome or Firefox – which work without issues. Alternatively, please email info@integer-research.com and let us know which download you require so we can send it to you directly. Your login details: Username:   E-mail:    Password Password confirmation TitleMrMrsMissDr First Name* Last Name* Company* Job title / Position* Address Street Town / City* Postal code/ZIP* Telephone contact number Choose a Country*AfghanistanÅland IslandsAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua And BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBosnia And HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBrunei DarussalamBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCongoCongo The Democratic Republic Of TheCook IslandsCosta RicaCote D'ivoireCroatiaCubaCyprusCzech RepublicDenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland Islands (Malvinas)Faroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-bissauGuyanaHaitiHeard Island And Mcdonald IslandsHoly See (Vatican City State)HondurasHong KongHungaryIcelandIndiaIndonesiaIran Islamic Republic OfIraqIrelandIsle Of ManIsraelItalyJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKorea Democratic People's Republic OfKorea Republic OfKuwaitKyrgyzstanLao People's Democratic RepublicLatviaLebanonLesothoLiberiaLibyan Arab JamahiriyaLiechtensteinLithuaniaLuxembourgMacaoMacedonia The Former Yugoslav Republic OfMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesia Federated States OfMoldova Republic OfMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNetherlands AntillesNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorwayOmanPakistanPalauPalestinian Territory OccupiedPanamaPapua New GuineaParaguayPeruPhilippinesPitcairnPolandPortugalPuerto RicoQatarReunionRomaniaRussian FederationRwandaSaint HelenaSaint Kitts And NevisSaint LuciaSaint Pierre And MiquelonSaint Vincent And The GrenadinesSamoaSan MarinoSao Tome And PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia And The South Sandwich IslandsSpainSri LankaSudanSurinameSvalbard And Jan MayenSwazilandSwedenSwitzerlandSyrian Arab RepublicTaiwan Province Of ChinaTajikistanTanzania United Republic OfThailandTimor-lesteTogoTokelauTongaTrinidad And TobagoTunisiaTurkeyTurkmenistanTurks And Caicos IslandsTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUnited States Minor Outlying IslandsUruguayUzbekistanVanuatuVenezuelaViet NamVirgin Islands (British)Virgin Islands (U.S)Wallis And FutunaWestern SaharaYemenZambiaZimbabwe Business Type*Bank/FinancialConsultancyDistributor/Logistics/FleetEducation/LibraryEquipment supplier/OEMGovernment/RegulatorTrade/Industry AssociationPress/MediaProducer/manufacturerRaw Material SupplierOther Select the regions of interest to you (hold cntrl + click to select more than one)Africa & Middle EastAsia/Asia Pacific/AustralasiaEuropeRussia & CISNorth America (incl. Mexico)South & Central America  Please keep me informed of the latest news, research and conferences*  I do not wish to be contacted by emailRead the terms and conditions*  I have read and agree to the website Terms and Conditions Password Confirm Password    +    =        Your interests* - select more than one if necessaryEnvironment & EmissionsDEF/AdBlue/ARLA 32Emissions Control TechnologiesMarine EmissionsOn-Road - Light Duty Vehicles/Passenger carNon-Road/Off-HighwayLNG/CNG/Alternative fuelsOn-Road - Heavy Duty VehiclesEngine/Vehicle ManufactureFertilizers & ChemicalsAmmonium SulphateNitrogenPhosphateUANSulphurAmmonium NitratePhosphate RockPotash (SOP)Potash (MOP)NPKSulphuric AcidUreaValue Added and Specialty FertilizersWire & CableData, signal & controlEnamelled/magnet wireFibre optic cableFire performance cablePower cableSpecialty cableAutomotive Cable REGISTERYour login details: E-mail:  Password  Remember me?     forgot password?Member LoginRegisterC   HomeAbout UsMarket AnalysisConferencesConsultancyExclusive ContentContact UsMenuHomeAbout UsMarket AnalysisConferencesConsultancyExclusive ContentContact Us ?>Market Analysis []  Translate Click here to read this in:  Translate Click here to read this in:What are you looking for? By Industry all industriesEnvironment & EmissionsFertilizers & ChemicalsWire & Cable By Subject please select industry first   Global Power Cable Supply: HV/EHV and Submarine Cable Break down of power cable supply for HV, EHV, UHV and Submarine power cableData coverage across 28 countries between the years of 2008 - 2016 + forecastsProduction and capacity by supplier in value (US$m), gross cable weight ('000tonnes), core km lengths Delivered as an Excel Database + Supporting PDF/PowerPoint slides    NEW: The Global SCR Forecast Service Overview of global emissions standards Global vehicle sales forecast to 2026 Global SCR sales forecast to 2026 Global SCR fleet forecast to 2026 All forecasts split out by country and region    Wire & Cable Market: Asia Pacific and South Asia Essential analysis and data for the Asia Pacific and South Asia markets Five year forecasts for supply and demand and analysis from 2008 Revenue production by cable type for plants/factories, companies, countries, or region Factory/plant locations and bi-annual excel and slide updates    Wire & Cable Market: Europe and CIS Essential analysis and data for Europe & CIS markets Five year forecasts for supply and demand and analysis from 2008 + bi-annual excel and slide updates Factory/plant and geolocations/addresses Three years of revenue production by cable type for plants/factories, companies, countries, or region    Spotlight Report – Chinese SulphurReveal how trade into China has changed and developed in recent yearsDiscover which new projects will impact China’s supply/demand balance in the outlookAccess future market prices for China out to 2027    Wire & Cable Market: Americas Essential analysis and data for the North and South American markets Five year forecasts for supply and demand and analysis from 2008 Revenue production by cable type for plants/factories, companies, countries, or region Factory/plant geolocations/addresses and bi-annual excel and slide updates    Wire & Cable Market: Middle East & Africa Essential analysis and data for the Middle East & Africa Wire & Cable market Five year forecasts for supply and demand and analysis from 2008 Revenue production by cable type for plants/factories, companies, countries, or region Factory/plant locations and bi-annual excel and slide updates    Spotlight Report: Latin American Sulphuric Acid MarketDiscover how the downturn in metals prices is impacting sulphuric acid production and demandUnderstand how the new plant in Cuba is likely to impact market dynamicsReveal future market prices for Latin American sulphuric acid exports across three scenarios out to 2026Learn how trade from Latin America is likely to evolve over the next 10 years    The Monitor: AdBlue, DEF & ARLA 32 marketsAdBlue, DEF and Arla 32 market news and regulatory developmentsRegional retail pump networksMonthly AUS 32 consumption estimates and underlying costsSCR-equipped vehicle sales estimates    NEW: The India SCR & AdBlue® Forecast Service Regulation breakdown Integer analysis on the likelihood of Bharat VI going ahead AGU demand forecast AdBlue® demand forecast    OUT NOW: The South Korea SCR & AdBlue® Forecast Service Essential emissions legislation overview and outlook South Korea AdBlue® consumption forecast, Adblue® and urea pricing South Korean AdBlue® producers details and locations Analysis of current and future OEM strategies to meet standards    New: The Market for Specialty CableDrivers of demand by end-use and production in US$ millionSpecifications, standards and key consumers by sectorSize of the market by OEM product by region and countryProjected new build and cable demand forecasts to 2020    NEW: Nitrogen 10-Year Outlook ServiceReveal the 10 year forecasts of capacity additions, incorporating several scenariosDiscover the demand forecast for all of the primary nitrogen products, end products and end marketsUnderstand the role of the most prominent importers and exporters by end productAccess the forecast costs for key importers, exporters and end users of the primary nitrogen products    NEW: The China SCR & AdBlue® Forecast Service Who are the largest AdBlue® producers in China? Where do they operate? What are the main areas for growth in the Chinese AdBlue® sector? How will AdBlue® consumption grow over time? And what factors govern its trajectory?    NEW: Nitrogen Cost and Profit Margin ServiceProduction costs by producer, the prices and margins they achieve and how these are likely to change in the futureHow feedstock costs, including shale gas, will impact production economicsIdentify swing producers and where they are on the cost/supply curveNew capacity (greenfield and brownfield) likely to be added in the medium term    New: Global NPK Supply, Demand and Trade DatabaseDiscover the size of the marketGain insight into global trade flowsReveal current and historical supply and demandIncorporate the comprehensive datasets into your planning and use them to inform and support your decision making    The Integer Top 100 Global Wire and Cable Producers DatabaseWho are the biggest wire and cable manufacturers in the world?What are their annual revenues and how large is the global industry in total?How have the producers rankings changed over the last 6 yearsWho are the new entrants, and how close is the competition?    Emissions Control in Non-Road Mobile Machinery (NRMM) MarketsNRMM emissions legislation summaryAUS 32 demand forecast to 2026SCR equipment forecast to 2026OEM emissions control strategies    New: Spotlight Report – West European SulphurUnderstand how trade has changed and developed in recent yearsDiscover which countries are now net importers of sulphur, instead of exportersReveal future market prices for West Europe out to 2026Use the report’s readily accessible data – including country level sulphur production split by type (oil, gas)    NEW: Spotlight Report – Global Phosphate InvestmentReveal which projects are likely to go ahead in the medium termIdentify which projects have advanced in the last year and whyDiscover future investment projects across the globeCompare capital costs and mine-site costs of junior minors    NEW: The Chinese Urea Industry – 2016 EditionExplore the development of, and outlook for, the urea industry in ChinaUnderstand the costs of production and export based on our Chinese urea cost curveDiscover which producers are most likely to approach export markets and whyTrack likely future supply developments with forecasts to 2020    NEW: Spotlight Report – North American SulphurDiscover how the oil price crash is impacting sulphur supply in North AmericaUnderstand how the new Mosaic melter in Florida is likely to impact market dynamicsReveal future market prices for US & Canadian sulphur exports through to 2025Learn how trade from Canada and the US is likely to evolve over the next 10 years    The North American SCR & DEF Forecast Service Overview and forecasts - SCR and DEF markets Legislation, demand, supply and pricing Structural features of the DEF market    NEW: Fertilizer Country Profiles – Latin AmericaBrazil, Mexico, Argentina and more added throughout the yearDemand and import by product and country of origin for 2009-2014Domestic policy framework, market structure and crop productionCost estimates and trade maps of fertilizer import flows    NEW: The Sulphur Market Dynamics ServiceExamination of the major trends likely to reshape the industry in the next 5-10 yearsAnalysis of sulphur prices and key drivers impacting price volatilityExploration of demand in the fertilizer and industrial sectorsForecasts to 2024 for sulphur supply and demand by region, including a breakdown of sulphur types    NEW: The Sulphuric Acid Market ServiceTrack future supply developments, key projects and trends to 2025Reveal future demand developments in the fertilizer and industrial sectorsLearn what trade routes are shifting in the outlook to 2025Discover future market prices based around three different scenarios    NEW: Phosphate Cost and Profit Margin ServiceProduction costs by producer, the prices and margins they achieve and how these are likely to change in the futureNew capacity (greenfield and brownfield) likely to be added in the medium termThe junior miners' likely positions on the cost curveHow phosphate demand, supply and pricing will evolve in the next 10 years.    NEW: The Potash Market ServiceThe production costs by producer, the prices and margins they achieve and how these will change in the futureHow much new capacity – greenfield and brownfield – is likely to be added in the medium termHow potash demand, supply and pricing will evolve in the next ten yearsStay up-to-date on the market with data and analysis updated quarterly    NEW: The SOP Outlook ReportSOP cash costs for each producer and what prices and margins they achieveThe future of the SOP price premium over MOP and how this is being impacted by supply economicsNew SOP projects by region and how much new greenfield and brownfield capacity is likely to be added in the medium termHow SOP demand, supply and pricing will evolve in the next ten years    Wire & Cable Data ServiceTrack the latest developments in the wire and cable market (80 key countries covered)Discover where and for which products demand is growingIdentify and capitalize on exciting new ‘hotspots’ by geography and product groupFive year forecasts on consumption, production and trade data.    Wire and Cable Plant DatabasesRevenues by plant and locationRevenue by country and productCountry/Company productionLocate plants with geocodes and full addresses    NEW: Expert Briefing – The VW diesel emissions crisis Implications of the recall remedy for VW and US customers Regulations and test cycles for emissions and fuel economy How will VW's engine and emissions technology suppliers be affected?    NEW: Sulphur Quarterly InsightQuarterly high level analysisForecasts and intelligence on the Sulphur marketSupply / Demand / Trade / Pricing / ProjectsPurchase a single quarter or subscribe for a year    NEW: The Automotive Grade Urea (AGU) Forecast Sevice Brand new report on Automotive Grade Urea (AGU) AGU supply and demand AGU trade and pricing    NEW: Sulphuric Acid Quarterly InsightQuarterly high level analysisForecasts and intelligence on the Sulphuric Acid marketSupply / Demand / Trade / Pricing / ProjectsPurchase a single quarter or subscribe for a year    Fertilizer Country Profiles – Sub-Saharan AfricaNigeria, Ghana, Ethiopia, Kenya, Mozambique, South Africa, Tanzania + more added throughout the yearDemand + import by product and country of origin from 2009-2014Domestic policy framework, market structure and crop productionCost estimates and trade maps of fertilizer import flows    Company Profiles – Potash ProducersArabPotash, ICL, Intrepid Potash, Mosaic, PotashCorp, Qinghai Salt Lake, Uralkali + more added throughout the yearMarket position, export volumes by country, financials, production costs per tonne, investment + expansionsEssential SWOT (Strengths, Weaknesses, Opportunities, Threats) AnalysisIndication of producer position on Integer potash cost curve    The Chinese UAN Industry – addressing the global impactReveal the outlook for UAN production from producers of both AN and urea, including plant level detail for major exportersDiscover the outlook for UAN projects: capacities and geography, and the impact these may have on trade forecastsView production developments in China and potential export availability by supplierIdentify potential exporters with logistical advantages to reach the international market    The European SCR and AdBlue® Forecast Service Updated AdBlue® forecasts and pricing Vehicle forecasts Selective Catalytic Reduction (SCR) forecasts and developments    UPDATED: The Brazil SCR & ARLA 32 Forecast Service ARLA 32 producers/AGU producers mapped and detailed Consumptions forecast of the market and AGU premium discussed List of ARLA 32 producers Consumption/price forecasts    The Chinese Phosphate Industry: addressing the global impactTrack the development of and outlook for the phosphate industry in ChinaDiscover the industry’s costs of production and export potential based on the Chinese phosphate cost curveGain insight into government export policy and possible future export scenariosUnderstand likely future supply developments with forecasts to 2020    The DEF Demand Outlook Integer estimates of current and future DEF consumption The main drivers for DEF demand in North America Main manufacturers' strategies and technologies used to meet these requirements    Power Generators and Diesel Exhaust Fluid (DEF) demand in North America An introduction to emissions standards legislation in the power generator market The affects of the power generator market on DEF consumption What is driving the market for DEF in relation to power generators    The Integer Top 200 Chinese Wire & Cable Producers DatabaseBalanced and unbiased ranking of major chinese players by revenueCompare and analyse figures across each of the last 6 yearsBreakdown of production by region in China, showing activity hotspotsEasy Excel file with in-built pivot tables and charts for easy reference    The DEF Market Dynamics ReportDiesel Exhaust Fluid (DEF) production and consumption in North AmericaDEF supply & pricingVehicle and DEF demand forecastsOEM plans for SCR in the region.    Focus Report: Phosphate Rock Supply, Demand and Pricing Outlook to 2023What is the future direction of phosphate rock supply by rock type over the next 10 years?What is the outlook for phosphate rock demand by rock type and application over the next 10 years?How does phosphate rock quality affect both market demand and price?    Industry Insight: Navigating the North American Nitrogen MarketComprehensive snapshot of this dynamic regional marketKey statistics, trends and driversEasy-to-use online format with colour charts, tables and unlimited printEverything you need to know about the North American Nitrogen Market    European Diesel Emissions Control & AdBlue Market StudyExtensive 3 Volume exploration of the impact of Euro VI/6 legislation1. Euro VI medium and heavy-duty commercial vehicles2. Euro 6 diesel passenger cars and light duty vehicles3. The European AdBlue® market    The Global Ammonium Sulphate Market ServiceAS producers and product offeringsAS grade preferences by marketPrice premiums by grade and country/regionFuture AS producers and market outlooks    Wire & Cable Focus Report: ASEAN MarketsConsumption by country and product for 2007-2013, plus forecasts to 2018Analysis of 70 leading cable producers in the ASEAN regionProduct mix and revenues by product, and production share by countryTrade and demand forecasts.    Focus Report: The European Fire Performance Cable MarketOutlook for the consumption and production of FPC in Europe 2007-2018Profiles of key producers of FPC Impact of Construction Products Regulation (CPR) and other legislationAnalysis of key trendsAnalysis of the use of materials – including polymers and flame retardants    Global Fertilizer Demand: The Long-Term OutlookHow global crop production and fertilizer consumption are set to change to 2030Evaluate the link between crop and fertilizer demand in all major countries, by nutrient, for all major cropsHow over and under application of fertilizers can open up new opportunitiesIdentify the future prospects for your business and plan ahead confidently    Brazil Diesel Emissions & ARLA 32 Market Study: 2013 EditionCurrent and future diesel emissions legislation and standards in BrazilHeavy-duty truck market analysis - production, sales, engine usage, pricing and aftertreatmentARLA 32 market pricing, supply and demand overviewARLA 32 price, supply and demand forecasts    China Diesel Emissions & AdBlue Market StudyVehicle emissions and fuel quality legislation in ChinaSize of Chinese diesel market and lubricant market and it’s major playersAdBlue demand forecast for ChinaAdBlue supply and distribution review, and AdBlue costs and prices.    Wire and Cable Focus Report: Middle East and North Africa MarketsUnderstand how the Arab Spring has affected MENA wire and cable marketsDiscover where and for which products regional demand is growingLearn how MENA cable makers are performingDetermine what the implications of the market outlook are for industry participants.    The Outlook for UAN (2011 Edition)Compare new entrants with existing suppliers and their response to increased competitionHow new UAN supply will affect the markets for urea, nitrates and direct application ammoniaThe influence of changing trade flows on logistics and storageProduction costs and profit margins achieved for major producers worldwide    Wire and Cable Regional Study: BrazilComprehensive analysis of Brazil's cable industry performanceMaps in detail the main drives of demand in BrazilPlant and product mix for the leading 100 cablemakersIn-depth profiles on leading cable companies operating in Brazil.    Wire and Cable Regional Study: North AmericaComprehensive analysis of USA's cable industry performanceMaps in detail the main drives of demand in USAPlant and product mix for the leading 200 cablemakers in the USAIn-depth profiles on leading cable companies operating in the USA.    Wire and Cable Regional Study: IndiaFull profiles of the top Indian producersCompany analysis, overview and structure, raw materials usage, production and capacity by product, and company financialsProduction shares for the top 50 Indian cable producersPlant and product mix for the leading 200 Indian cablemakers.    Wire and Cable Focus Report: Eastern EuropeExplores how the region will develop over the next eight yearsExamines the main drivers of demand for each country in the regionProduction shares and detailed product splits of the top 130 cablemakers in the regionAnalysis of emerging cable clusters and the cross-border electronic hub centred on Hungary. 0000Related ConferencesAdvanced Cable North America 2018Integer Emissions Summit & AdBlue® Forum China 20184th Advanced Cable Middle East 2018Integer Emissions Summit & AdBlue® Forum Asia Pacific 2018Value Added Fertilizer Summit Asia 2018NewsThe Integer View 26 July 2017 – BioNitrogen ceases operations, Ma’aden’s Wa’ad al Shamal starts prouction, Uralkali/China sign potash contract, Chinese sulphur imports continue to fall year-on-yearIs your DEF business the one to beat? Find out at The DEF Awards 2017Integer View from China 12 July 2017 – Optimizing China’s fertilizer capacity; China’s slow release fertilizer industryEuropacable and its members actively contributing to making sure CPR is a successThe Integer View 03 July 2017 – OPZ, Togliatti shut down ammonia plants; Syrian Phosphate Revival; “Innovative” Potash Mine Advances Home About IntegerOverviewCompany HistoryOur ServicesMeet the TeamCareers at Integer Market AnalysisGlobal Power Cable Supply: HV/EHV and Submarine CableNEW: The Global SCR Forecast ServiceWire & Cable Market: Asia Pacific and South AsiaWire & Cable Market: Europe and CISSpotlight Report – Chinese SulphurWire & Cable Market: AmericasWire & Cable Market: Middle East & AfricaSpotlight Report: Latin American Sulphuric Acid MarketThe Monitor: AdBlue, DEF & ARLA 32 marketsNEW: The India SCR & AdBlue® Forecast ServiceOUT NOW: The South Korea SCR & AdBlue® Forecast ServiceNew: The Market for Specialty CableNEW: Nitrogen 10-Year Outlook ServiceNEW: The China SCR & AdBlue® Forecast ServiceNEW: Nitrogen Cost and Profit Margin ServiceNew: Global NPK Supply, Demand and Trade DatabaseThe Integer Top 100 Global Wire and Cable Producers DatabaseEmissions Control in Non-Road Mobile Machinery (NRMM) MarketsNew: Spotlight Report – West European SulphurNEW: Spotlight Report – Global Phosphate InvestmentNEW: The Chinese Urea Industry – 2016 EditionNEW: Spotlight Report – North American SulphurThe North American SCR & DEF Forecast ServiceNEW: Fertilizer Country Profiles – Latin AmericaNEW: The Sulphur Market Dynamics ServiceNEW: The Sulphuric Acid Market ServiceNEW: Phosphate Cost and Profit Margin ServiceNEW: The Potash Market ServiceNEW: The SOP Outlook ReportWire & Cable Data ServiceWire and Cable Plant DatabasesNEW: Expert Briefing – The VW diesel emissions crisisNEW: Sulphur Quarterly InsightNEW: The Automotive Grade Urea (AGU) Forecast SeviceNEW: Sulphuric Acid Quarterly InsightFertilizer Country Profiles – Sub-Saharan AfricaCompany Profiles – Potash ProducersThe Chinese UAN Industry – addressing the global impactThe European SCR and AdBlue® Forecast ServiceUPDATED: The Brazil SCR & ARLA 32 Forecast ServiceThe Chinese Phosphate Industry: addressing the global impactThe DEF Demand OutlookPower Generators and Diesel Exhaust Fluid (DEF) demand in North AmericaThe Integer Top 200 Chinese Wire & Cable Producers DatabaseThe DEF Market Dynamics ReportFocus Report: Phosphate Rock Supply, Demand and Pricing Outlook to 2023Industry Insight: Navigating the North American Nitrogen MarketEuropean Diesel Emissions Control & AdBlue Market StudyThe Global Ammonium Sulphate Market ServiceWire & Cable Focus Report: ASEAN MarketsFocus Report: The European Fire Performance Cable MarketGlobal Fertilizer Demand: The Long-Term OutlookBrazil Diesel Emissions & ARLA 32 Market Study: 2013 EditionChina Diesel Emissions & AdBlue Market StudyWire and Cable Focus Report: Middle East and North Africa MarketsThe Outlook for UAN (2011 Edition)Wire and Cable Regional Study: BrazilWire and Cable Regional Study: North AmericaWire and Cable Regional Study: IndiaWire and Cable Focus Report: Eastern Europe ConferencesAdvanced Cable North America 2018Integer Emissions Summit & AdBlue® Forum China 20184th Advanced Cable Middle East 2018Integer Emissions Summit & AdBlue® Forum Asia Pacific 2018Value Added Fertilizer Summit Asia 201810th Integer Emissions Summit USA 20177th Integer Emissions Summit & AdBlue® Forum India 2017Integer DEF Forum USA 2017The DEF Awards 201713th Integer Emissions Summit & AdBlue® Forum Europe 201710th Integer Emissions Summit & AdBlue® Forum China 20172nd Integer Emissions Summit & AdBlue® Forum Asia Pacific 20173rd Advanced Cable Middle East 2017Value Added Fertilizer Summit Asia 20179th Integer Emissions Summit & DEF Forum USA 20166th Integer Emissions Summit & AdBlue®  Forum India 201612th Integer Emissions Summit & AdBlue® Forum Europe 20161st Integer Emissions Summit & AdBlue® Forum Asia Pacific 20166th Integer Emissions Summit & ARLA 32 Forum Brazil 20169th Integer Emissions Summit & AdBlue® Forum China 20162nd Advanced Cable Middle East 20168th Integer Emissions Summit & DEF Forum USA 20154th Integer Emissions Summit & AdBlue® Forum Russia & CIS 20158th Integer Emissions Summit & AdBlue® Forum Asia 20155th Integer Emissions Summit & ARLA 32 Forum Brazil 2015Advanced Cable Middle East 201511th Integer Emissions Summit & AdBlue® Forum Europe 201510th Integer Emissions Summit Europe 20144th Integer Emissions Summit Brazil 20147th Integer Emissions Summit Asia 20143rd Integer Emissions Summit Russia 20142nd Advanced Cable Asia 2013Diesel Emissions Conference India 2013Diesel Emissions Conference & DEF Forum USA 2013Diesel Emissions Conference & AdBlue Forum Europe 20137th Integer Emissions Summit USA 2014Diesel Emissions Conference & ARLA 32 Brazil 20133rd Advanced Cable Asia 2014Diesel Emissions Conference & AdBlue Forum Asia 20135th Integer Emissions Summit India 2015 ConsultancyEnvironment & EmissionsFertilizers & ChemicalsWire & Cable Contact UsOverviewLondonBeijingJapanMeet the Team Member LoginRegisterCopyrightTerms & ConditionsPrivacy PolicySite by totalsurf ©  2017 Integer Research Limited. All rights reserved                           This site uses cookies: Find out more.Okay, thanks 
+
 
 
 
@@ -9705,6 +9406,2291 @@ S
 
 
 This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept Read MorePrivacy & Cookies Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Integer.pl Grupa Kapitalowa - Supplier | Colombia | Import Genius
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Plans
+
+
+
+
+Limited
+
+
+
+
+Plus
+
+
+
+
+Premium
+
+
+
+
+
+
+
+
+            LimitedMonitor Your Competitors
+
+
+
+Data
+
+Access data on U.S. ocean freight imports from the last 3 months for all companies
+You'll have access to data from the previous 6-months from the date of your search. We use a rolling date range, so you can always look back 6 months from the current date.
+
+
+
+
+            LimitedMonitor Your Competitors
+
+
+
+Data
+
+Access data on U.S. ocean freight imports from the last 3 months for all companies
+Access data on U.S. ocean freight imports from the last 3 months for all companies
+You'll have access to data from the previous 3-months from the date of your search. We use a rolling date range, so you can always look back 3-months from the current date.
+
+
+
+
+            PlusSmall & Medium Business
+
+
+
+Data
+
+Access data on U.S. ocean freight imports from the last 12 months for all companies
+You'll have access to data from the previous 12-months from the date of your search. We use a rolling date range, so you can always look back 12-months from the current date.
+U.S. ocean freight exports from January 1, 2014 to present for all companies
+
+
+
+
+            Premium            Empire Builder
+
+
+
+Data
+
+Access data on U.S. ocean freight imports from November 2006 to the present for all companies
+You'll have access to our entire database of shipping manifests of U.S. Ocean freight imports going back to November 2006.
+U.S. ocean freight exports from January 1, 2014 to present for all companies
+
+
+
+
+
+            LimitedMonitor Your Competitors
+
+
+
+Usage
+
+Track the shipping activities of your 3 chosen companies
+Our Limited Plan lets you monitor the shipping activities of any three companies across all our databases. Be the first to know when your target company clears a shipment through customs in one of the countries we track.
+3 Contact Info Requests Per Month
+Our team of account managers and research assistants will help you find contact information for up to 3 companies in our database each month.
+Download (CSV and XLS) 5k Records Per Month
+If you're planning to do more in-depth research on the companies in our database, you should upgrade to the Plus or Premium plans, which allow more downloads.
+Email Alerts for up to 3 Searches
+If you need to track more than 3 companies, product segments, or trade lanes, you should upgrade to the Plus or Premium plan, which allow more email alerts.
+
+
+
+
+            LimitedMonitor Your Competitors
+
+
+
+Usage
+
+10 Company Searches Per Day
+10 searches per day may be enough if you are just monitoring a few competitors or researching suppliers in a single industry. If you're looking to connect with sales leads or do more in-depth research, you should upgrade to the Plus or Premium plan which allows more searches.
+3 Contact Info Requests Per Month
+Our team of account managers and research assistants will help you find contact information for up to 3 companies in our database each month.
+Download (CSV and XLS) 1k Records Per Month
+If you're planning to do more in-depth research on the companies in our database, you should upgrade to the Plus or Premium plan, which allow more downloads.
+Email Alerts for up to 3 Company Searches
+If you need to track more than 3 companies, product segments, or trade lanes, you should upgrade to the Plus or Premium plan, which allow more email alerts.
+
+
+
+
+            Plus            Small & Medium Business
+
+
+
+Usage
+
+25 Searches Per Day
+25 searches per day may be enough if you are just monitoring a few competitors or researching suppliers in a single industry. If you're looking to connect with sales leads or do more in-depth research, you should upgrade to the Premium plan which allows more searches.
+25 Contact Info Requests Per Month
+Our team of account managers and research assistants will help you find contact information for up to 25 companies in our database each month.
+Download (CSV and XLS) 10k Records Per Month
+If you're planning to do more in-depth research on the companies in our database, you should upgrade to the Premium plan, which allow more downloads.
+Email Alerts for up to 5 Searches
+If you need to track more than 5 companies, product segments, or trade lanes, you should upgrade to the Premium plan, which allow more email alerts.
+
+
+
+
+            Premium            Empire Builder
+
+
+
+Usage
+
+50 Searches Per Day
+ 
+50 Contact Info Requests Per Month
+Our team of account managers and research assistants will help you find contact information for up to 50 companies in our database each month
+Download (CSV and XLS) 25k Records Per Month
+If you're planning to do more in-depth research on the companies in our database, contact the Sales Department to purchase more credits and export additional shipping records.
+Email Alerts for up to 10 Searches
+
+
+
+
+
+             Plus             Small & Medium Business
+
+
+
+Features
+
+Visual Mapping
+Our Visual Mapping technology provides an instant snapshot of any company's trade connections. Navigate the global web of trading partners with the click of a mouse and visualize the relationships between companies many degrees apart.
+
+
+
+
+
+
+
+            Premium            Empire Builder
+
+
+
+Features
+
+Visual Mapping
+Our Visual Mapping technology provides an instant snapshot of any company's trade connections. Navigate the global web of trading partners with the click of a mouse and visualize the relationships between companies many degrees apart.
+
+
+
+
+
+
+
+            Limited            Monitor Your Competitors
+
+
+
+Support
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+Call or e-mail our Customer Service Agents. They will get back to as soon as possible to assist you with your data needs.
+
+
+
+
+            Plus            Small & Medium Business
+
+
+
+Support
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+Call or e-mail our Customer Service Agents. They will get back to as soon as possible to assist you with your data needs.
+
+
+
+
+            Premium            Empire Builder
+
+
+
+Support
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+Call or e-mail our Customer Service Agents. They will get back to as soon as possible to assist you with your data needs.
+Dedicated Research Assistant
+An experienced trade data specialist will serve as your dedicated account manager to locate hard-to-reach data, perform searches and compile reports on your behalf.
+
+
+
+
+            Limited            Monitor Your Competitors
+
+
+
+Data
+
+Access data on U.S. ocean freight imports from the last 3 months for all companies
+You'll have access to data from the previous 6-months from the date of your search. We use a rolling date range, so you can always look back 6 months from the current date.
+
+
+
+
+
+
+
+X
+
+
+
+
+
+
+
+
+
+
+
+
+                   Home                
+
+
+
+
+
+                        How It Works                    
+
+
+
+                            U.S. Data                        
+
+                            Additional Countries                        
+
+                            Our Datasets                        
+
+                            Our Clients                        
+
+                            IG Reviews                        
+
+                            Videos                        
+
+                            Pictures                        
+
+                            Presentation                        
+
+
+
+                   Plans & Pricing                
+
+                    Search                
+
+                  Contact Us                
+Live Chat				
+
+                    Free Demo                
+
+                    Sign In                
+
+                    Join Now                
+
+
+
+
+
+
+
+
+
+
+
+English
+中文
+French
+
+
+
+
+
+
+
+
+
+
+English
+
+
+
+中文
+
+
+
+French
+
+
+
+
+
+
+
+
+
+
+			                                                Service: 855-573-9976 
+                        Sales: +1-855-573-9976
+
+ Live Chat
+
+Choose Language
+ English
+ 中文
+ French
+
+
+
+
+ 
+
+
+
+Hi, may I help you with something?
+
+An ImportGenius.com sales agent is available to answer your question.
+
+
+							Chat Live Now						
+
+						No, thanks.					
+
+
+
+
+
+
+
+Sign Up
+
+
+
+
+
+
+Home
+How It Works
+Plans & Pricing
+Search
+Contact Us
+
+
+Live Chat
+
+2
+  
+
+
+
+ 
+
+
+
+
+
+Integer.pl Grupa Kapitalowa
+
+Integerpl Grupa Kapitalowa is an overseas supplier in Polonia that exports products to Servicios Postales Nacionales Sa. Transportation Type Maritimo.        
+
+
+
+
+
+ Call +1 (480) 744 2559
+
+
+
+
+Import Genius
+
+
+
+
+
+
+                                Our bill of lading data reveals the trading activities of Integer.pl Grupa Kapitalowa and millions of other manufacturers.                            
+
+
+Learn More
+Join Now
+
+
+
+
+Request a Demo
+
+
+
+
+
+Would you like to schedule a free demo?
+We'd love to show you international trade data relevant to your own business.
+
+
+
+
+
+
+
+
+
+
+Name
+
+
+
+
+Email
+
+
+
+
+
+Phone
+
+
+
+
+
+
+Schedule A Free Demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Play muted
+
+
+International Trade Starts With Our Data
+
+
+
+
+
+
+
+
+
+Other companies in our database
+
+
+ GUANGDONG GALANZ MICROWAVE ELECTRICAL APPLIANCES                            
+
+ SERAM SAS                            
+
+ LUB-RITE, S.L                            
+
+ LUDWIG WUNKHAUS EXPORT Y COMPANIA LIMITADA                            
+
+ SRT MARINE SYSTEM SOLUTIONS LTD                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View Sample Shipment Records
+Shipment Alert Subscription
+Contact This Company
+
+
+
+Sign Up
+
+ 
+
+
+
+
+
+Sample shipment record for Integer.pl Grupa Kapitalowa
+Integerpl Grupa Kapitalowa is an overseas supplier in Polonia that exports products to Servicios Postales Nacionales Sa. Transportation Type Maritimo.
+
+
+            Bill of Lading        
+
+
+
+
+
+Manufacturer / Shipper
+Consignee
+
+
+
+Integerpl Grupa Kapitalowa
+UL. MALBORSKA 130, 30-624 KRAKOW.
+
+
+Servicios Postales Nacionales Sa
+DG 25 G   95 A   55
+
+
+
+Acquisition
+Destination
+
+
+
+Polonia
+
+
+Colombia
+
+
+
+Product Description
+
+
+
+
+
+                                        DO 180140500777 ,PEDIDO  ,FORMATO 2 DE 2; FACTURA(S)...PROFORMA1/06/2014/CO 09/06/2014;MER                                    
+
+                                        DO 180140500777 ,PEDIDO  ,FORMATO 2 DE 2; FACTURA(S)...PROFORMA1/06/2014/CO 09/06/2014;MER                                    
+
+
+
+
+
+Other Information Available
+
+
+
+
+Gross Weight (KG), FOB (USD), Insurance (USD), Freight (USD), CIF (USD), Brand ID, Operation Type
+
+
+
+
+
+
+
+
+Arrival Date2014-07-23Transportation TypeMaritimoHS Code8470901000CustomsCartagenaQuantity / Unit1.00/U 
+
+
+
+
+
+Subscribe to access the complete shipping history for Integer.pl Grupa Kapitalowa Join Now
+
+
+
+
+
+
+
+
+How will your business use our trade data?
+If you're involved in international trade, our database of shipping manifests will help you find opportunities to grow your business.
+
+Find Trading Partners You Can Trust
+Monitor Competitors' Shipping Activities
+Connect With Sales Prospects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            "Very informative and great site and so quick. Pretty slick."
+                        
+
+
+
+
+
+
+
+Betty Fatzie
+
+                                                                    President,                                 
+                                                                    Lab Products, Inc.                                
+                            
+
+
+
+
+
+
+                            "The service was great, with a reasonable price and great results. We have now started using another supplier from China. We just ordered our first container from the new supplier and with the savings it more than paid for the ImportGenius.com service on the first container load."
+                        
+
+
+
+
+
+
+
+Cleve Kurz
+
+                                
+                                                                    Gifford Monument Works                                
+                            
+
+
+
+
+
+
+                            "Import Genius is not merely an investment for our organization, it’s a vital instrument to effectively manage our time. It has afforded us the ability to quickly segment, target and position ourselves in front of prospective clients. Thank you, Import Genius!"
+                        
+
+
+
+
+
+
+
+David Bryant
+
+                                                                    Director of Business Development,                                 
+                                                                    John S. James Co.                                
+                            
+
+
+
+
+
+
+                            "Import Genius data is fantastic for evaluating component manufacturers in China."
+                        
+
+
+
+
+
+
+
+Sanjay Dastoor
+
+                                
+                                                                    BoostedBoards.com                                
+                            
+
+
+
+
+
+
+                            "We have confidence that we're working with the best manufacturers in part because Import Genius showed us that they already supply some of the world's top brands"
+                        
+
+
+
+
+
+
+
+Yaniv Masjedi
+
+                                                                    Vice President,                                 
+                                                                    Nextiva.com                                
+                            
+
+
+
+
+
+
+                            "Import Genius is a highly informative tool for monitoring public companies' operating activities. It is an invaluable part of our research."
+                        
+
+
+
+
+
+
+
+Eric DeLamarter
+
+                                                                    Managing Partner,                                 
+                                                                    Half Moon Capital                                
+                            
+
+
+
+
+
+
+                            "We find new clients for our customs brokerage in the ImportGenius database almost every day"
+                        
+
+
+
+
+
+
+
+Jayson Gispan
+
+                                                                    Customs Brokerage Operations Manager,                                 
+                                                                    Flexport.com                                
+                            
+
+
+
+
+
+
+                            "ImportGenius is a great research tool. We use it to evaluate manufacturers to make sure we are working with only the highest quality, most reliable suppliers"
+                        
+
+
+
+
+
+
+
+Chris Friedland
+
+                                                                    Founder / CEO,                                 
+                                                                    Build.com                                
+                            
+
+
+
+
+
+
+                            "ImportGenius gave us visibility into the actual shipping histories of the manufacturers we were evaluating and helped us feel comfortable we were working with the best suppliers in China."
+                        
+
+
+
+
+
+
+
+Morena Simitic
+
+                                                                    COO,                                 
+                                                                    BellaBeat.com                                
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shipment Alert Subscription
+
+
+
+                        Receive free shipment alerts by email whenever Integer.pl Grupa Kapitalowa clears a shipment through customs.                        
+
+Processing, please wait ...
+
+
+
+
+
+
+
+Submit
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Integer.pl Grupa Kapitalowa
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Name
+
+
+
+Business
+
+
+
+Email
+
+
+
+Phone
+
+
+
+
+Submit
+
+
+
+
+Processing, please wait ...
+
+ 
+
+ 
+
+
+
+
+Features
+
+
+
+Save and Share Reports
+Easily get your searches out of Import Genius and into your team’s hands for further analysis. Export your findings to XLS or CSV, or send reports via email. It’s the simple things that make our trade data even more valuable to you.
+
+
+
+See the Supply Chain
+Visual Mapping shows you exactly how your target companies and their trading partners connect. Search by shipper and see everyone they’ve shipped to. Or search by consignee and see all their suppliers. Zoom in on any company to see their own trading network. Dive deep into international trade and discover the links in anyone’s supply chain.
+
+
+
+Get Real-time Shipment Alerts
+Stay on top of your competitors, suppliers, and customers with real-time alerts. Just set up a search and get an email whenever a new shipment matches your terms. Import Genius lets you know the moment they bring in a rival product or start shipping to a new partner.
+
+
+
+
+
+
+
+
+
+Integer.pl Grupa Kapitalowa
+You've viewed 20 profile pages on Import Genius, which is the most we allow for free. Sign up for ImportGenius to get more details on over 3 million importers and exporters. It only takes seconds.
+
+
+
+
+
+
+Sign Up for Import Genius! 
+
+
+
+
+
+
+
+
+Plans
+
+
+
+
+Limited
+Monitor Your Competitors
+
+
+
+
+Recommended Plan
+Plus
+Small & Medium Business
+
+
+
+
+Premium
+Empire Builder
+
+
+
+
+
+
+Price
+
+
+
+
+
+$
+99
+594
+/month
+for 6 months
+
+
+
+                        Sign Up                    
+
+
+
+
+
+
+$
+199
+1,194
+/month
+for 6 months
+
+
+
+                        Sign Up                    
+
+
+
+
+
+
+$
+399
+2,394
+/month
+for 6 months
+
+
+
+                        Sign Up                    
+
+
+
+
+
+
+
+Data
+
+
+
+
+Access data on U.S. ocean freight imports from the last 3 months for all companies
+View Details
+
+
+
+
+Access data on U.S. ocean freight imports from the last 12 months for all companies
+U.S. ocean freight exports from January 1, 2014 to present for all companies
+View Details
+
+
+
+
+Access data on U.S. ocean freight imports from November 2006 to the present for all companies
+U.S. ocean freight exports from January 1, 2014 to present for all companies
+View Details
+
+
+
+
+
+
+Usage
+
+
+
+
+
+Track the shipping activities of your 3 chosen companies
+3 Contact Info Requests Per Month
+Download (CSV and XLS) 5k Records Per Month
+Email Alerts for up to 3 Searches
+
+View Details
+
+
+
+
+
+25 Searches Per Day
+25 Contact Info Requests Per Month
+Download (CSV and XLS) 10k Records Per Month
+Email Alerts for up to 5 Searches
+
+View Details
+
+
+
+
+
+50 Searches Per Day
+50 Contact Info Requests Per Month
+Download (CSV and XLS) 25k Records Per Month
+Email Alerts for up to 10 Searches
+
+View Details
+
+
+
+
+
+
+Features
+
+
+ 
+
+
+Visual Mapping
+View Details
+
+
+
+
+Visual Mapping
+View Details
+
+
+
+
+
+
+Support
+
+
+
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+View Details
+
+
+
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+View Details
+
+
+
+
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+Dedicated Research Assistant
+
+View Details
+
+
+
+
+
+
+  
+
+
+
+
+
+
+View All U.S. Imports
+Instantly search 21,508,010 ocean freight records to monitor U.S. importers, research suppliers, generate sales leads and more.
+
+
+As Featured In
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is Import Genius
+
+
+
+
+
+Who Uses Import Genius
+
+
+
+
+
+Available Data Fields
+
+
+
+
+
+Schedule Live Demo
+
+
+
+
+
+
+
+What is Import Genius
+
+
+												Import Genius reveals the trading activities of importers and exporters around the world.								
+
+												We give you hard data about your overseas suppliers and domestic competitors. Using shipping databases from Customs agencies in the United States, Latin America, and India, Import Genius can help you find reliable new trading partners, monitor your competitors’ shipments, and keep an eye on your current suppliers and customers.								
+
+												Our team of seasoned import-export veterans, cutting-edge software developers, and customer service professionals has worked for years to build the world's most powerful and accessible database of international trade intelligence.								
+
+
+
+												We do this for a diverse client base that requires keen insight into international trade.								
+
+												Our customers include some of the world's top importers, exporters, freight forwarders, logistics companies, manufacturers, investment banks, financial analysts, intellectual property attorneys, and more. They use our tools to:								
+
+Research the trade activity of importers and suppliers
+Identify and vet new sources for any kind of product
+Monitor the competition and their trade connections
+Generate sales leads for transportation and logistics companies
+Track the activity of publicly-traded companies
+Investigate and enforce intellectual property infringement
+Ensure exclusive agent compliance
+
+
+
+
+Who Uses Import Genius
+
+Sourcing Professionals...
+
+			Use our service to view shipping histories for suppliers.		
+
+			We provide access to detailed customs records, letting you verify suppliers' true shipping volumes and U.S. customer lists. You can also look up your competing import firms to find where they buy their goods.		
++ Learn More
+Competitive Intelligence Analysts...
+
+			Use our service to learn where rivals source products.		
+
+			We give clear insights into the importing volumes, new product releases, and broader competitive dynamics of your industry.		
++ Learn More
+
+
+Sales & Marketing Teams...
+
+			Use our service to generate sales prospects.		
+
+			We give you the tools to target importers based on product type, location, shipping volumes, and more.		
++ Learn More
+Financial Analysts...
+
+			Use our service to monitor public companies' imports.		
+
+			We offer rare data on the success or failure of new product launches, shipping trends and other operating data for companies in any industry.		
++ Learn More
+
+
+
+Available Data Fields
+
+Import Genius Data Fields
+
+												By collecting the ocean freight bill of lading for all U.S. imports in our database, Import Genius provides unprecedented access to near real-time information on virtually every industry and company importing goods into the country.								
+
+												For each shipment entering the U.S. by ocean, we provide access to the following information.								
+Additional Fields Available for Some Shipments:
+
+Phone Number
+Fax Number
+Email
+Contact Person
+
+
+
+List of Data Fields
+
+
+
+ConsigneeThe company importing the shipment into the U.S.Consignee AddressThe address of the company importing the shipment into the U.S.ShipperThe overseas company exporting the shipment to the U.S.Shipper AddressThe address of the overseas company exporting the shipment to the U.S.Product DescriptionThe exporter's description of the shipment as it appears on the bill of lading or shipping manifestGross WeightThe gross weight of the shipment, excluding the weight of the actual container. This can appear in either pounds or kilograms at the discretion of the exporterNumber Of UnitsThe quantity of boxes customs would find if they were to open the shipment for inspection.VolumeThe volume of the shipment, generally defined in cubic meters or container base measurements (CBM)Arrival DateThe date the shipment arrives within the customs territory of the U.S.Foreign PortThe last port the shipment passes through before arriving in the U.S.Country Of OriginThe country of the last foreign port the shipment passes through before arriving in the U.S.U.S. PortThe U.S. port where the shipment enters the customs territory of the U.S.Carrier CodeThe four digit Standard Carrier Alpha Code of the ocean carrier or freight forwarder managing the transit of the shipmentVoyage NumberA unique code assigned to that particular sailing of the ship between two portsVessel NameThe name of the ship transporting the shipmentShip Registered InThe country where the ship is officially registeredBill Of Lading NumberThe unique number assigned to this particular shipment by the ocean carrier or freight forwarderContainer NumberThe unique number assigned to the ocean shipping container carrying the shipment in questionMarks & NumbersAny text or numbers appearing on the cartons 
+
+
+
+
+
+
+Ready for a live demo?
+Fill out this form and we'll contact you right away to set up a live demo of Import Genius.
+
+
+Schedule Live Demo
+
+
+
+Processing, please wait ...
+
+
+
+
+
+Name
+
+Tell us your Full Name
+
+
+Email
+
+Enter a valid email address
+
+
+Phone
+
+Enter valid phone number
+
+
+Preferred Date
+
+Let us know your preferred date
+
+
+Preferred Time (In Your Country)
+
+01:00 am
+01:30 am
+02:00 am
+02:30 am
+03:00 am
+03:30 am
+04:00 am
+04:30 am
+05:00 am
+05:30 am
+06:00 am
+06:30 am
+07:00 am
+07:30 am
+08:00 am
+08:30 am
+09:00 am
+09:30 am
+10:00 am
+10:30 am
+11:00 am
+11:30 am
+12:00 am
+12:30 am
+01:00 pm
+01:30 pm
+02:00 pm
+02:30 pm
+03:00 pm
+03:30 pm
+04:00 pm
+04:30 pm
+05:00 pm
+05:30 pm
+06:00 pm
+06:30 pm
+07:00 pm
+07:30 pm
+08:00 pm
+08:30 pm
+09:00 pm
+09:30 pm
+10:00 pm
+10:30 pm
+11:00 pm
+11:30 pm
+12:00 pm
+
+Let us know your preferred time
+
+
+Country
+
+Required
+
+
+Timezone
+
+Required
+
+
+What data are you interested in?
+
+Let us know what you are most interested to learn
+
+
+
+Submit
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Import Genius
+
+How It Works
+Plans & Pricing
+Our Trade Data Blog
+Search
+Latin Trade Data
+
+Import Genius Reviews & Press Coverage
+Who Uses Import Genius
+Contact Us
+
+
+
+Latest Posts
+
+
+
+
+                                    Trump Properties Have…                                
+
+
+
+
+                                    Solar panels: imports…                                
+
+
+
+
+                                    Limited Plan Now Available                                
+
+
+
+
+                                    Chilean salmon exports…                                
+
+
+
+
+                                    India, US palm oil imports…                                
+
+
+
+
+Company Profiles
+
+
+
+                                    G1-v3 Solutions Inc                                
+
+
+
+                                    Artnovion, Lda                                
+
+
+
+                                    Gm Electric S.r.l.                                
+
+
+
+                                    Plasticos Y Envases Aldasroj S.a Ruc1792375851001                                
+
+
+
+                                    C I Super De Alimentos S A Uap 299                                
+
+
+
+
+
+
+
+
+
+
+
+                     
+                                            21,508,010  Records in our database and counting
+
+
+
+
+
+Customer Support Team: 
+
+                    Tel:  855-573-9976
+                    International: +1 480-745-3396
+                    Fax: +1 602-428-9400
+info@importgenius.com
+
+                    8901 E Pima Center Pkwy, 
+		    Suite 105 
+                    Scottsdale, AZ 85258
+
+
+Shanghai, China:
+
+                    Tel: +86-21-63806036
+
+
+                    Mobile No.: +86-13671737628
+                    Fax Number: +86-21-63806036
+
+
+Shenzhen, China
+                    
+                            Tel: +86-755-89517585
+                            Mob: +86-13925258002
+                            Fax: +86-755-89517585                
+
+
+
+Have questions? We'll reply quickly!
+
+
+
+
+
+									         		Type your info below								         		
+
+
+
+
+
+
+
+
+
+
+
+Message
+
+
+
+Submit
+
+Processing, please wait ...
+
+ 
+
+ 
+
+                Trainings, Demos, and General Contact All Available            
+Or Call Us:
+Service:
+
+                    +1-855-573-9976                
+Sales:
+
+                    +1-855-573-9976                
+Back to top
+
+ 
+
+
+
+
+
+All Rights Reserved. Copyright © 2017. Trade Data Services, Inc. 0.2809
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+We're Offline
+Please leave us a message
+
+
+
+To chat with a representative of Import Genius, your browser needs to be Internet Explorer 9 or higher. Please fill out the form below and a representative will contact you as soon as possible.
+
+
+
+Name
+
+
+
+Email
+
+
+
+Phone
+
+
+
+Message
+
+
+
+Send
+
+
+
+
+X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Integer.pl News
+	| Owler
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ We just sent you an email to verify your account. Check your inbox!     
+				Resend verification link > 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign In  
+Sign In 
+
+Sign Up
+
+
+
+
+
+
+
+
+
+
+
+
+
+EDIT Address
+EDIT Funding
+EDIT Acq
+EDIT CEO
+EDIT Name And Picture
+EDIT CEO Link
+EDIT Acq Link
+EDIT Links
+EDIT Funding
+EDIT Address Link
+EDIT Twitter Link
+EDIT Facebook Link
+
+
+
+
+
+
+
+
+            You have just joined {{count}} of your colleagues at {{name}} who read the Owler Daily Snapshot everyday.
+        
+
+            You have just joined over 1 million business professionals on Owler who read the Daily Snapshot everyday.
+        
+
+            Go to 'My Portfolio' to follow the companies that matter to you to customize your Daily Snapshot.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ALERT
+{{task_c.msg}}
+
+Ok
+
+
+
+
+
+
+
+
+
+
+What section would you like to update?
+What does it mean to update a profile?
+
+
+
+
+
+
+ Company Logo
+ Company Name & URL
+ Company Description
+ Founded Date
+ Company Status
+ HQ Address
+ Social Links
+
+
+
+
+ CEO Name & Picture
+ Competitor Set
+ Funding Events
+ Acquisition Events
+ Revenue
+ Headcount
+ Industry Links
+
+
+
+What does it mean to update a profile?
+
+
+
+
+
+Owler is a community of business professionals working together to build a database of company information. One contribution reaches thousands of members across the Owler community.
+When you contribute on Owler you're shaping the database for all people consuming Owler data. Your updates will flow through to company profiles, competitive intelligence reports, daily snapshots and more. All verified members of the Owler community can update Owler profiles.  Members help the community by sharing data, such as a company's headquarters, and also by weighing-in on sentiment-based questions, such as CEO rating.
+Community members make this all happen. That being said, each data update is reviewed by at least one other person to ensure accuracy. All updates are kept anonymous. Happy updating!
+
+
+< BACK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ADD COMPANY
+						LOGO 
+
+
+
+ADD COMPANY
+						LOGO 
+
+
+ADD COMPANY
+					LOGO 
+
+
+Edit founded date
+Edit oveview
+Edit Website URL
+Edit Links
+Edit Industry Tags
+
+
+
+
+
+
+
+{{companyBasicDetails.name}}
+
+ |   {{companyBasicDetails.website | removeHttpPrefix}}
+
+
+
+
+{{companyBasicDetails.description}}
+
+
+
+Click here to provide a company description for
+						{{companyBasicDetails.name}}
+					
+
+
+
+
+
+
+
+FOLLOW ({{company_num_of_followers}})
+FOLLOWING ({{company_num_of_followers}})
+
+
+
+
+
+
+
+EDIT PROFILE ({{companyBasicDetails.profileCompletenessScore}}%)
+
+
+
+
+
+
+
+SHARE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Back to	Profile
+		
+
+{{companyBasicDetails.shortName}} News
+
+
+Filter
+
+
+
+Select Filter
+(All)
+(None)
+
+
+
+
+{{filter.FeedCategoryDisplayName}}
+
+
+Apply Changes
+
+
+Back to Profile
+
+
+
+
+
+
+
+
+
+
+
+
+{{feed.title}}
+
+
+{{feed.title}}
+
+{{feedsCtrl.getArticleDescription(feed)}}
+
+{{feed.source}}
++ {{feed.cluster_count-1}} 
+                            	OTHER SOURCES
+
+{{feed.feed_time}}
+
+
+
+Share
+
+
+
+
+
+
+
+There are currently no items.
+
+
+
+ There
+							are no filters Present Turn
+								on some filters to view feed items.
+
+
+
+
+
+
+There are currently no items.
+
+
+
+  Follow More
+									companies
+ prospects, clients,
+								partners, vendors, investments, etc...
+
+
+
+
+
+Back to Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sorry!
+Editing data is currently only available on tablets or desktops
+
+Email our support team >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Your team is already using Owler. 
+ Join them. 
+
+
+
+
+
+
+
+
+
+
+{{ErrorMsg}}
+
+
+
+{{InfoMsg}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+73% of high-growth companies use Owler every day.
+Unlock {{compName}} company profile by entering your work email
+
+
+
+
+
+
+
+
+Sign me up for Owler's email products. You can unsubscribe at any time. See our Terms of Use and Privacy Policy for more details.
+
+
+
+{{ErrorMsg}}
+
+
+
+{{InfoMsg}}
+
+
+
+{{SignUpEmailErrorMsg}}
+
+
+
+
+
+Sign me up for Owler's email products. You can unsubscribe at any time. See our Terms of Use and Privacy Policy for more details.
+
+
+
+{{ErrorMsg}}
+
+
+
+{{InfoMsg}}
+
+
+
+{{SignUpEmailErrorMsg}}
+
+
+
+
+
+Sign In >
+Sign In >
+
+
+
+
+
+
+Hmmm...are you sure that's your work email?
+
+
+
+We can't add you to your team if we don't have your work email.
+
+
+
+
+
+
+
+{{ErrorMsg}}
+
+
+
+{{InfoMsg}}
+
+
+
+
+
+
+{{email}} is my work email >
+I don't have a work email >
+
+
+
+
+
+
+
+
+Last thing...we promise.
+
+                            Where do you work?
+                        
+
+
+
+
+
+
+
+{{CompanyErrorMsg}}
+
+
+
+
+{{CompanyErrorMsg}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

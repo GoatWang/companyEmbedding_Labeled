@@ -1,2165 +1,4 @@
 
-
-	
-        USB2514 Full Speed USB 2.0 4 Port Hub Customer Evaluation Board - EVB-USB2514B-FS | Microchip Technology Inc.
-        
-    
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-‹
-
-
-
-
-
-
-
-
-Products
-Applications
-Design Support
-Sample and Buy
-About Us
-Contact Us
-myMicrochip Login
-
-
-
-
-
-
-
-
-Microcontrollers and Microprocessors 
-
-8-bit MCUs 
-16-bit MCUs 
-32-bit MCUs 
-32-bit MPUs 
-
-
-
-Analog 
-
-
-Amplifiers and Linear
-
-Amplifiers and Linear Overview 
-Operational Amplifiers 
-Instrumentation Amplifiers 
-Comparators 
-PGA 
-Power/Current Monitors 
-
-
-
-Data Converters
-
-Data Converters Overview 
-Analog-to-Digital Converter 
-Digital Potentiometers 
-Digital-to-Analog Converters 
-Power and Energy Measurement 
-F/V and V/F Converters 
-Power/Current Sensors 
-Voltage References 
-
-
-
-High-Voltage Interface
-
-High-Voltage Interface Overview 
-MOSFETs â€“ Interface 
-Driver Arrays 
-Amplifiers/MEMS Drivers 
-Application Specific 
-
-
-Motor Drivers 
-
-Power Management
-
-Power Management Overview 
-Voltage References 
-Battery Management 
-Charge Pumps 
-System Supervisors/Voltage Detectors 
-LDO Regulators 
-Power MOSFET Drivers 
-Power MOSFETs 
-Hybrid PWM Controllers 
-PWM Controllers 
-Inductorless Offline Switching Regulators 
-Switching Regulators 
-Voltage Detectors 
-Power Modules 
-Power Switches 
-High Voltage Linear Regulators 
-
-
-
-CO and Smoke Detection
-
-CO and Smoke Detector ICs 
-Horn Driver ICs 
-
-
-
-Thermal Management
-
-Thermal Management Overview 
-Local Temperature Sensors 
-Remote Temperature Sensors 
-Fan Controller ICs 
-Thermocouple ICs 
-
-
-
-Ultrasound Products
-
-Ultrasound Product Overview 
-Analog Multiplexers/Switches 
-Beamformer Source Drivers 
-Complimentary MOSFET Arrays 
-Continuous Transmit Pulsers 
-Continuous Wave (CW) Transmitters 
-Transmit/Receive (T/R) Switch ICs 
-Ultrasound MOSFET Drivers 
-
-
-
-
-
-Clock and Timing 
-
-Overview 
-Clock Generation 
-Oscillators 
-Clock and Data Distribution 
-Real-time Clock 
-
-
-
-High-Speed Networking and Video 
-
-Overview 
-Ethernet 
-ARCNET 
-CoaXpressÂ® 
-Fiber Optic Module Chipsets 
-Video Equalizers 
-Video Transceivers 
-Video Sub-Systems 
-Clock and Data Recovery ICs 
-
-
-
-Interface and Connectivity 
-
-CoaXpressÂ® 
-CAN 
-Infrared 
-LIN 
-Serial Peripherals 
-USB 
-
-
-
-
-
-
-
-Display and LED Drivers 
-
-Display and LED Drivers Overview 
-Electroluminescent Backlight Drivers 
-Automotive LED Drivers 
-Backlight LED Drivers 
-General-Purpose LED Drivers 
-Linear Current Regulators 
-Sequential Linear LED Drivers 
-Camera Flash Drivers 
-
-
-
-Embedded Controllers and Super I/O 
-
-Embedded Controllers and Super I/O Overview 
-Desktop and Super I/O 
-Embedded and Keyboard Controllers 
-Expansion and Legacy I/O 
-
-
-
-Programmable Logic 
-
-SPLD/CPLD 
-FPGA 
-FPGA Configuration Memory 
-
-
-
-Memory 
-
-Serial EEPROM 
-Serial EERAM 
-Serial SRAM 
-Serial Flash 
-Parallel Flash 
-Parallel EEPROM 
-OTP EPROM 
-
-
-
-Touch and Gesture 
-
-Touch and Gesture Overview 
-1D Touch â€“ Buttons, Sliders, Wheels 
-2D Touch â€“ maXTouch® - Turnkey    Multi-touch Solutions 
-2D Touch â€“ MCU Based Touch Pads 
-3D Gestures 
-
-
-
-
-
-
-
-Wireless 
-
-Wireless Connectivity 
-Wi-FiÂ® 
-BluetoothÂ® 
-LoRaÂ® Technology 
-MiWiâ„¢ Protocol 
-Sub-GHz 
-zigbeeÂ® 
-Infrared 
-Power Amplifiers 
-802.15.4 
-Sigfox 
-RF Identification 
-IR Control 
-Wireless Audio 
-
-
-
-Smart Energy/Metering 
-
-Overview 
-Metering 
-Power Line Communications 
-Wireless Communications 
-
-
-
-Rad Hard 
-
-Overview 
-Rad Hard ASICs 
-Rad Hard Communication ICs 
-Rad Hard FPGAs 
-Rad Hard Memories 
-Rad Hard Processors 
-Rad Tolerant Devices 
-
-
-
-Security ICs 
-
-Security ICs Overview 
-
-CryptoAuthentication
-
-Overview 
-Geting Started 
-SHA Based 
-ECC Based 
-ECC-AWS IoT Based 
-AES Based 
-
-
-
-Trusted Platform Module
-
-Overview 
-TCG Version 1.2 
-
-
-
-CryptoRF
-
-Overview 
-CryptoCompanion 
-CryptoRF 
-CryptoRF Reader 
-
-
-
-CryptoMemory
-
-Overview 
-CryptoCompanion 
-CryptoMemory (2.7V - 3.6V) 
-CryptoMemory (2.7V - 5.5V) 
-
-
-
-
-
-
-
-
-
-Curiosity Development Board
-
-Your next embedded design idea has a new home. Curiosity is a cost-effective, fully-integrated 8-bit development platform targeted at first-time users, makers and those seeking a feature-rich rapid prototyping board
-
-
-
-
-MCP6V9X
-
-This family of operational amplifiers provides input offset voltage correction for very low offset and offset drift, with a gain bandwidth product of 10 MHz.
-
-
-
-
-DSC6000
-
-The new DSC6000 family is the industry's smallest MEMS MHz oscillator with the lowest power consumption over full frequency range of 2 KHz to 100 MHz.
-
-
-
-
-GigEpack Ethernet Products
-
- 
-Advanced design techniques ensure reliable operation under extreme conditions while stripping away complexity and advancing ease-of-use, the GigEpack provides three key elements: Certified Products, free drivers and copy-ready evaluation boards, and Microchip’s free LANCheck® design check service. Together, they ensure interoperability, rapid development and robust board design.
-                            
-
-
-
-UTC2000
-
-Microchip's strong brand name and expertise in USB solutions is demonstrated yet again with the UTC2000. We deliver a simple and easy solution to implement the revolutionary USB-C™ connector in practically any consumer, industrial or automotive application.
-
-
-
-
-HV9805
-
-The HV9805 features a PFC boost converter with valley/ZCD switching that reduces system cost by lessening the thermal and optical design requirements. The linear post-regular provides True DC lighting with no flickering and the configurable to SEPIC technology supports lower LED string voltage.
-
-
-
-
-MEC14XX
-
-The MEC14XX family is one of the first to support both the Intel® Corporation’s new Enhanced Serial Peripheral Interface (eSPI) and the existing Low Pin Count (LPC) interface.
-
-
-
-
-SST26WF080B/040B
-
-Manufactured with SuperFlash® technology that provides the industry's fastest erase times, the SST26WF080B (8 Mbit) and SST26WF040B (4 Mbit) are approximately 300 times faster than competitive devices.
-
-
-
-
-MTCH10x: Direct Mechanical Buttons Replacement
-
-In a hardware-only configuration, these 2, 5 and 8 channel capacitive touch controllers replace mechanical buttons with a simple digital output, making it easy to add proximity and touch detection to any application.
-
-
-
-
-RN2903
-
-Long-range and low-power LoRa® Sub-GHz, 915 MHz module for IoT networks.
-
-
-
-
-
-
-
-
- Aerospace and Defense
- Audio and Speech
-
-Automotive 
-
-Automotive Solutions 
-Automotive Connectivity 
-Functional Safety 
-
-
- Battery Management
- CAN
- Computing
-
-Displays 
-
-Graphical Displays 
-Segmented LCD 
-
-
- Embedded Security
-
-Ethernet 
-
-Ethernet Overview 
-Ethernet of Everything 
-USB-to-Ethernet 
-Ethernet Controllers 
-Ethernet Switches 
-Ethernet PHYs 
-EtherCATÂ® 
-
-
-
-
-
-
- High Temperature
- Home Appliance
- Intelligent Power
- Internet of Things
- Lighting
- Low Power
- LIN
- Medical
-
-Metering 
-
-Metering Overview 
-Electric Meter 
-Gas, Water and Heat Flow Meters 
-Power Monitoring 
-
-
-
-
-
-
- Motor Control and Drive
- Power Monitoring
- Smart Energy/Metering
- Smartphone Accessories
-
-Touch and Gesture 
-
-Touch and Gesture Overview 
-1D Touch â€“ Buttons, Sliders, Wheels 
-2D Touch â€“ maXTouch® - automotive and industrial touch screens 
-2D Touch â€“ MCU Based Touch Pads 
-3D Gestures 
-
-
-
-USB 
-
-USB Overview 
-USB Hubs and Devices 
-USB PICÂ® MCUs and dsPICÂ® DSCs 
-
-
- Wireless Audio
-
-Wireless Connectivity 
-
-Wireless Connectivity Overview 
-Wi-FiÂ® 
-BluetoothÂ® 
-LoRaÂ® 
-MiWiâ„¢ 
-Sub-GHz 
-zigbeeÂ® 
-Infrared 
-Power Amplifiers 
-
-
-
-
-
-
-
-Lower Power High Performance ADC
-
-Microchip is committed to providing military grade products for integration into present and future aerospace and defense sector programs. Our complete portfolio of microcontrollers, power, analog, digital, memory, RF, mixed-signal and interface
-
-
-
-
-PIC32 Bluetooth Audio Development Kit (DV320032)
-
-This kit delivers the hardware and software needed to develop digital audio docking applications with USB or Bluetooth connectivity. Preloaded demo code enables audio streaming via USB or Bluetooth.
-
-
-
-
-OS82150
-
-The OS82150 integrates a coaxial cable driver and coaxial receiver, extending the usage of coaxial cabling to enable powerful automotive infotainment networks based on MOST150 technology.
-
-
-
-
-MCP73871 Fully Integrated Linear Solution
-
-The MCP73871 device is a 1A fully integrated linear solution for system load sharing and Li-Ion / Li-Polymer battery charge management with AC-DC wall adapter and USB port power sources selection. It's also capable of autonomous power source selection between input or battery.
-
-
-
-
-CAN FD Transceiver Family
-
-The CAN Flexible Data Rate (CAN FD) Transceiver family helps CAN systems meet the physical layer requirement for CAN FD systems, and is one of only a few CAN FD transceivers approved by auto OEMs.
-
-
-
-
-MEC14XX
-
-The MEC14XX family is one of the first to support both the Intel® Corporation’s new Enhanced Serial Peripheral Interface (eSPI) and the existing Low Pin Count (LPC) interface.
-
-
-
-
-TC7106A
-
-The TC7106A 3½ digit LCD direct-display drive analog-to-digital converters allow existing TC7106-based systems to be upgraded. Each device has a precision reference with a 20ppm/°C max temperature coefficient. This represents a 4-7 times improvement over similar 3½ digit converters.
-
-
-
-
-PIC24FJ128GB204
-
-The new PIC24F "GB4" family expands Microchip's eXtreme Low Power portfolio and includes an integrated hardware crypto engine with both OTP and Key RAM options for secure key storage, up to 256 KB of Flash memory and a direct drive for segmented LCD displays, in 64-, 100- or 121-pin packages.
-
-
-
-
-LAN9352/LAN9352i
-
-The LAN9352/LAN9352i is a high-performance, small-footprint, full-featured 2-port managed Ethernet switch and is application-optimized for consumer, embedded and Industrial designs.
-
-
-
-
-MCP2561/2 FD
-
-This is a second generation high-speed CAN transceiver that guarantees Loop Delay Symmetry in order to support higher data rates required for CAN FD. Maximum propagation delay was improved to support longer bus length. The device meets the automotive requirements for CAN FD bit rates exceeding 5 Mbps.
-
-
-
-
-Class B Safety Software Library
-
-Microchip has developed a library of low-level software routines and hardware peripherals that simplify meeting IEC 60730 requirements for Class B Safety. Each product family (PIC16, PIC18, PIC24, dsPIC® DSC and PIC32) has functions specifically designed to work efficiently with the available resources.
-
-
-
-
-dsPIC33EP "GS" Family for Digtal Power Applications
-
-This family delivers the performance needed to implement more sophisticated non-linear, predictive & adaptive control algorithms at higher switching frequencies. These advanced algorithms enable power supply designs that are more energy efficient & have better power supply specifications.
-
-
-
-
-WCM and ECM Development Kits
-
-Microchip's WCM (Wi-Fi® Client Module) and ECM (Ethernet Client Module) development kits are designed to enable you to quickly and easily connect an embedded system to a cloud-based server, such as Amazon Web Services (AWS). This will reduce the learning curve and help you get connected to the cloud quickly.
-
-
-
-
-Smart Lights are Better Lights
-
-Microchip's PIC® microcontrollers with intelligent analog integration like the PIC16F176X family make it possible to get advanced features such as digital control to smooth dimming, as well as color temperature tuning, usage-based lifetime prediction and networked communication for monitoring and control.
-
-
-
-
-PIC24FJ256GB412
-
-PIC24F 16-bit microcontroller featuring integrated Hardware Crypto module and eXtreme Low Power. This family also includes 256 KB Flash, 16 KB RAM, USB, LCD and advanced peripherals. The combination of features makes the part ideally suited for low-power embedded security applications.
-
-
-
-
-OS82150
-
-The OS82150 extends the usage of coaxial cabling to powerful infotainment networks based on MOST150 technology.
-
-
-
-
-Is Your Medical Device Design Secured?
-
-Is your medical device design truly secured? Microchip's full line of security products, including MCUs, wireless products and software libraries, can secure your medical device designs from the ground up.
-
-
-
-
-MCP39F511
-
-The MCP39F511 is a highly integrated, single-phase power-monitoring IC designed for real-time measurement of input power for AC/DC power supplies, providing power and energy values. It includes dual-channel delta sigma ADCs, a 16-bit calculation engine, EEPROM and a flexible 2-wire interface.
-
-
-
-
-MCP8026
-
-This is a 3-Phase brushless gate driver with power module & 5 µA (typ) sleep-mode current. It integrates three half-bridge drivers to drive external NMOS/NMOS transistor pairs configured to drive a 3-phase BLDC motor, a comparator, a voltage regulator to provide bias to a companion microcontroller & power monitoring comparators.
-
-
-
-
-dsPIC33EP32MC202
-
-The dsPIC33E family of digital signal controllers (DSCs) features a 70 MIPS dsPIC® DSC core with integrated DSP and enhanced on-chip peripherals. These DSCs enable the design of high-performance, precision motor control systems that are more energy efficient, quieter in operation.
-
-
-
-
-Single-Burner Induction Cooktop Reference Design
-
-This cost-effective single-burner induction cooktop reference design is a fully functional single-burner unit that achieves greater than 90%* efficiency and consumes less than 0.5W power during standby. The user interface implements mTouch® sensing solutions.
-
-
-
-
-Smartphone Accessory
-
-New accessories are emerging in sports/fitness, wellness, financial transactions markets. Microchip's accessory development kits make it easy to development your accessory products with fast time-to-market!
-
-
-
-
-MTCH10x: Direct Mechanical Buttons Replacement
-
-In a hardware-only configuration, these 2, 5 and 8 channel capacitive touch controllers replace mechanical buttons with a simple digital output, making it easy to add proximity and touch detection to any application.
-
-
-
-
-UTC2000
-
-Microchip's strong brand name and expertise in USB solutions is demonstrated yet again with the UTC2000. We deliver a simple and easy solution to implement USB-C in practically any application, whether consumer, industrial, or automotive.
-
-
-
-
-RN2903
-
-Long-range and low-power LoRa® Sub-GHz, 915 MHz module for IoT networks.
-
-
-
-
-
-
-
-
- New to Microchip?
-
-Development Tools 
-
-Development Tools Overview 
-Demonstration and Evaluation Boards 
-
-Software Tools for PICÂ® MCUs and dsPICÂ® DSCs
-
-Software Solutions 
-MPLABÂ® X IDE 
-MPLABÂ® XC Compilers 
-MPLABÂ® Code Configurator 
-MPLABÂ® Xpress 
-MPLABÂ® Harmony 
-Microchip Libraries for Applications 
-Software Libraries 
-Code Examples 
-Embedded Code Source 
-
-
-
-Hardware Tools for PICÂ® MCUs and dsPICÂ® DSCs
-
-Emulators 
-Emulation Extention Paks 
-Programmers 
-
-
-
-Software Tools for AVRÂ® and SAM MCUs/MPUs
-
-Atmel Studio IDE 
-Data Visualizer 
-Compilers 
-Atmel START 
-MCU Software Library 
-Atmel Gallery 
-
-
-
-Hardware Tools for AVRÂ® and SAM MCUs/MPUs
-
-Debuggers 
-Programmers 
-
-
-
-Design and Simulation Tools
-
-CAD/CAE Symbols 
-SPICE Models 
-MPLABÂ® Mindiâ„¢ Analog Simulator 
-MindiSWLib 
-IBIS Models 
-ClockworksÂ® Configurator 
-BSDL 
-
-
-Third-Party Development Tools 
-
-
-
-Documentation 
-
-Application Notes 
-Data Sheets 
-Erratas 
-Packaging Specifications 
-Programming Specifications 
-Reference Manuals 
-User Guides 
-Product Briefs 
-Migration Documents 
-
-
-
-Training 
-
-Training Overview 
-Developer Help Wiki 
-Webinars 
-Microchip Videos 
-MASTERs Conference 
-Technical Training Center 
-
-
-
-
-
-
- Forums
- Design Partner Network
- Product Change Notification
-
-Quality and Reliability 
-
-Quality 
-Reliability 
-
-
-
-
-
-
- Technical Support
-
-Software 
-
-Code Examples 
-Embedded Code Source 
-
-
- Config Tool for Oscillators & Clocks
-
-
-
-
-
-Need Help?
-
-Visit the Microchip forums to get more information on frequently asked questions or to engage with the community. You can pose your own questions and receive feedback.
-
-
-
-
-PICKITâ„¢ 3 In-Circuit Debugger/Programmer
-
-Microchip's PICkit™ 3 In-Circuit Debugger/Programmer uses in-circuit debugging logic incorporated into each chip with Flash memory to provide a low-cost hardware debugger and programmer. In-circuit debugging offers low cost, minimum additional debug hardware and no expensive sockets or adapters
-
-
-
-
-Microchip Forums
-
-Visit the Microchip forums to get more information on frequently asked questions or to pose your own question and receive feedback from the community.
-
-
-
-
-Subscribe to MicroSolutions
-
-MIcroSolutions is a valuable resource that delivers the latest information in each issue with updates on our new products and development tools You will also find design articles on a wide range of topics and learn about some innovative ways Microchip devices are being used.
-
-
-
-
-Subscribe to MicroSolutions
-
-MIcroSolutions is a valuable resource that delivers the latest information in each issue with updates on our new products and development tools You will also find design articles on a wide range of topics and learn about some innovative ways Microchip devices are being used.
-
-
-
-
-Microchip Conferences, Tradeshows and Events
-
-Microchip attends conferences and events around the world, visit our events page to see where we will be exhibiting next.
-
-
-
-
-Microchip in the Press
-
-View our latest announcements on products, corporate news and investor press announcements.
-
-
-
-
-Contact Us
-
-If you have questions about products, tools, literature or about content on our website, click here to find out how to contact Microchip.
-
-
-
-
-Subscribe to MicroSolutions
-
-MIcroSolutions is a valuable resource that delivers the latest information in each issue with updates on our new products and development tools You will also find design articles on a wide range of topics and learn about some innovative ways Microchip devices are being used.
-
-
-
-
-Microchip Forums
-
-Visit the Microchip forums to get more information on frequently asked questions or to pose your own question and receive feedback from the community.
-
-
-
-
-
-
-
-
- Global Sales and Distribution
- microchipDIRECT
- Samples
-
-
-
-
- Programming Center
- Samples FAQ
- Sales Support
-
-
-
-
- Find Your Sales Office
- Getting Started With Microchip Products
-
-
-
-
-
-Subscribe to MicroSolutions
-
-Published six times a year, MicroSolutions is a valuable resource that delivers the latest information to give you a competitive edge and help you meet your design goals. In each issue, you'll get an update on our new products and development tools, find design articles on a wide range of topics and learn about some innovative ways Microchip devices are being used by developers of a variety of applications.
-
-
-
-
-Contact Us
-
-If you have questions about products, tools, literature or content on our website, click here to find out how to contact Microchip.
-
-
-
-
-Microchip Forums
-
-Visit the Microchip forums to get more information on frequently asked questions or to engage with the community. You can pose your own questions and receive feedback.
-
-
-
-
-
-
-
-
-
-Company Information 
-
-About 
-Corporate Overview 
-Acquisitions 
-Notice of Fraudulent Behavior 
-
-
-
-Leadership 
-
-Leadership Overview 
-Board of Directors 
-Appointed Officers 
-
-
- Investor Relations
-
-Careers 
-
-Careers Overview 
-Microchip's Culture 
-US Benefits 
-Meet Your Recruiter 
-Career Ladder 
-Hiring Process 
-Employee Testimonials 
-
-
-
-
-
-
-
-Media Center 
-
-Press Releases 
-RSS Feeds 
-Microchip Videos 
-
-
- MicroSolutions Digital Magazine
- Tradeshows and Events
- Academic Program
-
-
-
-
-
-Corporate Responsibility 
-
-Corporate Responsibility Overview 
-Ethics and Conduct 
-Sustainability 
-Conflict Minerals 
-Environment 
-Community 
-Products 
-Customers 
-Employees 
-Environmental Health and Safety 
-
-
-
-Legal Information 
-
-Legal Information Overview 
-General Product Legal Information 
-Microchip Trademarks 
-Microchip Patents 
-Website Usage and Limitation of Liability 
-Microchip Terms and Conditions of Sale 
-Privacy Policy 
-Copyrighted Material 
-Procedure for Making a Claim of Copyrighted Infringement 
-
-
- Export Control Data
- Contact Us
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-USB2514 Full Speed USB 2.0 4 Port Hub Customer Evaluation Board
-Part Number:
-                    EVB-USB2514B-FS
-
-
-Buyit now
-
-
-
-                                Share
-                             
-                        
-                        
-
-
-
-
-
-
-
-
-
-
-
-The SMSC USB2514 is a Low-Power Full-Featured Full-Speed USB 2.0 compliant hub with four down-stream ports. The EVB-USB2514B-FS Evaluation Board demonstrates a standalone application for the hub. It is designed to robustly demonstrate the unique features of this device using a low-cost PCB implementation with individual port power control. The Evaluation Board is Full-Speed 12Mbits/s and Low-Speed 1.5Mbits/s compatible with self-powered operation available.
-
-
-
-
-Features
-Package Contents
-Host System Requirements
-Related Tools
-Examples
-Optional
-
-
-
-
-The EVB-USB2514B-FS Evaluation Board demonstrates a standalone application for the hub. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Documentation & Software
-
-Back To Top
-
-
-
-
-DocumentsLast UpdatedSize EVB-USB2514B-FS_A1 Evaluation Board Schematic, OrCAD3/28/2014 2:39:37 PM847KBEVB-USB2514B-FS_A1 Evaluation Board Bill of Materials3/28/2014 2:38:44 PM132KBEVB-USB2514B-FS_A1  Evaluation Board Schematic, PDF3/28/2014 2:37:57 PM67KBEVB-USB2514B-FS  Evaluation Board User GuideRevA Rev.1.1 (11-30-12)3/28/2014 2:37:41 PM62KBEVB-USB2514B-FS  Evaluation Board Gerber Files3/28/2014 2:37:21 PM627KB
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Detroit Speed, Inc. - All Products - Front Suspension
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-   Engineered. Tested. Tuned. Manufactured. Perfected.
-► Download Center
-► Newsletter Sign up
-► View Cart
-
-
-
-
-Home
-About Us
-Products
-
-
-1967-1969 F-Body
-
-
-Front Suspension
-Rear Suspension
-Body
-Steering
-
-
-Interior
-Fuel System
-Electrical
-Engine Cooling
-
-
-Drive Systems
-Engine/Driveline
-Climate Control
-Braking
-
-
-Wheels
-Fluids
-Reference Books
-Accessories
-
-
-2010+ Camaro
-
-
-Front Suspension
-Rear Suspension
-Body
-Engine/Driveline
-
-
-1975-1979 X-Body
-
-
-Body
-Steering
-Interior
-Fuel System
-Electrical
-
-
-Engine Cooling
-Drive Systems
-Engine/Driveline
-Climate Control
-Braking
-
-
-Wheels
-Fluids
-Reference Books
-Accessories
-
-
-1973-1977 A-Body
-
-
-Front Suspension
-Rear Suspension
-Body 
-Steering
-
-
-Interior
-Electrical
-Engine Cooling
-Drive Systems
-
-
-Engine/Driveline
-Climate Control
-Braking
-Wheels
-
-
-Fluids
-Reference Books
-Accessories
-
-
-X-Gen Products
-
-
-1970-1981 F-Body
-
-
-Front Suspension
-Rear Suspension
-Body
-Steering
-
-
-Interior
-Fuel System
-Electrical
-Engine Cooling
-
-
-Drive Systems
-Engine/Driveline
-Climate Control
-Braking
-
-
-Wheels
-Fluids
-Reference Books
-Accessories
-
-
-1962-1967 Chevy II
-
-
-Front Suspension
-Rear Suspension
-Body
-Steering
-
-
-Interior
-Fuel System
-Electrical
-Engine Cooling
-
-
-Drive Systems
-Engine/Driveline
-Climate Control
-Braking
-
-
-Wheels
-Fluids
-Reference Books
-Accessories
-
-
-1978-1988 G-Body
-
-
-Front Suspension
-Rear Suspension
-Body
-Steering
-Interior
-
-
-Electrical
-Engine Cooling
-Drive Systems
-Engine/Driveline
-Braking
-
-
-Wheels
-Fluids
-Reference Books
-Accessories
-
-
-1963-1982 Corvette
-
-
-Front Suspension
-Rear Suspension
-Electrical
-Fluids
-
-
-All DSE Products
-
-
-Front Suspension
-Rear Suspension
-Body
-Steering
-
-
-Interior
-Fuel System
-Electrical
-Engine Cooling
-
-
-Drive Systems
-Engine/Driveline
-Climate Control
-Braking
-
-
-Wheels
-Fluids
-Reference Books
-Accessories
-
-
-
-
-1982-1992 F-Body
-
-
-Front Suspension
-Rear Suspension
-Body
-Steering
-
-
-Interior
-Electrical
-Engine Cooling
-Drive Systems
-
-
-Engine/Driveline
-Climate Control
-Braking
-Wheels
-
-
-Fluids
-Reference Books
-Accessories
-
-
-
-
-1968-1974 X-Body
-
-
-Front Suspension
-Rear Suspension
-Body
-Steering
-
-
-Interior
-Fuel System
-Electrical
-Engine Cooling
-
-
-Drive Systems
-Engine/Driveline
-Climate Control
-Braking
-
-
-Wheels
-Fluids
-Reference Books
-Accessories
-
-
-1964-1972 A-Body
-
-
-Front Suspension
-Rear Suspension
-Body
-Steering
-Interior
-
-
-Electrical
-Engine Cooling
-Drive Systems
-Engine/Driveline
-Braking
-
-
-Braking
-Wheels
-Fluids
-Reference Books
-Accessories
-
-
-1964.5-1970 Mustang
-
-
-Front Suspension
-Rear Suspension
-Body
-Steering
-
-
-Interior
-Fuel System
-Electrical
-Engine Cooling
-
-
-Engine/Driveline
-Climate Control
-Braking
-Wheels
-
-
-Fluids
-Reference Books
-Accessories
-
-
-1964-1972 C-10
-
-
-Front Suspension
-Electrical
-
-
-
-
-Projects
-Videos
-
-
-DSE Videos
-Installation Videos
-Tech Videos
-
-
-Speed News
-Tech
-
-
-Installation Videos
-Tech Videos
-Product Catalog 16.0
-FAQ
-Product Instructions
-
-
-Dealers
-Speed Links
-Speed Tour
-Contact Us
-
-
-
-
-
-
-
-
-
-
-
-
- All Models - Front Suspension
-Page 1      Page 2      Page 3      Page 4      Page 5      Page 6      Page 7
-
-
- 
- 
-
-
-
-
-
-
-
-
-Hydroformed Subframe
-Applications: 1967-1969 F-Body
-
-          Detroit Speed’s front subframe is a bolt-in replacement for the original stock subframe. It improves the handling and ride quality by utilizing DSE’s unique suspension geometry. It is the ONLY subframe in the aftermarket industry with hydroformed frame rails.
-
-►
-                Find out more here 
-
- 
-Price: See Options
-
-
-
-
- 
- 
- 
- 
-
-
-
-Hydroformed Subframe
-Applications: 1968-1974 X-Body
-
-            Detroit Speed’s front subframe is a bolt-in replacement for the original stock subframe. It improves the handling and ride quality by utilizing DSE’s unique suspension geometry. It is the ONLY subframe in the aftermarket industry with hydroformed frame rails.
-
-►
-                  Find out more here 
-
- 
-Price: See Options
-
-
-
-
- 
- 
- 
- 
-
-
-
-Hydroformed Subframe
-Applications: 1970-1981 F-Body
-
-            Detroit Speed’s front subframe is a bolt-in replacement for the original stock subframe. It improves the handling and ride quality by utilizing DSE’s unique suspension geometry. It is the ONLY subframe in the aftermarket industry with hydroformed frame rails.
-
-►
-                  Find out more here 
-
- 
-Price: See Options
-
-
-
-
- 
- 
- 
- 
-
-
-
-Mustang Aluma-Frame
-Applications: 1964.5-1970 Mustang
-
-            All aluminum front suspension system for 1964.5 -1970 Mustangs featuring DSE’s unique suspension geometry with 6” of suspension travel for the ultimate in ride and performance.
-
-►
-                Find out more here 
-
- 
-Price: See Options
-
-
-
-
-
- 
- 
- 
- 
-
-
-
-Shock Tower Delete Kit
-Applications: 1964.5-1970 Mustang
-
-          The shock tower delete kits for 1964½ -1970 Mustangs are used to close out the stock inner fender panels after removing the original strut towers. They can be bolted or welded in place, are compatible with stock inner fender panels and are designed to mimic original strut towers for a modern appearance.
-
-►
-              Find out more here
- 
-Price: See Options
-
-
- 
- 
- 
- 
-
-
-
-Chevy II Front Frame
-Applications: 1962-1967 Chevy II
-
-            Detroit Speed’s front frame is a bolt-in replacement for the original stock subframe. It improves the handling and ride quality by utilizing DSE’s unique suspension geometry. It is the ONLY Chevy II frame in the aftermarket industry with OEM quality stamped crossmembers for improved structural rigidity. 
-
-►
-            Find out more here 
-
- 
-Price: See Options
-
-
- 
- 
- 
- 
-
-
-
-Chevy II Front Frame Inner Fenders
-Applications: 1962-1967 Chevy II with Front Frame Installed
-
-            Detroit Speed’s Chevy II inner fenders are designed to fit Chevy II’s equipped with a DSE Chevy II Front Frame. They completely hide the Front Frame downbars resulting in a neat and clean underhood appearance. The inner fenders are stamped from 18 gauge steel and are made in the USA.
-
-►
-                  Find out more here
- 
-Price: See Options
-
-
-
-
- 
- 
- 
- 
-
-
-
-Chevy II Down Bar Shim Kit
-Applications: 1962-1967 Chevy II
-
-            The Chevy II Down Bar Shim Kit works with Detroit Speed's Chevy II Front Frame to align the frame during installation. The Down Bar shim kits will allow you to easily square the Detroit Speed Chevy II Front Frame. They replace the original stock shims that may be worn or missing. 
-
-►
-                  Find out more here
- 
-Price: See Options
-
-
- 
- 
- 
- 
-
-
-
-Front Speed Kits
-Applications: 1967-1969 F-Body
-
-            Our exclusive Detroit Speed front suspension kits combine our individual products into a system designed for your vehicle.The DSE Speed Kit 1 provides the ease of bolt-on components to improve your F-Body  handling. The Speed Kit 2 improves the handling performance to the next level and offers ride height adjustment. The Speed Kit 3 is the most advanced handling system you can buy for use with your stock subframe.
-
-►
-                  Find out more here
- 
-Price: See Options
-
-
- 
- 
- 
- 
-
-
-All Models - Front Suspension
-Page 1      Page 2      Page 3      Page 4      Page 5      Page 6      Page 7
- 
- 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-FTDI Products
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-    
-
-
-
-
-
-
-
-
-
-
-Home
-
-
-
-
-
-Products
-
-
-
-
-
-ICs
-
-
-
-
-
-Cables
-
-
-
-
-
-Modules
-
-
-
-
-
-Drivers
-
-
-
-
-Firmware
-
-
-
-
-Support
-
-
-
-
-Android
-
-
-
-
-
-EVE
-
-
-
-
-
-MCU
-
-
-
-
-Sales 
-    Network
-
-
-
-
-Web 
-    Shop
-
-
-
-
-Newsletter
-
-
-
-
-Corporate
-
-
-
-
-Contact Us
-
-
-
-
-
-
-
-
-
-
-	    
-
-	   
-
-
-
-		   
-Latest Android News
- 
-		  
- 
-		  
-
-
-USB In The Fast Lane
-Your complete solution for USB 2.0 Hi-Speed Applications
-
-
-
-
-
-
- 
-          
-
-
-
-
- 
-			  
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
- 
-  Products
-
-
-
-
-
-
-
-
-
-		FTDI Chip offers a wide range of products including modules, cables, and integrated circuits.  Driven by its chip development, FTDI's product focus is on USB connectivity and display interfaces, which have wide applications across all market segments, including; industrial, consumer, PC peripheral, medical, telecom, energy infrastructure, etc.
-
-
-
-ICs
-
-
-
-Cables
-
-
-
-Modules
-
-
-
-
-
-
-
-
-
-
- 
-  ICs
-
-
-
-
-
-
-EVE– Embedded Video Engine
-        
-EVE technology is a revolutionary concept that utilizes an object oriented methodology for creating hi-quality 
-		human machine interfaces (HMIs).  With support for display, audio, and touch,  this new technology allows engineers to quickly and efficiently design 
-		HMIs and deliver robust solutions, hi-resolution displays with lower bill of material costs. The 
-		EVE product offering includes:
-
-FT800 –  Generation 1 with 512 x 512 pixel resolution and resistive touch 
-FT801 –  Generation 1 with 512 x 512 pixel resolution and capacitive touch 
-FT810 – Generation 2 with 800 x 600 pixel resolution and resistive touch
-FT811 – Generation 2 with 800 x 600 pixel resolution and capacitive touch
-FT812 – Generation 2 with 800 x 600 pixel resolution, resistive touch and true 24 bit colour 
-FT813 – Generation 2 with 800 x 600 pixel resolution, capacitive touch and true 24 bit colour 
-
-FT-X
-        
-FT-X series devices offer lower power, lower pin count, and  a leadership feature set, that makes bridging from a USB ports to UART, I2C, enhanced SPI (FT1248) or FIFO interfaces  easy to design and implement.                
-        
-FT200XD – Full Speed USB to I2C Bridge in 10 pin DFN package
- FT201X – Full Speed USB to I2C Bridge
- FT220X – Full Speed USB to 4-Bit SPI / FT1248 Bridge
- FT221X – Full Speed USB to 8-bit SPI / FT1248 Bridge 
-FT230X – Full Speed USB to Basic UART
-FT231X – Full Speed USB to Full Handshake UART
-FT234XD – Full Speed USB to Basic UART
-FT240X – Full Speed USB to 8- bit FIFO 
-
-FT12 Series Controllers
-
-
-						FT120 USB full-speed Device Controller
-
-						FT121 USB full-speed Device Controller with SPI 
-						Interface
-
-						FT122 USB full-speed Device Controller with 8-bit 
-						Parallel Interface
-
-Vinculum family - USB Host / Slave Controllers
-
-
-						Vinculum-II Programmable USB 2.0 Host / Slave Controller
-
-						Vinculum Embedded USB 2.0 Host Controller 
-
-FT300 Series ICs – USB Host / Android Open Accessory (AOA) Solutions
-
-
-						FT311D – Full-Speed USB2.0 Host IC Optimised for Android Platforms
-
-						FT312D – Full-Speed Android Open Accessory USB2.0 Host to UART Bridge 
-
-						FT313H – Hi-Speed USB2.0 Host Controller
-
-FT Series ICs - USB Slave Converters
-
-
-						FT232H - Single Channel Hi-Speed USB to Multipurpose 
-						UART/FIFO IC
-
-						FT2232H - Hi-Speed USB 2.0 - Dual UART/FIFO Converter
-
-						FT4232H - Hi-Speed USB 2.0 - Quad UART Converter
-
-						FT4222H - Hi-Speed USB to SPI/I2C Bridge
-
-						FT232R – Single USB 2.0 to Serial UART Converter IC. 
-
-						FT245R – Single USB 2.0 to FIFO Converter IC. 
-
-						FT2232D/C/L - Dual USB UART/FIFO IC
-
-						FT232B – Single USB to UART Converter ICs
-
-						FT245B – Single USB to FIFO Converter ICs
-
-FT8U232AM – USB 1.1 to UART IC. Legacy product 
-						(discontinued)
-
-FT8U245AM - USB 1.1 to FIFO IC.  Legacy product 
-						(discontinued)
-
-FT8U100AX - Multi-Function USB 1.1 Hub Controller IC
-(discontinued)
-
-FT60x Series ICs - USB SuperSpeed 3.0 to FIFO Bridges 
-
-
-						FT600 - SuperSpeed USB 3.0 to 16 bit wide FIFO Bridge
-
-						FT601 - SuperSpeed USB 3.0 to 32 bit wide FIFO Bridge
-
-HID class USB devices 
-
-FT260 - Full Speed HID Class USB to UART/I2C
-
-FT90x Series - 32 bit MCU 
-FT51A Series - 8 bit MCU 
-FT93x Series - 32 bit MCU 
-
-
- 
-
-
-
-
-
-
-
- 
-  Cables
-
-
-
-
-
-
-
-Range of USB converter cables offering 
-		a range of connectivity options. 
-		Cables come with integrated electronics featuring FTDI ICs.
-
-Click here to 
-					view our Cables range
-					 
-
-
-
-
-
-
- 
-  Modules
-
-
-
-
-
-
-Range of PCB boards and sub-assemblies featuring FTDI ICs.  The 
-		modules are available in a range of formats to supporting activities 
-		from basic prototyping to integration into finished product designs.
-Click here to 
-					view our Modules range 
- 
-
-
-
-
-
-
-
-
-   
-
-
-
-
-
-
-
-© Future Technology Devices International Ltd. 
-
-
-
-
- 
-
-
 
 
 
@@ -2218,8 +57,6 @@ email: orders@hsproductions.com
 
 
     
-
-
 
 
 
@@ -3408,6 +1245,401 @@ RS-232 UART with Minimal Impact on PC Software12/3/2004 11:33:55 AM253KBAN950 - 
 
 
 
+
+
+FTDI Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+    
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+
+Products
+
+
+
+
+
+ICs
+
+
+
+
+
+Cables
+
+
+
+
+
+Modules
+
+
+
+
+
+Drivers
+
+
+
+
+Firmware
+
+
+
+
+Support
+
+
+
+
+Android
+
+
+
+
+
+EVE
+
+
+
+
+
+MCU
+
+
+
+
+Sales 
+    Network
+
+
+
+
+Web 
+    Shop
+
+
+
+
+Newsletter
+
+
+
+
+Corporate
+
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+	    
+
+	   
+
+
+
+		   
+Latest Android News
+ 
+		  
+ 
+		  
+
+
+USB In The Fast Lane
+Your complete solution for USB 2.0 Hi-Speed Applications
+
+
+
+
+
+
+ 
+          
+
+
+
+
+ 
+			  
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+  Products
+
+
+
+
+
+
+
+
+
+		FTDI Chip offers a wide range of products including modules, cables, and integrated circuits.  Driven by its chip development, FTDI's product focus is on USB connectivity and display interfaces, which have wide applications across all market segments, including; industrial, consumer, PC peripheral, medical, telecom, energy infrastructure, etc.
+
+
+
+ICs
+
+
+
+Cables
+
+
+
+Modules
+
+
+
+
+
+
+
+
+
+
+ 
+  ICs
+
+
+
+
+
+
+EVE– Embedded Video Engine
+        
+EVE technology is a revolutionary concept that utilizes an object oriented methodology for creating hi-quality 
+		human machine interfaces (HMIs).  With support for display, audio, and touch,  this new technology allows engineers to quickly and efficiently design 
+		HMIs and deliver robust solutions, hi-resolution displays with lower bill of material costs. The 
+		EVE product offering includes:
+
+FT800 –  Generation 1 with 512 x 512 pixel resolution and resistive touch 
+FT801 –  Generation 1 with 512 x 512 pixel resolution and capacitive touch 
+FT810 – Generation 2 with 800 x 600 pixel resolution and resistive touch
+FT811 – Generation 2 with 800 x 600 pixel resolution and capacitive touch
+FT812 – Generation 2 with 800 x 600 pixel resolution, resistive touch and true 24 bit colour 
+FT813 – Generation 2 with 800 x 600 pixel resolution, capacitive touch and true 24 bit colour 
+
+FT-X
+        
+FT-X series devices offer lower power, lower pin count, and  a leadership feature set, that makes bridging from a USB ports to UART, I2C, enhanced SPI (FT1248) or FIFO interfaces  easy to design and implement.                
+        
+FT200XD – Full Speed USB to I2C Bridge in 10 pin DFN package
+ FT201X – Full Speed USB to I2C Bridge
+ FT220X – Full Speed USB to 4-Bit SPI / FT1248 Bridge
+ FT221X – Full Speed USB to 8-bit SPI / FT1248 Bridge 
+FT230X – Full Speed USB to Basic UART
+FT231X – Full Speed USB to Full Handshake UART
+FT234XD – Full Speed USB to Basic UART
+FT240X – Full Speed USB to 8- bit FIFO 
+
+FT12 Series Controllers
+
+
+						FT120 USB full-speed Device Controller
+
+						FT121 USB full-speed Device Controller with SPI 
+						Interface
+
+						FT122 USB full-speed Device Controller with 8-bit 
+						Parallel Interface
+
+Vinculum family - USB Host / Slave Controllers
+
+
+						Vinculum-II Programmable USB 2.0 Host / Slave Controller
+
+						Vinculum Embedded USB 2.0 Host Controller 
+
+FT300 Series ICs – USB Host / Android Open Accessory (AOA) Solutions
+
+
+						FT311D – Full-Speed USB2.0 Host IC Optimised for Android Platforms
+
+						FT312D – Full-Speed Android Open Accessory USB2.0 Host to UART Bridge 
+
+						FT313H – Hi-Speed USB2.0 Host Controller
+
+FT Series ICs - USB Slave Converters
+
+
+						FT232H - Single Channel Hi-Speed USB to Multipurpose 
+						UART/FIFO IC
+
+						FT2232H - Hi-Speed USB 2.0 - Dual UART/FIFO Converter
+
+						FT4232H - Hi-Speed USB 2.0 - Quad UART Converter
+
+						FT4222H - Hi-Speed USB to SPI/I2C Bridge
+
+						FT232R – Single USB 2.0 to Serial UART Converter IC. 
+
+						FT245R – Single USB 2.0 to FIFO Converter IC. 
+
+						FT2232D/C/L - Dual USB UART/FIFO IC
+
+						FT232B – Single USB to UART Converter ICs
+
+						FT245B – Single USB to FIFO Converter ICs
+
+FT8U232AM – USB 1.1 to UART IC. Legacy product 
+						(discontinued)
+
+FT8U245AM - USB 1.1 to FIFO IC.  Legacy product 
+						(discontinued)
+
+FT8U100AX - Multi-Function USB 1.1 Hub Controller IC
+(discontinued)
+
+FT60x Series ICs - USB SuperSpeed 3.0 to FIFO Bridges 
+
+
+						FT600 - SuperSpeed USB 3.0 to 16 bit wide FIFO Bridge
+
+						FT601 - SuperSpeed USB 3.0 to 32 bit wide FIFO Bridge
+
+HID class USB devices 
+
+FT260 - Full Speed HID Class USB to UART/I2C
+
+FT90x Series - 32 bit MCU 
+FT51A Series - 8 bit MCU 
+FT93x Series - 32 bit MCU 
+
+
+ 
+
+
+
+
+
+
+
+ 
+  Cables
+
+
+
+
+
+
+
+Range of USB converter cables offering 
+		a range of connectivity options. 
+		Cables come with integrated electronics featuring FTDI ICs.
+
+Click here to 
+					view our Cables range
+					 
+
+
+
+
+
+
+ 
+  Modules
+
+
+
+
+
+
+Range of PCB boards and sub-assemblies featuring FTDI ICs.  The 
+		modules are available in a range of formats to supporting activities 
+		from basic prototyping to integration into finished product designs.
+Click here to 
+					view our Modules range 
+ 
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+© Future Technology Devices International Ltd. 
+
+
+
+
+ 
+
  
 
 
@@ -4035,6 +2267,819 @@ video title
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APX Imaging, Inc. | X-ray Film- Full Speed Blue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+1-888-816-2606
+
+
+
+
+
+
+
+
+
+
+
+
+Radiomat B-Plus Full Speed Blue Sensitive X-ray Film
+
+
+
+HomeX-ray FilmRadiomat B-Plus Full Speed Blue Sensitive X-ray Film 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Product ID: Radiomat B-Plus
+Price: Please See Price Table >
+
+
+                    	
+						Sales Tax 7.0% -Purchases Made By Customers Outside The State of Illinois Are Exempt from Illinois State Sales Tax.						
+                    
+
+
+Radiomat B-Plus Full Speed Blue Sensitive X-ray Film
+
+
+100 Sheets Per Box/5 Boxes Per Case
+14×36 Straight:   25 Sheets Per Box/4 Boxes Per Case
+14×36 Tri-Fold:   25 Sheets Per Box/5 Boxes Per Case
+
+Buy 2 or More Boxes of Equal Size & Save 5%
+Free Standard Ground Shipping With Purchase of $70 or More
+
+
+ 8x10 $45.00-5% Multi-Box Discount: $42.75Contact Us
+ 10x12 $55.00-5% Multi-Box Discount:$52.25Contact Us
+ 14x17 $108.00-5% Multi-Box Discount:$102.60Contact Us
+ 14x36 Straight $60.00-5% Multi-Box Discount:$57.00Contact Us
+ 14x36 Tri-Fold $65.00-5% Multi-Box Discount:$61.75Contact Us
+
+
+
+
+
+
+
+Request A Quote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Detroit Speed, Inc. - All Products - Front Suspension
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+   Engineered. Tested. Tuned. Manufactured. Perfected.
+► Download Center
+► Newsletter Sign up
+► View Cart
+
+
+
+
+Home
+About Us
+Products
+
+
+1967-1969 F-Body
+
+
+Front Suspension
+Rear Suspension
+Body
+Steering
+
+
+Interior
+Fuel System
+Electrical
+Engine Cooling
+
+
+Drive Systems
+Engine/Driveline
+Climate Control
+Braking
+
+
+Wheels
+Fluids
+Reference Books
+Accessories
+
+
+2010+ Camaro
+
+
+Front Suspension
+Rear Suspension
+Body
+Engine/Driveline
+
+
+1975-1979 X-Body
+
+
+Body
+Steering
+Interior
+Fuel System
+Electrical
+
+
+Engine Cooling
+Drive Systems
+Engine/Driveline
+Climate Control
+Braking
+
+
+Wheels
+Fluids
+Reference Books
+Accessories
+
+
+1973-1977 A-Body
+
+
+Front Suspension
+Rear Suspension
+Body 
+Steering
+
+
+Interior
+Electrical
+Engine Cooling
+Drive Systems
+
+
+Engine/Driveline
+Climate Control
+Braking
+Wheels
+
+
+Fluids
+Reference Books
+Accessories
+
+
+X-Gen Products
+
+
+1970-1981 F-Body
+
+
+Front Suspension
+Rear Suspension
+Body
+Steering
+
+
+Interior
+Fuel System
+Electrical
+Engine Cooling
+
+
+Drive Systems
+Engine/Driveline
+Climate Control
+Braking
+
+
+Wheels
+Fluids
+Reference Books
+Accessories
+
+
+1962-1967 Chevy II
+
+
+Front Suspension
+Rear Suspension
+Body
+Steering
+
+
+Interior
+Fuel System
+Electrical
+Engine Cooling
+
+
+Drive Systems
+Engine/Driveline
+Climate Control
+Braking
+
+
+Wheels
+Fluids
+Reference Books
+Accessories
+
+
+1978-1988 G-Body
+
+
+Front Suspension
+Rear Suspension
+Body
+Steering
+Interior
+
+
+Electrical
+Engine Cooling
+Drive Systems
+Engine/Driveline
+Braking
+
+
+Wheels
+Fluids
+Reference Books
+Accessories
+
+
+1963-1982 Corvette
+
+
+Front Suspension
+Rear Suspension
+Electrical
+Fluids
+
+
+All DSE Products
+
+
+Front Suspension
+Rear Suspension
+Body
+Steering
+
+
+Interior
+Fuel System
+Electrical
+Engine Cooling
+
+
+Drive Systems
+Engine/Driveline
+Climate Control
+Braking
+
+
+Wheels
+Fluids
+Reference Books
+Accessories
+
+
+
+
+1982-1992 F-Body
+
+
+Front Suspension
+Rear Suspension
+Body
+Steering
+
+
+Interior
+Electrical
+Engine Cooling
+Drive Systems
+
+
+Engine/Driveline
+Climate Control
+Braking
+Wheels
+
+
+Fluids
+Reference Books
+Accessories
+
+
+
+
+1968-1974 X-Body
+
+
+Front Suspension
+Rear Suspension
+Body
+Steering
+
+
+Interior
+Fuel System
+Electrical
+Engine Cooling
+
+
+Drive Systems
+Engine/Driveline
+Climate Control
+Braking
+
+
+Wheels
+Fluids
+Reference Books
+Accessories
+
+
+1964-1972 A-Body
+
+
+Front Suspension
+Rear Suspension
+Body
+Steering
+Interior
+
+
+Electrical
+Engine Cooling
+Drive Systems
+Engine/Driveline
+Braking
+
+
+Braking
+Wheels
+Fluids
+Reference Books
+Accessories
+
+
+1964.5-1970 Mustang
+
+
+Front Suspension
+Rear Suspension
+Body
+Steering
+
+
+Interior
+Fuel System
+Electrical
+Engine Cooling
+
+
+Engine/Driveline
+Climate Control
+Braking
+Wheels
+
+
+Fluids
+Reference Books
+Accessories
+
+
+1964-1972 C-10
+
+
+Front Suspension
+Electrical
+
+
+
+
+Projects
+Videos
+
+
+DSE Videos
+Installation Videos
+Tech Videos
+
+
+Speed News
+Tech
+
+
+Installation Videos
+Tech Videos
+Product Catalog 16.0
+FAQ
+Product Instructions
+
+
+Dealers
+Speed Links
+Speed Tour
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+ All Models - Front Suspension
+Page 1      Page 2      Page 3      Page 4      Page 5      Page 6      Page 7
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+Hydroformed Subframe
+Applications: 1967-1969 F-Body
+
+          Detroit Speed’s front subframe is a bolt-in replacement for the original stock subframe. It improves the handling and ride quality by utilizing DSE’s unique suspension geometry. It is the ONLY subframe in the aftermarket industry with hydroformed frame rails.
+
+►
+                Find out more here 
+
+ 
+Price: See Options
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+Hydroformed Subframe
+Applications: 1968-1974 X-Body
+
+            Detroit Speed’s front subframe is a bolt-in replacement for the original stock subframe. It improves the handling and ride quality by utilizing DSE’s unique suspension geometry. It is the ONLY subframe in the aftermarket industry with hydroformed frame rails.
+
+►
+                  Find out more here 
+
+ 
+Price: See Options
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+Hydroformed Subframe
+Applications: 1970-1981 F-Body
+
+            Detroit Speed’s front subframe is a bolt-in replacement for the original stock subframe. It improves the handling and ride quality by utilizing DSE’s unique suspension geometry. It is the ONLY subframe in the aftermarket industry with hydroformed frame rails.
+
+►
+                  Find out more here 
+
+ 
+Price: See Options
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+Mustang Aluma-Frame
+Applications: 1964.5-1970 Mustang
+
+            All aluminum front suspension system for 1964.5 -1970 Mustangs featuring DSE’s unique suspension geometry with 6” of suspension travel for the ultimate in ride and performance.
+
+►
+                Find out more here 
+
+ 
+Price: See Options
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+Shock Tower Delete Kit
+Applications: 1964.5-1970 Mustang
+
+          The shock tower delete kits for 1964½ -1970 Mustangs are used to close out the stock inner fender panels after removing the original strut towers. They can be bolted or welded in place, are compatible with stock inner fender panels and are designed to mimic original strut towers for a modern appearance.
+
+►
+              Find out more here
+ 
+Price: See Options
+
+
+ 
+ 
+ 
+ 
+
+
+
+Chevy II Front Frame
+Applications: 1962-1967 Chevy II
+
+            Detroit Speed’s front frame is a bolt-in replacement for the original stock subframe. It improves the handling and ride quality by utilizing DSE’s unique suspension geometry. It is the ONLY Chevy II frame in the aftermarket industry with OEM quality stamped crossmembers for improved structural rigidity. 
+
+►
+            Find out more here 
+
+ 
+Price: See Options
+
+
+ 
+ 
+ 
+ 
+
+
+
+Chevy II Front Frame Inner Fenders
+Applications: 1962-1967 Chevy II with Front Frame Installed
+
+            Detroit Speed’s Chevy II inner fenders are designed to fit Chevy II’s equipped with a DSE Chevy II Front Frame. They completely hide the Front Frame downbars resulting in a neat and clean underhood appearance. The inner fenders are stamped from 18 gauge steel and are made in the USA.
+
+►
+                  Find out more here
+ 
+Price: See Options
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+Chevy II Down Bar Shim Kit
+Applications: 1962-1967 Chevy II
+
+            The Chevy II Down Bar Shim Kit works with Detroit Speed's Chevy II Front Frame to align the frame during installation. The Down Bar shim kits will allow you to easily square the Detroit Speed Chevy II Front Frame. They replace the original stock shims that may be worn or missing. 
+
+►
+                  Find out more here
+ 
+Price: See Options
+
+
+ 
+ 
+ 
+ 
+
+
+
+Front Speed Kits
+Applications: 1967-1969 F-Body
+
+            Our exclusive Detroit Speed front suspension kits combine our individual products into a system designed for your vehicle.The DSE Speed Kit 1 provides the ease of bolt-on components to improve your F-Body  handling. The Speed Kit 2 improves the handling performance to the next level and offers ride height adjustment. The Speed Kit 3 is the most advanced handling system you can buy for use with your stock subframe.
+
+►
+                  Find out more here
+ 
+Price: See Options
+
+
+ 
+ 
+ 
+ 
+
+
+All Models - Front Suspension
+Page 1      Page 2      Page 3      Page 4      Page 5      Page 6      Page 7
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 YouTube 
   
 
@@ -4401,110 +3446,110 @@ __count__/__total__
 
 發燒影片全部播放
 
+10:12 
+播放下一部立即播放
+
+
+
+這群人 TGOP│詐騙電話的各種狀況 Various Phone Scams - 播放時間：10:12。TGOP 這群人觀看次數：1,846,7292 天前
+
 1:35:20 
 播放下一部立即播放
 
 
 
-大哥就是好笑！！惡搞關卡一關接一關！大哥到底是對的還是慘的？！綜藝玩很大 x OPPO 【第七十八回 日本 北海道】20170729【第155集完整版】 - 播放時間：1:35:20。我愛玩很大觀看次數：471,5201 天前
+大哥就是好笑！！惡搞關卡一關接一關！大哥到底是對的還是慘的？！綜藝玩很大 x OPPO 【第七十八回 日本 北海道】20170729【第155集完整版】 - 播放時間：1:35:20。我愛玩很大觀看次數：481,6741 天前
 
 1:45:16 
 播放下一部立即播放
 
 
 
-【FULL】《中國新歌聲2》第3期: 周杰倫被學妹現場追問戀愛經驗 與那英再組姐弟聯盟搶學員 SING!CHINA S2 EP.03 20170728 [浙江衛視官方HD] - 播放時間：1:45:16。浙江卫视音乐频道 ZJSTV Music Channel - 中国新歌声正在热播 -觀看次數：2,160,1553 天前
-
-10:12 
-播放下一部立即播放
-
-
-
-這群人 TGOP│詐騙電話的各種狀況 Various Phone Scams - 播放時間：10:12。TGOP 這群人觀看次數：1,835,8161 天前
-
-8:47 
-播放下一部立即播放
-
-
-
-酷暑自製超健康冰棒🍦！色彩繽紛阿妹仔打卡的最愛！小資少女不專業自理餐時間#7 - 播放時間：8:47。白癡公主 觀看次數：312,45617 小時前
+【FULL】《中國新歌聲2》第3期: 周杰倫被學妹現場追問戀愛經驗 與那英再組姐弟聯盟搶學員 SING!CHINA S2 EP.03 20170728 [浙江衛視官方HD] - 播放時間：1:45:16。浙江卫视音乐频道 ZJSTV Music Channel - 中国新歌声正在热播 -觀看次數：2,166,9163 天前
 
 5:09 
 播放下一部立即播放
 
 
 
-【Joeman】7-11飲料抽抽樂？100連抽中獎率實測！超狂！ - 播放時間：5:09。Joeman觀看次數：571,3063 天前
+【Joeman】7-11飲料抽抽樂？100連抽中獎率實測！超狂！ - 播放時間：5:09。Joeman觀看次數：573,1433 天前
+
+8:47 
+播放下一部立即播放
+
+
+
+酷暑自製超健康冰棒🍦！色彩繽紛阿妹仔打卡的最愛！小資少女不專業自理餐時間#7 - 播放時間：8:47。白癡公主 觀看次數：324,17318 小時前
+
+5:13 
+播放下一部立即播放
+
+
+
+嘎奇麥唬爛#36：大包餅乾真的比較划算嗎? 破解迷思！ (蔡阿嘎網路流言終結者) - 播放時間：5:13。蔡阿嘎 觀看次數：561,8673 天前
 
 11:47 
 播放下一部立即播放
 
 
 
-Oh！特爽 - 100位歌手不負責任的模仿 - 播放時間：11:47。Oh!特爽Alter song 觀看次數：440,3694 天前
+Oh！特爽 - 100位歌手不負責任的模仿 - 播放時間：11:47。Oh!特爽Alter song 觀看次數：441,7434 天前
 
 2:39 
 播放下一部立即播放
 
 
 
-【星期天】來跟柯市長一起配音「台北世大運」宣傳片！ - 播放時間：2:39。星期天 觀看次數：285,4472 天前
+【星期天】來跟柯市長一起配音「台北世大運」宣傳片！ - 播放時間：2:39。星期天 觀看次數：286,9502 天前
 
-8:03 
+5:37 
 播放下一部立即播放
 
 
 
-世界前五大運動場熱血瞬間！！feat . 柯文哲【說Buchi】 - 播放時間：8:03。林辰 Buchi 觀看次數：210,7593 天前
+誰是清流？創作者，不能自嗨RRR - 播放時間：5:37。冏星人 觀看次數：101,8561 天前
 
-6:54 
+1:44 
 播放下一部立即播放
 
 
 
-用理論解釋為什麼你會相信星座 - 播放時間：6:54。黃大謙 觀看次數：217,7022 天前
-
-10:30 
-播放下一部立即播放
-
-
-
-暑假到了，好想去露營烤肉啊！(內有業配)【聖結石Saint】 - 播放時間：10:30。聖結石Saint 觀看次數：291,0121 天前
+HowFun / 台北！我的主場！feat. 最狂阿伯柯P - 播放時間：1:44。HowFun 觀看次數：667,8404 天前
 
 1:36 
 播放下一部立即播放
 
 
 
-霸氣姊當街幹譙 超狂台語讓網友跪了 | 台灣蘋果日報 - 播放時間：1:36。台灣蘋果日報 觀看次數：331,5424 天前
+霸氣姊當街幹譙 超狂台語讓網友跪了 | 台灣蘋果日報 - 播放時間：1:36。台灣蘋果日報 觀看次數：332,2344 天前
 
-7:48 
+13:10 
 播放下一部立即播放
 
 
 
-【魚乾】獎金92萬人民幣？不可能擊敗的五子棋遊戲。(Feat. 菜喳、羅伊、胖茲) - 播放時間：7:48。魚乾 觀看次數：395,9643 天前
+【Minecraft】巢哥實況：Lonely Island陸地系列#111 新發明、混凝土大師、便利商店－－？！ 【當個創世神】 - 播放時間：13:10。巢哥 觀看次數：319,5092 天前
 
 0:28 
 播放下一部立即播放
 
 
 
-煞不住啊... - 播放時間：0:28。爆料公社 2.0觀看次數：285,2002 天前
+煞不住啊... - 播放時間：0:28。爆料公社 2.0觀看次數：286,2702 天前
 
-1:06 
+8:03 
 播放下一部立即播放
 
 
 
-颱風天唐老師直播 - 播放時間：1:06。官方 阿翰po影片觀看次數：163,3322 天前
+世界前五大運動場熱血瞬間！！feat . 柯文哲【說Buchi】 - 播放時間：8:03。林辰 Buchi 觀看次數：211,4333 天前
 
-0:17 
+7:48 
 播放下一部立即播放
 
 
 
-這雷也劈的太準了吧 - 播放時間：0:17。爆料公社觀看次數：110,4913 天前
+【魚乾】獎金92萬人民幣？不可能擊敗的五子棋遊戲。(Feat. 菜喳、羅伊、胖茲) - 播放時間：7:48。魚乾 觀看次數：396,5173 天前
 
 
 
@@ -4518,105 +3563,105 @@ Oh！特爽 - 100位歌手不負責任的模仿 - 播放時間：11:47。Oh!特�
 
 
 
-盧廣仲 Crowd Lu 【魚仔】 Official Music Video （花甲男孩轉大人主題曲） - 播放時間：4:41。teamear觀看次數：14,008,5141 個月前
+盧廣仲 Crowd Lu 【魚仔】 Official Music Video （花甲男孩轉大人主題曲） - 播放時間：4:41。teamear觀看次數：14,016,5601 個月前
 
 3:56 
 播放下一部立即播放
 
 
 
-G.E.M.【光年之外 LIGHT YEARS AWAY 】MV (電影《太空潛航者 Passengers》中文主題曲) [HD] 鄧紫棋 - 播放時間：3:56。GEMblog觀看次數：59,127,6537 個月前
+G.E.M.【光年之外 LIGHT YEARS AWAY 】MV (電影《太空潛航者 Passengers》中文主題曲) [HD] 鄧紫棋 - 播放時間：3:56。GEMblog觀看次數：59,137,8657 個月前
 
 3:51 
 播放下一部立即播放
 
 
 
-謝和弦 R-chord – 在沒有你以後 Without you Feat. 張智成 Z-Chen (華納 Official 官方完整版 MV) - 播放時間：3:51。謝和弦 R-chord觀看次數：7,747,5631 個月前
+謝和弦 R-chord – 在沒有你以後 Without you Feat. 張智成 Z-Chen (華納 Official 官方完整版 MV) - 播放時間：3:51。謝和弦 R-chord觀看次數：7,752,2831 個月前
 
-5:25 
+5:13 
 播放下一部立即播放
 
 
 
-李榮浩 Ronghao Li - 就這樣 That is it (華納 Official HD 官方MV) - 播放時間：5:25。李榮浩官方專屬頻道 Ronghao Li's Official Channel觀看次數：1,542,3984 週前
-
-4:18 
-播放下一部立即播放
-
-
-
-曾沛慈 Pets Tseng - 你離開他了嗎 If You Leave Him At All (官方版MV) - 衛視中文台《燦爛的守護神-鬼怪》片尾曲 - 播放時間：4:18。福茂唱片 觀看次數：1,883,6811 個月前
+薛之謙 Joker Xue【曖昧】HD 高清官方完整版 MV - 播放時間：5:13。海蝶音樂/太合音樂 Taihe Music-精選觀看次數：4,309,6882 個月前
 
 3:32 
 播放下一部立即播放
 
 
 
-小宇 宋念宇 Xiao Yu - 所謂的愛 So Called Love (華納 official HD 官方MV) - 播放時間：3:32。小宇-宋念宇官方專屬頻道 Xiao Yu's Official Channel觀看次數：2,738,9691 個月前
+小宇 宋念宇 Xiao Yu - 所謂的愛 So Called Love (華納 official HD 官方MV) - 播放時間：3:32。小宇-宋念宇官方專屬頻道 Xiao Yu's Official Channel觀看次數：2,740,3571 個月前
 
 4:40 
 播放下一部立即播放
 
 
 
-Eric周興哲《永不失聯的愛 》『原創概念版』Official Music Video 《小妖的金色城堡》主題曲 - 播放時間：4:40。Eric周興哲觀看次數：7,894,4252 個月前
+Eric周興哲《永不失聯的愛 》『原創概念版』Official Music Video 《小妖的金色城堡》主題曲 - 播放時間：4:40。Eric周興哲觀看次數：7,897,8442 個月前
 
-3:37 
+4:18 
 播放下一部立即播放
 
 
 
-BLACKPINK - '마지막처럼 (AS IF IT'S YOUR LAST)' M/V - 播放時間：3:37。BLACKPINK 觀看次數：91,060,8811 個月前
+曾沛慈 Pets Tseng - 你離開他了嗎 If You Leave Him At All (官方版MV) - 衛視中文台《燦爛的守護神-鬼怪》片尾曲 - 播放時間：4:18。福茂唱片 觀看次數：1,885,2121 個月前
 
-5:13 
+5:25 
 播放下一部立即播放
 
 
 
-薛之謙 Joker Xue【曖昧】HD 高清官方完整版 MV - 播放時間：5:13。海蝶音樂/太合音樂 Taihe Music-精選觀看次數：4,307,5162 個月前
+李榮浩 Ronghao Li - 就這樣 That is it (華納 Official HD 官方MV) - 播放時間：5:25。李榮浩官方專屬頻道 Ronghao Li's Official Channel觀看次數：1,543,6624 週前
 
 3:22 
 播放下一部立即播放
 
 
 
-PSY - ‘New Face’ M/V - 播放時間：3:22。officialpsy 觀看次數：66,425,7112 個月前
-
-3:20 
-播放下一部立即播放
-
-
-
-Ed Sheeran - Galway Girl [Official Video] - 播放時間：3:20。Ed Sheeran 觀看次數：172,959,1172 個月前
+PSY - ‘New Face’ M/V - 播放時間：3:22。officialpsy 觀看次數：66,438,1892 個月前
 
 3:37 
 播放下一部立即播放
 
 
 
-Alan Walker ft. Gavin James - Tired - 播放時間：3:37。Alan Walker 觀看次數：46,957,9472 個月前
+BLACKPINK - '마지막처럼 (AS IF IT'S YOUR LAST)' M/V - 播放時間：3:37。BLACKPINK 觀看次數：91,103,9871 個月前
+
+3:37 
+播放下一部立即播放
+
+
+
+Alan Walker ft. Gavin James - Tired - 播放時間：3:37。Alan Walker 觀看次數：46,965,8982 個月前
 
 5:13 
 播放下一部立即播放
 
 
 
-兄弟本色 G.U.T.S【搖落 YoLue】Official Music Video - 播放時間：5:13。滾石唱片 ROCK RECORDS 觀看次數：7,667,5504 個月前
+兄弟本色 G.U.T.S【搖落 YoLue】Official Music Video - 播放時間：5:13。滾石唱片 ROCK RECORDS 觀看次數：7,668,4194 個月前
+
+3:20 
+播放下一部立即播放
+
+
+
+Ed Sheeran - Galway Girl [Official Video] - 播放時間：3:20。Ed Sheeran 觀看次數：172,992,1442 個月前
+
+4:08 
+播放下一部立即播放
+
+
+
+The Chainsmokers & Coldplay - Something Just Like This (Lyric) - 播放時間：4:08。ChainsmokersVEVO 觀看次數：575,337,0775 個月前
 
 3:44 
 播放下一部立即播放
 
 
 
-Talking To Myself (Official Video) - Linkin Park - 播放時間：3:44。Linkin Park 觀看次數：45,258,5381 週前
-
-4:19 
-播放下一部立即播放
-
-
-
-TWICE "SIGNAL" M/V - 播放時間：4:19。jypentertainment 觀看次數：87,332,4502 個月前
+Talking To Myself (Official Video) - Linkin Park - 播放時間：3:44。Linkin Park 觀看次數：45,285,7951 週前
 
 
 
@@ -4630,105 +3675,329 @@ TWICE "SIGNAL" M/V - 播放時間：4:19。jypentertainment 觀看次數：87,3
 
 
 
-【模犯生】Bad Genius 精彩預告～2017/07/21 考試開始 - 播放時間：2:51。CatchPlayMovies觀看次數：277,2061 個月前
-
-4:26 
-播放下一部立即播放
-
-
-
-【正義聯盟】2017動漫展最新4分鐘中文電影預告 - 播放時間：4:26。觸電網 - 電影情報入口網 觀看次數：431,7841 週前
-
-2:24 
-播放下一部立即播放
-
-
-
-打破屍速列車開片票房紀錄【軍艦島】HD角色電影預告特輯 - 播放時間：2:24。觸電網 - 電影情報入口網 觀看次數：253,0952 天前
+【模犯生】Bad Genius 精彩預告～2017/07/21 考試開始 - 播放時間：2:51。CatchPlayMovies觀看次數：277,9771 個月前
 
 1:44 
 播放下一部立即播放
 
 
 
-暢銷女作家下海記【她的應召日記】HD中文電影預告 - 播放時間：1:44。觸電網 - 電影情報入口網 觀看次數：382,6994 天前
+暢銷女作家下海記【她的應召日記】HD中文電影預告 - 播放時間：1:44。觸電網 - 電影情報入口網 觀看次數：383,8124 天前
 
-2:44 
+4:26 
 播放下一部立即播放
 
 
 
-泰國史上最大作弊戰爭【模犯生】HD高畫質中文電影預告 - 播放時間：2:44。觸電網 - 電影情報入口網 觀看次數：272,4391 個月前
+【正義聯盟】2017動漫展最新4分鐘中文電影預告 - 播放時間：4:26。觸電網 - 電影情報入口網 觀看次數：432,0851 週前
 
-7:50 
+2:24 
 播放下一部立即播放
 
 
 
-【影評】猩球崛起：終極決戰|猩球崛起3|點評|心得|萬人迷電影院|War for the Planet of the Apes Movie review - 播放時間：7:50。萬人迷電影院觀看次數：197,8742 週前
-
-2:35 
-播放下一部立即播放
-
-
-
-法鯊驚悚鉅獻【雪人】HD高畫質中文電影預告 - 播放時間：2:35。觸電網 - 電影情報入口網 觀看次數：204,2811 週前
-
-2:25 
-播放下一部立即播放
-
-
-
-【敦克爾克大行動】中文官方主預告，7月20日(週四) 存活就是勝利 - 播放時間：2:25。華納兄弟台灣粉絲俱樂部觀看次數：650,1152 個月前
-
-8:33 
-播放下一部立即播放
-
-
-
-【預告分析】雷神索爾3|諸神黃昏|Thor Ragnarok|預告解析|萬人迷電影院|Thor: Ragnarok trailer breakdown & easter eggs - 播放時間：8:33。萬人迷電影院觀看次數：75,9025 天前
-
-2:41 
-播放下一部立即播放
-
-
-
-【雷神索爾3: 諸神黃昏】HD最新中文正式電影預告 - 播放時間：2:41。觸電網 - 電影情報入口網 觀看次數：260,3351 週前
+打破屍速列車開片票房紀錄【軍艦島】HD角色電影預告特輯 - 播放時間：2:24。觸電網 - 電影情報入口網 觀看次數：253,9302 天前
 
 2:38 
 播放下一部立即播放
 
 
 
-帶你快速認識高譚市的新小丑-傑諾米 - 播放時間：2:38。Peter Chen觀看次數：77,8803 個月前
+帶你快速認識高譚市的新小丑-傑諾米 - 播放時間：2:38。Peter Chen觀看次數：78,0453 個月前
+
+7:50 
+播放下一部立即播放
+
+
+
+【影評】猩球崛起：終極決戰|猩球崛起3|點評|心得|萬人迷電影院|War for the Planet of the Apes Movie review - 播放時間：7:50。萬人迷電影院觀看次數：198,0012 週前
+
+8:33 
+播放下一部立即播放
+
+
+
+【預告分析】雷神索爾3|諸神黃昏|Thor Ragnarok|預告解析|萬人迷電影院|Thor: Ragnarok trailer breakdown & easter eggs - 播放時間：8:33。萬人迷電影院觀看次數：75,9545 天前
+
+2:44 
+播放下一部立即播放
+
+
+
+泰國史上最大作弊戰爭【模犯生】HD高畫質中文電影預告 - 播放時間：2:44。觸電網 - 電影情報入口網 觀看次數：272,8411 個月前
+
+2:35 
+播放下一部立即播放
+
+
+
+法鯊驚悚鉅獻【雪人】HD高畫質中文電影預告 - 播放時間：2:35。觸電網 - 電影情報入口網 觀看次數：204,3771 週前
 
 2:01 
 播放下一部立即播放
 
 
 
-【幫寶弒】HD高畫質中文電影預告 - 播放時間：2:01。觸電網 - 電影情報入口網 觀看次數：70,3371 週前
+【幫寶弒】HD高畫質中文電影預告 - 播放時間：2:01。觸電網 - 電影情報入口網 觀看次數：70,4141 週前
 
-2:04 
+2:41 
 播放下一部立即播放
 
 
 
-【報告老師！怪怪怪怪物！】電影正式預告 7.28 全台上映 - 播放時間：2:04。報告老師！怪怪怪怪物！觀看次數：169,1991 個月前
+【雷神索爾3: 諸神黃昏】HD最新中文正式電影預告 - 播放時間：2:41。觸電網 - 電影情報入口網 觀看次數：260,4521 週前
 
-2:12 
+2:25 
 播放下一部立即播放
 
 
 
-西遊降魔篇導演【悟空傳】HD中文正式電影預告 - 播放時間：2:12。觸電網 - 電影情報入口網 觀看次數：350,8981 個月前
+【敦克爾克大行動】中文官方主預告，7月20日(週四) 存活就是勝利 - 播放時間：2:25。華納兄弟台灣粉絲俱樂部觀看次數：650,2442 個月前
 
 2:29 
 播放下一部立即播放
 
 
 
-【寵物情人】HD高畫質中文電影預告 - 播放時間：2:29。觸電網 - 電影情報入口網 觀看次數：49,2843 天前
+【寵物情人】HD高畫質中文電影預告 - 播放時間：2:29。觸電網 - 電影情報入口網 觀看次數：49,3223 天前
+
+2:12 
+播放下一部立即播放
+
+
+
+西遊降魔篇導演【悟空傳】HD中文正式電影預告 - 播放時間：2:12。觸電網 - 電影情報入口網 觀看次數：350,9891 個月前
+
+2:12 
+播放下一部立即播放
+
+
+
+Rio | First 2 minutes | 20th Century FOX - 播放時間：2:12。Rio觀看次數：16,897,2426 年前
+
+
+
+
+
+
+ 最新影片 建立頻道：遊戲全部播放
+
+10:09 
+播放下一部立即播放
+
+
+
+「Nightblue3中文」 成為傳說的「一下普攻秒殺流」嘉文打野 重製的暮色黑刃+史提克彈簧刀+無盡之刃=過千傷害的普攻(中文字幕) - 播放時間：10:09。Nightblue3 官方中譯版觀看次數：209,5912 天前
+
+28:01 
+播放下一部立即播放
+
+
+
+Minecraft 貪吃蛇跑酷 !! 超緊張 地圖一邊跑一邊消失 !! - 播放時間：28:01。阿神 觀看次數：249,3342 天前
+
+20:35 
+播放下一部立即播放
+
+
+
+《Aner》Minecraft創世神 整小屁孩篇之又一個尖叫王 第五集 尖叫王 中文翻譯 - 播放時間：20:35。艾涅爾 Aner觀看次數：196,9532 天前
+
+13:10 
+播放下一部立即播放
+
+
+
+【Minecraft】巢哥實況：Lonely Island陸地系列#111 新發明、混凝土大師、便利商店－－？！ 【當個創世神】 - 播放時間：13:10。巢哥 觀看次數：319,5092 天前
+
+11:12 
+播放下一部立即播放
+
+
+
+抓急凍鳥！到底有多少人聚集在東區？！【劉沛 Pokemon Go 精靈寶可夢GO】 - 播放時間：11:12。the劉沛 觀看次數：257,4724 天前
+
+7:48 
+播放下一部立即播放
+
+
+
+【魚乾】獎金92萬人民幣？不可能擊敗的五子棋遊戲。(Feat. 菜喳、羅伊、胖茲) - 播放時間：7:48。魚乾 觀看次數：396,5173 天前
+
+4:16 
+播放下一部立即播放
+
+
+
+《英雄聯盟》英雄聚光燈 ─ 烏爾加特【Urgot】 - 播放時間：4:16。Garena 英雄聯盟觀看次數：179,6551 週前
+
+24:43 
+播放下一部立即播放
+
+
+
+【巧克白】適合居住的星球才沒有奇怪的生物呢 #2 - 揪鎬鋼的史萊姆【CC字幕】|| Space Expedition to EPIC 204 - 播放時間：24:43。巧克白觀看次數：198,8303 天前
+
+5:02:38 
+播放下一部立即播放
+
+
+
+《LOL》2017 LMS 夏季職業聯賽 W8D2 - WS vs. JT | RG vs. AHQ - 播放時間：5:02:38。Garena eSports觀看次數：256,704直播時間：4 天前
+
+4:59 
+播放下一部立即播放
+
+
+
+【麥卡貝精華】你要吃阿，很大喔 - 播放時間：4:59。麥卡貝精華頻道 觀看次數：92,8874 天前
+
+5:37:10 
+播放下一部立即播放
+
+
+
+《Garena傳說對決》2017/07/30 14:00 GCS職業聯賽開幕賽 - 播放時間：5:37:10。Garena 傳說對決觀看次數：338,341直播時間：2 天前
+
+10:16 
+播放下一部立即播放
+
+
+
+【蹲蹲】Minecraft雙人空島 _ #05：鵝卵石機改建（ft. 魚乾） - 播放時間：10:16。蹲蹲 觀看次數：142,9703 天前
+
+4:40 
+播放下一部立即播放
+
+
+
+【Pokémon Go】傳說寶可夢CP變高?!實測重進刷素質&球數 - 播放時間：4:40。蠢蠢 觀看次數：96,3993 天前
+
+13:33 
+播放下一部立即播放
+
+
+
+Minecraft | 空島生存 | EP.13 小白刷怪塔 - 播放時間：13:33。小白 觀看次數：89,1662 天前
+
+15:21 
+播放下一部立即播放
+
+
+
+【巧克力】『No Mouse Parkour：不用滑鼠也能跑酷』 － 不用滑鼠也能飛翔！ || Minecraft - 播放時間：15:21。巧克力 觀看次數：92,2591 天前
+
+
+
+
+
+
+ 最新音樂影片 建立頻道：音樂全部播放
+
+4:02 
+播放下一部立即播放
+
+
+
+潘瑋柏 Will Pan - Coming Home (華納 official HD 官方MV) - 播放時間：4:02。潘瑋柏官方頻道Will Pan觀看次數：1,565,5461 週前
+
+3:49 
+播放下一部立即播放
+
+
+
+八三夭 831【末日鬧鐘】『報告老師！怪怪怪怪物！』電影主題曲 Official Music Video - 播放時間：3:49。滾石唱片 ROCK RECORDS 觀看次數：105,4414 天前
+
+2:30 
+播放下一部立即播放
+
+
+
+G.E.M.【心之焰】Official Audio (電視劇《楚喬傳》片尾曲) [HD] 鄧紫棋 - 播放時間：2:30。GEMblog觀看次數：74,7464 天前
+
+5:25 
+播放下一部立即播放
+
+
+
+李榮浩 Ronghao Li - 就這樣 That is it (華納 Official HD 官方MV) - 播放時間：5:25。李榮浩官方專屬頻道 Ronghao Li's Official Channel觀看次數：1,543,6624 週前
+
+4:50 
+播放下一部立即播放
+
+
+
+[M/V] Turbo(터보) - Hot Sugar(뜨거운 설탕) - 播放時間：4:50。SUPER SOUND Bugs!觀看次數：439,5321 週前
+
+4:44 
+播放下一部立即播放
+
+
+
+曾沛慈 Pets Tseng - 我愛你 I Love You（官方版MV） - 播放時間：4:44。福茂唱片 觀看次數：116,7715 天前
+
+4:17 
+播放下一部立即播放
+
+
+
+[MV] GFRIEND(여자친구) _ LOVE WHISPER(귀를 기울이면) - 播放時間：4:17。1theK (원더케이) 觀看次數：369,1174 小時前
+
+3:48 
+播放下一部立即播放
+
+
+
+Selena Gomez - Fetish ft. Gucci Mane - 播放時間：3:48。SelenaGomezVEVO 觀看次數：22,915,4585 天前
+
+4:06 
+播放下一部立即播放
+
+
+
+Future - You Da Baddest ft. Nicki Minaj - 播放時間：4:06。FutureVEVO 觀看次數：13,536,8744 天前
+
+3:38 
+播放下一部立即播放
+
+
+
+【首播】謝宜君-癡心等無愛(官方完整版MV) HD - 播放時間：3:38。豪記唱片 HCM Music 觀看次數：54,1336 天前
+
+3:44 
+播放下一部立即播放
+
+
+
+Talking To Myself (Official Video) - Linkin Park - 播放時間：3:44。Linkin Park 觀看次數：45,285,7951 週前
+
+4:00 
+播放下一部立即播放
+
+
+
+Kendrick Lamar - LOYALTY. ft. Rihanna - 播放時間：4:00。KendrickLamarVEVO 觀看次數：18,407,2753 天前
+
+5:49 
+播放下一部立即播放
+
+
+
+Li Jian Qing李劍青 [ 姥姥Grandmom ] Official Music Video - 播放時間：5:49。相信音樂BinMusic觀看次數：41,5881 週前
+
+4:43 
+播放下一部立即播放
+
+
+
+Coldplay & Big Sean - Miracles (Someone Special) - Official Lyric Video - 播放時間：4:43。Coldplay Official 觀看次數：10,040,3962 週前
+
+2:48 
+播放下一部立即播放
+
+
+
+Charli XCX - Boys [Official Video] - 播放時間：2:48。officialcharlixcx 觀看次數：12,227,0015 天前
 
 
 
@@ -4784,77 +4053,98 @@ TWICE "SIGNAL" M/V - 播放時間：4:19。jypentertainment 觀看次數：87,3
 
 
 
-訂閱已訂閱取消訂閱5,693,745
+訂閱已訂閱取消訂閱5,693,936
 
  
 播放下一部立即播放
 
 
 
-EBC 東森新聞 51 頻道 24 小時線上直播 ｜ Taiwan EBC 24h live news｜ 台湾 EBC ニュース24 時間オンライン放送｜ 대만 뉴스 생방송｜東森新聞 CH51 7,164 人正在收看直播中
+EBC 東森新聞 51 頻道 24 小時線上直播 ｜ Taiwan EBC 24h live news｜ 台湾 EBC ニュース24 時間オンライン放送｜ 대만 뉴스 생방송｜東森新聞 CH51 5,869 人正在收看直播中
 
  
 播放下一部立即播放
 
 
 
-LIVE STREAMING || Timnas Voli Putra KAZAKHSTAN VS JEPANG, GRAND FINAL Bola Voli Asia 2017BARRACHUDA CH3,839 人正在收看直播中
+Ronnie O'Sullivan VS Neil Robertson | MastersRocket Snooker2,304 人正在收看直播中
 
  
 播放下一部立即播放
 
 
 
-【巧克力0801直播】9人建築大賽! ฅ•ω•ฅ || Minecraft巧克力 6,056 人正在收看直播中
-
- 
-播放下一部立即播放
-
-
-
-傳說對決|YR實況 沒滿三十等以及新玩家看過來|今天回到最初的感動，小二號啟程實況主YR2,889 人正在收看直播中
-
- 
-播放下一部立即播放
-
-
-
-Ronnie O'Sullivan VS Neil Robertson | MastersRocket Snooker1,960 人正在收看直播中
-
- 
-播放下一部立即播放
-
-
-
-Discovery Tribes Documentary Compilation || tribes hunting animals wildlife africa documentaryHistory Documentary4,145 人正在收看直播中
-
- 
-播放下一部立即播放
-
-
-
-Bitcoin Cash (aka Fake Bitcoin ) Genesis Block Epic Fail WatchWorld Crypto Network1,889 人正在收看直播中
-
- 
-播放下一部立即播放
-
-
-
-Bitcoin Cash Crash August 1st  (Live)Digital Gold4,436 人正在收看直播中
+Discovery Tribes Documentary Compilation || tribes hunting animals wildlife africa documentaryHistory Documentary4,919 人正在收看直播中
 
 5:37:10 
 播放下一部立即播放
 
 
 
-《Garena傳說對決》2017/07/30 14:00 GCS職業聯賽開幕賽 - 播放時間：5:37:10。Garena 傳說對決觀看次數：337,835直播時間：2 天前
+《Garena傳說對決》2017/07/30 14:00 GCS職業聯賽開幕賽 - 播放時間：5:37:10。Garena 傳說對決觀看次數：338,341直播時間：2 天前
 
-1766:26:46 
+ 
 播放下一部立即播放
 
 
 
-※請移至新直播活動※【好劇LIVE24h爆肝直播】琅琊榜 - 全劇LIVE馬拉松 一起加入「看劇聊是非 」 - 播放時間：1766:26:46。愛爾達綜合台觀看次數：3,955,726直播時間：11 小時前
+LIVE STREAMING || Timnas Voli Putra KAZAKHSTAN VS JEPANG, GRAND FINAL Bola Voli Asia 2017BARRACHUDA CH7,577 人正在收看直播中
+
+ 
+播放下一部立即播放
+
+
+
+【ウル2】アケコン初体験！パッドとの差は？Nakano Sagat179 人正在收看直播中
+
+ 
+播放下一部立即播放
+
+
+
+NASA Live - Earth From Space (HDVR) ♥ ISS LIVE FEED #AstronomyDay2017 | Subscribe now!SPACE & UNIVERSE (Official) 548 人正在收看直播中
+
+ 
+播放下一部立即播放
+
+
+
+【巧克力0801直播】9人建築大賽! ฅ•ω•ฅ || Minecraft巧克力 4,818 人正在收看直播中
+
+1:34:15 
+播放下一部立即播放
+
+
+
+Fate Grand /Order 每週週報 07/30 FGO Fes 兩週年心得聊聊 - 播放時間：1:34:15。DA的遊戲實況台觀看次數：9,861直播時間：1 天前
+
+29:39 
+播放下一部立即播放
+
+
+
+直播配飯，來聊聊天+零食開箱吧❤️ - 播放時間：29:39。Jessica 潔西卡觀看次數：17,075直播時間：1 天前
+
+ 
+播放下一部立即播放
+
+
+
+認識 終極狼人殺 正確玩法！之前的影片叫［冷讀術］不一樣  《飛磚夜說》飛磚夜說150 人正在收看直播中
+
+ 
+播放下一部立即播放
+
+
+
+Sky News - LiveSky News 3,943 人正在收看直播中
+
+ 
+播放下一部立即播放
+
+
+
+萬能嘅直播😏😂😘🤔ibloom hk girl51 人正在收看直播中
 
  
 播放下一部立即播放
@@ -4868,147 +4158,14 @@ Bitcoin Cash Crash August 1st  (Live)Digital Gold4,436 人正在收看直播中
 
 
 
-Sky News - LiveSky News 4,015 人正在收看直播中
+2017高雄吉祥物PK戰3.0 海外大進擊-日本八王子祭表演Part 1FTVLIVE開始日期： 設定提醒
 
-29:39 
-播放下一部立即播放
 
 
 
-直播配飯，來聊聊天+零食開箱吧❤️ - 播放時間：29:39。Jessica 潔西卡觀看次數：17,004直播時間：1 天前
 
- 
-播放下一部立即播放
 
-
-
-認識 終極狼人殺 正確玩法！之前的影片叫［冷讀術］不一樣  《飛磚夜說》飛磚夜說66 人正在收看直播中
-
- 
-播放下一部立即播放
-
-
-
-DUMPING MY BITCOIN CASH LIVETrevon James554 人正在收看直播中
-
-
-
-
-
-
- 最新音樂影片 建立頻道：音樂全部播放
-
-4:02 
-播放下一部立即播放
-
-
-
-潘瑋柏 Will Pan - Coming Home (華納 official HD 官方MV) - 播放時間：4:02。潘瑋柏官方頻道Will Pan觀看次數：1,563,8061 週前
-
-3:49 
-播放下一部立即播放
-
-
-
-八三夭 831【末日鬧鐘】『報告老師！怪怪怪怪物！』電影主題曲 Official Music Video - 播放時間：3:49。滾石唱片 ROCK RECORDS 觀看次數：104,6834 天前
-
-4:50 
-播放下一部立即播放
-
-
-
-[M/V] Turbo(터보) - Hot Sugar(뜨거운 설탕) - 播放時間：4:50。SUPER SOUND Bugs!觀看次數：437,8191 週前
-
-2:30 
-播放下一部立即播放
-
-
-
-G.E.M.【心之焰】Official Audio (電視劇《楚喬傳》片尾曲) [HD] 鄧紫棋 - 播放時間：2:30。GEMblog觀看次數：74,1824 天前
-
-4:44 
-播放下一部立即播放
-
-
-
-曾沛慈 Pets Tseng - 我愛你 I Love You（官方版MV） - 播放時間：4:44。福茂唱片 觀看次數：116,3535 天前
-
-3:48 
-播放下一部立即播放
-
-
-
-Selena Gomez - Fetish ft. Gucci Mane - 播放時間：3:48。SelenaGomezVEVO 觀看次數：22,862,0255 天前
-
-3:38 
-播放下一部立即播放
-
-
-
-【首播】謝宜君-癡心等無愛(官方完整版MV) HD - 播放時間：3:38。豪記唱片 HCM Music 觀看次數：53,9506 天前
-
-5:49 
-播放下一部立即播放
-
-
-
-Li Jian Qing李劍青 [ 姥姥Grandmom ] Official Music Video - 播放時間：5:49。相信音樂BinMusic觀看次數：41,5101 週前
-
-3:44 
-播放下一部立即播放
-
-
-
-Talking To Myself (Official Video) - Linkin Park - 播放時間：3:44。Linkin Park 觀看次數：45,258,5381 週前
-
-3:19 
-播放下一部立即播放
-
-
-
-Louis Tomlinson - Back to You (Official Video) ft. Bebe Rexha, Digital Farm Animals - 播放時間：3:19。LouisTomlinsonVEVO 觀看次數：23,757,2611 週前
-
-4:43 
-播放下一部立即播放
-
-
-
-Coldplay & Big Sean - Miracles (Someone Special) - Official Lyric Video - 播放時間：4:43。Coldplay Official 觀看次數：10,031,7192 週前
-
-4:00 
-播放下一部立即播放
-
-
-
-Kendrick Lamar - LOYALTY. ft. Rihanna - 播放時間：4:00。KendrickLamarVEVO 觀看次數：18,361,7463 天前
-
-3:16 
-播放下一部立即播放
-
-
-
-EXO_Ko Ko Bop_Music Video - 播放時間：3:16。SMTOWN 觀看次數：30,493,1002 週前
-
-4:06 
-播放下一部立即播放
-
-
-
-Future - You Da Baddest ft. Nicki Minaj - 播放時間：4:06。FutureVEVO 觀看次數：13,495,9614 天前
-
-4:37 
-播放下一部立即播放
-
-
-
-Big Dreams - Happy Raikoti (Full Song) | Deep Jandu | Latest Punjabi Song 2017 | Lokdhun Punjabi - 播放時間：4:37。Lokdhun Punjabi 觀看次數：3,426,4652 天前
-
-
-
-
-
-
- 蔡依林 - 主題 推薦頻道全部播放
+ 鄧紫棋 - 主題 推薦頻道全部播放
 
 
 
@@ -5029,7 +4186,7 @@ Big Dreams - Happy Raikoti (Full Song) | Deep Jandu | Latest Punjabi Song 2017 |
 
 
 
-        要取消訂閱「蔡依林 - 主題」嗎？
+        要取消訂閱「鄧紫棋 - 主題」嗎？
       
 
 
@@ -5057,187 +4214,70 @@ Big Dreams - Happy Raikoti (Full Song) | Deep Jandu | Latest Punjabi Song 2017 |
 
 
 
-訂閱已訂閱取消訂閱5,252
+訂閱已訂閱取消訂閱5,569
 
-3:49 
+4:30 
 播放下一部立即播放
 
 
 
-蔡依林 Jolin Tsai - 說愛你 - 播放時間：3:49。jolintsaiVEVO 觀看次數：6,752,1257 年前
+G.E.M. 鄧紫棋 - 喜歡你 Official MV [HD] - 播放時間：4:30。GEMblog觀看次數：45,311,6122 年前
 
-5:47 
+4:34 
 播放下一部立即播放
 
 
 
-蔡依林 Jolin Tsai - 天空 - 播放時間：5:47。jolintsaiVEVO 觀看次數：2,807,5657 年前
+G.E.M. 鄧紫棋【光年之外】EDM Cover ( 蔡恩雨 Priscilla Abby ) - 播放時間：4:34。OneFiveZero Music觀看次數：5,068,4605 個月前
 
-5:12 
+3:56 
 播放下一部立即播放
 
 
 
-蔡依林 Jolin Tsai - I'm Not Yours Feat. 安室奈美惠 NAMIE AMURO (華納official 高畫質HD官方完整版MV) - 播放時間：5:12。蔡依林官方專屬頻道 Jolin Tsai's Official Channel 觀看次數：21,958,0262 年前
+G.E.M.【夜空中最亮的星】Official Audio [HD] 鄧紫棋 - 播放時間：3:56。GEMblog觀看次數：12,921,8011 年前
 
-4:14 
+3:51 
 播放下一部立即播放
 
 
 
-蔡依林 Jolin Tsai - 不一樣又怎樣 We're All Different, Yet The Same (華納official 高畫質HD官方完整版MV) - 播放時間：4:14。蔡依林官方專屬頻道 Jolin Tsai's Official Channel 觀看次數：13,593,3432 年前
+蓋世英雄 第四期 G.E.M.鄧紫棋 - 夜空中最亮的星(EDM MIX Cover) - 播放時間：3:51。Wei-Jie Su觀看次數：5,529,3681 年前
 
-5:30 
+4:17 
 播放下一部立即播放
 
 
 
-蔡依林 Jolin Tsai - 第三人稱 The Third Person And I (華納official 高畫質HD官方完整版MV) - 播放時間：5:30。蔡依林官方專屬頻道 Jolin Tsai's Official Channel 觀看次數：24,128,9172 年前
+G.E.M.【來自天堂的魔鬼 AWAY】Official MV [HD] 鄧紫棋 - 播放時間：4:17。GEMblog觀看次數：19,386,4041 年前
 
-4:52 
+3:36 
 播放下一部立即播放
 
 
 
-蔡依林 Jolin Tsai - 布拉格廣場 - 播放時間：4:52。jolintsaiVEVO 觀看次數：2,273,4347 年前
+G.E.M.【再見 GOODBYE】Official MV [HD] 鄧紫棋 - 播放時間：3:36。GEMblog觀看次數：52,269,0181 年前
 
-3:21 
+5:25 
 播放下一部立即播放
 
 
 
-蔡依林 Jolin Tsai - PLAY我呸 (華納official 高畫質HD官方完整版MV) - 播放時間：3:21。蔡依林官方專屬頻道 Jolin Tsai's Official Channel 觀看次數：25,496,7202 年前
+G.E.M.【多遠都要在一起 LONG DISTANCE】Official MV [HD] 鄧紫棋 - 播放時間：5:25。GEMblog觀看次數：23,516,5822 年前
 
-4:25 
+5:14 
 播放下一部立即播放
 
 
 
-蔡依林 Jolin Tsai - 倒帶 - 播放時間：4:25。jolintsaiVEVO 觀看次數：3,070,8237 年前
+G.E.M.【新的心跳 HEARTBEAT】Official MV [HD] 鄧紫棋 - 播放時間：5:14。GEMblog觀看次數：23,835,0962 年前
 
-15:05 
+4:19 
 播放下一部立即播放
 
 
 
-【P3】蔡依林超性感勁歌熱舞 陳赫驚喜現身搞怪獻唱《浙江衛視年中盛典·反正都精彩》20170610 [浙江衛視官方HD] - 播放時間：15:05。中国浙江卫视官方频道 Zhejiang TV Official Channel - 欢迎订阅 -觀看次數：347,6961 個月前
-
-4:31 
-播放下一部立即播放
-
-
-
-蔡依林 Jolin Tsai - 大藝術家The Great Artist (華納official 高畫質HD官方完整版MV) - 播放時間：4:31。蔡依林官方專屬頻道 Jolin Tsai's Official Channel 觀看次數：20,049,0714 年前
-
-
-
-
-直播遊戲
-
- 
-播放下一部立即播放
-
-
-
-KT vs. LZ - SSG vs. ROX | Week 9 Day 1 | LCK Summer Split (2017)LoL Esports 10,440 人正在收看直播中
-
- 
-播放下一部立即播放
-
-
-
-📢修分靈實況【⚜️傳說對決綜藝台⚜️】搶不到悠遊卡哭哭實況主修分靈1,322 人正在收看直播中
-
- 
-播放下一部立即播放
-
-
-
-【直播】《勇者鬥惡龍 XI 尋覓逝去的時光》與夥伴們一同踏上冒險旅程巴哈姆特電玩瘋 691 人正在收看直播中
-
- 
-播放下一部立即播放
-
-
-
-【直播】電競音樂節同你見面~ 爬住分講《League of Legends 英雄聯盟》Hunggy Games1,567 人正在收看直播中
-
- 
-播放下一部立即播放
-
-
-
-慕容Live直播 2017-08-01 : 絕地求生 PUBG慕容MoYung738 人正在收看直播中
-
- 
-播放下一部立即播放
-
-
-
-PAD 8月のクエストダンジョン 齊齊協 + 白貓project Sharehouse 2角色分析 - 1/8/17 LIVE ( Boy's Planet )Boy's Planet758 人正在收看直播中
-
- 
-播放下一部立即播放
-
-
-
-《今天直播日》陪你們玩遊戲: )))))麥心懸257 人正在收看直播中
-
- 
-播放下一部立即播放
-
-
-
-【Pr Live】Undertale 殺很大~~~~~~~~Pr M250 人正在收看直播中
-
- 
-播放下一部立即播放
-
-
-
-秀康直播~泡槍出任務【惡靈古堡6】with 小光 #1秀康Showcome231 人正在收看直播中
-
- 
-播放下一部立即播放
-
-
-
-『Rimworld 邊緣世界 A17 極端無悔』路（RuSiRu）'s BGM215 人正在收看直播中
-
- 
-播放下一部立即播放
-
-
-
-貓咪大戰爭 日版 貓咪砲素材關卡 到9點Wistmedia232 人正在收看直播中
-
- 
-播放下一部立即播放
-
-
-
-[DG歡樂遊戲時光] 全台最大FGO本能寺活動上線啦!! 上百位性感從者任君挑選!! 抽!沖田總司!!  Fate/Grand Order//  喜歡請按個訂閱或分享此影片 ^_^DiorGaming186 人正在收看直播中
-
- 
-播放下一部立即播放
-
-
-
-宗 ［新楓之谷］冒險島V.144【皇家米哈 100-?】私人伺服器 (直播狂段ˊˋ)宗哦201 人正在收看直播中
-
- 
-播放下一部立即播放
-
-
-
-部落衝突Clash of Clans｜夜世界建盛164 人正在收看直播中
-
- 
-播放下一部立即播放
-
-
-
-【JT Hui哥】宗師163 改練星海1Hui150 人正在收看直播中
+G.E.M. - 泡沫 - 播放時間：4:19。gemVEVO 觀看次數：37,991,4644 年前
 
 
 
@@ -5300,70 +4340,70 @@ PAD 8月のクエストダンジョン 齊齊協 + 白貓project Sharehouse 2角
 
 
 
-費玉清再顯「黃帝」神功！讓康康完全無法招架？！｜黃色笑話集錦20分鐘｜費玉清時間 - 播放時間：20:26。東森綜合台 觀看次數：1,207,6581 個月前
-
-15:29 
-播放下一部立即播放
-
-
-
-當詹雅雯遇上費玉清！開口也會黃色笑話？！｜黃色笑話集錦15分鐘｜費玉清時間 - 播放時間：15:29。東森綜合台 觀看次數：1,203,4511 個月前
-
-30:21 
-播放下一部立即播放
-
-
-
-【费玉清】小哥费玉清狂甩段子笑喷全场 翻唱TFboys歌曲太惊艳【安徽卫视官方高清】 - 播放時間：30:21。中国安徽电视台 China Anhui TV Official觀看次數：2,432,3238 個月前
-
-3:11 
-播放下一部立即播放
-
-
-
-62歲費玉清不結婚的原因曝光，看哭了所有人！ - 播放時間：3:11。lin yunxiang觀看次數：2,326,0066 個月前
+費玉清再顯「黃帝」神功！讓康康完全無法招架？！｜黃色笑話集錦20分鐘｜費玉清時間 - 播放時間：20:26。東森綜合台 觀看次數：1,207,9101 個月前
 
 54:51 
 播放下一部立即播放
 
 
 
-污！慎入！荤段子boy费玉清 54分钟笑话大合集 - 播放時間：54:51。小阿狸觀看次數：2,218,5421 年前
+污！慎入！荤段子boy费玉清 54分钟笑话大合集 - 播放時間：54:51。小阿狸觀看次數：2,218,6211 年前
 
 12:07 
 播放下一部立即播放
 
 
 
-費玉清開黃腔講「黃段子」，比莉姐當場笑噴淚｜黃色笑話集錦12分鐘｜費玉清時間 - 播放時間：12:07。東森綜合台 觀看次數：524,6832 個月前
-
-8:41 
-播放下一部立即播放
-
-
-
-1996 費玉清 鄧志鴻 模仿毛澤東 蔣經國 陳水扁 - 播放時間：8:41。Nowtstv觀看次數：1,211,5846 年前
+費玉清開黃腔講「黃段子」，比莉姐當場笑噴淚｜黃色笑話集錦12分鐘｜費玉清時間 - 播放時間：12:07。東森綜合台 觀看次數：524,8322 個月前
 
 42:01 
 播放下一部立即播放
 
 
 
-《天籟之戰》費玉清單曲大回顧 The Next【東方衛視官方高清】 - 播放時間：42:01。SMG上海电视台官方频道 SMG Shanghai TV Official Channel 觀看次數：1,043,9976 個月前
+《天籟之戰》費玉清單曲大回顧 The Next【東方衛視官方高清】 - 播放時間：42:01。SMG上海电视台官方频道 SMG Shanghai TV Official Channel 觀看次數：1,044,1196 個月前
+
+8:41 
+播放下一部立即播放
+
+
+
+1996 費玉清 鄧志鴻 模仿毛澤東 蔣經國 陳水扁 - 播放時間：8:41。Nowtstv觀看次數：1,211,6376 年前
 
 24:23 
 播放下一部立即播放
 
 
 
-蔡頭vs小哥爆笑橋段！費玉清時間 EP3｜經典歌曲 - 播放時間：24:23。東森綜合台 觀看次數：378,0184 個月前
+蔡頭vs小哥爆笑橋段！費玉清時間 EP3｜經典歌曲 - 播放時間：24:23。東森綜合台 觀看次數：378,1234 個月前
+
+15:29 
+播放下一部立即播放
+
+
+
+當詹雅雯遇上費玉清！開口也會黃色笑話？！｜黃色笑話集錦15分鐘｜費玉清時間 - 播放時間：15:29。東森綜合台 觀看次數：1,203,7531 個月前
+
+3:11 
+播放下一部立即播放
+
+
+
+62歲費玉清不結婚的原因曝光，看哭了所有人！ - 播放時間：3:11。lin yunxiang觀看次數：2,326,2856 個月前
 
 12:21 
 播放下一部立即播放
 
 
 
-夜来香，一剪梅，千里之外 - 费玉清 Tuberose, A Spray of Plum Blossoms, Thousand Miles Away - Fei Yu-Ching - 播放時間：12:21。Beautiful Music and Culture 2觀看次數：2,289,8571 年前
+夜来香，一剪梅，千里之外 - 费玉清 Tuberose, A Spray of Plum Blossoms, Thousand Miles Away - Fei Yu-Ching - 播放時間：12:21。Beautiful Music and Culture 2觀看次數：2,290,1021 年前
+
+30:21 
+播放下一部立即播放
+
+
+
+【费玉清】小哥费玉清狂甩段子笑喷全场 翻唱TFboys歌曲太惊艳【安徽卫视官方高清】 - 播放時間：30:21。中国安徽电视台 China Anhui TV Official觀看次數：2,432,4898 個月前
 
 
 
@@ -5537,6 +4577,14 @@ PAD 8月のクエストダンジョン 齊齊協 + 白貓project Sharehouse 2角
 
 
 
+
+	
+        USB2514 Full Speed USB 2.0 4 Port Hub Customer Evaluation Board - EVB-USB2514B-FS | Microchip Technology Inc.
+        
+    
+
+
+    
 
 
 
@@ -5561,7 +4609,6 @@ PAD 8月のクエストダンジョン 齊齊協 + 白貓project Sharehouse 2角
 
 
 
-APX Imaging, Inc. | X-ray Film- Full Speed Blue
 
 
 
@@ -5576,6 +4623,7 @@ APX Imaging, Inc. | X-ray Film- Full Speed Blue
 
 
 
+‹
 
 
 
@@ -5584,6 +4632,13 @@ APX Imaging, Inc. | X-ray Film- Full Speed Blue
 
 
 
+Products
+Applications
+Design Support
+Sample and Buy
+About Us
+Contact Us
+myMicrochip Login
 
 
 
@@ -5592,60 +4647,826 @@ APX Imaging, Inc. | X-ray Film- Full Speed Blue
 
 
 
+Microcontrollers and Microprocessors 
 
+8-bit MCUs 
+16-bit MCUs 
+32-bit MCUs 
+32-bit MPUs 
 
 
 
+Analog 
 
 
+Amplifiers and Linear
 
+Amplifiers and Linear Overview 
+Operational Amplifiers 
+Instrumentation Amplifiers 
+Comparators 
+PGA 
+Power/Current Monitors 
 
 
 
- 
+Data Converters
 
+Data Converters Overview 
+Analog-to-Digital Converter 
+Digital Potentiometers 
+Digital-to-Analog Converters 
+Power and Energy Measurement 
+F/V and V/F Converters 
+Power/Current Sensors 
+Voltage References 
 
 
 
+High-Voltage Interface
 
+High-Voltage Interface Overview 
+MOSFETs â€“ Interface 
+Driver Arrays 
+Amplifiers/MEMS Drivers 
+Application Specific 
 
 
+Motor Drivers 
 
+Power Management
 
+Power Management Overview 
+Voltage References 
+Battery Management 
+Charge Pumps 
+System Supervisors/Voltage Detectors 
+LDO Regulators 
+Power MOSFET Drivers 
+Power MOSFETs 
+Hybrid PWM Controllers 
+PWM Controllers 
+Inductorless Offline Switching Regulators 
+Switching Regulators 
+Voltage Detectors 
+Power Modules 
+Power Switches 
+High Voltage Linear Regulators 
 
 
 
+CO and Smoke Detection
 
+CO and Smoke Detector ICs 
+Horn Driver ICs 
 
 
 
+Thermal Management
 
+Thermal Management Overview 
+Local Temperature Sensors 
+Remote Temperature Sensors 
+Fan Controller ICs 
+Thermocouple ICs 
 
+
+
+Ultrasound Products
+
+Ultrasound Product Overview 
+Analog Multiplexers/Switches 
+Beamformer Source Drivers 
+Complimentary MOSFET Arrays 
+Continuous Transmit Pulsers 
+Continuous Wave (CW) Transmitters 
+Transmit/Receive (T/R) Switch ICs 
+Ultrasound MOSFET Drivers 
+
+
+
+
+
+Clock and Timing 
+
+Overview 
+Clock Generation 
+Oscillators 
+Clock and Data Distribution 
+Real-time Clock 
+
+
+
+High-Speed Networking and Video 
+
+Overview 
+Ethernet 
+ARCNET 
+CoaXpressÂ® 
+Fiber Optic Module Chipsets 
+Video Equalizers 
+Video Transceivers 
+Video Sub-Systems 
+Clock and Data Recovery ICs 
+
+
+
+Interface and Connectivity 
+
+CoaXpressÂ® 
+CAN 
+Infrared 
+LIN 
+Serial Peripherals 
+USB 
+
+
+
+
+
+
+
+Display and LED Drivers 
+
+Display and LED Drivers Overview 
+Electroluminescent Backlight Drivers 
+Automotive LED Drivers 
+Backlight LED Drivers 
+General-Purpose LED Drivers 
+Linear Current Regulators 
+Sequential Linear LED Drivers 
+Camera Flash Drivers 
+
+
+
+Embedded Controllers and Super I/O 
+
+Embedded Controllers and Super I/O Overview 
+Desktop and Super I/O 
+Embedded and Keyboard Controllers 
+Expansion and Legacy I/O 
+
+
+
+Programmable Logic 
+
+SPLD/CPLD 
+FPGA 
+FPGA Configuration Memory 
+
+
+
+Memory 
+
+Serial EEPROM 
+Serial EERAM 
+Serial SRAM 
+Serial Flash 
+Parallel Flash 
+Parallel EEPROM 
+OTP EPROM 
+
+
+
+Touch and Gesture 
+
+Touch and Gesture Overview 
+1D Touch â€“ Buttons, Sliders, Wheels 
+2D Touch â€“ maXTouch® - Turnkey    Multi-touch Solutions 
+2D Touch â€“ MCU Based Touch Pads 
+3D Gestures 
+
+
+
+
+
+
+
+Wireless 
+
+Wireless Connectivity 
+Wi-FiÂ® 
+BluetoothÂ® 
+LoRaÂ® Technology 
+MiWiâ„¢ Protocol 
+Sub-GHz 
+zigbeeÂ® 
+Infrared 
+Power Amplifiers 
+802.15.4 
+Sigfox 
+RF Identification 
+IR Control 
+Wireless Audio 
+
+
+
+Smart Energy/Metering 
+
+Overview 
+Metering 
+Power Line Communications 
+Wireless Communications 
+
+
+
+Rad Hard 
+
+Overview 
+Rad Hard ASICs 
+Rad Hard Communication ICs 
+Rad Hard FPGAs 
+Rad Hard Memories 
+Rad Hard Processors 
+Rad Tolerant Devices 
+
+
+
+Security ICs 
+
+Security ICs Overview 
+
+CryptoAuthentication
+
+Overview 
+Geting Started 
+SHA Based 
+ECC Based 
+ECC-AWS IoT Based 
+AES Based 
+
+
+
+Trusted Platform Module
+
+Overview 
+TCG Version 1.2 
+
+
+
+CryptoRF
+
+Overview 
+CryptoCompanion 
+CryptoRF 
+CryptoRF Reader 
+
+
+
+CryptoMemory
+
+Overview 
+CryptoCompanion 
+CryptoMemory (2.7V - 3.6V) 
+CryptoMemory (2.7V - 5.5V) 
+
+
+
+
+
+
+
+
+
+Curiosity Development Board
+
+Your next embedded design idea has a new home. Curiosity is a cost-effective, fully-integrated 8-bit development platform targeted at first-time users, makers and those seeking a feature-rich rapid prototyping board
+
+
+
+
+MCP6V9X
+
+This family of operational amplifiers provides input offset voltage correction for very low offset and offset drift, with a gain bandwidth product of 10 MHz.
+
+
+
+
+DSC6000
+
+The new DSC6000 family is the industry's smallest MEMS MHz oscillator with the lowest power consumption over full frequency range of 2 KHz to 100 MHz.
+
+
+
+
+GigEpack Ethernet Products
+
+ 
+Advanced design techniques ensure reliable operation under extreme conditions while stripping away complexity and advancing ease-of-use, the GigEpack provides three key elements: Certified Products, free drivers and copy-ready evaluation boards, and Microchip’s free LANCheck® design check service. Together, they ensure interoperability, rapid development and robust board design.
+                            
+
+
+
+UTC2000
+
+Microchip's strong brand name and expertise in USB solutions is demonstrated yet again with the UTC2000. We deliver a simple and easy solution to implement the revolutionary USB-C™ connector in practically any consumer, industrial or automotive application.
+
+
+
+
+HV9805
+
+The HV9805 features a PFC boost converter with valley/ZCD switching that reduces system cost by lessening the thermal and optical design requirements. The linear post-regular provides True DC lighting with no flickering and the configurable to SEPIC technology supports lower LED string voltage.
+
+
+
+
+MEC14XX
+
+The MEC14XX family is one of the first to support both the Intel® Corporation’s new Enhanced Serial Peripheral Interface (eSPI) and the existing Low Pin Count (LPC) interface.
+
+
+
+
+SST26WF080B/040B
+
+Manufactured with SuperFlash® technology that provides the industry's fastest erase times, the SST26WF080B (8 Mbit) and SST26WF040B (4 Mbit) are approximately 300 times faster than competitive devices.
+
+
+
+
+MTCH10x: Direct Mechanical Buttons Replacement
+
+In a hardware-only configuration, these 2, 5 and 8 channel capacitive touch controllers replace mechanical buttons with a simple digital output, making it easy to add proximity and touch detection to any application.
+
+
+
+
+RN2903
+
+Long-range and low-power LoRa® Sub-GHz, 915 MHz module for IoT networks.
+
+
+
+
+
+
+
+
+ Aerospace and Defense
+ Audio and Speech
+
+Automotive 
+
+Automotive Solutions 
+Automotive Connectivity 
+Functional Safety 
+
+
+ Battery Management
+ CAN
+ Computing
+
+Displays 
+
+Graphical Displays 
+Segmented LCD 
+
+
+ Embedded Security
+
+Ethernet 
+
+Ethernet Overview 
+Ethernet of Everything 
+USB-to-Ethernet 
+Ethernet Controllers 
+Ethernet Switches 
+Ethernet PHYs 
+EtherCATÂ® 
+
+
+
+
+
+
+ High Temperature
+ Home Appliance
+ Intelligent Power
+ Internet of Things
+ Lighting
+ Low Power
+ LIN
+ Medical
+
+Metering 
+
+Metering Overview 
+Electric Meter 
+Gas, Water and Heat Flow Meters 
+Power Monitoring 
+
+
+
+
+
+
+ Motor Control and Drive
+ Power Monitoring
+ Smart Energy/Metering
+ Smartphone Accessories
+
+Touch and Gesture 
+
+Touch and Gesture Overview 
+1D Touch â€“ Buttons, Sliders, Wheels 
+2D Touch â€“ maXTouch® - automotive and industrial touch screens 
+2D Touch â€“ MCU Based Touch Pads 
+3D Gestures 
+
+
+
+USB 
+
+USB Overview 
+USB Hubs and Devices 
+USB PICÂ® MCUs and dsPICÂ® DSCs 
+
+
+ Wireless Audio
+
+Wireless Connectivity 
+
+Wireless Connectivity Overview 
+Wi-FiÂ® 
+BluetoothÂ® 
+LoRaÂ® 
+MiWiâ„¢ 
+Sub-GHz 
+zigbeeÂ® 
+Infrared 
+Power Amplifiers 
+
+
+
+
+
+
+
+Lower Power High Performance ADC
+
+Microchip is committed to providing military grade products for integration into present and future aerospace and defense sector programs. Our complete portfolio of microcontrollers, power, analog, digital, memory, RF, mixed-signal and interface
+
+
+
+
+PIC32 Bluetooth Audio Development Kit (DV320032)
+
+This kit delivers the hardware and software needed to develop digital audio docking applications with USB or Bluetooth connectivity. Preloaded demo code enables audio streaming via USB or Bluetooth.
+
+
+
+
+OS82150
+
+The OS82150 integrates a coaxial cable driver and coaxial receiver, extending the usage of coaxial cabling to enable powerful automotive infotainment networks based on MOST150 technology.
+
+
+
+
+MCP73871 Fully Integrated Linear Solution
+
+The MCP73871 device is a 1A fully integrated linear solution for system load sharing and Li-Ion / Li-Polymer battery charge management with AC-DC wall adapter and USB port power sources selection. It's also capable of autonomous power source selection between input or battery.
+
+
+
+
+CAN FD Transceiver Family
+
+The CAN Flexible Data Rate (CAN FD) Transceiver family helps CAN systems meet the physical layer requirement for CAN FD systems, and is one of only a few CAN FD transceivers approved by auto OEMs.
+
+
+
+
+MEC14XX
+
+The MEC14XX family is one of the first to support both the Intel® Corporation’s new Enhanced Serial Peripheral Interface (eSPI) and the existing Low Pin Count (LPC) interface.
+
+
+
+
+TC7106A
+
+The TC7106A 3½ digit LCD direct-display drive analog-to-digital converters allow existing TC7106-based systems to be upgraded. Each device has a precision reference with a 20ppm/°C max temperature coefficient. This represents a 4-7 times improvement over similar 3½ digit converters.
+
+
+
+
+PIC24FJ128GB204
+
+The new PIC24F "GB4" family expands Microchip's eXtreme Low Power portfolio and includes an integrated hardware crypto engine with both OTP and Key RAM options for secure key storage, up to 256 KB of Flash memory and a direct drive for segmented LCD displays, in 64-, 100- or 121-pin packages.
+
+
+
+
+LAN9352/LAN9352i
+
+The LAN9352/LAN9352i is a high-performance, small-footprint, full-featured 2-port managed Ethernet switch and is application-optimized for consumer, embedded and Industrial designs.
+
+
+
+
+MCP2561/2 FD
+
+This is a second generation high-speed CAN transceiver that guarantees Loop Delay Symmetry in order to support higher data rates required for CAN FD. Maximum propagation delay was improved to support longer bus length. The device meets the automotive requirements for CAN FD bit rates exceeding 5 Mbps.
+
+
+
+
+Class B Safety Software Library
+
+Microchip has developed a library of low-level software routines and hardware peripherals that simplify meeting IEC 60730 requirements for Class B Safety. Each product family (PIC16, PIC18, PIC24, dsPIC® DSC and PIC32) has functions specifically designed to work efficiently with the available resources.
+
+
+
+
+dsPIC33EP "GS" Family for Digtal Power Applications
+
+This family delivers the performance needed to implement more sophisticated non-linear, predictive & adaptive control algorithms at higher switching frequencies. These advanced algorithms enable power supply designs that are more energy efficient & have better power supply specifications.
+
+
+
+
+WCM and ECM Development Kits
+
+Microchip's WCM (Wi-Fi® Client Module) and ECM (Ethernet Client Module) development kits are designed to enable you to quickly and easily connect an embedded system to a cloud-based server, such as Amazon Web Services (AWS). This will reduce the learning curve and help you get connected to the cloud quickly.
+
+
+
+
+Smart Lights are Better Lights
+
+Microchip's PIC® microcontrollers with intelligent analog integration like the PIC16F176X family make it possible to get advanced features such as digital control to smooth dimming, as well as color temperature tuning, usage-based lifetime prediction and networked communication for monitoring and control.
+
+
+
+
+PIC24FJ256GB412
+
+PIC24F 16-bit microcontroller featuring integrated Hardware Crypto module and eXtreme Low Power. This family also includes 256 KB Flash, 16 KB RAM, USB, LCD and advanced peripherals. The combination of features makes the part ideally suited for low-power embedded security applications.
+
+
+
+
+OS82150
+
+The OS82150 extends the usage of coaxial cabling to powerful infotainment networks based on MOST150 technology.
+
+
+
+
+Is Your Medical Device Design Secured?
+
+Is your medical device design truly secured? Microchip's full line of security products, including MCUs, wireless products and software libraries, can secure your medical device designs from the ground up.
+
+
+
+
+MCP39F511
+
+The MCP39F511 is a highly integrated, single-phase power-monitoring IC designed for real-time measurement of input power for AC/DC power supplies, providing power and energy values. It includes dual-channel delta sigma ADCs, a 16-bit calculation engine, EEPROM and a flexible 2-wire interface.
+
+
+
+
+MCP8026
+
+This is a 3-Phase brushless gate driver with power module & 5 µA (typ) sleep-mode current. It integrates three half-bridge drivers to drive external NMOS/NMOS transistor pairs configured to drive a 3-phase BLDC motor, a comparator, a voltage regulator to provide bias to a companion microcontroller & power monitoring comparators.
+
+
+
+
+dsPIC33EP32MC202
+
+The dsPIC33E family of digital signal controllers (DSCs) features a 70 MIPS dsPIC® DSC core with integrated DSP and enhanced on-chip peripherals. These DSCs enable the design of high-performance, precision motor control systems that are more energy efficient, quieter in operation.
+
+
+
+
+Single-Burner Induction Cooktop Reference Design
+
+This cost-effective single-burner induction cooktop reference design is a fully functional single-burner unit that achieves greater than 90%* efficiency and consumes less than 0.5W power during standby. The user interface implements mTouch® sensing solutions.
+
+
+
+
+Smartphone Accessory
+
+New accessories are emerging in sports/fitness, wellness, financial transactions markets. Microchip's accessory development kits make it easy to development your accessory products with fast time-to-market!
+
+
+
+
+MTCH10x: Direct Mechanical Buttons Replacement
+
+In a hardware-only configuration, these 2, 5 and 8 channel capacitive touch controllers replace mechanical buttons with a simple digital output, making it easy to add proximity and touch detection to any application.
+
+
+
+
+UTC2000
+
+Microchip's strong brand name and expertise in USB solutions is demonstrated yet again with the UTC2000. We deliver a simple and easy solution to implement USB-C in practically any application, whether consumer, industrial, or automotive.
+
+
+
+
+RN2903
+
+Long-range and low-power LoRa® Sub-GHz, 915 MHz module for IoT networks.
+
+
+
+
+
+
+
+
+ New to Microchip?
+
+Development Tools 
+
+Development Tools Overview 
+Demonstration and Evaluation Boards 
+
+Software Tools for PICÂ® MCUs and dsPICÂ® DSCs
+
+Software Solutions 
+MPLABÂ® X IDE 
+MPLABÂ® XC Compilers 
+MPLABÂ® Code Configurator 
+MPLABÂ® Xpress 
+MPLABÂ® Harmony 
+Microchip Libraries for Applications 
+Software Libraries 
+Code Examples 
+Embedded Code Source 
+
+
+
+Hardware Tools for PICÂ® MCUs and dsPICÂ® DSCs
+
+Emulators 
+Emulation Extention Paks 
+Programmers 
+
+
+
+Software Tools for AVRÂ® and SAM MCUs/MPUs
+
+Atmel Studio IDE 
+Data Visualizer 
+Compilers 
+Atmel START 
+MCU Software Library 
+Atmel Gallery 
+
+
+
+Hardware Tools for AVRÂ® and SAM MCUs/MPUs
+
+Debuggers 
+Programmers 
+
+
+
+Design and Simulation Tools
+
+CAD/CAE Symbols 
+SPICE Models 
+MPLABÂ® Mindiâ„¢ Analog Simulator 
+MindiSWLib 
+IBIS Models 
+ClockworksÂ® Configurator 
+BSDL 
+
+
+Third-Party Development Tools 
+
+
+
+Documentation 
+
+Application Notes 
+Data Sheets 
+Erratas 
+Packaging Specifications 
+Programming Specifications 
+Reference Manuals 
+User Guides 
+Product Briefs 
+Migration Documents 
+
+
+
+Training 
+
+Training Overview 
+Developer Help Wiki 
+Webinars 
+Microchip Videos 
+MASTERs Conference 
+Technical Training Center 
+
+
+
+
+
+
+ Forums
+ Design Partner Network
+ Product Change Notification
+
+Quality and Reliability 
+
+Quality 
+Reliability 
+
+
+
+
+
+
+ Technical Support
+
+Software 
+
+Code Examples 
+Embedded Code Source 
+
+
+ Config Tool for Oscillators & Clocks
+
+
+
+
+
+Need Help?
+
+Visit the Microchip forums to get more information on frequently asked questions or to engage with the community. You can pose your own questions and receive feedback.
+
+
+
+
+PICKITâ„¢ 3 In-Circuit Debugger/Programmer
+
+Microchip's PICkit™ 3 In-Circuit Debugger/Programmer uses in-circuit debugging logic incorporated into each chip with Flash memory to provide a low-cost hardware debugger and programmer. In-circuit debugging offers low cost, minimum additional debug hardware and no expensive sockets or adapters
+
+
+
+
+Microchip Forums
+
+Visit the Microchip forums to get more information on frequently asked questions or to pose your own question and receive feedback from the community.
+
+
+
+
+Subscribe to MicroSolutions
+
+MIcroSolutions is a valuable resource that delivers the latest information in each issue with updates on our new products and development tools You will also find design articles on a wide range of topics and learn about some innovative ways Microchip devices are being used.
+
+
+
+
+Subscribe to MicroSolutions
+
+MIcroSolutions is a valuable resource that delivers the latest information in each issue with updates on our new products and development tools You will also find design articles on a wide range of topics and learn about some innovative ways Microchip devices are being used.
+
+
+
+
+Microchip Conferences, Tradeshows and Events
+
+Microchip attends conferences and events around the world, visit our events page to see where we will be exhibiting next.
+
+
+
+
+Microchip in the Press
+
+View our latest announcements on products, corporate news and investor press announcements.
 
 
 
 
 Contact Us
 
-
-1-888-816-2606
-
+If you have questions about products, tools, literature or about content on our website, click here to find out how to contact Microchip.
 
 
 
 
+Subscribe to MicroSolutions
+
+MIcroSolutions is a valuable resource that delivers the latest information in each issue with updates on our new products and development tools You will also find design articles on a wide range of topics and learn about some innovative ways Microchip devices are being used.
 
 
 
 
+Microchip Forums
 
-
-
-Radiomat B-Plus Full Speed Blue Sensitive X-ray Film
-
-
-
-HomeX-ray FilmRadiomat B-Plus Full Speed Blue Sensitive X-ray Film 
+Visit the Microchip forums to get more information on frequently asked questions or to pose your own question and receive feedback from the community.
 
 
 
@@ -5654,6 +5475,132 @@ HomeX-ray FilmRadiomat B-Plus Full Speed Blue Sensitive X-ray Film
 
 
 
+ Global Sales and Distribution
+ microchipDIRECT
+ Samples
+
+
+
+
+ Programming Center
+ Samples FAQ
+ Sales Support
+
+
+
+
+ Find Your Sales Office
+ Getting Started With Microchip Products
+
+
+
+
+
+Subscribe to MicroSolutions
+
+Published six times a year, MicroSolutions is a valuable resource that delivers the latest information to give you a competitive edge and help you meet your design goals. In each issue, you'll get an update on our new products and development tools, find design articles on a wide range of topics and learn about some innovative ways Microchip devices are being used by developers of a variety of applications.
+
+
+
+
+Contact Us
+
+If you have questions about products, tools, literature or content on our website, click here to find out how to contact Microchip.
+
+
+
+
+Microchip Forums
+
+Visit the Microchip forums to get more information on frequently asked questions or to engage with the community. You can pose your own questions and receive feedback.
+
+
+
+
+
+
+
+
+
+Company Information 
+
+About 
+Corporate Overview 
+Acquisitions 
+Notice of Fraudulent Behavior 
+
+
+
+Leadership 
+
+Leadership Overview 
+Board of Directors 
+Appointed Officers 
+
+
+ Investor Relations
+
+Careers 
+
+Careers Overview 
+Microchip's Culture 
+US Benefits 
+Meet Your Recruiter 
+Career Ladder 
+Hiring Process 
+Employee Testimonials 
+
+
+
+
+
+
+
+Media Center 
+
+Press Releases 
+RSS Feeds 
+Microchip Videos 
+
+
+ MicroSolutions Digital Magazine
+ Tradeshows and Events
+ Academic Program
+
+
+
+
+
+Corporate Responsibility 
+
+Corporate Responsibility Overview 
+Ethics and Conduct 
+Sustainability 
+Conflict Minerals 
+Environment 
+Community 
+Products 
+Customers 
+Employees 
+Environmental Health and Safety 
+
+
+
+Legal Information 
+
+Legal Information Overview 
+General Product Legal Information 
+Microchip Trademarks 
+Microchip Patents 
+Website Usage and Limitation of Liability 
+Microchip Terms and Conditions of Sale 
+Privacy Policy 
+Copyrighted Material 
+Procedure for Making a Claim of Copyrighted Infringement 
+
+
+ Export Control Data
+ Contact Us
 
 
 
@@ -5669,31 +5616,42 @@ HomeX-ray FilmRadiomat B-Plus Full Speed Blue Sensitive X-ray Film
 
 
 
-Product ID: Radiomat B-Plus
-Price: Please See Price Table >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+USB2514 Full Speed USB 2.0 4 Port Hub Customer Evaluation Board
+Part Number:
+                    EVB-USB2514B-FS
+
+
+Buyit now
+
 
 
-                    	
-						Sales Tax 7.0% -Purchases Made By Customers Outside The State of Illinois Are Exempt from Illinois State Sales Tax.						
-                    
-
-
-Radiomat B-Plus Full Speed Blue Sensitive X-ray Film
-
-
-100 Sheets Per Box/5 Boxes Per Case
-14×36 Straight:   25 Sheets Per Box/4 Boxes Per Case
-14×36 Tri-Fold:   25 Sheets Per Box/5 Boxes Per Case
-
-Buy 2 or More Boxes of Equal Size & Save 5%
-Free Standard Ground Shipping With Purchase of $70 or More
-
-
- 8x10 $45.00-5% Multi-Box Discount: $42.75Contact Us
- 10x12 $55.00-5% Multi-Box Discount:$52.25Contact Us
- 14x17 $108.00-5% Multi-Box Discount:$102.60Contact Us
- 14x36 Straight $60.00-5% Multi-Box Discount:$57.00Contact Us
- 14x36 Tri-Fold $65.00-5% Multi-Box Discount:$61.75Contact Us
+                                Share
+                             
+                        
+                        
 
 
 
@@ -5701,12 +5659,26 @@ Free Standard Ground Shipping With Purchase of $70 or More
 
 
 
-Request A Quote
 
 
 
 
+The SMSC USB2514 is a Low-Power Full-Featured Full-Speed USB 2.0 compliant hub with four down-stream ports. The EVB-USB2514B-FS Evaluation Board demonstrates a standalone application for the hub. It is designed to robustly demonstrate the unique features of this device using a low-cost PCB implementation with individual port power control. The Evaluation Board is Full-Speed 12Mbits/s and Low-Speed 1.5Mbits/s compatible with self-powered operation available.
 
+
+
+
+Features
+Package Contents
+Host System Requirements
+Related Tools
+Examples
+Optional
+
+
+
+
+The EVB-USB2514B-FS Evaluation Board demonstrates a standalone application for the hub. 
 
 
 
@@ -5719,11 +5691,34 @@ Request A Quote
 
 
 
- 
-
-  
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Documentation & Software
+
+Back To Top
+
+
+
+
+DocumentsLast UpdatedSize EVB-USB2514B-FS_A1 Evaluation Board Schematic, OrCAD3/28/2014 2:39:37 PM847KBEVB-USB2514B-FS_A1 Evaluation Board Bill of Materials3/28/2014 2:38:44 PM132KBEVB-USB2514B-FS_A1  Evaluation Board Schematic, PDF3/28/2014 2:37:57 PM67KBEVB-USB2514B-FS  Evaluation Board User GuideRevA Rev.1.1 (11-30-12)3/28/2014 2:37:41 PM62KBEVB-USB2514B-FS  Evaluation Board Gerber Files3/28/2014 2:37:21 PM627KB
 
 
 
