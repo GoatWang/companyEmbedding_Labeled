@@ -1,0 +1,12181 @@
+
+
+ HANCOM SECURE Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HOME
+KOREAN
+JAPANESE
+
+
+
+
+
+
+
+
+PRODUCT
+
+
+
+Enterprise Key Management
+
+
+Static Code Analyzer
+
+
+DB Encryption
+
+
+SSO/EAM/IM
+
+
+
+
+
+COMPANY
+
+
+
+About Us
+
+
+Business Area
+
+
+Certification
+
+
+Customers
+
+
+Partners
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hancom Secure Inc.
+9FL Hancom Tower, 49 Daewangpangyo-ro 644beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do, 13493, Republic of Korea
+Tel : +82-31-622-6321  Fax: +82-31-622-6277  E-mail: overseas@hsecure.co.kr 
+COPYRIGHT(C) Hancom Secure Inc. ALL RIGHTS RESERVED.
+
+
++ Family site
+HANCOM
+MDS Technology
+HANCOM GMD
+
+
+
+
+
+
+
+
+
+ HANCOM SECURE Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HOME
+KOREAN
+JAPANESE
+
+
+
+
+
+
+
+
+PRODUCT
+
+
+
+Enterprise Key Management
+
+
+Static Code Analyzer
+
+
+DB Encryption
+
+
+SSO/EAM/IM
+
+
+
+
+
+COMPANY
+
+
+
+About Us
+
+
+Business Area
+
+
+Certification
+
+
+Customers
+
+
+Partners
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+PRODUCT
+
+
+Enterprise Key Management
+
+
+Static Code Analyzer
+
+
+DB Encryption
+
+
+SSO/EAM/IM
+
+
+
+Inquiry 
+overseas@hsecure.co.kr+82-31-622-6321
+
+
+
+
+Authentication/Encryption
+ > PRODUCT > Authentication/Encryption
+
+
+
+
+  HancomSecure AnySign for PCMarket leader of PKI encryption and authentication in Korea!Know-How proved by 900 client companies for 17 years
+Overview
+AnySign for PC is a Web encryption solution that performs authentication and encryption/decryption in various OS and browser environments. This non-ActiveX based product satisfies Web standards/Web accessibility/Discrimination Disability Act. 
+ 
+
+Main Features
+
+Security
+
+Is equipped with a national certified encryption module (CMVP)
+Utilizes Native library for important encryption modules 
+Applies Anti-debugging and obfuscation
+
+User Friendliness
+
+Satisfies user friendliness and Web standards by using pure HTML/CSS UIs
+Provides fast loading and no browser restriction 
+Provides separate management per site 
+
+Interoperability 
+
+Interoperates with the present storage media of users (USB, HSM, HDD, etc.)
+Provides interoperability with virtual keypad and keyboard security solutions to protect user inputs
+Accepts the certificates of 5 national certification organizations, EPKI and GPKI, and interoperates with the certification organizations
+
+
+
+
+HancomSecure Express-MultiNon-ActiveX based Web Mail Security Solution that guarantees secure transmission/reception of Web Mail System!
+Overview
+XecureExpress-Multi is a Web standard based Mail Security Solution that guarantees secure transmission and reception of user mail.  The product can guarantee confidentiality and integrity by using symmetric key based mail encryption.
+ 
+
+
+Main Features
+
+Proven Solution
+
+Is equipped with a CMVP module 
+Has been provided for many big client companies, such as public institutions and financial organizations 
+Acquired national CMVP
+
+Reliability 
+
+Provides long term stability by optimizing resource usage 
+Provides restoration and maintenance without losing any data by transmitting a full backup  
+Guarantees high availability through FAQ, CDN, and load balancing in case of system failure 
+
+Efficiency
+
+Supports password based mail data encryption 
+Secures stability by minimizing the usage of user PC resources 
+Allows users to use any browser that supports JavaScript without installing any additional module by providing outputs in HTML 
+Ensures efficiency of system process transmission by minimizing encrypted S/MIME data 
+
+Portability
+
+Provides various APIs that suit different mail transmission systems for stable interoperability with bulk mail transmission systems  
+Supports stable installation and operation by satisfying international secure mail standards  
+Has worked with domestic and international Email solution partners in many installations 
+
+
+
+
+HancomSecure SmartDigital signature and authentication solution for smart devices
+Overview
+XecureSmart is a solution that processes digital signature and section encryption in various smart device environments. It improves security by performing authentication in a smart device after issuing a certificate directly to the device or interoperating with a mobile certificate relay system.
+ 
+
+
+Main Features
+
+Web section encryption and digital signature
+
+Ensures security when transmitting important user information by utilizing section encryption between a Web server and a user terminal  
+Supports various kinds of OS, such as iOS, Android and Window mobile  
+Support hybrid user applications in C/S (Client/Server) and Web environments   
+Acquired global compatibility by complying with national/international security standards  
+Provides non-repudiation and data integrity by using digital signature 
+
+Certification relay system (XecureCertshare)
+
+Provides transmission channel encryption between a PC and a mobile (Ensures stability by using RSA 2048bit or higher)
+Uses a NIS CMVP module
+Supports various kinds of certificate (GPKI/NPKI/MPKI)
+
+XecureKeyPad
+
+Supports security functions that prevent the exposure and falsification of user inputs 
+Prevents the exposure of user inputs by applying the patented “Index-based user authentication tool and principles” 
+Supports the browsers of mobile devices as well as Web types (C/S and Web View) 
+
+
+
+
+HancomSecure AppshieldProtect smartphone apps through smartphone rooting and jailbreaking detection, and counterfeiting/falsification prevention
+Overview
+XecureAppshield is an App counterfeiting/falsification prevention solution that prevents information leakage and the abuse of service through app counterfeiting/falsification detection installed in iphones and android phones.
+ 
+
+
+
+
+
+
+
+
+
+Name
+Functions
+
+
+Client
+- Detects app counterfeiting/falsification- Detects rooting and jailbreaking-	Prevents reversing through code obfuscation (Android : Allatori, iOS: Inline)-	Detects illegal processes through anti-debugging
+
+
+Server
+- Prevents counterfeiting/falsification through app integrity verification- Provides audit logs of illegal accessing from abnormal apps -	Sends SMS and email notifications to administrators and users when detecting counterfeiting and/or falsification- Verifies reliability through mutual authentication between a client and a server
+
+
+Manager Server
+- Provides convenient search functions by allowing various criteria, such as app name, access date, access IP, verification result, etc. from an administrator view- Provides setting and canceling functions for each app id and version- Supports administrator verification process upon app registration- Separates administrating operations that access a management server, and defines operations per user
+
+
+
+
+
+Main Features
+
+Usability
+
+Improves security, performance and usability by implementing functions with a call 
+Provides system establishment within 24 hours when no customizing is needed
+
+Perfect prevention of app counterfeiting/falsification
+
+Detects app counterfeiting/falsification based on server-generated random values and integrity policy  
+Guarantees secure service through security token, code obfuscation (min: Allatori demo version), external process check, etc  
+Ensures omnidirectional security and prevents replay attacks through KDF functions 
+
+Simple management environment
+
+Provides real-time email alarms 
+Provides setting and canceling functions for each app id and version
+Separates administrating operations that access a management server, and defines operations per user
+Supports administrator verification process upon app registration
+Supports dashboards
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+ Hancom Secure Inc.
+9FL Hancom Tower, 49 Daewangpangyo-ro 644beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do, 13493, Republic of Korea
+Tel : +82-31-622-6321  Fax: +82-31-622-6277  E-mail: overseas@hsecure.co.kr 
+COPYRIGHT(C) Hancom Secure Inc. ALL RIGHTS RESERVED.
+
+
++ Family site
+HANCOM
+MDS Technology
+HANCOM GMD
+
+
+
+
+
+
+
+
+ HANCOM SECURE Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HOME
+KOREAN
+JAPANESE
+
+
+
+
+
+
+
+
+PRODUCT
+
+
+
+Enterprise Key Management
+
+
+Static Code Analyzer
+
+
+DB Encryption
+
+
+SSO/EAM/IM
+
+
+
+
+
+COMPANY
+
+
+
+About Us
+
+
+Business Area
+
+
+Certification
+
+
+Customers
+
+
+Partners
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+PRODUCT
+
+
+Enterprise Key Management
+
+
+Static Code Analyzer
+
+
+DB Encryption
+
+
+SSO/EAM/IM
+
+
+
+Inquiry 
+overseas@hsecure.co.kr+82-31-622-6321
+
+
+
+
+Enterprise Key Management
+ > PRODUCT > Enterprise Key Management
+
+
+
+
+ As a
+sponsor member of OASIS and a member of KMIP Technical Committee, 
+Hancom Secure is working in various fields of activity for international key management standards. For more information,  
+
+
+Key Management Interoperability Protocol: 
+
+
+
+
+https://en.wikipedia.org/wiki/Key_Management_Interoperability_Protocol
+
+ 
+
+
+KMIP Implementations known to the KMIP TC:
+
+
+
+https://
+wiki.oasis-open.org/kmip/KnownKMIPImplementations
+
+ 
+
+
+KMIP Interoperability: 
+
+
+
+Hancom Secure participated in the OASIS KMIP Interop at RSA2017 and tested with all participating KMIP servers and clients. 
+
+
+
+
+
+
+
+
+
+HancomSecure KeyManager Server
+HancomSecure KeyManager Client
+
+
+
+
+
+
+Cryptsoft C Client
+Cryptsoft Java Client
+Cryptsoft C# Client
+Cryptsoft C++ Client
+Cryptsoft Python Client
+Fornetix Key Orchestration Client
+Oracle Solaris
+Quintessence Labs qClient
+
+
+
+
+Cryptsoft C Server
+Cryptsoft Java Server
+Fronetix Key Orchestration Server
+HPE ESKM
+IBM SKLM
+Kryptus kNET HSM
+Quintessence Labs qCrypt
+SafeNet KeySecure
+
+
+
+
+
+
+
+
+Hancom Secure Integration testing with the P6R SKC Secure KMIP Client in April 2017 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hancom Secure Inc.
+9FL Hancom Tower, 49 Daewangpangyo-ro 644beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do, 13493, Republic of Korea
+Tel : +82-31-622-6321  Fax: +82-31-622-6277  E-mail: overseas@hsecure.co.kr 
+COPYRIGHT(C) Hancom Secure Inc. ALL RIGHTS RESERVED.
+
+
++ Family site
+HANCOM
+MDS Technology
+HANCOM GMD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MD-Series Mobile Forensic Solution, HancomGMD Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The global B2B marketplace to source Korean products
+Bookmark BuyKOREA
+
+
+Join Free
+Sign in
+my buyKOREA
+FAQ
+about buyKOREA
+
+
+
+
+
+
+
+
+
+For Buyer
+For Seller
+
+
+
+
+
+
+
+
+All
+
+
+
+
+
+
+
+Search
+
+
+All
+Product
+Buying Offer
+Image
+Business Events
+FAQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KOREAN Products
+
+All Products
+Global Business Partnering
+Global Procurement Challenge
+Power-Tech Korea 2017
+Korea Service Market 2017
+Consumer Goods Showcase
+CHINA HIGHWAY Products
+Promising Products
+EU KPP Products
+Power products
+ITS products
+New Products
+Creative Startup Products
+[Team Korea] Products
+World Champ Products
+
+
+Buying Offer
+KOPS Pay
+EMS Shipment
+Business Events
+Video Meeting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Product Category
+
+
+Automobiles & Vehicles 
+
+
+
+													
+												Automobiles 
+
+
+
+													
+												Auto Parts 
+
+
+
+													
+												Motorcycles, Bicycles & Parts 
+
+
+
+													
+												Railway Vehicles & Parts 
+
+
+
+													
+												Elevators & Escalators 
+
+
+
+													
+												Ships, Ocean Structures & Parts 
+
+
+
+													
+												Airplanes & Parts 
+
+
+
+													
+												Spaceships & Parts 
+
+
+
+
+Electronic Components
+
+
+
+													
+												Semiconductors 
+
+
+
+													
+												Electron Tubes 
+
+
+
+													
+												Passive Components 
+
+
+
+													
+												Electro-Mechanical Components 
+
+
+
+													
+												Batteries 
+
+
+
+													
+												Flat-Panel Displays & Sensors 
+
+
+
+													
+												Other Electronic Components 
+
+
+
+
+Chemicals & Pharmaceuticals 
+
+
+
+													
+												Basic Petrochemicals 
+
+
+
+													
+												Petrochemical Intermediate Materials 
+
+
+
+													
+												Materials for Synthetic Fiber 
+
+
+
+													
+												Synthetic Resin 
+
+
+
+													
+												Synthetic Rubber 
+
+
+
+													
+												Other Petrochemicals 
+
+
+
+													
+												Dyestuffs & Pigment 
+
+
+
+													
+												Paint, Varnish & Ink 
+
+
+
+													
+												Adhesives 
+
+
+
+													
+												Surfactants 
+
+
+
+													
+												Photographic/Cinematographic Materials 
+
+
+
+													
+												Agrochemicals & Phamaceuticals 
+
+
+
+													
+												Fine Chemical Materials 
+
+
+
+													
+												Other Fine Chemicals 
+
+
+
+													
+												Nitrogen Fertilizer 
+
+
+
+													
+												Phosphate Fertilizer 
+
+
+
+													
+												Potassium Fertilizer 
+
+
+
+													
+												Compound Fertilizer 
+
+
+
+													
+												Other Fertilizer 
+
+
+
+													
+												Other Chemical Industry Products 
+
+
+
+
+Electronics, Computers & Telecommunication 
+
+
+
+													
+												Wired Communication Equipments 
+
+
+
+													
+												Wireless Communication Equipments 
+
+
+
+													
+												Computers 
+
+
+
+													
+												Industrial Electronics
+
+
+
+													
+												Measurement, Control & Analysis Instruments 
+
+
+
+													
+												Video Devices 
+
+
+
+													
+												Audio Devices 
+
+
+
+													
+												Refrigerators 
+
+
+
+													
+												Home Appliances 
+
+
+
+													
+												Electro-Thermal Appliances 
+
+
+
+													
+												Lighting 
+
+
+
+													
+												Electronic Watches/Clocks & Game Players 
+
+
+
+													
+												ICT Solutions
+
+
+
+													
+												Other Household Appliances 
+
+
+
+
+Minerals, Glass & Ceramics 
+
+
+
+													
+												Gold, Silver & Platinum 
+
+
+
+													
+												Iron Ore 
+
+
+
+													
+												Copper Ore 
+
+
+
+													
+												Aluminum Ore 
+
+
+
+													
+												Tin Ore 
+
+
+
+													
+												Zinc Ore 
+
+
+
+													
+												Nickel Ore 
+
+
+
+													
+												Other Metal Ore
+
+
+
+													
+												Graphite 
+
+
+
+													
+												Salt
+
+
+
+													
+												Kaolin 
+
+
+
+													
+												Limestone 
+
+
+
+													
+												Other Non-Metallic Minerals 
+
+
+
+													
+												Crude Oil 
+
+
+
+													
+												Coal 
+
+
+
+													
+												Petroleum Products 
+
+
+
+													
+												Liquided Petroleum Gas 
+
+
+
+													
+												Uranium 
+
+
+
+													
+												Cement
+
+
+
+													
+												Tiles & Ceramics 
+
+
+
+													
+												Glassware
+
+
+
+													
+												Other Ceramics 
+
+
+
+													
+												Asbestos Products 
+
+
+
+													
+												Mica Products 
+
+
+
+													
+												Other Mineral Products 
+
+
+
+
+Metals & Metal Products 
+
+
+
+													
+												Section Shape Steel 
+
+
+
+													
+												Wire Rod, Bar Steel & Reinforcement 
+
+
+
+													
+												Steel Sheet 
+
+
+
+													
+												Steel Pipes & Steel Wire 
+
+
+
+													
+												Rails & Steel Structures 
+
+
+
+													
+												Steel Containers & Chain 
+
+
+
+													
+												Cast & Forged 
+
+
+
+													
+												Ferroalloy, Pig Iron & Iron Scrap 
+
+
+
+													
+												Semi-Finished Steel Products & Other Steel Products 
+
+
+
+													
+												Aluminum Products 
+
+
+
+													
+												Copper Products 
+
+
+
+													
+												Nickel Products 
+
+
+
+													
+												Magnesium Products 
+
+
+
+													
+												Lead Products 
+
+
+
+													
+												Zinc Products 
+
+
+
+													
+												Tin Products 
+
+
+
+													
+												Tungsten,  Molybdenum & Manganese Products 
+
+
+
+													
+												Other Nonferrous Metal Products 
+
+
+
+													
+												Coins 
+
+
+
+													
+												Nails 
+
+
+
+													
+												Containers 
+
+
+
+													
+												Other Steel & Metal Products
+
+
+
+
+Machinery 
+
+
+
+													
+												Engines, Turbines & Pumps 
+
+
+
+													
+												Conveyors & Load/Unload Machines 
+
+
+
+													
+												Air Conditioners & Coolers/Heaters 
+
+
+
+													
+												Office Machines 
+
+
+
+													
+												Optical Instruments 
+
+
+
+													
+												Textile Machinery & Chemical Instruments 
+
+
+
+													
+												Wood/Mineral/Glass Working Machinery 
+
+
+
+													
+												Metal Working Machinery 
+
+
+
+													
+												Food Processing/Packaging Machinery 
+
+
+
+													
+												Construction & Mining Machinery 
+
+
+
+													
+												Rolling Mills, Welding Machines & Casting Machinery 
+
+
+
+													
+												Paper-Making & Printing Machinery 
+
+
+
+													
+												Agricultural Machinery 
+
+
+
+													
+												Other Industrial Machines 
+
+
+
+													
+												Watches & Clocks 
+
+
+
+													
+												Semiconductor Manufacturing Equipments 
+
+
+
+													
+												Plotters 
+
+
+
+													
+												Surveying Instruments 
+
+
+
+													
+												Flat-Panel Display Manufacturing Equipments 
+
+
+
+													
+												Other Machinery 
+
+
+
+
+Textiles & Leather Products 
+
+
+
+													
+												Leather
+
+
+
+													
+												Leather Products 
+
+
+
+													
+												Synthetic Fiber 
+
+
+
+													
+												Regenerated Fiber 
+
+
+
+													
+												Natural Fiber Yarn 
+
+
+
+													
+												Synthetic Filament Yarn 
+
+
+
+													
+												Synthetic Fiber Spun Yarn 
+
+
+
+													
+												Silk Fabric 
+
+
+
+													
+												Wool Fabric 
+
+
+
+													
+												Cotton Fabric 
+
+
+
+													
+												Synthetic Filament Fabric 
+
+
+
+													
+												Synthetic Staple Fiber Fabric 
+
+
+
+													
+												Knitted Fabric 
+
+
+
+													
+												Other Fabric 
+
+
+
+													
+												Garments & Clothes 
+
+
+
+													
+												Other Textile Products 
+
+
+
+													
+												Fur 
+
+
+
+
+Rubber & Plastic
+
+
+
+													
+												Plastic Products 
+
+
+
+													
+												Rubber Products 
+
+
+
+
+Electric Equipments 
+
+
+
+													
+												Generators & Motors 
+
+
+
+													
+												Static Electric Equipmemts 
+
+
+
+													
+												Renewable Energy
+
+
+
+													
+												Heavy Electric Equipments 
+
+
+
+													
+												Electric Wires 
+
+
+
+
+Mechanical Parts & Tools 
+
+
+
+													
+												Friction Products 
+
+
+
+													
+												Grinding Products 
+
+
+
+													
+												Mechanical Elements 
+
+
+
+													
+												Tools 
+
+
+
+													
+												Dies 
+
+
+
+
+Agriculture & Fishery
+
+
+
+													
+												Cereal & Fruit 
+
+
+
+													
+												Live Plants 
+
+
+
+													
+												Vegetable Matter 
+
+
+
+													
+												Vegetable Materials 
+
+
+
+													
+												Favorite Food 
+
+
+
+													
+												Processed Agricultural Products 
+
+
+
+													
+												Seeds 
+
+
+
+													
+												Other Agricultural/Farm Products 
+
+
+
+													
+												Live Animals 
+
+
+
+													
+												Meat 
+
+
+
+													
+												Animal By-Products 
+
+
+
+													
+												Processed Livestock Products 
+
+
+
+													
+												Animal Hair 
+
+
+
+													
+												Wood & Timber 
+
+
+
+													
+												Tree Seeds 
+
+
+
+													
+												Forest By-Products 
+
+
+
+													
+												Fish 
+
+
+
+													
+												Crustaceans 
+
+
+
+													
+												Mollusks 
+
+
+
+													
+												Seaweed 
+
+
+
+													
+												Fish Meat & Roe 
+
+
+
+													
+												Processed Fishery Products 
+
+
+
+													
+												Fishery By-Products 
+
+
+
+													
+												Other Fishery Products 
+
+
+
+
+Pulp, Paper & Printing 
+
+
+
+													
+												Paper Materials 
+
+
+
+													
+												Paper Products 
+
+
+
+													
+												Books 
+
+
+
+													
+												Periodical Publications 
+
+
+
+													
+												Maps 
+
+
+
+													
+												Other Printouts 
+
+
+
+
+Beauty & Living Ware
+
+
+
+													
+												Umbrellas & Parasols 
+
+
+
+													
+												Bags 
+
+
+
+													
+												Belts 
+
+
+
+													
+												Portable Accessories 
+
+
+
+													
+												Home/Living Ware
+
+
+
+													
+												Nail
+
+
+
+													
+												Cosmetics, Soap & Toothpaste 
+
+
+
+													
+												Flatware Sets 
+
+
+
+													
+												Jewels(Jewelry) 
+
+
+
+													
+												Beauty Accessories 
+
+
+
+													
+												Imitation Jewelry 
+
+
+
+													
+												Wigs & Fake Eyebrows 
+
+
+
+													
+												Other Personal Items 
+
+
+
+
+Furniture
+
+
+
+													
+												Chairs
+
+
+
+													
+												Beds
+
+
+
+													
+												Tables
+
+
+
+													
+												Desks
+
+
+
+													
+												Wardrobes, Dressing Tables & Storage Drawers 
+
+
+
+													
+												Other Furniture
+
+
+
+
+Sports, Hobbies & Toys 
+
+
+
+													
+												Footwear 
+
+
+
+													
+												Piano
+
+
+
+													
+												Strings
+
+
+
+													
+												Wind Instruments 
+
+
+
+													
+												Percussion Instruments 
+
+
+
+													
+												Musical Instrument Parts & Accessories 
+
+
+
+													
+												Other Musical Instruments 
+
+
+
+													
+												Sport Products 
+
+
+
+													
+												Hobbies & Entertainment 
+
+
+
+													
+												Dolls 
+
+
+
+													
+												Riding Toys 
+
+
+
+													
+												Self-Assembly Toys 
+
+
+
+													
+												Other Toys 
+
+
+
+
+Eyewear
+
+
+
+													
+												Eyeglasses 
+
+
+
+													
+												Contact Lens 
+
+
+
+
+Office & School Supplies
+
+
+
+													
+												Writing Supplies 
+
+
+
+													
+												Art & Drafting Supplies 
+
+
+
+													
+												Office Supplies 
+
+
+
+													
+												Other Office & School Supplies 
+
+
+
+
+Gifts & Crafts
+
+
+
+													
+												Artificial Flowers 
+
+
+
+													
+												Shell Crafts 
+
+
+
+													
+												Glass Crafts 
+
+
+
+													
+												Other Crafts 
+
+
+
+													
+												Paintings 
+
+
+
+													
+												Sculptures 
+
+
+
+													
+												Stamps 
+
+
+
+													
+												Antiques 
+
+
+
+													
+												Other Gifts & Crafts 
+
+
+
+
+Health & Medical
+
+
+
+													
+												Health & Medical Devices
+
+
+
+													
+												Health & Medical Supplies
+
+
+
+
+Environment
+
+
+
+													
+												Recycling
+
+
+
+													
+												Water Treatment
+
+
+
+													
+												Waste Management
+
+
+
+													
+												Air quality Management
+
+
+
+													
+												Other environmental products
+
+
+
+
+Others 
+
+
+
+													
+												Other Miscellaneous Products 
+
+
+
+													
+												Engineering, Procurement and Construction
+
+
+
+													
+												Services
+
+
+
+
+SEE ALL CATEGORIES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home > Product Detail
+
+
+
+Others 
+				>
+				
+Other Miscellaneous Products 
+Engineering, Procurement and Construction
+Services
+
+				>
+				
+Other Miscellaneous Products 
+
+
+
+
+MD-Series Mobile Forensic Solution(Pd No. : 3043343)
+(Updated : 10/15/2015)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+product information
+
+
+
+
+
+
+Model Nm
+MD-RED, MD-NEXT, MD-Box, MD-Reader
+
+
+HS CODE
+852349
+
+
+M.O.Q
+1 copy, 1 SET
+
+
+Ceritification
+
+
+
+
+Keywords
+Mobile forensics, Data extraction, Data analysis, Data recovery, Digital forensics, MD-Series
+
+
+Seller ID
+hancomgmd
+
+
+
+
+
+
+Inquiry Now
+Video Meeting
+
+
+
+
+
+
+
+
+
+
+
+Product Description
+Company Information
+Related Business Event
+
+
+MD-Series are Mobile forensic hardware and software bundles
+
+MD-NEXT is the forensic software for the data extraction of mobile devices.
+MD-Extractor S can acquire data from Android devices, iOS devices and Windows phone devices with physical and logical extraction methods. Chip-offed flash memory with MD-Reader, JTAG interfaced mainboard with MD-Box, physical Android image carving by GMD-ROM and other cutting-edge reverse engineering technologies are fused into MD-Extractor S. 
+ 
+MD-RED is the next-generation forensic software for the recovery, analysis and reporting of the extracted data from mobile devices. Mobile data image extracted from MD-Extractor S can be opened in MD-RED program. After selection of partition, directory or apps, the recovery and analysis can be executed to get the evidential information. Finally, all the results of analysis is exported to the forensic reports and can help the investigation of crimes and accidents.
+
+MD-Box is the hardware device for reading data directly from the mainboard of mobile phone using JTAG interface.
+
+MD-Reader is the hardware device for reading data directly from the memory chip detached from the mainboard of mobile phone.
+
+
+
+
+
+Product Description
+Company Information
+Related Business Event
+
+
+
+
+Company Information
+
+
+company information
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Person
+ Jessy Jun
+
+
+Company
+ HancomGMD Inc.
+
+
+Address
+ 5F, HancomTower,49, Daewangpangyo-ro 644beon-gil  Bundang-gu, Seongnam-si
+
+
+Homepage
+
+www.hancomgmd.com
+										
+									
+								
+								
+				  				
+						  			, 
+							  		
+							  		http://seller.buykorea.org/hancomgmd--1004235
+
+
+
+Tel
+ 0316226111
+Fax
+ 0316226112
+
+
+Biz. Type
+ Manufacturing
+Est. Year
+
+								 
+									1997
+								
+								
+								
+
+
+Employees
+ 11~50
+
+
+
+
+
+
+
+
+
+Company Profile
+
+
+Company Profile
+
+
+
+
+
+
+About Company
+
+        							
+          							HancomGMD is the worldwide leading research group of mobile forensics. The company has been dedicated in developing mobile forensic solution covering the widest range of mobile devices running Android, iOS, Windows Phone, and other operating systems. More than 70 national agencies are using MD-series to investigate crimes and accidents. And as the future business roadmap, we are extending our business to new digital forensics like video forensics and document forensics. In 2005, HancomGMD has been merged with Dawintek, which is listd in KOSDAQ(077280) and has become one of Hancom Group.Based on the business infrastructure and an aggressive investment from Hancom Group, HancomGMD is doing its every effort to pioneer the overseas mobile forensic market.As a result, HancomGMD has exported MD-Series into Japan, Hongkong, Singapore and Iran. Moreover, we are expanding the partnership in China and India.
+								
+
+
+Company History
+1997.01 : Dawintek Inc. established2005.05 : Samsung Electronics “ASIC Design Partner” agreement2010.02 : GMDSYSTEM Inc. established2010.10 : Smartphone analysis tool, MD-Smart V1.0 released2010.11 : National Procecutors, Army forece mobile forensics project2011.06 : Acquired the patents on data extraction device and data analysis system2011.08 : Supplied MD-Series to Police agnecies in national wide 16 offices2013.03 : Contracted with Japan AOS technical licensing2014.05 : Exported MD-Series to Iran, Hongkong police2014.11 : Attended World Foresic Festival2015.05 : M&A between Dawintek and GMDSYSTEM, re-listed in KOSDAQ as HancomGMD2015.08 : Contracted with Chinese distribution partner2015.09 : Supplied MD-Series to National Prosecutors offices
+
+
+
+
+
+View all products of this company
+
+
+
+
+Other Products from [ hancomgmd ] (1)
+View all
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+									
+										
+											MD-LIVE·NEXT·MD-RED / MD-MED...
+										
+										
+									
+								
+
+
+
+
+
+
+
+
+
+Product Description
+Company Information
+Related Business Event
+
+
+
+Related Business Event List
+
+
+
+
+
+
+
+(추경) 중남미 민관합동사절단
+
+2015-11-19 ~ 2015-11-30
+
+
+(추경) 중남미 민관합동사절단
+
+2015-11-19 ~ 2015-11-30
+
+
+GSMA Mobile World Congress 2016
+
+2016-02-22 ~ 2016-02-25
+
+
+Korea Service and Content Market 2016 (KSCM 2016) 
+
+2016-10-18 ~ 2016-10-19
+
+
+Korea Service Market 2017
+COEX B2
+2017-06-15 ~ 2017-06-16
+
+
+Global Business Partnering Week
+KINTEX 1 Exhibition Hall 5
+2016-11-30 ~ 2016-11-30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inquiry
+
+
+
+
+- Please leave a detailed inquiry to get an accurate reply from the Korean seller.
+
+
+
+Inquiry Sample
+
+
+
+
+Inquiry
+
+
+
+
+
+
+To
+HancomGMD Inc.
+
+
+CC
+
+ You are able to send one CC-mail ONLY
+
+
+
+Message
+
+
+
+
+
+Price Quote
+
+
+
+
+
+
+
+
+
+SEND
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is buyKOREA?
+buyKOREA Guide
+Terms of Use
+Privacy Policy
+
+
+Copyright (c) 2004 all rights reserved, buyKOREA.org.
+Global B2B e-marketplace, operated by KOTRA, enabling KOPS payment & EMS delivery.
+KOTRA: (06792) 13, Heolleung-ro, Seocho-gu, Seoul, Korea (Tel. +82-1600-7119)
+
+
+
+
+
+KOTRA Family Site
+------------------------
+KOTRA 홈페이지
+KOTRA 해외시장뉴스
+GEP
+Invest Korea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CUSTOMER CENTER
+
+
+FAQ
+Q&A
+
+
+
+
+
+
+QUICK MENU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  077280:KOSDAQ Stock Quote - Hancom GMD Inc - Bloomberg Markets                     
+
+
+
+     Error: Could not add to watchlist. X   + Watchlist  Hancom GMD Inc   077280:KS   KOSDAQ        2,825.00KRW   40.00   1.44%     As of 2:50 AM EDT 8/3/2017     Open   2,750.00    Day Range   2,720.00 - 3,255.00    Volume   208,715    Previous Close   2,785.00    52Wk Range   2,500.00 - 4,550.00    1 Yr Return   6.60%                   
+
+
+                Before it's here, it's on the Bloomberg Terminal.
+            
+
+                Learn More
+            
+
+         Open   2,750.00    Day Range   2,720.00 - 3,255.00    Volume   208,715    Previous Close   2,785.00    52Wk Range   2,500.00 - 4,550.00    1 Yr Return   6.60%    YTD Return   -7.98%    Current P/E Ratio (TTM)   62.99    Earnings per Share (KRW) (TTM)   45    Market Cap (b KRW)   31.728    Shares Outstanding  (m)   11.231    Price/Sales (TTM)   1.85    Dividend Indicated Gross Yield   -        Sector  Industrials   % Price Change +0.03%     Industry Commercial & Professional Services   % Price Change +0.11%                    Related Videos  There are currently no related videos for this ticker. Please check back later.    Company News Press Releases   There are currently no news stories for this ticker. Please check back later.    There are currently no press releases for this ticker. Please check back later.      Profile   Hancom GMD Inc. produces Application Specific Integrated Circuit (ASIC),  which is a customized integrated circuit.  The Company provides product as a electronic component for LCD monitor, cellular phone, and digital information system.    Address  49 Daewangpangyo-ro 644 BeongiBundang-guSeoul, KoreaKorea, Republic of (South)   Phone  82-31-622-6111   Website   www.dawintech.com     Executives Board Members    Kim Sang-Chul  Chairman/CEO    Kim Hyun-Soo  Rep Director    Lee Kyung-Soo  Managing Director    Byun Sung-Jun  Executive Director    Kim Yeon-Su  Executive Director     Show More         
+
+
+
+
+Hyun-Soo Kim - Chief Executive Officer & Director at Hancom GMD, Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      NEWS HOME
+                    
+
+Advertising
+Board and Executive Moves
+Energy
+Health Care
+Hedge Funds
+M & A
+Private Equity
+Technology
+
+
+
+
+
+
+
+
+            You have  
+            
+9 free profiles
+
+              left this month   
+			      
+
+                Start Your Free Trial ➤
+              
+
+
+
+
+
+
+
+
+            Hey, we noticed you're a RelSci Pro subscriber! Would you like to view the page there?
+            
+
+                View on RelSci Pro ➤
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+Google+
+
+
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+
+Reddit
+
+
+
+
+
+Permalink
+
+
+
+
+
+Hyun-Soo Kim
+Chief Executive Officer & Director at Hancom GMD, Inc.
+
+
+
+Overview
+Relationships Paths
+Education Career History Boards & Committees 
+
+
+Hyun-Soo Kim
+Chief Executive Officer & Director at Hancom GMD, Inc.
+
+
+
+ Overview
+
+
+
+Age
+
+
+
+45
+                                  (Born 10/1971)
+                                              
+
+
+
+
+Notable Companies
+
+
+GMD System Co., Ltd.
+
+Hancom GMD, Inc.
+
+
+
+
+Board Seats
+
+
+
+1
+
+
+
+
+
+Number of Relationships
+
+
+
+                This person is connected to 11 people.
+              
+
+
+
+
+
+
+ Relationships
+              See Details
+
+
+
+
+Han-Joon Kim
+
+Former Senior Executive Director & Head-Finance at Hancom GMD, Inc.
+
+
+
+
+Sang-Cheol Kim
+
+President at Hancom, Inc.
+
+
+
+
+
+Gyeong-Rae Kim
+
+Outside Director at Hancom GMD, Inc.
+
+
+
+
+Sung-Jun Byeon
+
+Senior Executive Director at Hancom, Inc.
+
+
+
+
+
+Yeon-Soo Kim
+
+Director & Head-Global Business at Hancom, Inc.
+
+
+
+
+Hae-Dong Lee
+
+President-Korea Office at FLIR Systems Korea Co., Ltd.
+
+
+
+
+
+Chan-Ho Kim
+
+Former Co-Chief Executive Officer & Director at Hancom GMD, Inc.
+
+
+
+
+Jae-Hyeong Heo
+
+Former Director, Vice President & Head-Sales at Hancom GMD, Inc.
+
+
+
+
+
+Gyung-Soon Cho
+
+Former Outside Director at Hancom GMD, Inc.
+
+
+
+
+Seung-Ho Han
+
+Auditor at Hancom GMD, Inc.
+
+
+
+
+
+
+
+See 1 more listing with RelSci Professional.
+
+Start My Free Trial ➤
+
+
+
+
+
+
+
+
+See 1 More 
+
+
+ 
+
+
+ Paths to Hyun-Soo Kim
+
+
+
+            Hyun-Soo Kim          
+
+
+
+
+ You
+
+
+
+ Connections via Relationship Science
+
+
+
+ Hyun-Soo Kim
+
+
+
+
+
+
+Sync your contacts to see how you can connect with Hyun-Soo Kim.
+
+Start My Free Trial ➤
+
+
+
+
+
+
+
+
+See  More 
+
+
+ 
+
+
+ Educational Background
+
+
+
+ 
+
+
+Kyungpook National University
+
+                  The highest value that a university must pursue as a hall of learning, meaning that it strives to seek the truth without hesitation.                
+
+
+
+
+
+ Career History
+
+
+
+Chief Executive Officer
+
+                                    2010 - Current                
+
+
+GMD System Co., Ltd.
+
+
+                  Part of Hancom GMD, Inc., GMD System Co., Ltd. is a South Korean company located in Seoul. The firm operates as computer data restoring service provider. Hyun-Soo Kim is the current CEO, occupying that position since 2010. On 04 Feb 15 Hancom GMD, Inc. acquired GMD System Co., Ltd. for $8.34 million.                
+
+
+
+
+Chief Executive Officer & Director
+
+                                    Current                
+
+
+Hancom GMD, Inc.
+
+
+                  Hancom GMD, Inc. engages in the design, manufacture and sale of integrated circuits. It provides application specific integrated circuit (ASIC) design solution services which include products such as drive controller ICs for plasma display panels (PDPs), timing controller ICs for thin film transistor-liquid crystal displays (TFT-LCD) and digital device ICs for optical mouse sensors. In addition, it also offers system on chip (SoC) design services. The company was founded on January 30, 1997 and is headquartered in Seongnam, South Korea.                
+
+
+
+
+
+ Boards & Committees
+
+
+
+Corporate Boards ▾
+
+
+
+
+Chief Executive Officer & Director
+
+                    Current                  
+
+
+Hancom GMD, Inc.
+
+                    Hancom GMD, Inc. engages in the design, manufacture and sale of integrated circuits. It provides application specific integrated circuit (ASIC) design solution services which include products such as drive controller ICs for plasma display panels (PDPs), timing controller ICs for thin film transistor-liquid crystal displays (TFT-LCD) and digital device ICs for optical mouse sensors. In addition, it also offers system on chip (SoC) design services. The company was founded on January 30, 1997 and is headquartered in Seongnam, South Korea.                  
+
+
+
+
+
+ Other Affiliations
+
+
+
+
+              Hyun-Soo Kim is affiliated with
+                            GMD System Co., Ltd., Hancom GMD, Inc., Hancom GMD, Inc..
+            
+
+
+
+
+You've reached your 10 free profiles limit this month.
+Upgrade to RelSci Pro today to enjoy unlimited article views and much more!
+
+Start My Free Trial  ➤
+
+Still not convinced? Check out our full listing of features here.
+
+
+
+
+
+
+
+
+
+
+
+
+Are you a RelSci Pro Subscriber?
+
+Login to RelSci Pro 
+                        ➤
+
+
+Not a Pro Subscriber? Log in here to manage your alerts
+
+
+
+
+
+
+
+
+
+ Keep me signed in.
+        
+
+Login  ➤
+
+
+
+        Forgot your Password?
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I have read the LexisNexis terms & conditions
+
+
+
+
+Sign Me Up  ➤
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Companies - Electrical and Nuclear equipment- South KoreaㅣKompass Business Directory -
+                    Page 14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Company directory and business data solutions
+
+
+
+About Kompass
+
+
+
+
+
+
+
+                                        Register
+
+
+
+
+
+
+                                        Login
+
+
+
+
+
+
+
+                                                    Login
+×
+
+
+
+                                                    Please fill in your login and password
+
+
+
+
+
+
+
+Register
+Login
+
+
+Forgot your password ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Need advice?
+Please contact one of our team of experts from Monday to Friday between 9am and 5pm or by email
+
+
+
+
++82 2 2200 0800
+
+
+
+
+
+Contact us
+
+
+
+
+
+
+
+
+
+
+
+                    Search across 10.5 million selected companies  in more than  60 countries.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+or
+
+
+
+
+all
+suppliers
+one company
+
+
+
+
+
+
+
+
+
+
+
+Rechercher
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Data Access
+
+
+
+Business solutions 
+Sales leads? Online promotion?
+
+
+EasyBusiness
+Direct Marketing
+EasyList
+
+                                   Digital solutions
+Booster
+Promotional solutions
+Register your company
+
+
+
+
+See all business solutions
+
+Videos & Tutorials
+
+Quizz
+
+
+
+
+EasyBusiness
+Find the right sales leads!
+
+                                With more than 10.5 million companies and 60 search criteria, our global B2B database, EasyBusiness, will help you find the right customer leads and marketing lists.
+Find out more >
+
+
+EasyList
+Need help with finding prospects?
+EasyList is our straightforward on demand tool designed to help you build personalised company lists from a global database of 9 million companies.
+Find out more
+
+
+Direct Marketing
+The precision tool designed to help you find new prospects!
+This powerful tool will help you refine and focus your prospecting activities, with many features to help improve the impact of your sales and marketing campaigns.
+Find out more >
+
+
+Register your company
+Build your free company profile!
+If you are looking to expand into new markets or want to grow your sales activity, then register your company free of charge on the global Kompass B2B directory.
+Find out more >
+
+
+Booster
+Engage your target audience!
+Engage your target audience and attract new business leads using the Kompass.com our global online digital directory. With over 6m visitors per month from 69 countries worldwide, let us improve your SEO and increase your customer traffic.
+Find out more >
+
+
+Promotional solutions
+Attract relevant enquiries!
+Build, enhance and manage your company profile to attract visitors instantly. Use our PPC experts to help drive relevant enquiries through to your profile – cost effective, managed and GUARANTEED.
+Find out more >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electrical and Nuclear equipment - Page 14
+
+
+
+
+
+                    Electrical equipment. Nuclear equipment
+
+
+
+
+
+                        South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+
+Busan (48)
+
+Chungcheongbuk-do (39)
+
+Chungcheongnam-do (77)
+
+Daegu (29)
+
+Daejeon (23)
+
+Gangwon-do (11)
+
+Gwangju (29)
+
+Gyeonggi-do (495)
+
+Gyeongsangbuk-do (27)
+
+Gyeongsangnam-do (40)
+
+Incheon (80)
+
+Jeju-do (1)
+
+Jeollabuk-do (25)
+
+Jeollanam-do (9)
+
+Seoul (360)
+
+Ulsan (9)
+
+
+1
+
+
+
+
+
+
+Electrical, Electronics  & Optical
+
+
+
+
+
+
+
+
+Accumulators, batteries, secondary cells, by use South Korea (53)
+
+Accumulators, batteries and secondary cells South Korea (31)
+
+Antistatic equipment South Korea (5)
+
+Battery chargers South Korea (49)
+
+Busbars South Korea (8)
+
+Capacitors, by use South Korea (12)
+
+Capacitors, fixed South Korea (29)
+
+Capacitors, variable South Korea (8)
+
+Circuit breakers South Korea (33)
+
+Commutator switches South Korea (33)
+
+Components and accessories for electric lighting fixtures South Korea (35)
+
+Components and accessories for fuses South Korea (12)
+
+Components for batteries and accumulators South Korea (7)
+
+Components for electric transformers South Korea (7)
+
+Components for solenoids, reactance and induction coils South Korea (5)
+
+Demagnetising systems South Korea (1)
+
+Display boards, electric South Korea (10)
+
+Earthing equipment South Korea (9)
+
+Electrical industry contractors South Korea (57)
+
+Electrical insulating materials South Korea (6)
+
+Electrical insulators South Korea (7)
+
+
+
+Electrical protection systems NES South Korea (12)
+
+Electric cables, insulated South Korea (55)
+
+Electric cables, insulated, by use South Korea (19)
+
+Electric clamping tools South Korea (1)
+
+Electric conductors South Korea (7)
+
+Electric connectors South Korea (62)
+
+Electric contactors South Korea (16)
+
+Electric controllers South Korea (26)
+
+Electric drilling tools South Korea (4)
+
+Electric fastening tools South Korea (8)
+
+Electric generators South Korea (39)
+
+Electric generator sets South Korea (28)
+
+Electric grinding tools South Korea (2)
+
+Electric lamps South Korea (119)
+
+Electric lamps, by use South Korea (88)
+
+Electric lamps, portable South Korea (34)
+
+Electric lighting equipment, indoor South Korea (47)
+
+Electric lighting equipment, indoor, by type South Korea (43)
+
+Electric lighting equipment, outdoor South Korea (55)
+
+Electric lighting equipment, outdoor, by type South Korea (26)
+
+Electric lighting equipment, security South Korea (32)
+
+Electric plugs and sockets South Korea (38)
+
+Electric power supplies South Korea (100)
+
+Electric regulators South Korea (53)
+
+
+
+Electric relays South Korea (21)
+
+Electric sanding and polishing tools South Korea (3)
+
+Electric sawing tools South Korea (6)
+
+Electric signs South Korea (20)
+
+Electric starters South Korea (9)
+
+Electric substations and switch- boxes South Korea (17)
+
+Electric switches South Korea (65)
+
+Electric tapping tools South Korea (3)
+
+Electric terminals South Korea (14)
+
+Electric tools NES South Korea (3)
+
+Electric wires, insulated South Korea (23)
+
+Electric wires, non-insulated South Korea (11)
+
+Electromagnetic separators South Korea (4)
+
+Electromagnets South Korea (8)
+
+Electromechanical converters South Korea (48)
+
+Fuses South Korea (11)
+
+Grid connecting equipment South Korea (9)
+
+Isolating switches South Korea (6)
+
+Isotopes South Korea (1)
+
+Junction boxes South Korea (6)
+
+Lighting equipment, fibre optics South Korea (28)
+
+Lighting equipment, light emitting diode (LED) South Korea (184)
+
+Machinery and equipment for electrical goods production South Korea (31)
+
+Magnetic and electromagnetic shielding materials South Korea (9)
+
+
+
+Nuclear engineering contractors South Korea (4)
+
+Nuclear engineering plant, installations and equipment South Korea (16)
+
+Nuclear fuels South Korea (1)
+
+Particle accelerator equipment South Korea (11)
+
+Permanent magnets South Korea (21)
+
+Power line cable and wire fittings South Korea (49)
+
+Primary cells South Korea (4)
+
+Reactance and induction coils South Korea (24)
+
+Rectifiers South Korea (15)
+
+Resistors South Korea (21)
+
+Rheostats South Korea (2)
+
+Solenoids South Korea (7)
+
+Spare parts and accessories for electric rotary machines and converters South Korea (14)
+
+Surge arresters South Korea (24)
+
+Switchboards South Korea (27)
+
+Transformer booths South Korea (10)
+
+Transformers and auto-transformers South Korea (48)
+
+Transformers and auto-transformers, by use South Korea (37)
+
+
+1
+2
+3
+4
+
+
+
+
+1323 
+
+                            Companies match your search criteria
+
+
+
+ 
+
+Buy this prospect list
+
+
+
+
+
+x
+
+
+Every month we have millions of visitors on Kompass, looking for companies like yours. Register your company on Kompass and build your FREE company profile to attract those visitors.
+
+
+Register
+
+
+Login
+
+
+Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yaskawa Electric Korea Corp.
+Manufacture & Export of Motion&Controll Inverter RobotManufacture & Export ofServo,Controller,Inverter,RobotManufacture & Export ...
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Daeha Cable Co., Ltd.
+Manufacture & Export of Degaussing Coil TransformerManufacture & Export ofWire Harness,Connector,Cable,Degaussing Coil,Transformer,...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Pacific Metals Co., Ltd.
+Manufacture & Export of Alnico - Cast Magnets - Sintered Magnets - Powder, Bonded Magnets Ferrite - Powder - Wet Type Magnets - Dry ...
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Won Ik Corporation
+Manufacture & Export of Quartz Sector - Quartz - Ceramics Trading Sector - Medical Equipment- Industrial Materials - Lighting ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Myungin Corporation
+Manufacture & Export of Generators, Power Supply
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+ENTEC ELECTRIC & ELECTRONIC CO., LTD
+IntroductionENTEC Electic & Electronic Co., Ltd was established under the goal ofbecoming th world best technology enterprise in the ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+WOOJIN ELECTRIC CO., LTD.
+Manufacture & Export of Amorphous Core(4L5L) Amorphous Core(Evans)Manufacture & Export ofAmorphous CoreManufacture & Export of32801 / ...
+Chungcheongbuk-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Sangwon Electric Co.Ltd
+Manufacture & Export of Circuit Protector Dc Contactor Fuse Holder Trip Coil Assembly Magnatic Contactor Magnatic Switch Circuit ...
+Jeollabuk-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+SUNGHO ELECTRONICS CORP.
+Manufacture & Export of Polyester Film Capapcitor, Noninductive Film Polyester Film,Tin Foil,Adhesive TapeManufacture & Export ofFilm ...
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Ecoenergy Holdings Co., Ltd.
+Manufacture & Export of LED 3D Media Software Hands FreeManufacture & Export ofAudio and visual equipment, Audio and visual equipment,...
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Kyungsung Electric Co., Ltd.
+Manufacture & Export ofSMPS, Sensor, Control Box
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+joongwon electric corp.
+Manufacture & Export of Etching -Auto Section Swictch -Current Limiting Fuse -Cutout Switch -Fuse Link -Glbs -Power Line Fuse -St6 Gas...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+feel industrial engineering co., ltd
+IntroductionHYDRAULIC BREAKER : Silenced type FINE X SERIES can show stronger power in any circumstance with perfect harmony of oil ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+LEDON
+Manufacture & Export of Manufacture of LED illuminations
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+GigaLane.co.,Ltd
+Manufacture & Export of Connectors - Panel Mount - Cable Connectors Adapter Other Components- Dc Blocks - Bias Tees Cable Assembly - ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+LEDST Co., Ltd.
+Manufacture & Export of 1.Plant growth light:Plant growth light can contro 2.High Colour Rendering Index:HCRI means that ligh t is ...
+Jeollabuk-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Hansung Eng Co Ltd
+Manufacture & Export of Industrial Press Transfer Machine Die Casting Coil Winder
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+BIOLIGHT
+Manufacture of Electric Lamps and Bulbs
+Gyeongsangbuk-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+KYONG BO ELECTRIC CO.,LTD.
+Manufacture & Export of Electrical Indicating Instruments, Power Transducer,Protective RelayConverter/InverterManufacture & Export ...
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Emerson Process Management Korea Limited.
+Manufacture & Export of Measurement & Analytical Instruments - Pressure, Temperature, Level,& Flow Measurement - Liquid Analyzers - ...
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+SHIN YOUNG ELECTRIC.CO.,LTD.
+Manufacture & Export of Pole Mounted Transformer Pad Mounted Transformer Power Transformer Distribution Transformer Dry Type ...
+Busan, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+YUWON Ener-Tech
+Manufacture & Export of Manufacture & export of Manufacture and sale of LED Lights and related products.
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+SHIN HWA ELECTRIC WIRE CO., LTD
+Manufacture & Export of Electronics & Electronical PartManufacture & Export ofWier,CableManufacture & Export of32803 / Manufacture of ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+OLT
+Manufacture & Export of[Digital Free Voltage Regulator] Digital Free Voltage Regulator is implemented with DSP chip by using All IGBT ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Eastern Technology Inc.
+Manufacture & Export of1) eCAM/Pro II 2) eCAM/HH 3) eCAM/MP 4) eCAM/SS 5) DATA base
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+SHINHAN PHOTONICS CO.,LTD.
+Manufacture of Spectacle, Photographic Equipment and Other Optical Instruments
+Gwangju, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Cheil Electric Wiring Devices Co., Ltd.
+Manufacture of Electric Motors, Generators and Transforming, Distributing and Controlling Apparatus of Electricity
+Busan, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Ye-eun Tech Co., Ltd.
+Manufacture & Export of Connectors Adaptors Cable Assemblies Passive Components Active Components Cables - Semi-Rigid - Semi-Flexible ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+QLIGHT CO., LTD.
+Manufacture & Export ofQLight is a world-leading provider of visual and audible status indicating systems and solutions since 1992. We...
+Gyeongsangnam-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Prewell Corporation
+Manufacture & Export of Optic Transponder Opic Passive - General Patch Cords - Fixed Attenuator - Variable Attenuator - Single Mode ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Samwon Tech Co., Ltd
+Manufacture & Export of - Temperature & Humidity Controller - Digital Indicator - Programmable Controller - Limit ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Atico Korea Ltd.
+Manufacture & Export of Brass photo frame, Brassware, Cosmetic brush, Plastic tableware, Terra cotta picture frameManufacture & Export...
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+AULT KOREA CORPORATION
+Manufacture & Export of Smps Linear Power Supply - Regulated - Unegulated - Transformers Battery Chargers External Smps Medical Units ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+YUHAN PROTECH CO., LTD
+Manufacture & Export of Automobile Parts - Connectors - Water Proof Connectors Electric/Electronic Parts - Fuse Holder - LCD Back ...
+Incheon, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+SHIN DONG A ELECTRIC CORPORATION
+Manufacture & Export of Rich Series Noble Series Weatherproof World Series New Symphony HomePanel Board Cord Multi-Tap Small Switch ...
+Busan, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+COWELL FASHION Co., Ltd.
+IntroductionPilkor is One of the leading manufacturer of Film Capacitor and MetalFilm Resistor in Korea. The main application is all ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+SangShin ELECOM CO.,LTD.
+Manufacture & Export of Mobile Communication Component - DR Filters - LC Filters - MonoblockFilters - Cavity Filters - Dielectric ...
+Sejong-si, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+HANSHIN ELECTRIC WIRE CO.,LTD
+Manufacture & Export of Tele Communlcation Cable Bare Copper Wire Aluminum Wire Cords Insulated Wire Power Cable Wires For Automobiles...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Han Ju Mool San Co. Ltd.
+Manufacture & Export of Voltage Regulators, Voltage Reducer, Fluorescent Lamp
+Gangwon-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Dong Young Industrial.CO.LTD
+Manufacture & Export of Caliper Piston Solenoid Switch Head Drum Differential Gear Other Forgings Cold forging such as gears and other...
+Daejeon, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Nambu Co., Ltd.
+Manufacture & Export of Vacuum Cleaner Industrial Vacuum Multifunctional air gun Vacuum Gun Hand held air powered vacuum gun ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+For Nature Co., LTD.
+Manufacture & Export of RechargeableBattery Formation&Test System Solution EDLC System Solution Power SupplyManufacture & Export ...
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+MoonMyung Co.Ltd
+Manufacture & Export of - Construction Field - Switch Board Field - Precision Processing Field - Painting FieldManufacture & Export ...
+Daegu, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+TAEIN CO.,LTD
+Manufacture & Export of _ Power Leakage BreakerManufacture & Export ofCircuit BreakerManufacture & Export of32801 / Manufacture of ...
+Chungcheongbuk-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+J.C COM
+Manufacture & Export of _ - Jelly - Fire Stop System - Rope Grease - Swellable Tape - Swellable Yarn - Ferrule - Optical Connector - ...
+Gyeongsangnam-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Ehwa Technologies Information Co., Ltd.
+Manufacture & Export ofRectifier Transfomer Inverter Battery Charger Uninterruptible Power Supply(UPS) Units,Battery Chargers,...
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Daeryuk Technology Ltd.
+Manufacture & Export ofDAERYUK TECHNOLOGY LTD.is the manufacturer of LED display and LED lighting in Korea. We can supply all kinds of...
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+TOPEX
+Manufacture & Export of And - Video Magnifier - Video Presenter - Flex Vision - Overhead Projector - Camscan - Microscopic Projector -...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Phoenix Engineering Co., Ltd.
+Manufacture & Export of Domestic Demand U.S.A Exported Articles Japan Exported ArticlesManufacture & Export ofElectronic Ballast
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+FDC Co., Ltd.
+Manufacture & Export of Rupture disc Rupture disks Explosion panel N2 Blanketing system Emergency relef hatchManufacture & Export ...
+Gyeongsangnam-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Namjunsa Co., Ltd.
+Manufacture & Export ofElectronic Watt hour meter, Static Meter, AMI , OMR, wireless meter reading, Electricity Meter Nam-Jun secure ...
+Gyeongsangnam-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+WINPOWERTECH
+Manufacture & Export ofwind power generator, PMG , wind power turbine, Permanent magnet generator Development and manufacturing of ...
+Busan, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Intelligent Digital Integrated Security Co.. Ltd.
+Manufacture & Export ofWe have state of the art system and equipment to provide the best quality, delivery and condition for our ...
+DAEJEON, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+KI CABLE Co., Ltd.
+Manufacture & Export ofKI Cable was founded in 1981 and has always strived for the best, most advanced products. We invest in R&D, ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+KT&C Engineering Co.,Ltd.
+Manufacture & Export ofKT&C was founded in 1996 and has grown quickly to become a global leader that leads the security and ...
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+INNOCE
+Manufacture & Export ofLED INDUSTRIAL LIGHT, LED FLOOD LIGHT,LED OFFICE LIGHT,LED STREET LIGHT,LED STREET LIGHT,LED LIGHTING Based on ...
+Daegu, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+DPAMS
+Manufacture & Export ofWe, DEPAMS, specialize in manufacturing of Connector Parts, I/C Test Socket Parts, Precision Plastic & Stamping...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+GASUNG PAK CO., LTD.
+Manufacture & Export ofSince established the company on January , 1992, we at Gasung Pak, CO., Ltd., have steadily grown based on our ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+TFO
+Manufacture & Export ofTaihan Fiberoptics is the world leader in optical communication cableand systems industry The company was ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+SAERON STEEL
+Gyeongsangnam-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+SPEEL
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+KEYANG
+Manufacture & Export ofKeyang Electric Machinery was established in 1977. We are pioneers inthe electronic tool industry and are ...
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+FLUXLITE Co., Ltd.
+Manufacture & Export of-Electric lighting equipment, light emitting diode (LED), indoor -Lighting equipment, factory -Electric ...
+Gangwon-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+VITZRO TECH
+Manufacture & Export ofVITZROTECH has a historical tradition of technology. VITZROTECH is a company which is specialized in ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+KTC Tech
+Manufacture & Export ofBattery chargers for mobile telephones
+Gangwon-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+CS Technology Co., Ltd.
+Manufacture & Export of # About company We are leading the LED lighting market after acquiring KS and efficient authentication about ...
+Gyeongsangbuk-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Sion Lighting
+Manufacture & Export ofSion Lighting is a manufacturer of lighting devices that are applied to houses, buildings and hotels. It has ...
+Incheon, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+TECHWON
+Manufacture & Export ofThe Solar Powered LED Street Light and Power LED Street Light becoming a very promising business, we constantly...
+Jeollabuk-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Firstpower Korea
+Gangwon-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+DAE-SHIN ELECTRIC WIRE CO., LTD.
+Manufacture & Export of-Electric wires and cables, insulated (cont'd) -Wire, heat or flame resistant insulated, electric -Wires ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+SUNKWANG
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+bulrandia
+Manufacture & Export of# About bulrandiaOur company is a company that makes light after the current Jeju Island, Japan, to participate...
+Jeju, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+MIRAELED Co., Ltd.
+Manufacture & Export of# About MIRAELED Co., Ltd. MIRAE LED Co., Ltd. was established in February 2008 and acquired ISO 9001, CE, FCC,...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Solar Science
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+FA Inc.
+Manufacture & Export of # About FA Inc. We are manufacturer of Alcohol Swab, Alcohol Tissue and First Aid Kit in Korea. We provides ...
+Chungcheongnam-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+SEOJEON ELECTRIC MACHINERY CO..LTD.
+Manufacture & Export ofCerebro is the best supportive partner for you to make a good business portfolio for your auto parts business. ...
+GYEONGGI-DO, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+LIG Special Purpose Acquisition 2nd Co.. Ltd.
+SEOUL, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+FASOO.COM Co.. Ltd.
+Manufacture & Export ofWe're a leading producer & exporter of plastic bag making machines inKorea since 1986. We're making 3...
+SEOUL, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Wooyoung
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+SOLAR TECH
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+BITKOR
+Manufacture & Export of LED Lantern BITKOR has been produced high quality Lanternproducts such as LED Lantern, Emergency LED Light, ...
+Daejeon, South Korea
+
+
+
+
+
+
+
+
+1
+
+...
+
+5
+
+
+10
+
+
+12
+
+
+13
+
+
+14
+
+
+15
+
+
+16
+
+
+17
+
+
+
+                                        Back to top
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other activity and region match your search criteria
+
+
+
+
+
+
+Activity sectors list
+
+
+
+
+
+Electrical equipment. Nuclear equipment South Korea (467)
+
+Electronic equipment. Telecommunications equipment South Korea (1983)
+
+Measuring and testing equipment South Korea (830)
+
+Optical, photographic and cinematographic equipment South Korea (460)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				                Frequent updates ensuring high quality data
+
+
+
+
+
+
+                                    Secure online payment
+
+
+
+
+
+
+                                Help with expert advice
+
+
+
+
+
+
+    	            			Dedicated customer service team
+
+
+
+
+
+
+
+
+
+
+
+
+
+Need advice?
+
+
+
+
++82 2 2200 0800
+
+
+
+
+
+Contact us
+
+
+
+
+
+Join us
+Follow our latest news on social media
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    STMicroelectronics N.V. - Strategy and SWOT Report
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Login -
+  My basket -
+  
+
+
+
+
+EUR GBP 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+STMicroelectronics N.V. - Strategy and SWOT Report
+
+December 2015
+41 pages
+MarketLine
+        
+
+Report ID: 3695896
+
+
+
+Summary
+Table of contents
+Search Inside
+
+
+IntroductionSTMicroelectronics N.V.  - Strategy and SWOT Report, is a source of comprehensive company data and information. The report covers the company’s structure, operation, SWOT analysis, product and service offerings and corporate actions, providing a 360? view of the company.Features: - Detailed information on STMicroelectronics N.V. required for business and competitor intelligence needs - A study of the major internal and external factors affecting STMicroelectronics N.V. in the form of a SWOT analysis - An in-depth view of the business model of STMicroelectronics N.V. including a breakdown and examination of key business segments - Intelligence on STMicroelectronics N.V.’s mergers and acquisitions (M&A), strategic partnerships and alliances, capital raising, private equity transactions, and financial and legal advisors - News about STMicroelectronics N.V., such as business expansion, restructuring, and contract wins - Large number of easy-to-grasp charts and graphs that present important data and key trendsHighlights:STMicroelectronics N.V. (STMicroelectronics or “the company”) is a semiconductor company that designs, develops, manufactures and markets a range of semiconductor products. Its key products include automotive, microcontrollers, smart power, digital consumer and micro-electro-mechanical systems (MEMS) and sensors. The company primarily operates in the US, Europe and Asia. It is headquartered in Geneva, Switzerland and employed about 43,620 people as on December 31, 2014.  The company recorded revenues of $7,404 million during the financial year ended December 2014 (FY2014), a decrease of 8.4% as compared to FY2013. The operating profit of the company was $168 million in FY2014, as compared to an operating loss of $465 million in FY2013. The net profit of the company was $128 million in FY2014, as compared to a net loss of $500 million in FY2013.Reasons to Purchase: - Gain understanding of STMicroelectronics N.V. and the factors that influence its strategies  - Track strategic initiatives of the company and latest corporate news and actions  - Assess STMicroelectronics N.V. as a prospective partner, vendor or supplier - Support sales activities by understanding your customers' businesses better - Stay up to date on STMicroelectronics N.V.’s business structure, strategy and prospects
+	
+
+		Company OverviewBusiness DescriptionHistoryKey Employees and BiographiesCompany ViewLocations and SubsidiariesSWOT AnalysisRevenue AnalysisKey CompetitorsMajor Products and Services
+	
+
+
+
+
+
+
+
+            Loading...
+          
+
+
+            We are very sorry, but an error occurred.
+            Please contact support@reportbuyer.com if the problem remains.
+          
+
+
+
+
+
+
+
+
+
+Immediate delivery
+
+
+
+
+
+
+              $ 175 - 1 User License
+              
+
+              $ 350 - Site License
+              
+
+              $ 525 - Corporate License
+              
+
+
+
+
+Get Report
+Pay by invoice
+Get a quote
+
+
+
+ Veronica helps you find the right report:
+
++1 718 213 4904
+Contact by email
+
+
+
+
+FAQ
+
+Delivery time
+User license
+Payment options
+
+
+
+Testimonials
+
+
+
+
+
+
+
+The market research advisor answered my questions quickly and professionally. ReportBuyer's team did their best to ensure that I felt comfortable before making the investment to purchase the report.
+
+
+Cristian Nunez
+          Director of Corporate Development Chugach Alaska Corporation
+        
+
+
+
+My overall experience with ReportBuyer today has been very positive, and I must thank you for your patience (...). Also, the sample you sent me and the explanations provided were very helpful.
+
+
+D. Lescuyer
+          Executive Vice President Oral Business at Skyepharma
+        
+
+
+
+The research specialist was very helpful, and proposed the best content for my needs.
+ReportBuyer also offered a great follow-up, thanks for everything !
+
+
+P. Thompson
+          EMEA Managing Director
+        
+
+
+
+We were satisfied with the support that ReportBuyer's team provided. Thanks to their recommendations, the report we purchased provided exactly what we want.
+
+
+Y. Wang
+          Business Analyst
+        
+
+
+
+We didn't have time to do the research internally, and thanks to ReportBuyer's team we were able to find the appropriate data.
+
+
+S. Chen
+          Research Coordinator
+        
+
+
+
+I was impressed by the customer service: it was fast, responsive, and 100% professional !
+
+
+D. Krivan
+          Market Research Analyst
+        
+
+
+
+The research specialist provided prompt and helpful service. He also followed up to ensure I had all the information to deliver my business development plan.
+
+
+C. Adams
+          Senior Business Development Manager
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Our reports have been used by over 10K customers, including:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related reports and data
+
+
+
+
+
+
+            Topics
+                            related to
+                                        
+        Semiconductor
+    
+
+
+
+
+        Active Component
+    
+
+
+
+        Diode
+    
+
+
+
+        Electronic Component
+    
+
+
+
+        Electronics Manufacturing
+    
+
+
+
+        LED
+    
+
+
+
+        Microchip
+    
+
+
+
+        Optoelectronics
+    
+
+
+
+        Printed Circuit Board
+    
+
+
+
+        Sensor
+    
+
+
+
+        Transistor
+    
+
+
+
+
+
+
+            Parent Industry        
+
+
+Electronics Manufacturing
+
+
+
+
+
+
+
+            Related Industries
+        
+
+
+Electrical Equipment
+
+
+Furniture Manufacturing
+
+
+Industrial Equipment
+
+
+Metal Manufacturing
+
+
+Packaging
+
+
+Printing
+
+
+Publishing
+
+
+Shipbuilding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Advantest Corporation, Wright Investors' Service
+                
+
+ 90
+ 99
+ 77
+
+                                    68 pages •
+                                By Wright Investors' Service 
+                •     Aug 2017
+
+            
+
+
+                                                    A textual analysis of the financial results for Advantest Corporation  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company, including contact...
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    New Japan Radio Company Limited
+                
+
+ 90
+ 99
+ 77
+
+                                    68 pages •
+                                By Wright Investors' Service 
+                •     Aug 2017
+
+            
+
+
+                                                    A textual analysis of the financial results for New Japan Radio Company Limited  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company, including...
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Ccs Incorporated
+                
+
+ 90
+ 99
+ 77
+
+                                    68 pages •
+                                By Wright Investors' Service 
+                •     Aug 2017
+
+            
+
+
+                                                    A textual analysis of the financial results for Ccs Incorporated  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company, including contact information,...
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Daitron Co Ltd
+                
+
+ 90
+ 99
+ 77
+
+                                    69 pages •
+                                By Wright Investors' Service 
+                •     Aug 2017
+
+            
+
+
+                                                    A textual analysis of the financial results for Daitron Co Ltd  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company, including contact information,...
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Amazing Microelectronic Corp
+                
+
+ 90
+ 99
+ 77
+
+                                    66 pages •
+                                By Wright Investors' Service 
+                •     Aug 2017
+
+            
+
+
+                                                    A textual analysis of the financial results for Amazing Microelectronic Corp  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company, including...
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Satori Electric Co., Ltd.
+                
+
+ 90
+ 99
+ 77
+
+                                    68 pages •
+                                By Wright Investors' Service 
+                •     Aug 2017
+
+            
+
+
+                                                    A textual analysis of the financial results for Satori Electric Co., Ltd.  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company, including contact...
+                                            
+
+
+
+
+
+More…
+
+
+
+
+
+        Industry=ElectronicsManufacturing ParentIndustry=Manufacturing Date=201512 Topic=SWOTAnalysis Publisher=MarketLine Price=1000
+    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+            Companies - Electrical, Electronics & Optical ㅣKompass Business Directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Company directory and business data solutions
+
+
+
+About Kompass
+
+
+
+
+
+
+
+                                        Register
+
+
+
+
+
+
+                                        Login
+
+
+
+
+
+
+
+                                                    Login
+×
+
+
+
+                                                    Please fill in your login and password
+
+
+
+
+
+
+
+Register
+Login
+
+
+Forgot your password ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Need advice?
+Please contact one of our team of experts from Monday to Friday between 9am and 5pm or by email
+
+
+
+
++82 2 2200 0800
+
+
+
+
+
+Contact us
+
+
+
+
+
+
+
+
+
+
+
+                    Search across 10.5 million selected companies  in more than  60 countries.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+or
+
+
+
+
+all
+suppliers
+one company
+
+
+
+
+
+
+
+
+
+
+
+Rechercher
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Data Access
+
+
+
+Business solutions 
+Sales leads? Online promotion?
+
+
+EasyBusiness
+Direct Marketing
+EasyList
+
+                                   Digital solutions
+Booster
+Promotional solutions
+Register your company
+
+
+
+
+See all business solutions
+
+Videos & Tutorials
+
+Quizz
+
+
+
+
+EasyBusiness
+Find the right sales leads!
+
+                                With more than 10.5 million companies and 60 search criteria, our global B2B database, EasyBusiness, will help you find the right customer leads and marketing lists.
+Find out more >
+
+
+EasyList
+Need help with finding prospects?
+EasyList is our straightforward on demand tool designed to help you build personalised company lists from a global database of 9 million companies.
+Find out more
+
+
+Direct Marketing
+The precision tool designed to help you find new prospects!
+This powerful tool will help you refine and focus your prospecting activities, with many features to help improve the impact of your sales and marketing campaigns.
+Find out more >
+
+
+Register your company
+Build your free company profile!
+If you are looking to expand into new markets or want to grow your sales activity, then register your company free of charge on the global Kompass B2B directory.
+Find out more >
+
+
+Booster
+Engage your target audience!
+Engage your target audience and attract new business leads using the Kompass.com our global online digital directory. With over 6m visitors per month from 69 countries worldwide, let us improve your SEO and increase your customer traffic.
+Find out more >
+
+
+Promotional solutions
+Attract relevant enquiries!
+Build, enhance and manage your company profile to attract visitors instantly. Use our PPC experts to help drive relevant enquiries through to your profile – cost effective, managed and GUARANTEED.
+Find out more >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electrical, Electronics & Optical
+
+
+
+
+                                    One of the most remarkable success stories of South Korea’s industrialization has been the electronics industry. Along with South Korea’s economic growth, demand for electricity sees CAGR of 8% over 2007-2012, reaching Won47.5 trillion. Nuclear energy produces 30% of country’s electricity with further prospects for growth, as it remains the best alternative in terms of cost and carbon footprint ratio for natural resources-deprived South Korea. Total sales of consumer electronics returned to positive volume growth in 2015, after declines in the previous three years. Wearable electronics, OLED TVs and Windows-based tablets displayed impressive growth rates in 2015. These product groups are expected to lead volume growth during the forecast period. Volume sales of consumer electronics are expected to grow over the forecast period. Based on their recent development pace and the potential demand, growth is expected to accelerate over the coming years. Electrical equipment and Optical business for engines and vehicles market in South Korea also have had a strong performance of domestic automotive manufacturing industry.Kompass Business DirectoryWith over 3,800 South Korean companies registered in the Kompass B2B worldwide database, the Electrical, Electronics & Optical sector represents large activity sectors within our database. This family includes nuclear, telecommunication, testing, measuring, and photographic erumpent, etc.
+
+More
+Reduce
+
+
+
+
+
+                    Electrical, Electronics  & Optical
+
+
+
+
+
+                        South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+
+Busan (96)
+
+Chungcheongbuk-do (81)
+
+Chungcheongnam-do (232)
+
+Daegu (102)
+
+Daejeon (95)
+
+Gangwon-do (35)
+
+Gwangju (50)
+
+Gyeonggi-do (1303)
+
+Gyeongsangbuk-do (75)
+
+Gyeongsangnam-do (79)
+
+Incheon (221)
+
+Jeju-do (1)
+
+Jeollabuk-do (43)
+
+Jeollanam-do (19)
+
+Seoul (1229)
+
+Ulsan (19)
+
+
+1
+
+
+
+
+
+
+
+
+Electrical equipment. Nuclear equipment South Korea (1323)
+
+Electronic equipment. Telecommunications equipment South Korea (1983)
+
+Measuring and testing equipment South Korea (830)
+
+Optical, photographic and cinematographic equipment South Korea (460)
+
+
+
+1
+
+
+
+
+3757 
+
+                            Companies match your search criteria
+
+
+
+ 
+
+Buy this prospect list
+
+
+
+
+
+x
+
+
+Every month we have millions of visitors on Kompass, looking for companies like yours. Register your company on Kompass and build your FREE company profile to attract those visitors.
+
+
+Register
+
+
+Login
+
+
+Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hippo LED
+LED, Fixture, Linear Lighting Fixture, Light, Linear Light, Floodlight, Panel, Panel Light, Ceiling Light, Light Fixture, Downlight, ...
+Incheon, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 32 899 5065
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TAE YOUNG PRECISION M/C
+heavy duty industrial gearing, worm reducer, worm gear, worm reducer,double work reducer, bevel reducer, steel mill spiral bevel gear,...
+Incheon, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 32 584 9033~6
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+East Sea Corporation
+Tuyere mornitoring system, Supamic filter, Mill scale Plant,industrial filters,filter bag,filtration process,mill scale,hydraulic ...
+Gyeongsangbuk-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 54 282 0151
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+J-One Co., Ltd.
+Box coder, INK-JET Printer, XAAR HEAD, oil base ink, HP cartridge, INK-JET Marking, solvent ink, water base ink, TIJ printer,DOD type ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 31 458 9300
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SunJe Hi-Tek Co., Ltd.
+Manufacture & Export ofx-ray tube, x-ray ionizer, x-ray production, x-ray tube parts, x-ray tube components, ego blower, cordless snow...
+Busan, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 51 720 7500
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DAE SUNG E.N.G
+control panel, vortex cooler, cabinet fan, windows control panel, cabinet cooler, cabinet cooling fan, cabinet cooling system, ...
+Busan, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 51 819 0425
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sam Myung Tech
+Electric Under Floor Heating System, Under Floor Heating System, Under Floor Heating, Floor Heating, Electric Heating, Heating Pipe, ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 31 768 4121
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Masang Machinery Co., Ltd.
+Mold Temperature Controller, MTC, Chiller, Mold Preheating, Scale-Free Equipment, Scale-Free Soft Water Feeder, High Speed Cycle ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 31 456 7353
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LINKOPTICS Corp.
+medical devices, medical instruments, medical machines, skin care devices, skin care machines, skin care instruments, optics-based ...
+Gwangju, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 062 971 5664
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INA Inc.
+defroster, mult-microwave, multi function microwave oven, microwave oven, built in microwave, convection microwave, best microwave ...
+Gwangju, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 62 951 9371
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KAITECH Inc
+Manufacture & Export of# Company Information KAITECH which develops advanced and inventive automotive products focused on advanced ...
+Jeollabuk-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 63 214 9747
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sambo Hitech Co., Ltd.
+CCTV camera, Security camera, Network camera, IP camera, Dome camera,Vandalproof camera, box camera, Bullet camera, IR camera, ...
+Incheon, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 32 863 3300
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bitek Technology Inc.
+Laser label cutter, portable laser cutter, desktop laser cutter, tabletop laser cutter, small laser cutter, laser die cutting, die ...
+Incheon, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 70 4035 4565
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hieltec Co., Ltd
+backup camera, rear view camera, wireless backup camera, backup camera system, aftermarket backup camera, car reverse camera, backup ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 31 451 2314
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INMOK CO., LTD.
+Real Wood Case, Mobile Phone Case, Ring Stand, Ring holder, Smartphone Accessories, Wireless Accessories, Wood Accessories, Unique ...
+Incheon, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 32 819 2450
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Seki Controls Co., Ltd.
+Introduction# Company InformationWe, at SEKI CONTROLS CO., LTD., specializein manufacturing bimetallic thermal protector and ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 31 493-2900
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Daijin Elesys
+ACB. ATS, AISS, LBS, Switch Gear, construction materials, switch, acb, circuit breaker, load break switch, auto transfer switch, ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 31 451 5355
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dongyoung Media co.,Ltd
+Kitchen TV, Bathroom phone, Kitchen IoT, Digital door lock, door lever, Smart door lock, Bluetooth door lock. Finger print recognition...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 31 458 1121
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Myungshin Medical Co., Ltd
+Diet, Fat down, Pain relief, Weight control, Relieve Stress, diet, pain relief, relieve stress, weight control, fat down, weight loss,...
+Gwangju, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 62 971 8056
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICEPIPE Corporation
+Electrical LED lamps, lighting equipment, light emitting diode, LED, Electric lighting equipment, indoor Lamps with light emitting ...
+Seoul, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 2 861 0010
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MU SOLVERS CO., LTD.
+speakers, horn speaker, ceiling speaker, lucid, LUCID speaker, bluetooth speakers, surround sound systems, wireless bluetooth speakers...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 70 7435 8531
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AVA Vision Inc.
+sensor, intuit, display, sensor, signage, lightbox, touch lamp, touchscreen monitor, motion sensor, digital signage, led signs, ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 31 4433311
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Servan Co., Ltd.
+Manufacture of General Purpose Machinery
+Busan, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 51 831 7676
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hansung Industry
+pump, submersible pump, industrial pumps, large scale pump, water pump, submersible water pump, sump pump, submersible well pump, ...
+Jeollabuk-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 63 441-9127
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ELCOMTECH Co., Ltd.
+Manufacture & Export ofit,digital convergence,innovation,receiver,cpu,transmitter,broadcast operator,data broadcasting it convergence,...
+Daejeon, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 42 824-0120
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NRTEC Co., Ltd.
+# Info NRTEC specializes in the design and manufacturing of gas turbine generator system as well as silencers for power plants and ...
+Gyeongsangnam-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 55 313 4567
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PKFC Co.,Ltd
+Manufacture & Export ofArrayautomobile parts, electronic parts, structure-fixing products including Chassis, ENG, Bumper, and Power ...
+Incheon, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 32 815 7540
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i2A Systems
+Manufacture & Export ofsmart factory, iot based solutions, wearable device, sensor, ion battery, electronics, sensor, IoT based ...
+Daejeon, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 42 864-1205
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SJINNO TECH Co., Ltd
+slide conveyor,innotech pcb,smt ,smt screen printer,screen printe,gate conveyor,sj innotech,cooling conveyor,Screen Printer, SMT, ...
+Daegu, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 70 5012 9707
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NULSOM INC.
+Manufacture & Export ofsmart factory, iot based solutions, wearable device, sensor Ion battery, electronics, ESP32, WiFi, Bluetooth, ...
+Daejeon, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 42 710 2580
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suin System
+SMD CHIP SAMPLE KIT MANUFACTURE, Chip Resistor Assortment Kit, register, chip register kit, smd register kit #Main ProductsSMD SMT ...
+Incheon, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 32 8741020
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+W&P KOREA
+Agitator, Heavy Duty Sewage Pump, High-head Sewage Pump, Sewage Vortex Pump #Company Introduction WATER & PEOPLE KOREA, anenterprise ...
+Incheon, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 32 8113378
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OPTOLOGICS CO., LTD
+ZOOM LENS, ZOOM CAMERA MODULE, FIXED LENS, INTRA ORAL AF SYSTEM, FIXED CAMERA, IR ZOOMING ILLUMINATOR, VIDEO MAGNIFIER, DRONE, IMAGE ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 70 7864439
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Costech Inc.
+short circuit, infrared camera, wireless rear view camera, assistant parking, backup camera, rear view camera, wireless backup camera,...
+Jeollabuk-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 63 4681669
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JY Technology Inc.
+Arc power supply, Linear Ion source, sputter cathode, sputter magnetron, circular arc cathode, rectangular arc cathode , Plasma source...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 31 4272292
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GOT.,Co.Ltd.
+fiber cable, optical fibre cable, korean optical cable, korean optical fiber cable, optical cable, fiber optic cable, fiber optic, ...
+Jeollanam-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 62 4336000
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JAEWON Co., Ltd
+Stages, Precision positioning Stage, Positioning stage, Precision Stage, High Precision Stage, Linear Stage, Translation stage, Manual...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 31 4777333
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dae-Gyoung Industrial electronics
+Photovoltaic system, distributing board, motor control board, panel board, Renewable Energy, Solar energy generation system, Energy ...
+Jeollabuk-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 63 2149911
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MIDC OF HANBAT NATIONAL UNIVERSITY
+# MIDC introduction The manufacturing Innovation Development Corporation of Hanbat National University (MIDC) was launched Aug 2015. ...
+Daejeon, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 42 939 4732
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DAEGYEONG AT
+rov,terminal partrevolt,wire connectors,ac compressor,fha,cable connectors,battery terminal,regulator,social housing,underwater drone,...
+Gwangju, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 62 973 8185
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASIA Co.,Ltd.
+fences, wire fence, mesh fence, flower fence, flower mesh fence, fencing, fence panels, garden fencing, garden fence, vinyl fencing, ...
+Jeollabuk-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 63 263 8250
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NORMA
+Security, Wireless, IoT, Internet of Things, Substitutional goods of WIPS,Vulnerability, Scanner, AtEar, NORMA, MoVi, Mobile Vaccine, ...
+Seoul, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 2 923 1988
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thebit
+Manufacture & Export of# Company Information TheBit is a company that was founded in 2004 by engineers from Samsung Electronics. ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 2 862 0485
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ecube Labs Co., Ltd.
+# Company Introduction Ecube Labs provides a complete waste management solution, consisting of Clean CUBE (solar-powered waste ...
+Seoul, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 21090293
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PHOTONICS TRADE GROUP CORP.
+Ceiling lights, high CRI, architectural led lighting, luxury led lighting, retail led light, mill-works lighting, chandelier, pendant ...
+Gwangju, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 62 236 2050
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DaehanCVD Co.,Ltd.
+Manufacture & Export ofball valve, check valve, globe valve, swing check valve, angle valve ,valve, foot valve, ball valve ...
+Chungcheongbuk-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 43 267 0849
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jiscop Co., Ltd.
+ceramic bracket, sapphire bracket, mono-crystal sapphire bracket, metal bracket, beetle, buccal tube, archwires(NiTi superelastic, SS,...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 31 452 2808
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HYUNSUNGAUTOTECH.CO.LTD
+ramen cooker, noodle cooker, automatic induction cooker, induction cooktop, induction stove, induction cooker, induction cookware, ...
+Jeollanam-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 62 9426259
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUNG HYUN CO.,, LTD.
+vessel, heater, fabrication, feedwater heater, steam generator boiler, preheating the feed water, steam generator, steam boiler, water...
+Jeollabuk-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 063 4641110
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONOTEC CO., LTD.
+digital temperature controller, pid temperature controller, temperature controllers, co2 generator, temperature transmitter, ...
+Busan, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 70 7815 8289
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GA Co,. Ltd
+LED Street light, LED Security light, LED Tunnerl light, LED Park light, LED Flood light, LED Factory light, LED Crossing walk light, ...
+Gangwon-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 33 734 5000
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TWO H Chem Ltd.
+Polyethylene fine powder - twohchem, with years of experience in the Expert, professional of Polyethylene fine powder, Providing ...
+Chungcheongbuk-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 43 832 6760
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3RLab,Inc.
+High Voltage Resistors, Non-inductive Resistors, Thicker Film Resistors, Voltage divider, Voltage Prove, Resistor, High Frequency ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 31 429 6379
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Korea Environmental Industry & Technology Institute - KEITI
+01. Handok Clean Tech Co., Ltd._Carbon Block Filter, Carbon Block, Compressed, Water, Filter, Chlorine, CTO, VOC, Lead, Arsenic, ...
+Seoul, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 2 3800 500
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+J-Lighting co., ltd
+streetlight, park lamp, solar light, security light, cctv light, street cctv light, landscape lighting, lighting fixture, ceiling ...
+Gyeongsangbuk-do, South Korea
+
+
+
+
+
+
+                                    Phone number
+
+
+
+
+
+
+                                        +82 54 9565600
+
+
+
+
+
+
+
+
+                        Email
+
+Free
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Semisysco Co.,Ltd.
+Manufacture & Export of Semiconductor Making MachineryManufacture & Export ofSemiconductor Equipment,Fame Display EquipmentManufacture...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+SHILLA FIRE Co., Ltd.
+Manufacture & Export of[nozzle & water spray nozzle] -Branch pipe -Nozzle Tip(fog&straight stream) -Nozzle tip(Straingt stream) -water...
+Incheon, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+SIGNET SYSTEMS INC.
+Manufacture & Export of Automatic Voltage Regulator Battery Charger Uninterrupted Power SystemManufacture & Export ofBattery Charger,...
+Jeollanam-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+SYhitech.com
+Manufacture & Export of Sensors - Humidity Sensor - Pressure Sensor Energy Storage DevicesManufacture & Export ofSensor,ESD,Applied ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+TNC.ltd
+Manufacture & Export of Choke Coil EMI/EMC FilterManufacture & Export ofLine Filter,EMI Filter,Choke CoilManufacture & Export of32602 ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+unibini
+Manufacture & Export ofElectronic Monitoring System Talking and singing toothbrush,HomeElectronic Monitoring unit Singing Smart ...
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Asia Yamaichi Electronics Inc.
+Manufacture & Export of Test And Burn-In Products - Pga/Zif - Bga/Micro Bga - Simm/Dimm - Qfp - Plcc - Lcc - Tab - Kgd - Mcr - Sop - ...
+Chungcheongbuk-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+ACOH Semiconductor Co., Ltd.
+Manufacture & Export of Power Module Application Power PCB COB(Chip on Board)Manufacture & Export ofPower Module
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+AJ Networks Co.,Ltd.
+Manufacture & Export of CRT socket for TV, Jacks & connectors, Remote control unit, Other assembliesManufacture & Export ofMeasure ...
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Elcomtec Co., Ltd.
+Manufacture & Export of Electro-Luminescence Back Light Unit CCM Products - Mega - VGAManufacture & Export ofCompact Camera Module,Key...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Inter-M Corporation
+Manufacture & Export of Commercial Audio Professional Audio Cctv System
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Mega Power Tech
+Manufacture & Export of Manufacturer of - on line cable insulation monitor - cable fault locator - softstarters for motor - SCR heater...
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+DAE SUNG MAREF
+Manufacture & Export of Medical equipments (Circulation & drainage) Air compression therapy (IPC) devices Physiotherapy devices DVT ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+I DO IT CO.,LTD.
+Manufacture & Export of-Flat Satellite Antenna -Mobile Satellite System -SNIPE -AVN : Smart car AV & Navigation -Car-STB : car set top...
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+JDC Tech Co., Ltd.
+Manufacture & Export of - Combi Card (Dual Interface Cards) - Smart Card - RF Cards (Contactless Cards) - MIFARE Cards - Memory Cards ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Inzi Controls Co., Ltd.
+Manufacture & Export of Cooling System Valves & Actuators Engin Management System Switch & Sensors Engineering Plastic ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Eul Ji Electric Mfg Co., Ltd.
+Manufacture & Export of A.C MotorManufacture & Export ofInduction Motor
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+With Solution Inc.
+Manufacture & Export ofMini Compact DVR, Compact DVR, Wall Mount DVR, Vehicle DVR Mini Compact DVR, Compact DVR, Wall Mount DVR, ...
+Gwangju, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Jejoong Medical Co Ltd
+Manufacture & Export of Medical film view box - X-ray Viewingbox - X-ray Light Box - Illuminator - Film Illuminators - X-ray ...
+Gangwon-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Tap Electronics Ind. Co., Ltd.
+Manufacture & Export of The global environments are getting sick more and more due to the progress of industry and the rapid changes ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Korea First Telecom
+Manufacture & Export of Repeater - RF Repeater - Telematics
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+Sungjae Industries
+Manufacture & Export of -Manufacture & Export ofFoundry molds
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+N Tech Window Film Co., Ltd.
+Manufacture & Export ofAbrasive Paper,Window Solar Film,Window Film,Safety Screen Film,Tinting Film,Safety Film,Decoration Film
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+SAM JUNG CO.,Ltd.
+Manufacture & Export of VCR Deck mechanisms,Camcorder Deck Mechanisms, Remote ControlsManufacture & Export of32605 / Manufacture of ...
+Gyeonggi-do, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+MOPIENS, INC.
+Manufacture & Export of Repeater - Optical ModuleManufacture & Export ofBTS Transceiver,Optical Communication Module,RF Repeater,...
+Seoul, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+BUYANG INDUSTRIAL Co Ltd
+Manufacture & Export of Display - TFT LCD Monitor - CCTV Monitor & Camera
+Incheon, South Korea
+
+
+
+
+
+
+1
+
+
+2
+
+
+3
+
+
+5
+
+
+10
+
+
+15
+
+...
+
+20
+
+
+
+
+
+                                        Back to top
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Kompass services
+
+
+
+
+
+
+
+Other activity and region match your search criteria
+
+
+
+
+
+
+Activity sectors list
+
+
+
+
+
+Agriculture & Food South Korea
+
+Business Services South Korea
+
+Chemicals, Pharmaceuticals & Plastics South Korea
+
+Construction South Korea
+
+Education, Training & Organisations South Korea
+
+Energy, Environment South Korea
+
+IT, Internet, R&D South Korea
+
+Leisure & Tourism South Korea
+
+Metals, Machinery & Engineering South Korea
+
+Minerals South Korea
+
+Paper, Printing, Publishing South Korea
+
+Retail & Traders South Korea
+
+Textiles, Clothing, Leather, Watchmaking, Jewellery South Korea
+
+Transport & Logistics South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				                Frequent updates ensuring high quality data
+
+
+
+
+
+
+                                    Secure online payment
+
+
+
+
+
+
+                                Help with expert advice
+
+
+
+
+
+
+    	            			Dedicated customer service team
+
+
+
+
+
+
+
+
+
+
+
+
+
+Need advice?
+
+
+
+
++82 2 2200 0800
+
+
+
+
+
+Contact us
+
+
+
+
+
+Join us
+Follow our latest news on social media
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NexStreaming Corporation - Research and Markets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABOUT US
+BLOG
+CONTACT US
+FAQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+USD
+EUR
+GBP
+
+
+
+USD 
+▼
+
+USD
+EUR
+GBP
+
+
+
+
+
+
+€
+EUR
+$
+USD
+£
+GBP
+
+
+
+
+
+
+
++353-1-416-8900REST OF WORLD
+
+
+
+1-800-526-8630U.S. (TOLL FREE)
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Advanced
+
+
+
+
+
+
+
+
+Price:
+€75EUR$92USD£70GBP 
+View Pricing
+
+
+
+
+
+
+ Home
+/
+
+
+
+
+
+
+Categories
+/
+
+
+
+
+
+
+Company Reports
+
+
+
+
+
+
+
+
+
+
+
+ 
+SELECT A FORMAT
+
+
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+                                                        Single User
+                                                         Electronic (PDF)
+
+
+
+
+
+
+                                                                            
+                                                                            This is a single user license, allowing one specific user access to the product. The report will be emailed to you.  The report is sent in PDF format. 
+
+                                                
+
+
+
+
+
+
+
+  ADD TO BASKET
+
+
+
+
+                                                                        order by fax
+                                        
+
+                                            need a quote ?
+                                        
+
+
+
+ 
+
+OUR CLIENTS
+
+
+
+
+
+
+
+
+
+
+
+
+HAVE A QUESTION?
+EMAIL US
+VIEW FAQs
+
+
+
+RECENTLY VIEWED PRODUCTS
+
+
+
+
+
+
+
+
+
+
+
+Partner of Research and MarketsVACCINATING 40,000 CHILDREN IN 2017
+
+
+
+
+
+WHY CHOOSE RESEARCH AND MARKETS?
+
+
+
+WORLD'S LARGEST SELECTION
+
+
+
+
+TRUSTED BY THE BEST
+
+
+
+
+CUSTOMER FOCUSED
+
+
+
+
+SAFE & SECURE
+
+
+
+
+
+
+
+We found Research and Markets easy to use, which saved us a lot of time. In the future when we seek market
+
+                         insights, especially in the field of medical applications, we will come to Research and Markets.
+                        
+                    
+
+
+
+                            READ MORE
+                        
+
+
+Dr Tomasz Zawada
+Engineering and Research Manager
+Meggitt A/S
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NexStreaming Corporation
+
+
+
+ID: 2784930
+Company Profile
+July 2017
+67 Pages
+
+Wright Investors Service                                
+
+
+
+
+
+
+
+
+
+
+
+DESCRIPTION
+
+
+TABLE OF CONTENTS
+
+
+SAMPLES
+
+
+
+                                                                COUNTRIES COVERED
+                                                            
+
+
+FORMATS
+
+
+
+
+
+
+
+1 of 5
+
+
+
+
+
+
+
+
+                            LOGIN TO ACCESS EXECUTIVE SUMMARY
+                        
+
+
+
+                            PRINTER FRIENDLY
+                        
+
+
+
+                            PRINTABLE PDF BROCHURE
+                        
+
+SEND TO A FRIEND
+
+
+
+
+
+
+                                                                                A textual analysis of the financial results for NexStreaming Corporation  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company, including contact information, senior officers and Wright Quality Rating analyses is also provided.Quantitative analyses of financial statements (Income Statement, Balance Sheet and Sources of Capital), extensive ratio tables (Accounting, Asset Utilization, Employee Efficiency, Fixed Charges Coverage, Leverage Analysis, Liquidity Analysis, Per-share Data and Profitability Analysis) and proprietary Wright Quality Rating® analyses tables. The Wright Quality Rating measures the liquidity of the stock and the financial strength, profitability and corporate growth characteristics of NexStreaming Corporation A textual review of the financial results of NexStreaming Corporation versus IOK Company Co Ltd, Chips&Media Inc and Mobileleader Company., Limited is includedrepo.   The comparative analysis,of these companies,compares Sales, Company Valuations and Financial Position. Also included for NexStreaming Corporation are: Company Description, Recent Stock Performance, Profitability Analysis, Dividend Analysis, and key data items. Additional research for NexStreaming Corporation includes tables with up to 10-years of history of computed ratios, sales, earnings, and security prices. The company’s financial results are compared in a series of reports (i.e. financial statements, sales, key ratios, etc.) to global industry averages.
+                                                                            
+
+Note: Product cover images may vary from those shown
+
+
+
+
+2 of 5
+
+
+
+
+
+
+
+                            LOGIN TO ACCESS EXECUTIVE SUMMARY
+                        
+
+
+
+                            PRINTER FRIENDLY
+                        
+
+
+
+                            PRINTABLE PDF BROCHURE
+                        
+
+SEND TO A FRIEND
+
+
+
+
+
+
+                                                                    Company FundamentalsCompany ProfileComparative Business AnalysisSummary Analysis per ShareSales AnalysisPrice AnalysisEarnings and Dividends AnalysisFinancial Statement AnalysesBalance Sheet - Common SizeBalance Sheet - Year-Year Percent ChangeBalance Sheet - Five-Year AveragesIncome Statement - Common SizeIncome Statement - Year-Year Percent ChangeIncome Statement - Five-Year AveragesSources of CapitalFinancial Ratio AnalysesAccounting RatiosAsset UtilizationEmployee EfficiencyFixed Charges CoverageLeverage AnalysisLiquidity AnalysisPer-Share DataProfitability AnalysisWright Quality Rating AnalysesInvestment AcceptanceFinancial StrengthProfitability and StabilityCorporate Growth
+
+Note: Product cover images may vary from those shown
+
+
+
+
+3 of 5
+
+
+
+
+
+LOADING...
+
+
+
+
+
+
+
+4 of 5
+
+
+
+
+
+
+
+                            LOGIN TO ACCESS EXECUTIVE SUMMARY
+                        
+
+
+
+                            PRINTER FRIENDLY
+                        
+
+
+
+                            PRINTABLE PDF BROCHURE
+                        
+
+SEND TO A FRIEND
+
+
+
+
+
+
+                                                                                    Korea (South)
+                                                                                
+Note: Product cover images may vary from those shown
+
+
+
+
+5 of 5
+
+
+
+
+
+
+Note: Product cover images may vary from those shown
+
+
+
+
+
+
+
+
+RELATED PRODUCTS 
+
+
+
+
+
+
+
+G-treeBNT Co Ltd
+
+
+ Company Profile
+68 Pages
+July 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Secuve Co Ltd
+
+
+ Company Profile
+66 Pages
+July 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Hancom Secure Inc
+
+
+ Company Profile
+69 Pages
+July 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Barunson Entertainment & Arts Corp
+
+
+ Company Profile
+68 Pages
+July 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Turbotek Company Limited
+
+
+ Company Profile
+56 Pages
+August 2014
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+HansolNexG Co Ltd
+
+
+ Company Profile
+68 Pages
+July 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Nex Metals Exploration Limited
+
+
+ Company Profile
+67 Pages
+June 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+NexJ Systems Inc
+
+
+ Company Profile
+67 Pages
+July 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Hancom GMD Inc
+
+
+ Company Profile
+70 Pages
+July 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Rsupport Co Ltd
+
+
+ Company Profile
+66 Pages
+July 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+
+ close
+
+NexStreaming Corporation
+
+
+
+ close
+
+ASK A QUESTION
+
+*Required Information
+ 
+Product: NexStreaming Corporation
+
+
+YOUR QUESTION*
+
+
+
+
+
+
+
+YOUR CONTACT DETAILS*
+
+Title
+Mr
+Mrs
+Dr
+Miss
+Ms
+Prof
+
+
+
+
+First Name
+
+
+
+
+Last Name
+
+
+
+
+Email Address
+
+
+
+
+Country
+Please Select
+------------------------------
+United States
+United Kingdom
+Germany
+Canada
+Australia
+------------------------------
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica-Casey
+Antarctica-Scott
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Ascension Island
+Ashmore and Cartier Islands
+Atlantic East
+Atlantic West
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Clipperton Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaco 
+Cyprus
+Czech Republic
+Democratic Republic of Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Islas Malvinas)
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guiana
+French Polynesia
+Gabon
+Gambia
+Gaza Strip
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Ivory Coast
+Ivory Coast (Cote d'Ivoire)
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte Islands
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Islands
+North Korea
+Northern Ireland
+Northern Marianas
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Christopher Nevis
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome
+Saudi Arabia
+Scotland
+Senegal
+Serbia
+Serbia and Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Tahiti
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City (Holy See)
+Venezuela
+Vietnam
+Virgin Islands
+Wallis And Futuna
+West Bank
+West Indies
+Western Sahara
+Yemen
+Yugoslavia
+Zaire
+Zambia
+Zimbabwe
+
+
+
+
+Phone Number
+
+
+
++1
++11
++1-242
++1-246
++1-264
++1-268
++1-284
++1-345
++1-441
++1-473
++1-649
++1-664
++1-670
++1-671
++1-684
++1-758
++1-767
++1-784
++1-787
++1-809
++1-868
++1-869
++1-876
++20
++212
++213
++216
++218
++220
++221
++222
++224
++225
++226
++227
++228
++229
++23
++230
++231
++232
++233
++234
++235
++236
++237
++238
++239
++240
++241
++242
++243
++244
++245
++247
++248
++249
++250
++251
++252
++253
++254
++255
++256
++257
++258
++260
++261
++263
++264
++265
++266
++267
++268
++269
++27
++284
++290
++291
++297
++298
++299
++30
++31
++32
++33
++34
++350
++351
++352
++353
++354
++355
++356
++357
++358
++359
++36
++370
++371
++372
++373
++374
++375
++376
++377
++378
++379
++380
++381
++382
++385
++386
++387
++389
++39
++40
++41
++420
++421
++423
++43
++44
++45
++46
++47
++48
++49
++500
++501
++502
++503
++504
++505
++506
++507
++509
++51
++52
++53
++54
++55
++56
++57
++58
++590
++591
++592
++593
++594
++595
++596
++597
++598
++599
++60
++61
++6101
++62
++63
++64
++65
++66
++670
++672
++673
++674
++675
++677
++678
++679
++680
++681
++682
++683
++685
++686
++687
++688
++689
++691
++692
++7
++81
++82
++84
++850
++852
++853
++855
++856
++86
++869
++871
++874
++880
++886
++90
++91
++92
++93
++94
++95
++960
++961
++962
++963
++964
++965
++966
++967
++968
++970
++971
++972
++973
++974
++975
++976
++977
++98
++992
++993
++994
++995
++996
++998
+
+
+
+
+
+
+
+
+
+
+
+
+We request your telephone number so we can contact you in the event we have difficulty reaching you via email.
+                    We aim to respond to all questions on the same business day.
+
+
+
+
+
+ 
+
+
+
+ close
+
+SEND TO A FRIEND
+
+* Required Information
+ FRIEND'S DETAILS
+
+Full Name*
+
+
+
+
+Email Address*
+
+
+
+
+Message to friend
+
+
+
+
+YOUR CONTACT DETAILS
+
+Full Name*
+
+
+
+
+Email Address*
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ close
+
+Request a Quote
+
+ 
+Please complete the below form and click "send request" to obtain a pdf quotation and order form.
+This document will be available for immediate download and will also be emailed to you.
+            
+* Required Information
+
+
+YOUR ADDRESS
+
+Address 1*
+
+
+
+
+Address 2
+
+
+
+
+Address 3
+
+
+
+
+City*
+
+
+
+
+Postal/ZIP Code
+
+
+
+
+Country*
+Please Select
+------------------------------
+United States
+United Kingdom
+Germany
+Canada
+Australia
+------------------------------
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica-Casey
+Antarctica-Scott
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Ascension Island
+Ashmore and Cartier Islands
+Atlantic East
+Atlantic West
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Clipperton Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaco 
+Cyprus
+Czech Republic
+Democratic Republic of Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Islas Malvinas)
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guiana
+French Polynesia
+Gabon
+Gambia
+Gaza Strip
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Ivory Coast
+Ivory Coast (Cote d'Ivoire)
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte Islands
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Islands
+North Korea
+Northern Ireland
+Northern Marianas
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Christopher Nevis
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome
+Saudi Arabia
+Scotland
+Senegal
+Serbia
+Serbia and Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Tahiti
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City (Holy See)
+Venezuela
+Vietnam
+Virgin Islands
+Wallis And Futuna
+West Bank
+West Indies
+Western Sahara
+Yemen
+Yugoslavia
+Zaire
+Zambia
+Zimbabwe
+
+
+
+
+State
+
+
+
+
+
+YOUR DETAILS
+
+Title*
+Mr
+Mrs
+Dr
+Miss
+Ms
+Prof
+
+
+
+
+First Name*
+
+
+
+
+Last Name*
+
+
+
+
+Organisation*
+
+
+
+
+Email Address*
+
+
+
+
+Phone Number*
+
+
+
++1
++11
++1-242
++1-246
++1-264
++1-268
++1-284
++1-345
++1-441
++1-473
++1-649
++1-664
++1-670
++1-671
++1-684
++1-758
++1-767
++1-784
++1-787
++1-809
++1-868
++1-869
++1-876
++20
++212
++213
++216
++218
++220
++221
++222
++224
++225
++226
++227
++228
++229
++23
++230
++231
++232
++233
++234
++235
++236
++237
++238
++239
++240
++241
++242
++243
++244
++245
++247
++248
++249
++250
++251
++252
++253
++254
++255
++256
++257
++258
++260
++261
++263
++264
++265
++266
++267
++268
++269
++27
++284
++290
++291
++297
++298
++299
++30
++31
++32
++33
++34
++350
++351
++352
++353
++354
++355
++356
++357
++358
++359
++36
++370
++371
++372
++373
++374
++375
++376
++377
++378
++379
++380
++381
++382
++385
++386
++387
++389
++39
++40
++41
++420
++421
++423
++43
++44
++45
++46
++47
++48
++49
++500
++501
++502
++503
++504
++505
++506
++507
++509
++51
++52
++53
++54
++55
++56
++57
++58
++590
++591
++592
++593
++594
++595
++596
++597
++598
++599
++60
++61
++6101
++62
++63
++64
++65
++66
++670
++672
++673
++674
++675
++677
++678
++679
++680
++681
++682
++683
++685
++686
++687
++688
++689
++691
++692
++7
++81
++82
++84
++850
++852
++853
++855
++856
++86
++869
++871
++874
++880
++886
++90
++91
++92
++93
++94
++95
++960
++961
++962
++963
++964
++965
++966
++967
++968
++970
++971
++972
++973
++974
++975
++976
++977
++98
++992
++993
++994
++995
++996
++998
+
+
+
+
+
+
+
+
+
+
+
+                                PO Number
+                                (if applicable)
+
+
+
+
+
+
+
+PRODUCT FORMAT
+
+
+
+
+License
+Format
+Properties
+Price
+
+
+
+
+ 
+SINGLE USER Electronic (PDF)                                                
+
+
+
+                                            The report will be emailed to you.  The report is sent in PDF format. 
+                                        
+
+                                            This is a single user license, allowing one specific user access to the product.
+                                        
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+* The price quoted above is only valid for 30 days. Please submit your order within that time frame to avail of this price as all prices are subject to change.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hancom GMD, Inc. - Relationship Science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      NEWS HOME
+                    
+
+Advertising
+Board and Executive Moves
+Energy
+Health Care
+Hedge Funds
+M & A
+Private Equity
+Technology
+
+
+
+
+
+
+
+
+            You have  
+            
+9 free profiles
+
+              left this month   
+			      
+
+                Start Your Free Trial ➤
+              
+
+
+
+
+
+
+
+
+            Hey, we noticed you're a RelSci Pro subscriber! Would you like to view the page there?
+            
+
+                View on RelSci Pro ➤
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+Google+
+
+
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+
+Reddit
+
+
+
+
+
+Permalink
+
+
+
+
+
+Hancom GMD, Inc.
+
+
+
+Overview
+In The News Executives & Employees Board of Directors Paths
+Recent Transactions Transaction Advisors Financials
+
+
+
+Hancom GMD, Inc.
+
+
+
+ OVERVIEW
+
+
+
+Date Founded
+
+
+1997
+
+
+
+
+Headquarters
+
+
+5th Floor, Hancom Tower, 49 Daewangpangyo-ro 644beon-gil, Bundang-gu, Seongnam, Gyeonggi 13493
+
+
+
+
+Type of Company
+
+
+
+                                                                    Public
+                                                            
+
+
+
+
+Employees (Worldwide)
+
+
+33
+
+
+
+
+Industries
+
+
+Electrical Products
+
+Wholesale: Industrial Products & Manufacturing
+
+Semiconductors
+
+
+
+
+Company Description
+
+
+Hancom GMD, Inc. engages in the design, manufacture and sale of integrated circuits. It operates through following business divisions: Forensic, System on Chip, and Lease. Its products include mobile forensic software, mobile forensic hardware, mobile forensic package, and digital forensic software. It also offers services such as MD-forensics, MD-audit, and MD-recovery. The company was founded on January 30, 1997 and is headquartered in Seongnam-si, South Korea.
+
+
+
+
+Website
+
+
+http://www.hancomgmd.com
+
+
+
+
+
+
+ In The News
+          See more
+
+
+
+
+Business Wire
+June 7, 2017
+
+
+
+
+
+                        Graaa y Montero Sells Its Stake in GMD to Private Equity Firm Advent International                    
+
+
+
+
+
+peHUB
+August 12, 2015
+
+
+
+
+
+                        HKW-backed GMD grows patient support footprint with Adjuvantz deal                     
+
+
+
+
+
+
+ Executives & Employees
+
+
+
+Hyun-Soo Kim
+
+Chief Executive Officer & Director
+
+
+
+
+Seung-Ho Han
+
+Auditor
+
+
+
+
+
+
+
+See our list of current and previous employees when you upgrade.
+
+Start My Free Trial ➤
+
+
+
+
+
+
+
+
+See  More 
+
+
+ 
+
+
+
+                          Board of Directors                        
+
+
+
+Sang-Cheol Kim
+
+President at Hancom, Inc.
+
+
+
+
+Sung-Jun Byeon
+
+Senior Executive Director at Hancom, Inc.
+
+
+
+
+
+Yeon-Soo Kim
+
+Director & Head-Global Business at Hancom, Inc.
+
+
+
+
+Hyun-Soo Kim
+
+Chief Executive Officer & Director at Hancom GMD, Inc.
+
+
+
+
+
+Gyeong-Rae Kim
+
+Outside Director at Hancom GMD, Inc.
+
+
+
+
+
+
+
+See our list of current and previous board members when you upgrade.
+
+Start My Free Trial ➤
+
+
+
+
+
+
+
+
+See  More 
+
+
+ 
+
+
+ Paths to Hancom GMD, Inc.
+
+
+
+                        Hancom GMD, Inc.                    
+
+
+
+
+ You
+
+
+
+ Connections via Relationship Science
+
+
+
+ Hancom GMD, Inc.
+
+
+
+
+
+
+Sync your contacts to see how you can connect with Hancom GMD, Inc..
+
+Start My Free Trial ➤
+
+
+
+
+
+
+
+
+See  More 
+
+
+ 
+
+
+ Recent Transactions
+
+
+
+ Details Hidden
+
+
+
+                                    Hancom GMD, Inc. purchases GMD System Co., Ltd.                                                                       
+
+
+
+
+ Details Hidden
+
+
+
+                                    Hancom GMD, Inc. issued Ordinary Shares                                                                    
+
+
+
+
+
+ Transaction Advisors
+
+
+
+Companies ▾
+
+
+
+
+Underwriter
+
+
+
+Kyobo Securities Co., Ltd. (Broker)
+
+                                        Advised on
+                                        Hancom GMD, Inc. issued Ordinary Shares                                    
+
+
+
+
+
+ Key Stats and Financials as of 2016
+
+
+
+Market Capitalization
+
+
+$29.4B
+
+
+
+
+Total Enterprise Value
+
+
+$47.2B
+
+
+
+
+Earnings Per Share
+
+
+$-73
+
+
+
+
+Revenue
+
+
+$15B
+
+
+
+
+Net Profit
+
+
+$-746M
+
+
+
+
+EBITDA
+
+
+$437M
+
+
+
+
+EBITDAMargin
+
+
+2.91%
+
+
+
+
+Total Debt
+
+
+$20.2B
+
+
+
+
+Total Equity
+
+
+$41.4B
+
+
+
+
+Three Year Compounded Annual Growth Rate Of Revenue
+
+
+-26.82%
+
+
+
+
+Five Year Compounded Annual Growth Rate Of Revenue
+
+
+-25.24%
+
+
+
+
+Enterprise Value Sales
+
+
+3.14x
+
+
+
+
+TEVNet Income
+
+
+-63.27x
+
+
+
+
+Debt TEV
+
+
+0.43x
+
+
+
+
+Enterprise Value EBITDAOperating
+
+
+108.1x
+
+
+
+
+
+
+See financial details and more using RelSci Professional.
+
+Start My Free Trial ➤
+
+
+
+
+
+
+
+
+See  More 
+
+
+ 
+
+
+
+You've reached your 10 free profiles limit this month.
+Upgrade to RelSci Pro today to enjoy unlimited article views and much more!
+
+Start My Free Trial  ➤
+
+Still not convinced? Check out our full listing of features here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Are you a RelSci Pro Subscriber?
+
+Login to RelSci Pro 
+                        ➤
+
+
+Not a Pro Subscriber? Log in here to manage your alerts
+
+
+
+
+
+
+
+
+
+ Keep me signed in.
+        
+
+Login  ➤
+
+
+
+        Forgot your Password?
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I have read the LexisNexis terms & conditions
+
+
+
+
+Sign Me Up  ➤
+
+
+
+
+
+
+
+
+
+
+
+
+

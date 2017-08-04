@@ -1,0 +1,3566 @@
+
+
+
+iiNet - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+iiNet
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+iiNet Limited
+
+
+
+
+
+Type
+
+Subsidiary
+
+
+Industry
+Internet Service Provider
+Telecommunications
+
+
+Founded
+Perth, Western Australia (1993)
+
+
+Founder
+Michael Malone (founder, former managing director)
+Michael O'Reilly
+
+
+Headquarters
+Perth, Western Australia
+
+
+
+Area served
+
+Australia
+
+
+
+Key people
+
+Michael Smith (chairman)
+
+
+Products
+Broadband
+Dialup
+Telephony
+VoIP
+
+
+
+Number of employees
+
+>2000 (2013)
+
+
+Parent
+TPG
+
+
+Website
+www.iinet.net.au
+
+
+iiNet Limited is Australia's second-largest internet service provider with more than 1.3 million customers as of 15 August 2011. It was acquired by TPG Telecom in September 2015 for $1.56 billion,[1] but retained its corporate name. Its subsidiaries include Internode, Westnet, AAPT Limited, Adam Internet, TransACT and Netspace. Their focus is primarily on ADSL-based Internet access, using their own ADSL2+ infrastructure, and reselling Telstra ADSL services. iiNet also provides optical-fibre, dial-up, and voice services.
+iiNet has in its growth acquired or merged with many smaller ISPs building a substantial customer base in Western Australia, and then, by acquiring ihug and OzEmail, expanded significantly into the eastern states.
+Following the acquisition by TPG complaints apparently jumped by a staggering 48% in year on year figures in 2016, echoing the ongoing litany of negative sentiment appearing on iiNet's social media sites with one subscriber recently requesting iiNet to act as pallbearers at their funeral so that the ISP could let them down one last time.
+
+
+
+Contents
+
+
+1 History
+
+1.1 Early growth
+1.2 Growth through acquisition
+1.3 DSLAM deployment
+1.4 Launch of telephony products
+1.5 Regulatory conflict with Telstra
+1.6 Suspension and resumption of share trading
+1.7 Sale of ihug – New Zealand subsidiary
+1.8 2008 acquisitions
+1.9 2010 acquisitions
+1.10 2011 acquisitions
+1.11 2013 acquisitions
+
+
+2 AFACT lawsuit
+3 Products and services
+4 Chime Communications
+5 See also
+6 References
+7 External links
+
+
+
+History[edit]
+iiNet was founded in 1993 by Michael Malone and Michael O'Reilly, who started the business in a suburban garage in Perth as iiNet Technologies Pty Ltd. It began as one of the first Australian ISPs to offer TCP/IP Internet access, as opposed to the store-and-forward techniques (such as MHSnet) that were then in use at other ISPs. It claims it was the first ISP to offer PPP access in Australia, and to be the first to base operations on the then new Linux operating system.
+The company outgrew its suburban home in 1995 and moved to CBD office accommodation yet its early growth during the Internet boom was hampered by the ability of Telstra (not releasing Bigpond as an ISP until 1997) to cope with the demand of needed telephone lines, and by the sheer competitive pressure in the Perth market, which had a comparative oversupply of low-cost providers. In 1996, iiNet successfully expanded into the Adelaide market under the name light.iinet.net.au (named after Colonel Light), in partnership with locals John Lindsay and Leigh Hart. The SA arm moved quickly to become the number three ISP in the state, before being acquired by Auslink in 1998.[citation needed]
+Early growth[edit]
+A growing demand on infrastructure and a rapidly increasing number of staff saw the company relocate again in 1997 to the central QV.1 building. Also in early 1997, the Western Australian Internet Association, formed in 1995 to represent the Internet community in Western Australia, created a peering and interconnection arrangement known as WAIX [2] between its members, which included iiNet and several other Perth-based ISPs.
+In late 1997, the Internet market was moving towards 56K technology.[3] As one end of a 56k connection must be digital, the racks of modems found in every ISP became redundant overnight and expensive CBD-hosted equipment offered by Cisco, Ascend and Livingston became a requirement in order to survive in the marketplace. In 1998, competitive pressure from budget national providers, led by One.Tel, started to reach the Perth market.
+In 1998, founding partner Michael Malone purchased the company outright and listed it on the Australian Stock Exchange in September 1999 under ticker symbol IIN. The newfound capital was used to acquire its two major local rivals in the Perth area – Wantree Internet and Omen Internet – along with numerous smaller rivals such as Networx Internet, Infinite Data, Octal and Net Trek Online Services.
+This was perceived by most observers as a rationalisation of an unsustainable services market, and allowed not only iiNet, but also other providers such as Westnet, EFTel (itself an agglomeration of several ISPs formed in 2000), ArachNet and Global Dial among others to grow in the local market and to expand into fully-fledged national providers.
+After the dot-com bubble burst in mid-2000, iiNet fared poorly on the markets – with shares at one stage falling to A$0.20 from a A$1.00 issue price – however its share price recovered as time progressed. In September 2000, iiNet became the first Western Australian provider to offer ADSL technology.[4]
+Growth through acquisition[edit]
+The company created a new registered telecommunications provider iiTel, later renamed Chime Communications, that sought to improve Internet access prices by making wholesale telephone access much cheaper. This was possible through new interconnection agreements mandated by the Australian Government's deregulation of the telecommunications industry, and provided the foundation for iiNet's later move into telephony via its iiPhone (later Phone Advantage and Phone 1) and iiNetPhone (later iiNet VoIP) products.
+Based on its new abilities, and after consolidating its local position, iiNet focused on expanding to national coverage in the early 2000s through strategic acquisitions and natural growth. The acquisitions were:
+
+RuralNet (Mildura and regional Victoria)
+Tas Access (Tasmania)
+Granite Internet (Fleurieu Peninsula, South Australia)
+RockNet (Rockhampton, Queensland)
+Hartindale (Sydney)
+Country Netlink (regional Victoria)
+Origin Internet (regional Victoria)
+Froggy Internet (Sydney)
+Virtual Communities (Melbourne)
+Octa4 (Darwin)
+TransACT (Australian Capital Territory and Queanbeyan)
+
+With the advent of ADSL access, iiNet and several other Western Australian providers on the WAIX were at the forefront of the price and service wars, and were able to make a sizable push eastwards into larger lucrative markets.
+In 2003, iiNet made what was then its biggest acquisition, purchasing key New Zealand provider ihug. The acquisition significantly increased iiNet's share of the Australian and New Zealand Internet market.
+In 2005, iiNet acquired the residential ISP business aj trademarks of rival OzEmail. The business side and infrastructure of that business remained in the ownership of US-parent MCI. OzEmail had been Australia's largest ISP until 2000, when it was acquired by MCI. The retail arm had been neglected, and the company moved very late into ADSL, meaning that it had difficulty positioning itself as a broadband player. iiNet initially used both the OzEmail and iiNet brands on the east coast, but by 2006 iiNet had largely abandoned the OzEmail brand, using its own corporate image across Australia.
+DSLAM deployment[edit]
+In late 2004, throughout 2005 and into 2006, iiNet moved to introduce their own DSLAM infrastructure (colloquially known as iiSLAMs or iiDSLAMs in the industry) into telephone exchanges Australia-wide. This move allowed iiNet to be the first Australian DSL carrier to offer speeds of over 1.5 Mbit/s to a significant number of customers. The maximum download speed was initially 8 Mbit/s (ADSL1), which increased to 12 Mbit/s and later to 24 Mbit/s, as ADSL2/ADSL2+ standards have been ratified and tested with iiNet's equipment. There are currently over 406 enabled exchanges active around Australia, and a list of these exchanges can be found at iiNet's official website.[5]
+Launch of telephony products[edit]
+2004 saw the introduction of iiPhone in the form of a long-distance carrier.
+In February 2005, iiNet introduced their full-service iiPhone telephony service with their new range of iiBroadband2 packages, allowing customers to pay their telephony costs completely through iiNet, including line rental and local calls.
+In August 2005, iiNet released iiNetPhone, their consumer VoIP service. The product was an add-on service, available only to customers that also use their iiPhone service. As with most VoIP services, call costs were well under standard market prices for a regular copper line. The iiNetPhone service supports inbound and outbound calls to normal Australian PSTN numbers.
+In 2006, iiNet were trialling its MSAN services in three Perth telephone exchanges; but release and expanded trial of these has since been put on hold until further notice. MSANs are iiNet's own full telephone service, meaning they can be completely off Telstra's phone service and onto their own. This would result in a lower line rental price for its customers and free additional add on options to the phone service.
+Regulatory conflict with Telstra[edit]
+In late 2005, Telstra Wholesale made changes to their pricing arrangements, each of which forced iiNet to make changes to their product line and pricing. The first of these changes was to the DSLAM port rate, which resulted in an increase of the cost of a 1.5 Mbit port. iiNet reduced the speeds for their two cheapest plans to 512 kbit/s, while doubling the data allowance on these plans in an attempt to placate users. They also rebranded the plans available to their Telstra Wholesale customers (512 kbit/s and 1.5 Mbit/s plans) to iiBroadband1, reserving the iiBroadband2+ moniker to uncapped "Up to 24 Mbit/s" speed plans, only available in areas connected to an exchange with an iiNet DSLAM. In April 2006, another iiBroadband1 (using Telstra Wholesale) plan's speed was reduced to 512 kbit/s (though existing plan users were allowed to keep their speed).
+The second was an increase in line rental for iiPhone. The rate was increased from A$29.95 to A$33.36, and was also blamed on price increases from Telstra Wholesale. Michael Malone said in regard to both changes, "We're disappointed in the changes to our broadband arrangements and line rental prices from Telstra Wholesale and we're challenging this."[6]
+This dispute has now been resolved, and line rental has since returned to A$29.95/month under the re-branded Phone 1 plan on the iiNet website.[7]
+Suspension and resumption of share trading[edit]
+iiNet's share value slid from A$3.40 in September 2005 to A$1.69 in April 2006. On 18 April 2006, iiNet requested a trading halt pending the release of an announcement. Two days later, it suspended its shares from quotation. Initially, the company advised it intended to resume trading on the ASX the following week, but on 21 April, a local newspaper, WA Business News, speculated that "One line of thought is that uncertainty on behalf of iiNet's bankers, will result in the company embarking on a capital raising to address concerns over banking covenants, and provide its bankers with a measure of confidence." Other speculation in the same article suggested that iiNet may be about to exit New Zealand or the CEO was about to sell his shareholding.[8]
+On 1 May 2006, iiNet advised the ASX that its shares would remain suspended, as its March quarter results had been "well below expectations". The company announced on 11 May 2006 that updated financial figures for the previous year would not be released for "one to two weeks".[9][10] On 13 May, The West Australians business section reported on the matter, and claimed that founder Michael Malone had been "sidelined", and that the company was "open for takeover" according to analysts, who rated Singtel Optus as the most likely suitor. On 18 May, WA Business News agreed with the West's claim that takeover offers were being evaluated, however contradicted the claim that Malone had been sidelined.[11] Meanwhile, ZDNet reported, "It is likely iiNet's management will move more conservatively now that their financial dirty laundry has been so publicly aired. They'll need to remain focused on consolidating their assets after what is expected to be a large drop in iiNet's share price when the stock resumes trading."[12]
+On 26 May, the stock was reinstated to official quotation and fell on its first trading day to A$0.85, after the 27 May edition of The West Australian reported that iiNet was in the red for the first time in five years and had vowed not to repeat costly mistakes. PowerTel, a Sydney-based telco, would emerge with a diluted stake of 13% at 85c a share [13] and Michael Malone's share would be diluted to 14.4%.
+On 31 May, Amcom Telecommunications announced it had acquired a 19.96% stake in iiNet, becoming the company's largest shareholder.[14]
+On 21 June, the Malone family increased their holding to 19.97%.[15]
+Sale of ihug – New Zealand subsidiary[edit]
+On 20 July 2006 iiNet announced that they were wanting to sell their New Zealand subsidiary – ihug. Potential buyers included Orcon Internet Limited, Vodafone and TelstraClear. The sale to Vodafone NZ was announced on 9 October 2006, at a price of A$36 million[16] – roughly six times ihug's EBIT at the time.
+2008 acquisitions[edit]
+January 2008 saw iiNet recommence its acquisition strategy with the purchase of the customer base of local Perth ISP Up'n'away. This was followed in May with the purchase of rival Perth-based ISP Westnet, in a friendly acquisition worth $81 million.[17] In a departure from previous acquisitions, iiNet also announced that Westnet would continue to operate as a separate entity. However, as of 2013 some marketing copy is identical, suggesting at the very least a degree of back-office collaboration now exists.
+As part of the Westnet acquisition, iiNet's online gaming presence was closed in August 2008,[18] with operations being moved to the former Westnet gaming site 3FL.
+2010 acquisitions[edit]
+iiNet continued to grow through acquisitions by purchasing rival ISP Netspace in March 2010.[19] The deal, valued at $40 million, increased iiNet's total number of broadband subscribers to 520,000, and also followed the pattern of the Westnet takeover with Netspace remaining operational as a separate entity under iiNet.
+In late July 2010, iiNet agreed to purchase AAPT's consumer operations for $60 million from Telecom New Zealand.[20] As part of the acquisition, Telecom New Zealand entered into a block-trade agreement to sell their 18.2% share holding in iiNet to "institutional and sophisticated investors", a move viewed by many[21] as a defensive action against a takeover bid from industry rival TPG. The purchase of AAPT increases iiNet's total broadband subscribers to more than 652,000 and total active services to more than 1,326,000.
+2011 acquisitions[edit]
+On 16 November 2011 it was announced that iiNet was in the final stages of negotiations in the acquisition of Canberra-based telco TransACT.[22] The acquisition was completed on 30 November 2011 at a cost of $60 million.[23]
+On 22 December 2011, iiNet announced it would acquire rival ISP Internode for $105 million with the transaction due to be completed late February 2012.[24][25]
+2013 acquisitions[edit]
+On 4 August 2013 iiNet announced it would be purchasing the South Australian ISP Adam Internet for $60 million, after an identical bid by Telstra was rejected by the Australian Competition & Consumer Commission (ACCC) on grounds that the telco giant would use its acquisition of Adam to undercut its rivals' offers through the use of favourable wholesale supply deals. The sale process was completed at the end of August, with Adam becoming a subsidiary of iiNet.[26]
+AFACT lawsuit[edit]
+Main article: AFACT v iiNet
+On 20 November 2008, the Australian Federation Against Copyright Theft (AFACT) filed a lawsuit against iiNet in the Federal Court of Australia claiming that iiNet infringed copyright by failing to prevent its subscribers from downloading illegally copied material using the BitTorrent peer-to-peer protocol.[27] The lawsuit was co-filed by 34 film and affiliated companies including Village Roadshow, Universal Pictures, Warner Bros. and 20th Century Fox as well the Seven Network, an Australian television broadcaster, and alleges breach of copyright on a number of popular movies and television shows.[28] It was later revealed in a wikileaks document AFACT was backed by MPAA.[29]
+In response, iiNet issued a statement[30] indicating that iiNet had been passing on the reports of infringement received from AFACT to law enforcement authorities, and that iiNet could not disconnect a customer's phone line based on an allegation unproven in the courts. Michael Malone, Managing Director of iiNet, went on to state that "AFACT is arguing that they don't want to talk to the police, and we should just cut the customers off".[31] However, the Statement of Claim filed at the Federal Court does not indicate AFACT are asking for users to be disconnected but that iiNet subscribers are "prevented" from committing copyright infringement.[32]
+The case is regarded as a test case for copyright infringement in Australia,[33] and AFACT was represented by Gilbert + Tobin, the same law firm that successfully sued the makers of Kazaa in 2005.[34]
+In 2010, Justice Cowdroy in the Federal Court found in favour of iiNet, noting that while iiNet users did infringe, this was not the responsibility of iiNet to deal with.[35]
+On 20 April 2012 the High Court of Australia confirmed the intervening Federal Court Full Bench decision affirming the first instance decision of Cowdroy, though not supporting all his reasons. Roadshow Films Pty Ltd v iiNet Ltd [2012] HCA 16 (20 April 2012). In his reasoning, Gummow J. noted in particular the current legislation did not provide a mechanism to deal with peer-to-peer infringements and it needed to be addressed by legislature.
+Products and services[edit]
+iiNet Limited provides Broadband and IP telephony communication services to consumers and business customers. Its flagship products are broadband2+ (ADSL2+) services and VOIP services for businesses.
+iiNet is also a part of the Terria consortium that bid to build the National Broadband Network in 2008.
+iiNet is now a Retail Service Provider (RSP)[36] to serve customers with the NBN (National Broadband Network). Australian consumers can now sign up for services such as fibre to the home (FTTH) and fixed wireless. From 2011, iiNet also sold services on the NBN Interim Satellite Service; however, demand for these connections exceeded the available capacity, severely congesting the service. As a result, iiNet withdrew the product from sale in November 2013,[37] and NBNCo issued a cease sale for all RSPs in December 2013.[38]
+iiNet also offers a variety of mobile services to businesses and the public, which includes post-paid mobile plans and mobile data plans that both run on 3G and 4G through the Optus network;[39]
+Chime Communications[edit]
+
+
+
+This section may require cleanup to meet Wikipedia's quality standards. (May 2011) (Learn how and when to remove this template message)
+
+
+Chime Communications is an Australian telecommunications company founded by iiNet in 1996.[40]
+It was the focus of a dispute regarding access to the Telstra PSTN network which was settled by the ACCC in 2007.[41]
+See also[edit]
+See also: Internet in Australia
+References[edit]
+
+
+^ "iiNet history - a timeline of iiNet". Retrieved 1 June 2016. 
+^ http://www.waia.asn.au/waix/ Western Australian Internet Exchang
+^ iiNet Limited (1997). "iiNet Newsletter: November 1997". Archived from the original on 22 November 2008. Retrieved 2008-09-09. 
+^ iiNet Limited (2000). "iiNet launches ADSL service". Archived from the original on 19 August 2006. Retrieved 2008-09-09. 
+^ iiNet Limited (2000). "iiNet Network Coverage". Retrieved 2008-09-09. 
+^ Phil Sweeney, Whirlpool (2005). "iiNet raises speed, but also line rental". Retrieved 2008-09-09. 
+^ Phil Sweeney, Whirlpool (2007). "Telstra lets cat out of the bag". Retrieved 2008-09-09. 
+^ James Moses, WA Business News (2006). "Speculation mounts on iiNet". Retrieved 2008-09-09. 
+^ iiNet Limited (2006). "Suspension Update" (PDF). Retrieved 2008-09-09. 
+^ James Moses, WA Business News (2006). "iiNet suspension continues into 4th week". Retrieved 2008-09-09. 
+^ Colin Jacoby, WA Business News (2006). "iiNet extends trade halt". Retrieved 2008-09-09. 
+^ Renai LeMay, ZDNet Australia (2006). "Bean-counters to rein in iiNet?". Retrieved 2008-09-09. 
+^ iiNet Limited (2006). "iiNet and PowerTel form strategic alliance" (PDF). Retrieved 2008-09-09. 
+^ Amcom Limited (2006). "Amcom acquires strategic 20% stake in iiNet". Retrieved 2008-09-09. 
+^ ASX (2006). "Appendix 3Y: Change of Director's Interest Notice". Archived from the original on 16 December 2008. Retrieved 2008-09-09. 
+^ iiNet Limited (2006). "iiNet to sell New Zealand Business" (PDF). Retrieved 2008-09-09. 
+^ "iiNet acquires Westnet". 2008. Archived from the original on 9 May 2008. Retrieved 2008-05-08. 
+^ "iiGames shutting down, all hail 3FL". 2008. Retrieved 2008-08-18. 
+^ iiNet Limited (2010). "iiNet announces the acquisition of Netspace" (PDF). Retrieved 2010-08-02. 
+^ iiNet Limited (2010). "Acquisition of the AAPT Consumer Division, Exit of Telecom New Zealand from the register" (PDF). Retrieved 2010-08-02. 
+^ Mitchell Bingemann (2010-07-31). "How iiNet beat the pack to acquire AAPT division". The Australian. Retrieved 2010-08-02. 
+^ Mitchell Bingemann (16 November 2011). "iiNet to buy TransACT". The Australian. Retrieved 26 December 2011. 
+^ "iiNet acquires TransACT". iinet.net.au. iiNet Press – Media Releases. 30 November 2011. Retrieved 26 December 2011. 
+^ Internode (2011). "Internode joins forces with iiNet". Retrieved 2011-12-21. 
+^ iiNet Limited (2011). "http://www.asx.com.au/asxpdf/20111222/pdf/423gl75v07k006.pdf" (PDF). Retrieved 2011-12-21.  External link in |title= (help)
+^ "iiNet announces acquisition of Adam Internet". The Australian newspaper. 5 August 2013. 
+^ Australian Federation Against Copyright Theft (2008). "Film industry launches legal action against iiNet to prevent online peer-to-peer copyright infringement" (PDF). Archived from the original (PDF) on 13 September 2009. Retrieved 2008-11-24. 
+^ Gilbert and Tobin Lawyers (2008). "Statement of Claim: Roadshow Films Pty Ltd & ORS vs iiNet Ltd" (PDF). Retrieved 2008-11-24. 
+^ cite web|url==http://delimiter.com.au/2011/08/30/wikileaks-cable-outs-secret-iitrial-background/
+^ iiNet Limited (2008). "iiNet to Vigorously Defend Federal Court Action" (PDF). Retrieved 2008-11-24. 
+^ Fran Foo, Australian IT (2008-11-25). "Film giants pursue file sharers". The Australian. Retrieved 2008-11-24. 
+^ "Statement of Claim" (PDF). Retrieved 2009-02-10. [dead link]
+^ LawFront.com (2008). "The case against iiNet". Retrieved 2008-11-24. 
+^ "Roadshow Films Pty Ltd & Ors v iiNet Limited [2011] HCATrans 323 (30 November 2011)". Austlii. 30 November 2011. 
+^ LeMay, Renai (4 February 2010). "iiNet wins copyright court case". ZDNet Australia. Retrieved 4 February 2010. 
+^ "Choose a provider". Retrieved 17 July 2015. 
+^ Delimiter. "iiNet stops selling NBN satellite plans". Delimiter. Retrieved 17 July 2015. 
+^ http://www.communications.gov.au/broadband/broadband_initiatives/nbn_cos_interim_satellite_service
+^ "Mobile Voice FAQs". Retrieved 17 July 2015. 
+^ "ASIC Free Company Name Search". Retrieved 17 July 2015. 
+^ ACCC determination
+
+
+External links[edit]
+
+iiNet Official Website
+Westnet – an iiNet subsidiary
+iiNet's discussion forum on Whirlpool
+iiNet's listing on Broadband Choice
+
+
+
+
+
+
+
+v
+t
+e
+
+
+ Internet service providers of Australia
+
+
+
+
+
+
+Economy of Australia
+Internet Censorship
+
+
+
+
+
+Current
+
+
+
+AusBBS
+Aussie Broadband
+BigAir
+Clear Networks
+Connexus Internet
+Dreamtilt
+DeVoteD NBN
+Exetel
+Vocus (aaNet, Amnet, Commander, ClubTelco, Dodo Services, Eftel, Engin, iPrimus, Nextgen Networks)
+NBNSP
+Optus (Virgin Broadband)
+Origin Net
+SkyMesh
+Telstra (Telstra Media, Pacnet)
+TPG Telecom (Adam Internet, iiNet, Internode, Westnet)
+Vodafone
+ZettaNet
+
+
+
+
+
+Wholesale
+
+
+
+nbn™
+Vocus (Nextgen Networks)
+TPG Telecom (AAPT Limited, Agile Communications, Chime Communications, PIPE Networks)
+Origin Net
+Telstra Wholesale
+
+
+
+
+
+Former
+
+
+
+Chariot
+Connect.com.au
+Grapevine
+Neighbourhood Cable
+Netspace
+OPEL Networks
+OzEmail
+Pacific Internet
+Pegasus Networks
+People Telecom
+Amcom
+M2 Group
+
+
+
+
+
+Related topics
+
+
+
+Internet in Australia
+National Broadband Network
+Metadata collection Act
+Mass surveillance in Australia
+Privacy in Australian law
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=IiNet&oldid=791761489"					
+Categories: Internet service providers of AustraliaCompanies listed on the Australian Securities ExchangeCompanies based in Perth, Western AustraliaCompanies established in 1993IinetHidden categories: CS1 errors: external linksAll articles with dead external linksArticles with dead external links from September 2010Use dmy dates from April 2013Pages using deprecated image syntaxAll articles with unsourced statementsArticles with unsourced statements from April 2013Articles needing cleanup from May 2011All pages needing cleanupCleanup tagged articles without a reason field from May 2011Articles using small message boxesWikipedia pages needing cleanup from May 2011 
+
+
+
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+
+Add links 
+
+
+
+
+
+ This page was last edited on 22 July 2017, at 09:38.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iiNet Limited pays $204,000 in penalties following ACCC infringement notices for Naked Broadband Plan advertisements | ACCC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Content
+Skip to Sitemap
+
+
+
+
+
+
+
+ 
+
+
+
+Search form
+Search
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+Toggle navigation
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Media
+Media releases
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Listen
+
+
+
+ 
+ 
+
+
+
+
+iiNet Limited pays $204,000 in penalties following ACCC infringement notices for Naked Broadband Plan advertisements
+
+
+
+
+
+
+
+
+ 
+3 March 2015iiNet Limited (iiNet) has paid penalties of $204,000 following the issue of two infringement notices by the Australian Competition and Consumer Commission in relation to recent advertisements for iiNet’s Naked Broadband 250GB Plan.
+The infringement notices were issued because the ACCC had reasonable grounds to believe that iiNet’s advertisements contravened the Australian Consumer Law (ACL) by failing to prominently state the total minimum price of the service.
+iiNet’s advertisements appeared on a tram and billboard in metropolitan Melbourne in November 2014. The advertisements displayed a monthly price of $69.95 for iiNet’s Naked Broadband 250GB Plan. The total minimum price was included in the advertisement but the ACCC considered that it was not displayed in a prominent way, as required by the ACL.
+“Consumers must be able to understand the true cost of an advertised product so that they can make informed purchasing decisions,” ACCC Chairman Rod Sims said.
+“Businesses must ensure that when they advertise part of the price of a good or service, the total minimum price is also prominently displayed.”
+“Prominence means that the total minimum price can be easily seen and strikes the attention of the consumer. In assessing whether the total minimum price is prominent, it is important to consider the context in which the advertisement appears - for example if the advertisement is on a moving vehicle, where consumers may only be able to see the advertisement momentarily.”
+Consumer protection in the telecommunications sector remains an ACCC enforcement priority.
+In 2014, Telstra paid a $102,000 penalty for an infringement notice in relation to an iPhone 6 advertisement which the ACCC considered made a false or misleading representation as to the total price payable by consumers.
+In 2013, the High Court upheld a decision ordering TPG to pay a $2 million penalty to the ACCC in relation to misleading advertisements. The advertisements gave the impression that consumers could acquire TPG’s Unlimited ADSL2+ broadband internet service for $29.99 per month when in fact it could only be acquired with a bundled home telephone line for an additional $30 per month plus start-up costs.
+The payment of a penalty specified in an infringement notice is not an admission of a contravention of the ACL. The ACCC can issue an infringement notice where it has reasonable grounds to believe a person has contravened certain consumer protection laws.
+As iiNet is a publicly listed company, the amount of each infringement notice penalty is $102,000.
+iiNet tram advertisement
+
+
+ 
+
+
+iiNet billboard advertisement
+
+
+ 
+
+
+The Infringement notices are on the public register.
+Addendum
+This media release was published in error on the ACCC website from 19 February – 27 February 2015.
+Release number: MR 22/15ACCC Infocentre: Use this form to make a general enquiry.
+Media enquiries: Media team - 1300 138 917Tags
+
+Audience
+
+Media
+
+
+
+Topics
+
+Advertising
+
+
+ 
+
+
+ 
+
+ 
+Share
+
+
+
+Facebook
+Twitter
+LinkedIn
+Email
+Print
+ 
+ 
+
+
+
+
+
+
+
+
+
+Media
+
+
+Media releases
+Updates
+Speeches
+Speaking invitations
+Media Code of Conduct 
+Subscriptions
+Video & audioConsumer videos
+
+Image library
+ 
+ 
+
+ 
+Subscribe
+
+
+
+
+Receive email updates on:
+Required fields indicated by: * Media releases
+ Speeches
+
+
+ E-mail *
+Subscribe
+Unsubscribe
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+	Market Report: iiNet Limited - Strategy, SWOT and Corporate Finance Report
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABOUT US
+
+• PUBLISHERS
+• CONTACT US
+• CART
+
+
+
+
+Login | Register
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Industries
+Business & Finance
+-- Business
+-- Financial Services
+-- Insurance
+-- Marketing
+Consumer & Food
+-- Beverages
+-- Consumer Goods
+-- Food
+-- Retailing
+Healthcare
+-- Biotechnology
+-- Healthcare
+-- Medical Devices
+-- Pharmaceuticals
+Heavy Industry
+-- Construction
+-- Energy
+-- Manufacturing
+-- Materials
+-- Transportation
+Internet & Media
+-- E-Business
+-- Internet
+-- Media
+-- Publishing
+Public Sector
+-- Defense
+-- Education
+-- Government
+Telecom & Computing
+-- Computer Technology
+-- Fixed Networks
+-- Software
+-- Wireless
+Company/Country Reports
+-- Company Reports
+-- Country Reports
+-- Regional Reports
+
+
+ 
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Processing...
+
+
+
+
+iiNet Limited - Strategy, SWOT and Corporate Finance Report
+
+     
+                        Jan 31, 2017 - MarketLine 
+                    
+                - 26 pages 
+                - USD $175 
+         
+
+
+
+
+
+Click here to open the POPUP
+
+
+                        You've added the following report to your cart:CLOSE
+
+
+
+
+
+
+
+
+Cart Summary
+
+
+
+                                    Total Items: 
+                                
+
+                                    SubTotal: 
+                                
+
+
+    
+
+
+
+
+
+
+
+
+
+Report Summary
+
+
+Table of Contents
+
+
+Companies
+
+
+Request Details
+
+
+Related
+
+
+
+
+
+
+
+iiNet Limited - Strategy, SWOT and Corporate Finance Report, is a source of comprehensive company data and information. The report covers the company's structure, operation, SWOT analysis, product and service offerings and corporate actions, providing a 360deg view of the company.Key FindingsDetailed information on iiNet Limited required for business and competitor intelligence needsA study of the major internal and external factors affecting iiNet Limited in the form of a SWOT analysisAn in-depth view of the business model of iiNet Limited including a breakdown and examination of key business segmentsIntelligence on iiNet Limited's mergers and acquisitions (MandA), strategic partnerships and alliances, capital raising, private equity transactions, and financial and legal advisorsNews about iiNet Limited, such as business expansion, restructuring, and contract winsLarge number of easy-to-grasp charts and graphs that present important data and key trendsReasons to Get this ReportGain understanding of iiNet Limited and the factors that influence its strategies.Track strategic initiatives of the company and latest corporate news and actions.Assess iiNet Limited as a prospective partner, vendor or supplier.Support sales activities by understanding your customers' businesses better.Stay up to date on iiNet Limited's business structure, strategy and prospects.Report HighlightsiiNet Limited (iiNet) is a provider of digital subscriber line (DSL) Internet and telephony services in Australia. The company offers services such as residential Internet services, mobile broadband services, cable connections, dialup Internet, Wi-Fi hotspots, net phone services, installation and support services and Internet protocol television services for phones, mobiles, computers, TVs and tablets. It has its own broadband network and supports over 1.8 million customers. In addition, the company provides National Broadband Network (NBN) services, a high speed broadband network service. Through these products and services, the company serves to residential customers, small offices, medium businesses and corporate and government entities. It has presence across various cities in Australia. iiNet is a subsidiary of TPG Telecom Limited, and headquartered in Perth, Western Australia, Australia.
+Company Snapshot- iiNet Limited: Company Overview- iiNet Limited: Overview and Key Facts--- iiNet Limited: Overview--- iiNet Limited: Key Facts- iiNet Limited: Key Employees- iiNet Limited: Major Products and Services- iiNet Limited: Company History- iiNet Limited: Locations and Subsidiaries- iiNet Limited: Key CompetitorsiiNet Limited: Company Analysis- iiNet Limited: Business Description- iiNet Limited: SWOT Analysis--- iiNet Limited: SWOT Overview--- iiNet Limited: Strengths--- iiNet Limited: Weaknesses--- iiNet Limited: Opportunities--- iiNet Limited: Threats- iiNet Limited: Corporate Financial Deals Activity- iiNet Limited: Financial Deals Overview- iiNet Limited: Targets and Partners- iiNet Limited: Top Deals 2013 - 2017YTD*- iiNet Limited: Mergers and Acquisitions- iiNet Limited: Private Equity and OwnershipAppendix- Contact Us- Methodology- Definitions- About DatamonitorList of TablesTable 1: iiNet Limited: Key FactsTable 2: iiNet Limited: Key EmployeesTable 4: iiNet Limited: Key CompetitorsTable 5: iiNet Limited: Deal Activity by Deal Type - Volume (2013 - YTD*2017)Table 6: iiNet Limited: MandA Average Deal Size - Value (US$m)Table 7: iiNet Limited: Targets and PartnersTable 8: iiNet Limited: Top Deals 2013 - 2017YTD*Table 9: iiNet Limited: MandA Volume and Value Trend (2013 - YTD*2017)Table 10: iiNet Limited: MandA Activity by Geography (2013 - YTD*2017)Table 11: iiNet Limited: Private Equity and Ownership Volume and Value Trend (2013 - YTD*2017)Table 12: iiNet Limited: Private Equity and Ownership Volume by Deal Type (2013 - YTD*2017)List of FiguresFigure 1: IGI Insurance Limited: Deal Activity by Deal Type - Volume (2013 - YTD*2017)Figure 2: IGI Insurance Limited: MandA Volume and Value Trend (2013 - YTD*2017)
+Companies Mentioned in this ReportiiNet Limited
+This report does not have a press release associated with it
+
+
+
+
+
+
+
+
+
+Order Today!
+
+FORMAT: PDF 
+$175  USD
+LICENSE: Single User 
+DELIVERY: By Email - 1 Business Day
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Fast Market Research Advantage
+
+Only the Best
+            All of our research is sourced from the most trusted and established global analysts and consultancies
+Client Focused
+            From start-ups to multinationals, we focus on providing the right research to our diverse client base
+Shop Securely
+            Our US-based customer service team and eCommerce systems adhere to the highest data security standards
+Industry-leading Customer Support
+            Individualized assistance from our expert staff is never more than an email or phone call away
+
+
+
+
+BEST PRICE GUARANTEE
+We are committed to providing the best research at the lowest cost.  We will match any published price for the same report, guaranteed!
+
+
+
+EASY ORDERING
+Once you’ve found the right report, click ‘order now’ and complete the checkout process
+using any major credit card, check or wire/bank transfer.Need multi-user or enterprise license pricing?  Contact us for a custom quote!
+                  
+
+
+
+
+About the Publisher
+MarketLine is a global publisher of company, industry and country information. Their clients operate across a wide variety of industries and job functions and range from multinational corporations right down to small businesses in both developed and developing economies. MarketLine users enjoy access to content that is trustworthy, up to date and reasonably priced and routinely turn to them as their first-stop resource for instantly accessible, reliable business information. MarketLine is wholly owned subsidiary of Datamonitor.
+
+Publisher Details
+
+
+
+
+
+
+
+Privacy Policy | Terms of Use | FLASHALERTS
+
+
+Copyright &copy 2017 Fast Market Research, Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Media releases | ACCC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Content
+Skip to Sitemap
+
+
+
+
+
+
+
+ 
+
+
+
+Search form
+Search
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+Toggle navigation
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Media
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Listen
+
+
+
+ 
+ 
+
+
+
+
+Media releases
+
+
+
+
+
+
+
+
+ 
+Search
+
+
+
+
+
+
+
+
+
+
+            Release date is after          
+
+ Date
+ e.g. 4 Aug 2017 
+
+
+
+            and before          
+
+ Date
+ e.g. 4 Aug 2017 
+
+
+Go
+
+
+
+ 
+
+
+
+
+
+Title 
+
+Published date 
+
+
+
+
+
+NYK convicted of criminal cartel conduct and fined $25 million 
+
+3 Aug 2017 
+
+
+
+Holden undertakes to comply with consumer guarantees 
+
+3 Aug 2017 
+
+
+
+ACCC invites feedback on NBN Co’s revised Special Access Undertaking variation  
+
+2 Aug 2017 
+
+
+
+Prysmian to pay penalty of $3.5m for engaging in cartel conduct  
+
+31 Jul 2017 
+
+
+
+ACCC grants Bulk Wheat Port Code exemptions at Port of Geelong and Port Adelaide 
+
+28 Jul 2017 
+
+
+
+ACCC takes action against Ford 
+
+26 Jul 2017 
+
+
+
+Egg producer penalised $750,000 for misleading 'free range' claims  
+
+25 Jul 2017 
+
+
+
+Lululemon pays infringement notices 
+
+25 Jul 2017 
+
+
+
+ACCC says Small Businesses just need a level playing field 
+
+24 Jul 2017 
+
+
+
+ACCC investigating Takata airbag recall 
+
+24 Jul 2017 
+
+
+
+Open markets must benefit consumers or distrust will grow 
+
+21 Jul 2017 
+
+
+
+ACCC on changing telecommunications market dynamic 
+
+20 Jul 2017 
+
+
+
+ACCC statement on Aldi Flushable Wipes 
+
+19 Jul 2017 
+
+
+
+Low cost, low cover private health policies rising  
+
+18 Jul 2017 
+
+
+
+ACCC urges Horticulture Industry to comply with code 
+
+17 Jul 2017 
+
+
+
+Beware high risk, no reward investment scams  
+
+17 Jul 2017 
+
+
+
+ACCC releases findings of beer taps investigation 
+
+13 Jul 2017 
+
+
+
+ACCC appeals Tribunal decision in Tabcorp-Tatts merger 
+
+10 Jul 2017 
+
+
+
+Canadian connection builds on international experience 
+
+7 Jul 2017 
+
+
+
+Small business urged to review their payment surcharges 
+
+3 Jul 2017 
+
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+…
+next ›
+last »
+
+
+Subscribe 
+ 
+
+
+ 
+
+ 
+Share
+
+
+
+Facebook
+Twitter
+LinkedIn
+Email
+Print
+ 
+ 
+
+
+
+
+
+
+
+
+
+Media
+
+
+Media releases
+Updates
+Speeches
+Speaking invitations
+Media Code of Conduct 
+Subscriptions
+Video & audioConsumer videos
+
+Image library
+ 
+ 
+
+ 
+Subscribe
+
+
+
+
+Receive email updates on:
+Required fields indicated by: * Media releases
+ Speeches
+
+
+ E-mail *
+Subscribe
+Unsubscribe
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Products 
+
+
+
+
+
+
+
+
+
+
+
+
+- Ministerial Tracking System
+
+- Records
+
+- Document Management (Affordable)
+
+- Booking / Scheduling
+- Complaints
+Resource Management
+- Task
+- Property
+- Risk
+Records / Document Management
+General Office Productivity
+People
+- Travel Proposals and Approvals
+- Rostering
+- Complaints
+- Booking / Scheduling
+- Templates
+- Manual Manager
+- Charting
+
+Click on a product or product group on the left of this screen to view details
+
+Records / Document Management
+
+Document Management
+
+What is this?
+Document Manager is one of a suite of software products that are targeted at improving 
+business management practices, improving access to corporate information (underpinning 
+better decision making) and ultimately supporting public sector accountability.
+
+Document Manager is an 'easy to use' business solution for creating, saving, storing and 
+retrieving electronic corporate documents. Document Manager accommodates a wide 
+range of document formats including (but not limited to) the full suite of Microsoft Office, 
+Microsoft Project, Visio, PDF, WMV, JPEG and TIF. 
+
+Document Manager handles the full cycle of document management (from creation to 
+archiving) as well as easy integration with corporate databases and task management.  
+Document Manager is the end result of optimising and integrating a range of intelligent 
+Microsoft (and network) functionality including:
+
+* Document templates; 
+* A Document Manager toolbar to manage the document life cycle; 
+* Document profiles capturing metadata; 
+* System managed corporate standards for naming conventions and folder structures; 
+* Business focussed search and retrieval tools for a range of scenarios; 
+* Behind the scenes automation enabling users to manage security; and 
+* A structured approach to archiving, while ensuring old documents remain at your fingertips. 
+
+Suitability
+For small, medium and large organisations
+
+Ministerials Manager
+
+What is this? 
+The Ministerials Manager is an all in one software tool that aids the creation, management 
+(and database administration) and workflow of Ministerials correspondence (indeed for any 
+type of structured workflow related to any type of correspondence).
+
+The Ministerials Manager software aids the process by:
+
+* Providing a database to track incoming and outgoing ministerial correspondence - with all 
+the key data fields required for the tracking/management process; 
+
+* Providing a streamlined “template” based tool for users to automatically create the shell of 
+responses to Ministerial correspondence in professional documents based on the defined 
+"action required".
+
+* Providing a workflow solution for routing draft responses through the relevant management 
+cycle - using dates and organisational units referenced in the system; 
+
+* Providing comprehensive search and retrieval tools with exporting to Word for associated 
+business requirements;
+
+* Providing a statistical reporting tool for reporting and graphing overdue responses; 
+
+* Providing integration with our suite of software products including Document Manager 
+(where document links are automatically linked in the Ministerials Manager), Records 
+Manager and Task Manager (Tasks/workflows are automatically linked); and
+* 100% HTML Viewer (i.e. does not require Plug-ins or Add–ons).
+
+The solution is web based and uses a standard Microsoft software platform (.Net2/SQL).
+
+Suitability
+For small, medium and large organisations
+
+Records Management
+
+What is this? 
+The Records Manager is one of a suite of office software packages to aid productivity and 
+information management within organisations.
+
+The Records Manager can be used as a stand alone product or as part of an integrated 
+software solution with existing corporate databases or, for sophisticated and complete 
+integration, with one of the suite of our companion products.
+
+The base functionality of the Records Manager includes:
+
+* Manage details related to agency files (i.e. hard copy files used to store hard copy 
+documents) - including security, history, file plan etc;
+* Manage details related to documents stored on (attached to files) - electronic and hard 
+copy documents
+* Create and administer/manage structured file plan;
+* View electronic documents;
+* Manage Tasks such as on-line new file requests, file transfer and file bring-ups; and
+* Integrates with Task  Manager to provide both simple and sophisticated (e.g. using 
+templates) on line routing of electronic documents.
+* Generation of bar coded file labels; and
+* A host of other records management utilities
+
+Suitability
+For small, medium and large organisations
+
+Our friendly and enthuisiastic team  provide 
+dependable, affordable and smart software to 
+meet your specific needs
+
+home
+
+//
+
+services
+
+products
+
+contact us
+
+//
+
+//
+
+Products
+
+Product Details
+
+Hillcrest Computer Services
+
+
+
+
+
+
+
+iiNet Products - Deals, Coupons & Reviews - OzBargain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OzBargain
+
+
+
+
+
+Deals
+Live
+Forums
+Comps
+Pages
+Login
+Join
+
+
+
+BrandsProductsEventsLocations
+
+
+
+iiNet + 
+
+
+
+
+
+Related
+0 product
+
+
+iiNet Limited is Australia's second-largest internet service provider with more than 1.3 million customers as of 15 August 2011. Their focus is primarily on ADSL-based Internet access, using their own ADSL2+ infrastructure, and reselling Telstra ADSL services. iiNet also provides optical-fibre, dial-up, and voice services.
+
+
+
+
+ 100 
+
+
+ 
+expired iiNet VDSL2 50% off ($39.95) for 12 Months on a 24 Month Contract [ACT Only] - New Customers Only
+SirFlibbled on 08/03/2017 - 18:06  www.iinet.net.au
+
+Just got this. IInet have changed their VDSL plan to unlimited (because 1TB just wasnt enough apparently). But they also have an offer which I thought was pretty neat - connect to VDSL2 $79.95 plan … 
+ 4 Internet 22 Apr  
+
+
+
+ 140 
+
+
+ 
+expired iPhone 6 Unlocked Starting at $840 + $35 for One Month Plan @ iiNet
+DisabledUser149495 on 14/05/2015 - 10:15  www.iinet.net.au
+
+The iPhone 6 is starting at $840 in all colours at iiNet. All iiNet handsets are unlocked so there will be no issues when using a different provider. Here is evidence. This is a huge saving … 
+ 29 Mobile 28 Jun 2015  
+
+
+
+ 30 
+
+
+ 
+expired Sign up to iiNet Deal - Get a $50 Cash Back Rebate
+Store Repwarcom on 01/06/2012 - 11:27  www.warcom.com.au
+
+For the next two months, we're not only offering our famous $50.00 iinet cash back rebate to anyone who signs up to iiNet via Warcom, but! 
+ 10 Internet 28 Apr 2014  
+
+
+
+ 460 
+
+
+ 
+expired For Lucky Few Tasmanians with NBN Access: iiNet NBN Terrabyte Plans + Free Upgrade to 100Mbps
+rodh on 20/08/2010 - 16:24  www.iinet.net.au
+
+Managing Director, Michael Malone said iiNet wanted to give Australia a taste of what the National Broadband Band can deliver, for the same price they'd usually pay for ADSL2+. Mr Malone said the … 
+ 53 Internet 30 Jun 2011  
+
+
+
+ 4712 
+
+
+ 
+expired iiNet Updated ADSL2+ Broadband Plans
+LMartijn on 16/12/2009 - 05:31  www.iinet.net.au
+
+First one... and it won't be for everyone. ii has (finally) updated its plans. For existing customers that have their phone bundled, there's an early Christmas (i've gone from 65GB to 120GB for the … 
+ 129 Internet 28 Apr 2014  
+
+
+
+ 140 
+
+
+ 
+expired FREE Xbox Live Gold 24 Month Subscription ($160 Value) if You Signup with iiNet Broadband in 08
+Ldeanb on 24/12/2008 - 18:04  www.iinet.net.au
+
+ZTYRAWBR iiNet are offering a free 24 month xbox live gold subscription in cooperation with Microsoft if you sign up with any broadband plan with them before the 31st of December 2008. I received the … 
+ 13 Internet 31 Dec 2008  
+
+ RSS Feed 
+
+
+ 
+
+
+
+
+
+
+OzBargain
+
+About Us
+Contact Us
+Blog
+Help
+Advertise
+Badges
+Terms of Use
+Privacy Policy
+Mobile Site
+
+
+
+Statistics
+
+ Online 495 users 2,146 guests
+ 192,636 deals 16,941 comps
+ 4,933,216 comments
+
+
+
+Network
+
+ OzBargain
+ ChoiceCheapies
+ CheapCheapLah
+ Couponese
+
+
+
+All trademarks are owned by their respective owners.OzBargain is an independent community website which has no association with nor endorsement by the respective trademark owners.
+Copyright © 2006-2017 OzBargain ABN: 26 144 073 772
+
+
+
+
+Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Media | ACCC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Content
+Skip to Sitemap
+
+
+
+
+
+
+
+ 
+
+
+
+Search form
+Search
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+Toggle navigation
+
+Menu
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Listen
+
+
+
+ 
+ 
+
+
+
+
+Media
+
+
+
+
+
+
+
+
+ 
+Our Media Unit looks after news releases, media enquiries and speeches. Journalists and media employees may contact the media team at:
+	Telephone: 1300 138 917
+	Email: media@accc.gov.au
+	After hours please phone: 0408 995 408
+	Non-journalists: Contact the ACCC
+
+
+
+
+
+
+Media releases
+The ACCC maintains a full listing of all media releases issued dating back to 1995. 
+
+
+
+
+
+
+
+Updates
+The ACCC publishes updates on a range of matters. You can filter by consumer, business, regulated infrastructure, exemptions and small business.
+ 
+
+
+
+
+
+
+
+Speeches
+Speeches allow us to explain our priorities, set the agenda, tell our story and provide an insight into the work we do. 
+
+
+
+
+
+
+
+Speaking invitations
+Senior ACCC staff are frequently invited to speak at national and international events. All speaking invitations are considered with regard to the relevance of the topic and the audience. 
+
+
+
+
+
+
+
+Media Code of Conduct 
+This code of conduct relates to the ACCC’s enforcement activities (excluding mergers) which include actions the ACCC takes to identify, investigate, prosecute and resolve potential breaches of Part IV of the Competition and Consumer Act 2010 and the Australian Consumer Law (Schedule 2 to the Act). 
+
+
+
+
+
+
+
+Subscriptions
+Keep up-to-date on the latest news and speeches from the ACCC. 
+
+
+
+
+
+
+
+Video & audio
+You can access ACCC videos and audio files, as well as transcripts.
+ 
+
+
+
+
+
+
+
+Image library
+High resolution images for download, the terms of use outline how and what the images may be used for. 
+
+
+
+
+ 
+
+
+ 
+
+ 
+Share
+
+
+
+Facebook
+Twitter
+LinkedIn
+Email
+Print
+ 
+ 
+
+
+
+
+
+
+
+
+
+Media
+
+
+Media releases
+Updates
+Speeches
+Speaking invitations
+Media Code of Conduct 
+Subscriptions
+Video & audioConsumer videos
+
+Image library
+ 
+ 
+
+ 
+Subscribe
+
+
+
+
+Receive email updates on:
+Required fields indicated by: * Media releases
+ Speeches
+
+
+ E-mail *
+Subscribe
+Unsubscribe
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+iiNet Limited : Company Profile and SWOT Analysis - market research report
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Login| 
+
+
+
+				My basket
+			
+			: $ 0.00
+
+
+
+					EUR				
+
+					USD				
+
+					GBP				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Market Research
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+						iiNet Limited : Company Profile and SWOT Analysis					
+
+
+February 2016
+28 pages
+
+Timetric
+
+Report ID: 3638462
+
+
+
+
+
+
+Summary
+
+
+Table of Contents
+
+Search Inside
+
+
+
+
+
+
+
+
+
+SynopsisTimetric's "iiNet Limited : Company Profile and SWOT Analysis" contains in depth information and data about the company and its operations. The profile contains a company overview, key facts, major products and services, SWOT analysis, business description, company history, key competitors, financial analysis, recent developments, key employees, company locations and subsidiaries as well as employee biographies.SummaryThis report is a crucial resource for industry executives and anyone looking to access key information about "iiNet Limited"The report utilizes a wide range of primary and secondary sources, which are analyzed and presented in a consistent and easily accessible format. Timetric strictly follows a standardized research methodology to ensure high levels of data quality and these characteristics guarantee a unique report.Scope - Examines and identifies key information and issues about "iiNet Limited" for business intelligence requirements. - Studies and presents the company's strengths, weaknesses, opportunities (growth potential) and threats (competition). Strategic and operational business information is objectively reported. - The profile also contains information on business operations, company history, major products and services, key employees, and locations and subsidiaries.Reasons To Buy - Quickly enhance your understanding of "iiNet Limited" - Gain insight into the marketplace and a better understanding of internal and external factors which could impact the industry. - Increase business/sales activities by understanding your competitors’ businesses better. - Recognize potential partnerships and suppliers.Key HighlightsiiNet Limited is a provider of digital subscriber line (DSL) Internet and telephony services based in Australia. The company offers services such as residential Internet services, mobile broadband services, cable connections, dialup Internet, Wi-Fi hotspots, net phone services, installation and support services and Internet protocol television services for phones, mobiles, computers, TVs and tablets. The Company has its own broadband network and supports over 1.8 million services. In addition, it provides National Broadband Network (NBN) services, a high speed broadband network service. Through these products and services, the company serves its clientele comprising residential customers, small offices, medium businesses and corporate and government entities. It has a presence in various cities of Australia. iiNet Limited is headquartered in Perth, Western Australia, Australia.						
+
+
+
+
+Table of Contents1 iiNet Limited - Business Analysis1.1 iiNet Limited - Company Overview1.2 iiNet Limited - Business Description1.3 iiNet Limited - Major Products and Services2 iiNet Limited - Analysis of Key Performance Indicators2.1 iiNet Limited - Five Year Snapshot: Overview of Financial and Operational Performance Indicators2.2 iiNet Limited - Key Financial Performance Indicators2.2.1 iiNet Limited - Revenue and Operating Profit2.2.2 iiNet Limited - Asset and Liabilities2.2.3 iiNet Limited - Solvency2.2.4 iiNet Limited - Valuation2.3 iiNet Limited - Key Competitors3 iiNet Limited - Recent Developments4 iiNet Limited - SWOT Analysis4.1 iiNet Limited - SWOT Analysis - Overview4.2 iiNet Limited - Strengths4.3 iiNet Limited - Weaknesses4.4 iiNet Limited - Opportunities4.5 iiNet Limited - Threats5 iiNet Limited - History6 iiNet Limited - Key Employees7 iiNet Limited - Key Employee Biographies8 iiNet Limited - Locations and Subsidiaries8.1 iiNet Limited - Head Office8.2 iiNet Limited - Other Locations and Subsidiaries9 Appendix9.1 Methodology9.2 Ratio Definitions9.3 DisclaimerList of TablesTable 1: iiNet Limited - Major Products and ServicesTable 2: iiNet Limited - Key Ratios - AnnualTable 3: iiNet Limited - Key Ratios - InterimTable 4: iiNet Limited - Key Capital Market IndicatorsTable 5: iiNet Limited - HistoryTable 6: iiNet Limited - Key EmployeesTable 7: iiNet Limited - Key Employee BiographiesTable 8: iiNet Limited - SubsidiariesList of FiguresFigure 1: iiNet Limited - Revenue and Operating ProfitFigure 2: iiNet Limited - Financial PositionFigure 3: iiNet Limited - SolvencyFigure 4: iiNet Limited - Valuation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Our reports have been used by over 10K customers, including: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Get Industry Insights. Simply.
+
+
+
+
+
+
+
+
+
+Latest reports & slideshows with insights from top research analysts 
+60 Million searchable statistics with tables, figures & datasets
+More than 25,000 trusted sources
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			$125 - 1 User License		
+
+			$250 - Site License		
+
+			$375 - Corporate License		
+
+
+
+
+
+Single User License — provides access to the report by one individual.
+Department License  — allows you to share the report with up to 5 users
+Site License  — allows the report to be shared amongst all employees in a defined country
+Corporate License  — allows for complete access, globally.
+
+
+
+
+
+Immediate Delivery
+
+
+Get Report
+
+Pay by invoice
+Get a quote
+
+
+
+
+
+
+
+Veronica helps you find the right report:
+
+
++1 718 514 2762
+Contact by email 
+
+
+
+Testimonials
+
+
+
+
+
+
+
+
+
+
+The research specialist advised us on the best content for our needs and provided a great report and follow-up, thanks very much we shall look at ReportLinker in the future.
+Kate Merrick
+Global Marketing Manager at Eurotherm by Schneider Electric
+
+
+
+
+
+We were impressed with the support that ReportLinker’s research specialists’ team provided. The report we purchased was useful and provided exactly what we want.
+
+Category Manager at Ikea
+
+
+
+
+
+ReportLinker gave access to reliable and useful data while avoiding dispersing resources and spending too much time on unnecessary research.
+
+Executive Director at PwC Advisory
+
+
+
+
+
+The customer service was fast, responsive, and 100% professional in all my dealings (...) If we have more research needs, I'll certainly prioritize working with ReportLinker!
+Scott Griffith
+Vice President Marketing at Maurice Sporting Goods
+
+
+
+
+
+The research specialist provided prompt, helpful instructions for accessing ReportLinker's product. He also followed up to make sure everything went smoothly and to ensure an easy transition to the next stage of my research
+Jessica P Huffman
+Research Associate at American Transportation Research Institute
+
+
+
+
+
+Excellent customer service. Very responsive and fast.
+
+Director, Corporate Strategy at Ingredion
+
+
+
+
+
+I reached out to ReportLinker for a detailed market study on the Air Treatment industry. The quality of the report, the research specialist’s willingness to solve my queries exceeded my expectations. I would definitely recommend ReportLinker for in-depth industry information.
+Mariana Mendoza
+Global Platform Senior Manager at Whirlpool Corporation
+
+
+
+
+
+Thanks! I like what you've provided and will certainly come back if I need to do further research works.
+Bee Hin Png
+CEO at LDR Pte Ltd
+
+
+
+
+
+The research specialist advised us on the best content for our needs and provided a great report and follow-up, thanks very much we shall look at ReportLinker in the future.
+Kate Merrick
+Global Marketing Manager at Eurotherm by Schneider Electric
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advanced search
+
+
+
+
+
+Support center
+Terms and conditions
+Privacy Policy 
+
+
+Become a publisher
+About us
+Industry Insights
+Industry Statistics
+
+ref:plp2016
+Reportlinker.com © Copyright 2017. All rights reserved.
+
+
+		ReportLinker simplifies how Analysts and Decision Makers get industry data for their business.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Customers  
+
+        
+Skip to main content
+
+
+
+Residential
+
+
+
+Business
+
+
+
+Customers
+
+
+Sales: 13 19 17
+Support: 13 22 58
+
+ Webmail
+
+
+ Toolbox                            
+
+
+
+
+MENU
+
+Call Us
+Sales
+
+  13 19 17                                    
+
+
+
+Support
+
+  13 22 58                                    
+
+
+
+Business Support
+
+  13 86 89                                        
+
+
+
+More contact details
+
+
+
+  
+
+  
+
+New blog post: {{ articles[0].title }} by {{ articles[0].author }} - Read now.
+
+
+Log in to iiNet
+Webmail Toolbox
+
+
+iiNet Blog
+
+
+
+Freezone
+
+
+
+Network Status
+
+
+ Set top boxEasy watch appsPremium channels30 movies each month* Kids Pack
+
+
+
+
+
+
+
+
+
+
+
+Set top box 
+Easy watch apps
+
+Premium channels
+
+30 movieseach month*
+Fetch Mini setup $59.99. Avail in selected coverage areas. *30 pre-selected movies each month. Fetch requires min speed of 3Mbps. Subscriptions required for Netflix and Stan.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Web
+iiNet
+Help & Support
+ Call 13 22 58 for support
+
+
+
+Submit
+
+
+NetworkStatus
+
+
+Update your payment details
+
+
+Moving house
+
+
+Change your internet plan
+
+
+Update your contact details
+
+
+Retrieve your password
+
+
+Request an invoice extension
+
+
+Gettingset up
+
+
+The latest from the  Blog
+Loading latest Blog articles...
+
+Click here to visit the Blog
+{{ article.title }}
+by {{ article.author }}Continue reading
+{{ article.comment_count}} comments Posted on {{ article.posted }}
+
+
+
+Connect better with iiNet's award-winning serviceWe love the â€˜net... So we've made it our job to connect more Australians to faster broadband, phone and web services and backed it all up with friendly customer service staff who know our products inside out.
+View all of our awards.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“”
+{{ testimonial.who }}
+{{ testimonial.when }}
+
+
+
+
+
+
+
+
+
+iiNet Customer Service
+
+Rated 4.07 out of 5
+based on 344,030 ratings.
+
+
+PROUDLYSPONSORING
+
+
+  
+            
+
+
+    iiNet Limited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Login -
+  My basket -
+  
+
+
+
+
+EUR GBP 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iiNet Limited
+
+September 2016
+19 pages
+Paul Budde Communication Pty Ltd
+        
+
+Report ID: 1657926
+
+
+
+Summary
+Table of contents
+Search Inside
+
+
+		iiNet Limited has developed into one of the largest DSL providers in Australia. The company delivers a wide range of telecom services including fixed-voice, mobile and broadband services, business data housing and cloud-based services, VoIP and IPTV. The company manages a significant DSL and FttP network.During the last few years iiNet has expanded through a strategic program of acquisitions, which has consolidated its strengthening market position in the business broadband and mobile voice and data sectors.In August 2015, iiNet was acquired by local telco TPG Telecom and ceased trading on the ASX. This company report provides an overview of iiNet including analyses on its strategies.Companies covered in this report:Amcom, Netspace, OzEmail, Westnet, ihug, Internode, AAPT, FetchTV, Polycom, TransACT, iiNet, Supernerd, Telstra.
+	
+
+		1.  Synopsis2.  Company information2.1 Overview2.2 Change of Ownership3.  Financial results3.1 Year 20163.2 Year 20153.3 Year 20143.4 Year 20133.5 Year 20123.6 Year 20114.  Operating results4.1 Subscriber statistics5.  Company analysis6.  Network6.1 Overview6.2 DSLAM rollout6.3 Dark fibre6.4 Fibre-to-the-Premises (FttP)6.5 iiNet’s plans for undersea network expansion taking shape6.6 WiFi rollouts in Melbourne7.  Acquisitions, alliances and subsidiary companies7.1 Acquisition overview7.2 Partnership with Polycom 7.3 Acquisition of ISP Westnet7.4 Alliance with FOX Sports7.5 Alliance with Hypernia7.6 Alliance with Hybrid Television Services7.7 Alliance with Hutchison7.8 Amcom and PowerTel acquire stake in iiNet7.9 Partnership with FetchTV7.10 Acquisition of AAPT Consumer Division7.11 Acquisition of Supernerd7.12 Acquisition of TransACT7.13 Acquisition of Internode7.14 Acquisition of Adam Internet7.15 Acquisition of Tech27.16 Partnership with Allseen8.  Products and services8.1 Home and SOHO8.2 Business8.3 Reselling agreements9.  Company history9.1 Brief timeline  1993 - 201410.  Related reportsTable  1  iiNet total revenue  2004 - 2016Table  2  iiNet  revenue breakdown by market segment  2015 - 2016Table  3  iiNet key financial statistics  2007 - 2016Table  4  iiNet ARPU by service  2008 - 2014Table  5  iiNet total revenue (historic)  1997 - 2003Table  6  iiNet  Broadband Subscribers (thousands) by Product  2015 - 2016Table  7  Historic - iiNet active subscribers  1997 - 2004Table  8  Historic - iiNet active subscribers  2005 - 2015Table  9  iiNet internet subscribers by type  2007 - 2014Table  10  iiNet voice subscribers by type  2007 - 2014Table  11  iiNet DSLAM exchanges  2009; 2011 - 2012Table  12  iiNet’s acquisitions  2003 - 2014Table  13  Internode ADSL2+ statistical overview  2006 - 2012Table  14  iiNet business revenue  2009 - 2014Exhibit  1  iiNet Limited (iiNet) at a glanceExhibit  2  TransACT Communications Pty Ltd (TransACT) at a glance  2011Exhibit  3  Network FttK coverageExhibit  4  Broadband ISPs over TransACT networkExhibit 5  TransACT brief company historyExhibit 6  Internode Pty Limited (Internode) at a glance  2012Exhibit 7  Internode brief company history
+	
+
+
+
+
+
+
+
+            Loading...
+          
+
+
+            We are very sorry, but an error occurred.
+            Please contact support@reportbuyer.com if the problem remains.
+          
+
+
+
+
+
+
+
+
+
+Immediate delivery
+
+
+
+
+
+
+              $ 390 - 1 User License
+              
+
+              $ 780 - Department License
+              
+
+              $ 1560 - Site License
+              
+
+              $ 1560 - Corporate License
+              
+
+
+
+
+Get Report
+Pay by invoice
+Get a quote
+
+
+
+ Veronica helps you find the right report:
+
++1 718 213 4904
+Contact by email
+
+
+
+
+FAQ
+
+Delivery time
+User license
+Payment options
+
+
+
+Testimonials
+
+
+
+
+
+
+
+The market research advisor answered my questions quickly and professionally. ReportBuyer's team did their best to ensure that I felt comfortable before making the investment to purchase the report.
+
+
+Cristian Nunez
+          Director of Corporate Development Chugach Alaska Corporation
+        
+
+
+
+My overall experience with ReportBuyer today has been very positive, and I must thank you for your patience (...). Also, the sample you sent me and the explanations provided were very helpful.
+
+
+D. Lescuyer
+          Executive Vice President Oral Business at Skyepharma
+        
+
+
+
+The research specialist was very helpful, and proposed the best content for my needs.
+ReportBuyer also offered a great follow-up, thanks for everything !
+
+
+P. Thompson
+          EMEA Managing Director
+        
+
+
+
+We were satisfied with the support that ReportBuyer's team provided. Thanks to their recommendations, the report we purchased provided exactly what we want.
+
+
+Y. Wang
+          Business Analyst
+        
+
+
+
+We didn't have time to do the research internally, and thanks to ReportBuyer's team we were able to find the appropriate data.
+
+
+S. Chen
+          Research Coordinator
+        
+
+
+
+I was impressed by the customer service: it was fast, responsive, and 100% professional !
+
+
+D. Krivan
+          Market Research Analyst
+        
+
+
+
+The research specialist provided prompt and helpful service. He also followed up to ensure I had all the information to deliver my business development plan.
+
+
+C. Adams
+          Senior Business Development Manager
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Our reports have been used by over 10K customers, including:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related reports and data
+
+
+
+
+
+
+            Topics
+                            under
+                                            Internet Services
+
+
+
+Broadband
+
+
+
+        Internet Services
+    
+
+
+
+
+
+
+            Parent Industry        
+
+
+Telecom
+
+
+
+
+
+
+
+            Related Industries
+        
+
+
+Fixed Line
+
+
+Mobile Services
+
+
+Television Broadcasting
+
+
+VOIP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    TPG Telecom Limited
+                
+
+ 355
+ 390
+ 301
+
+                                    22 pages •
+                                By Paul Budde Communication Pty Ltd 
+                •     Apr 2017
+
+            
+
+
+                                                    TPG Telecom Limited provides telecoms and multimedia services in the Australian marketplace. TPG acquired local ISP iiNet. TPG is now Australias second-biggest provider of fixed-line broadband in Australia with over 1.7 million customers. Services including voice, internet and data solutions are provided to a customer base ranging from the...
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    NBN – National Broadband Network – Australia Project Profile
+                
+
+ 68
+ 75
+ 58
+
+                                    15 pages •
+                                By Timetric 
+                •     Mar 2017
+
+            
+
+
+                                                    Synopsis "NBN – National Broadband Network – Australia Project Profile" contains information on the scope of the project including project overview and location. The profile also details project ownership and funding, gives a full project description, as well as information on contracts, tendering and key project contacts.  The...
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    SPK/VOD/TLS – Auckland to Sydney Tasman Global Access Cable – New Zealand Project Profile
+                
+
+ 68
+ 75
+ 58
+
+                                    8 pages •
+                                By Timetric 
+                •     Mar 2017
+
+            
+
+
+                                                    Synopsis "SPK/VOD/TLS – Auckland to Sydney Tasman Global Access Cable – New Zealand Project Profile" contains information on the scope of the project including project overview and location. The profile also details project ownership and funding, gives a full project description, as well as information on contracts, tendering and...
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Vocus - M2
+                
+
+ 355
+ 390
+ 301
+
+                                    32 pages •
+                                By Paul Budde Communication Pty Ltd 
+                •     Mar 2017
+
+            
+
+
+                                                    Vocus is an Australian based telecommunications provider with offices in Australia and New Zealand. Its services include co-location, internet, voice, fibre and ethernet services. Vocus merged with M2 Communications in 2016 and acquired Amcom in 2015, a second-tier telecommunications carrier providing fibre, cloud services, IP voice solutions,...
+                                            
+
+
+
+
+
+More…
+
+
+
+
+
+        Country=Australia Industry=InternetServices ParentIndustry=Telecom Date=201609 Topic=CompanyProfile Publisher=PaulBuddeCommunicationPtyLtd Price=1000
+    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+iiNet | Broadband internet, NBN plans, ADSL2+ and Naked DSL  
+
+        
+Skip to main content
+
+
+
+Residential
+
+
+
+Business
+
+
+
+Customers
+
+
+Sales: 13 19 17
+Support: 13 22 58
+
+ Webmail
+
+
+ Toolbox                            
+
+
+
+
+MENU
+
+Call Us
+Sales
+
+  13 19 17                                    
+
+
+
+Support
+
+  13 22 58                                    
+
+
+
+Business Support
+
+  13 86 89                                        
+
+
+
+More contact details
+
+
+
+  
+
+
+ NBN™ Broadband TV
+
+
+ Start Running on the NBN
+
+
+ $79.99 per month. Min Charge $258.94 - No lock-in contract
+
+
+
+ Superfast Liimitless Data
+
+
+ Start Running on the NBN
+
+
+ $79.99 per month. Min Charge $258.94 - No lock-in contract
++ Local & Standard National CallsMin charge incl $79.95 setup fee + $99 hardware cost (HFC only). Available in selected coverage areas.
+
+
+
+
+NBN Ready
+
+
+Liimitless Data
+
+
+
+ $69.99 per month. Min Charge $169.94 - No lock-in contract
+
+
+Get Started
+
+
+Min charge incl $99.95 setup fee. Available in selected coverage areas.
+
+
+
+ Set top boxEasy watch appsPremium channels30 movies each month* Kids Pack
+
+
+
+
+
+
+
+
+
+
+
+Set top box 
+Easy watch apps
+
+Premium channels
+
+30 movieseach month*
+Fetch Mini setup $59.99. Avail in selected coverage areas. *30 pre-selected movies each month. Fetch requires min speed of 3Mbps. Subscriptions required for Netflix and Stan.
+
+
+
+Connect Better with iiNet
+
+Congratulations!
+Naked DSL
+and On-Net ADSL2+
+areis
+available at your address.
+Congratulations!NBN
+is available at your address.Awesome news!Your home's estimated NBN™ connection date is {{sq.nbnEta}}*.NBN™ will be ready any day now. Your address was expected to have NBN™ available from {{sq.nbnEta}}*.Pre-Order and we will connect you as soon as the NBN™ arrives. Pre-order the NBN™Get {{ bob.brand }}Cable VDSL2 FTTH Naked  or  ADSL2+ Off-Net ADSL2+ and upgrade to the NBN™ later.
+Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband
+Get NBN™ Ready BroadbandLeave your details and get updates on NBN™ options for you. Get updates on NBN™*Expected date is based on information provided by NBN™ and is subject to change
+Your area uses NBN Fibre to the Premises (FTTP) Technology, you can read more about it on
+Your area uses NBN Fibre to the Node (FTTN) Technology, you can read more about it on
+Your area uses NBN Fibre to the Building (FTTB) Technology, you can read more about it on
+Your area uses NBN Hybrid Fibre-Coaxial (HFC) Technology, you can read more about it on
+{{ bob.support }}
+NBN Wireless is available at your address.Congratulations!
+Ultrafast Cable broadband
+super-fast VDSL2 broadband
+NBN Wireless
+NBN Satellite
+Fibre to the Home
+is available at  your address.
+is coming soon to your address.Awesome news!Your home's estimated NBN™ connection date is {{sq.nbnEta}}*.NBN™ will be ready any day now. Your address was expected to have NBN™ available from {{sq.nbnEta}}*.Pre-order and we will connect you as soon as the NBN™ arrives. Pre-order NBN™ Wireless Get {{bob.brand}} Cable VDSL2 FTTH Naked  or  ADSL2+ Off-Net ADSL2+ Broadband today and you can upgrade to the NBN™ later.
+Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband
+Get NBN™ Ready BroadbandLeave your details and get updates on NBN™ options for you. Get updates on NBN™*Expected date is based on information provided by NBN™ and is subject to changeAwesome news!Your home's estimated NBN™ connection date is {{sq.nbnEta}}*.NBN™ will be ready any day now. Your address was expected to have NBN™ available from {{sq.nbnEta}}*.Pre-order and we will connect you as soon as NBN™ Satellite arrives. Pre-order NBN™ Satellite Get {{bob.brand}} Cable VDSL2 FTTH Naked  or  ADSL2+ Off-Net ADSL2+ Broadband today and you can upgrade to the NBN™ later.
+Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband
+Get NBN™ Ready BroadbandLeave your details and get updates on NBN™ options for you. Get updates on NBN™*Expected date is based on information provided by NBN™ and is subject to changeCongratulations!
+On-Net ADSL2+
+Off-Net ADSL2+
+is available at your address.
+View Cable plans
+
+
+View VDSL2 plans
+
+
+View NBN plans
+
+
+View NBN Wireless plans
+
+
+View NBN Satellite plans
+
+
+View Naked DSL plans
+View On-Net ADSL2+ plans
+
+
+View FTTH plans
+
+
+View Off-Net ADSL2+ plans
+ We need additional information to check your address. Please call our call centre on 13 19 17.
+NBN
+
+Naked DSL
+
+ADSL2+
+
+NetworkStatus
+
+iiHelp
+
+Contact
+Moving? Let our dedicated moving services team help you out. Find out more
+
+ Cable
+
+ VDSL2
+
+ Fetch
+
+ Mobile
+
+ Phone
+
+ Business
+
+Upgrade plan. Simply log into toolbox and choose a plan you want. Upgrade today View the Desktop Site 
+  Connect Better with iiNet, the #1 in customer service
+
+Congratulations!
+Naked DSL
+and On-Net ADSL2+
+areis
+available at your address.
+Congratulations!NBN
+is available at your address.Awesome news!Your home's estimated NBN™ connection date is {{sq.nbnEta}}*.NBN™ will be ready any day now. Your address was expected to have NBN™ available from {{sq.nbnEta}}*.Pre-Order and we will connect you as soon as the NBN™ arrives. Pre-order the NBN™Get {{ bob.brand }}Cable VDSL2 FTTH Naked  or  ADSL2+ Off-Net ADSL2+ and upgrade to the NBN™ later.
+Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband
+Get NBN™ Ready BroadbandLeave your details and get updates on NBN™ options for you. Get updates on NBN™*Expected date is based on information provided by NBN™ and is subject to change
+Your area uses NBN Fibre to the Premises (FTTP) Technology, you can read more about it on
+Your area uses NBN Fibre to the Node (FTTN) Technology, you can read more about it on
+Your area uses NBN Fibre to the Building (FTTB) Technology, you can read more about it on
+Your area uses NBN Hybrid Fibre-Coaxial (HFC) Technology, you can read more about it on
+{{ bob.support }}
+NBN Wireless is available at your address.Congratulations!
+Ultrafast Cable broadband
+super-fast VDSL2 broadband
+NBN Wireless
+NBN Satellite
+Fibre to the Home
+is available at  your address.
+is coming soon to your address.Awesome news!Your home's estimated NBN™ connection date is {{sq.nbnEta}}*.NBN™ will be ready any day now. Your address was expected to have NBN™ available from {{sq.nbnEta}}*.Pre-order and we will connect you as soon as the NBN™ arrives. Pre-order NBN™ Wireless Get {{bob.brand}} Cable VDSL2 FTTH Naked  or  ADSL2+ Off-Net ADSL2+ Broadband today and you can upgrade to the NBN™ later.
+Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband
+Get NBN™ Ready BroadbandLeave your details and get updates on NBN™ options for you. Get updates on NBN™*Expected date is based on information provided by NBN™ and is subject to changeAwesome news!Your home's estimated NBN™ connection date is {{sq.nbnEta}}*.NBN™ will be ready any day now. Your address was expected to have NBN™ available from {{sq.nbnEta}}*.Pre-order and we will connect you as soon as NBN™ Satellite arrives. Pre-order NBN™ Satellite Get {{bob.brand}} Cable VDSL2 FTTH Naked  or  ADSL2+ Off-Net ADSL2+ Broadband today and you can upgrade to the NBN™ later.
+Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband
+Get NBN™ Ready Broadband
+Get NBN™ Ready BroadbandLeave your details and get updates on NBN™ options for you. Get updates on NBN™*Expected date is based on information provided by NBN™ and is subject to changeCongratulations!
+On-Net ADSL2+
+Off-Net ADSL2+
+is available at your address.
+View Cable plans
+
+
+View VDSL2 plans
+
+
+View NBN plans
+
+
+View NBN Wireless plans
+
+
+View NBN Satellite plans
+
+
+View Naked DSL plans
+View On-Net ADSL2+ plans
+
+
+View FTTH plans
+
+
+View Off-Net ADSL2+ plans
+ We need additional information to check your address. Please call our call centre on 13 19 17. 
+or browse all internet products
+NBN™Superfast broadband on the National Broadband Network
+View NBN™ plans
+
+Naked DSLFast, great value broadband without line rental.
+View Naked DSL plans
+
+ADSL2+Great value broadband and home phone bundles
+View ADSL2+ plans
+
+
+BundlesGreat value broadband and home phone bundles
+View Bundled plans
+
+
+Moving?   Let our dedicated moving services team help you out. Find out more Find out more
+
+
+CableGet 50% off for the first 12 months. Available in Geelong, Mildura and Ballarat.
+View Cable plans
+PhoneLow call rates with no frills or hidden costs. It's great value, plain and simple.
+View Phone plans
+MobileOur SIM-only mobile plans let you keep your old mobile number, while giving you beefy call and data value.
+View Mobile plans
+Business SolutionsComplete solutions to start or grow your business and customised solutions for large organisations and governments.
+Go to Business
+Connect better with iiNet's award-winning serviceWe love the â€˜net... So we've made it our job to connect more Australians to faster broadband, phone and web services and backed it all up with friendly customer service staff who know our products inside out.
+View all of our awards.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“”
+{{ testimonial.who }}
+{{ testimonial.when }}
+
+
+
+
+
+
+
+
+
+iiNet Customer Service
+
+Rated 4.07 out of 5
+based on 344,030 ratings.
+
+
+PROUDLYSPONSORING
+
+
+  
+
+         

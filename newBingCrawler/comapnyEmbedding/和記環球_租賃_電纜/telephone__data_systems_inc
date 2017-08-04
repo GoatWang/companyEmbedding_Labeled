@@ -1,0 +1,4440 @@
+
+
+
+Cisco Systems - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Cisco Systems
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+"Cisco" redirects here. For other uses, see Cisco (disambiguation).
+
+Cisco Systems, Inc.
+
+
+
+
+
+Type
+
+Public
+
+
+Traded as
+
+
+
+NASDAQ: CSCO
+NASDAQ-100 Component
+DJIA Component
+S&P 100 Component
+S&P 500 Component
+
+
+
+
+
+Industry
+Networking equipment
+
+
+Founded
+December 10, 1984; 32 years ago (1984-12-10) in San Francisco, California, United States
+
+
+Founders
+Leonard Bosack
+Sandy Lerner
+
+
+Headquarters
+San Jose, California, U.S.[1]
+
+
+
+Area served
+
+Worldwide
+
+
+
+Key people
+
+
+
+
+John Chambers
+(Chairman)
+Chuck Robbins
+(CEO)
+
+
+
+
+
+Products
+List of Cisco Products
+
+
+Revenue
+ US$49.24 billion (2016)[2]
+
+
+
+Operating income
+
+ US$12.66 billion (2016)[2]
+
+
+
+Net income
+
+ US$10.73 billion (2016)[2]
+
+
+Total assets
+ US$121.6 billion (2016)[2]
+
+
+Total equity
+ US$63.58 billion (2016)[2]
+
+
+
+Number of employees
+
+71,883 (2016)[3]
+
+
+Subsidiaries
+List of Cisco Acquisitions
+
+
+Website
+Cisco.com
+
+
+Coordinates: 37°24′30″N 121°57′15″W﻿ / ﻿37.4083562°N 121.954088°W﻿ / 37.4083562; -121.954088
+Cisco Systems, Inc. (known as Cisco) is an American multinational technology conglomerate headquartered in San Jose, California, in the center of Silicon Valley, that develops, manufactures, and sells networking hardware, telecommunications equipment, and other high-technology services and products.[4] Through its numerous acquired subsidiaries, such as OpenDNS, WebEx, and Jasper, Cisco specializes into specific tech markets, such as Internet of Things (IoT), domain security, and energy management.
+Cisco is the largest networking company in the world. The stock was added to the Dow Jones Industrial Average on June 8, 2009, and is also included in the S&P 500 Index, the Russell 1000 Index, NASDAQ-100 Index and the Russell 1000 Growth Stock Index.[5]
+Cisco Systems was founded in December 1984 by Leonard Bosack and Sandy Lerner, two Stanford University computer scientists, who pioneered the concept of a local area network (LAN) being used to connect geographically disparate computers over a multiprotocol router system. By the time the company went public in 1990, when it was listed on the NASDAQ, Cisco had a market capitalization of $224 million. Cisco was the most valuable company in the world by 2000, with a more than $500 billion market capitalization.[6]
+
+
+
+Contents
+
+
+1 History
+
+1.1 1984–1995: Origins and initial growth
+1.2 1996–2005: Internet and silicon intelligence
+1.3 2006–2012: The Human Network
+1.4 Present day
+
+
+2 Corporate structure
+
+2.1 Acquisitions and subsidiaries
+
+
+3 Products and services
+
+3.1 VoIP services
+3.2 Hosted Collaboration Solution (HCS)
+3.3 Network Emergency Response
+3.4 Certifications
+
+
+4 Corporate affairs
+
+4.1 Awards and accolades
+4.2 Controversies
+
+
+5 See also
+6 References
+7 Further reading
+8 External links
+
+
+
+History[edit]
+1984–1995: Origins and initial growth[edit]
+Cisco Systems was founded in December 1984 by Leonard Bosack, who was in charge of the Stanford University computer science department's computers, and his wife Sandy Lerner, who managed the Graduate School of Business' computers.[7]
+Despite founding Cisco in 1984, Bosack, along with Kirk Lougheed, continued to work at Stanford on Cisco's first product. It consisted of exact replicas of Stanford's "Blue Box" router and a stolen[8] copy of the University's multiple-protocol router software. The software was originally written some years earlier at Stanford medical school by research engineer William Yeager. Bosack and Lougheed adapted it into what became the foundation for Cisco IOS. On July 11, 1986, Bosack and Lougheed were forced to resign from Stanford and the university contemplated filing criminal complaints against Cisco and its founders for the theft of its software, hardware designs and other intellectual properties. In 1987, Stanford licensed the router software and two computer boards to Cisco.
+In addition to Bosack, Lerner and Lougheed, Greg Satz, a programmer, and Richard Troiano, who handled sales, completed the early Cisco team. The company's first CEO was Bill Graves, who held the position from 1987 to 1988.[9] In 1988, John Morgridge was appointed CEO.
+The name "Cisco" was derived from the city name San Francisco, which is why the company's engineers insisted on using the lower case "cisco" in its early years. The logo is intended to depict the two towers of the Golden Gate Bridge.[10]
+On February 16, 1990, Cisco Systems went public (with a market capitalization of $224 million) and was listed on the NASDAQ stock exchange. On August 28, 1990, Lerner was fired. Upon hearing the news, her husband Bosack resigned in protest. The couple walked away from Cisco with $170 million, 70% of which was committed to their own charity.[11]
+Although Cisco was not the first company to develop and sell dedicated network nodes,[12] it was one of the first to sell commercially successful routers supporting multiple network protocols.[13] Classical, CPU-based architecture of early Cisco devices coupled with flexibility of operating system IOS allowed for keeping up with evolving technology needs by means of frequent software upgrades. Some popular models of that time (such as Cisco 2500) managed to stay in production for almost a decade virtually unchanged—a rarity in high-tech industry. Although Cisco was strongly rooted in the enterprise environment, the company was quick to capture the emerging service provider environment, entering the SP market with new, high-capacity product lines such as Cisco 7000 and Cisco 8500.
+Between 1992 and 1994, Cisco acquired several companies in Ethernet switching, such as Kalpana, Grand Junction, and most notably, Mario Mazzola's Crescendo Communications which together formed the Catalyst business unit. At the time, the company envisioned layer 3 routing and layer 2 (Ethernet, Token Ring) switching as complementary functions of different intelligence and architecture—the former was slow and complex, the latter was fast but simple. This philosophy dominated the company's product lines throughout the 1990s.
+In 1995, John Morgridge was succeeded by John Chambers.[14]
+1996–2005: Internet and silicon intelligence[edit]
+
+
+
+
+John T. Chambers led Cisco as its CEO between 1995 and 2015. (Pictured at 2010 World Economic Forum, in Davos, Switzerland).
+
+
+The phenomenal growth of the Internet in mid-to-late 1990s quickly changed the telecom landscape. As the Internet Protocol (IP) became widely adopted, the importance of multi-protocol routing declined. Nevertheless, Cisco managed to catch the Internet wave, with products ranging from modem access shelves (AS5200) to core GSR routers that quickly became vital to Internet service providers and by 1998 gave Cisco de facto monopoly in this critical segment.[citation needed]
+In late March 2000, at the height of the dot-com bubble, Cisco became the most valuable company in the world, with a market capitalization of more than $500 billion.[6][15] In July 2014, with a market cap of about US$129 billion,[16] it is still one of the most valuable companies.[17]
+The perceived complexity of programming routing functions in silicon led to formation of several startups determined to find new ways to process IP and MPLS packets entirely in hardware and blur boundaries between routing and switching. One of them, Juniper Networks, shipped their first product in 1999 and by 2000 chipped away about 30% from Cisco SP Market share. Cisco answered the challenge with homegrown ASICs and fast processing cards for GSR routers and Catalyst 6500 switches. In 2004, Cisco also started migration to new high-end hardware CRS-1 and software architecture IOS-XR.
+2006–2012: The Human Network[edit]
+
+
+
+
+Russian President Dmitry Medvedev and California Gov. Arnold Schwarzenegger at Cisco, 2010.[18]
+
+
+As part of a massive rebranding campaign in 2006, Cisco Systems adopted the shortened name "Cisco" and created "The Human Network" advertising campaign.[19] These efforts were meant to make Cisco a "household" brand—a strategy designed to support the low-end Linksys products and future consumer products (such as Flip Video camera acquired by Cisco in 2009).
+On the more traditional business side, Cisco continued to develop its extensive enterprise-focused routing, switching and security portfolio. The quickly growing importance of Ethernet also influenced the company's product lines, prompting the company to morph the successful Catalyst 6500 Ethernet switch into all-purpose Cisco 7600 routing platform.[20] However, limits of IOS and aging Crescendo architecture also forced Cisco to look at merchant silicon in the carrier Ethernet segment. This resulted in a new ASR9000 product family intended to consolidate company's carrier ethernet and subscriber management business around EZChip-based hardware and IOS-XR. Cisco also expanded into new markets by acquisition—one example being a 2009 purchase of mobile specialist Starent Networks that resulted in ASR5000 product line.
+Throughout the mid-2000s, Cisco also built a significant presence in India, establishing its Globalization Centre East in Bengaluru for $1 billion, and planning that 20% of Cisco's leaders would be based there.[21]
+However, Cisco continued to be challenged by both domestic Alcatel-Lucent, Juniper Networks and overseas competitors Huawei. Due to lower-than-expected profit in 2011, Cisco was forced to reduce annual expenses by $1 billion. The company cut around 3,000 employees with an early-retirement program who accepted buyout and planned to eliminate as many as 10,000 jobs (around 14 percent of the 73,400 total employees before curtailment).[22][23] During the 2011 analyst call, Cisco's CEO John Chambers called out several competitors by name,[24] including Juniper and HP.
+On July 24, 2012, Cisco received approval from the EU to acquire NDS (a TV software developer) for USD 5 billion.[25] This acquisition signaled the end of "The Human Network" strategy as Cisco found itself backing off from household hardware like Linksys[26] and Flip into the cloud and software market.
+Present day[edit]
+
+
+
+
+Portuguese President Cavaco Silva, former Cisco CEO John Chambers, and Cisco Senior Director of Innovation Helder Antunes, during the 2011 presidential visit to the US.
+
+
+On July 23, 2013, Cisco Systems announced a definitive agreement to acquire Sourcefire for $2.7 billion.[27]
+On August 14, 2013, Cisco Systems announced it would cut 4,000 jobs from its workforce, which was roughly 6%, starting in 2014.[28]
+At the end of 2013, Cisco announced poor revenue due to depressed sales in emerging markets, caused by economic uncertainty and by fears of the National Security Agency planting backdoors in its products.[29]
+In April, 2014, Cisco Systems announced $150 million to fund early-stage firms around the globe to focus on the Internet of Everything. The investment fund was allocated to investments in IoT accelerators and startups such as The Alchemist Accelerator, Ayla Networks and EVRYTHNG. After the announcement, The Alchemist Accelerator announced Cisco as a strategic partner and launched an individual program specifically focused on advancing the growth of IoT startups. This new funding increased Cisco Investments' thematic investing to $250 million total, adding to the previously announced $100 million commitment to startups focused on the emerging Internet of Everything (IoE) market opportunity.[citation needed] VP of Innovation Maciej Kranz has led Cisco's IoT development and expansion, as a world expert in the subject matter.
+On August 13, 2014, the company announced it was laying off another 6,000 workers or 8% of its global workforce, as part of a second restructuring.[30] On 4 November 2014, Cisco announced an investment in Stratoscale.[31]
+On May 4, 2015, Cisco announced CEO and Chairman John Chambers would step down as CEO on July 26, 2015, but remain chairman. Chuck Robbins, senior vice president of worldwide sales & operations and 17-year Cisco veteran, will become CEO.[32]
+On July 23, 2015, Cisco announced the divesture of its television set-top-box and cable modem business to Technicolor SA for $600 million, a division originally formed by Cisco's $6.9 billion purchase of Scientific Atlanta. The deal came as part of Cisco's gradual exit from the consumer market, and as part of an effort by Cisco's new leadership to focus on cloud-based products in enterprise segments. Cisco indicated that it would still collaborate with Technicolor on video products.[33]
+On November 19, 2015, Cisco, alongside ARM Holdings, Dell, Intel, Microsoft, and Princeton University, founded the OpenFog Consortium, to promote interests and development in fog computing.[34] Cisco Sr. Director of Innovation and Corporate Technology Helder Antunes became the consortium's first chairman.[35]
+In January 2016, Cisco invested in VeloCloud, a software-defined WAN (SD-WAN) start-up with a cloud offering for configuring and optimizing branch office networks. Cisco contributed to VeloCloud's $27 million Series C round, led by March Capital Partners. Cisco is one of two strategic investors.[36]
+In February 2017, Cisco premiered a cloud-based secure internet gateway to tackle cloud and mobile security risks. The offering, Cisco Umbrella, is tailored to provide safe internet access to users who don't use their corporate networks or VPNs to connect to remote data centers.[37]
+Corporate structure[edit]
+
+
+
+
+Cisco Jasper, a Cisco IoT and cloud business platform subsidiary.
+
+
+
+Cisco Meraki, a Cisco network security subsidiary.
+
+
+
+CloudLock, a Cisco cloud computing security subsidiary.
+
+
+
+Acquisitions and subsidiaries[edit]
+Main article: List of acquisitions by Cisco Systems
+Cisco acquired a variety of companies to spin products and talent into the company. In 1995–1996 the company completed 11 acquisitions.[38] Several acquisitions, such as Stratacom, were the biggest deals in the industry when they occurred.[39] During the Internet boom in 1999, the company acquired Cerent Corporation, a start-up company located in Petaluma, California, for about US$7 billion.[40] It was the most expensive acquisition made by Cisco to that date, and only the acquisition of Scientific Atlanta has been larger.[41] In 1999 Cisco also acquired stake for $1 Billion in KPMG Consulting to enable establishing Internet firm Metrius founded by Keyur Patel of Fuse.[42] Several acquired companies have grown into $1Bn+ business units for Cisco, including LAN switching, Enterprise Voice over Internet Protocol (VOIP) platform Webex and home networking. The latter came as result of Cisco acquiring Linksys in 2003 and in 2010 was supplemented with new product line dubbed Cisco Valet.
+Cisco announced on January 12, 2005, that it would acquire Airespace for US$450 million to reinforce the wireless controller product lines.[43]
+Cisco announced on January 4, 2007, that it would buy IronPort in a deal valued at US$830 million[44][45] and completed the acquisition on June 25, 2007.[46] IronPort was best known for its IronPort AntiSpam, its SenderBase email reputation service and its email security appliances. Accordingly, IronPort was integrated into the Cisco Security business unit.[47] Ironport's Senderbase was renamed as Sensorbase to take account of the input into this database that other Cisco devices provide. SensorBase allows these devices to build a risk profile on IP addresses, therefore allowing risk profiles to be dynamically created on http sites and SMTP email sources.[48]
+Cisco announced on March 15, 2012, that it would acquire NDS Group for $5bn.[49][50] The transaction was completed on July 30, 2012.[4][51]
+In more recent merger deals, Cisco bought Starent Networks (a mobile packet core company) and Moto Development Group, a product design consulting firm that helped develop Cisco's Flip video camera.[52][53] Also in 2010, Cisco became a key stakeholder in e-Skills Week. In March 2011, Cisco completed the acquisition of privately held network configuration and change management software company Pari Networks.[54]
+Although many buy-ins (such as Crescendo Networks in 1993, Tandberg in 2010) resulted in acquisition of flagship technology to Cisco, many others have failed—partially or completely.[55] For instance, in 2010 Cisco occupied a meaningful share of the packet-optical market,[56] revenues were still not on par with US$7 billion price tag paid in 1999 for Cerent. Some of acquired technologies (such as Flip from Pure Digital) saw their product lines terminated.[57][58]
+
+
+
+
+
+
+
+
+
+
+
+Cisco campuses in (top to bottom) Bangalore, India, Munich, Germany, and Oslo, Norway.
+
+
+In January 2013, Cisco Systems acquired Israeli software maker Intucell for around $475 million in cash, a move to expand its mobile network management offerings.[59][60] In the same month, Cisco Systems acquired Cognitive Security, a company focused on Cyber Threat Protection. Cisco also acquired SolveDirect (cloud services) in March 2013[61] and Ubiquisys (mobile software) in April 2013.
+Cisco acquired cyber-security firm Sourcefire, in October 2013.[62] On June 16, 2014, Cisco announced that it has completed the acquisition of ThreatGRID, a company that provided dynamic malware analysis and threat intelligence technology.[63]
+On June 17, 2014, Cisco announced its intent to acquire privately held Tail-f Systems, a leader in multi-vendor network service orchestration solutions for traditional and virtualized networks.[64]
+On April 2, 2015, Cisco announced plans to buy Embrane, a software-defined networking startup. The deal will give Cisco Embrane's software platform, which provides layer 3–7 network services for things such as firewalls, VPN termination, server load balancers and SSL offload.[65]
+On May 7, 2015 Cisco announced plans to buy Tropo, a cloud API platform that simplifies the addition of real-time communications and collaboration capabilities within applications.[66]
+On June 30, 2015, Cisco acquired privately held OpenDNS, the company best known for its DNS service that adds a level of security by monitoring domain name requests.[67]
+On August 6, 2015, Cisco announced that it has completed the acquisition of privately held MaintenanceNet, the US-based company best known for its cloud-based contract management platform ServiceExchange.[68] On the same month, Cisco acquired Pawaa, a privately held company in Bangalore, India that provides secure on-premises and cloud-based file-sharing software.[69]
+On September 30, 2015, Cisco announced its intent to acquire privately held Portcullis Computer Security, a UK-based company that provides cybersecurity services to enterprise clients and the government sectors.[70]
+On October 26, 2015, Cisco announced its intent to acquire ParStream, a privately held company based in Cologne, Germany, that provides an analytics database that allows companies to analyze large amounts of data and store it in near real time anywhere in the network.[71]
+On October 27, 2015, Cisco announced that it would acquire Lancope, a company that focuses on detecting threat activity, for $452.5 million in a cash-and-equity deal.[72]
+On June 28, 2016, Cisco announced its intent to acquire CloudLock, a privately held cloud security company, for $293 million.[73] The deal is expected to close in the first quarter of 2017.
+In August 2016, Cisco announced it is getting closer to making a deal to acquire Springpath, the startup whose technology is used in Cisco's HyperFlex Systems. Cisco already owns an undisclosed stake in the hyper-converged provider.[74]
+In January 2017, Cisco announced they would acquire AppDynamics, a company that monitors application performance, for $3.7 billion. The acquisition came just days before AppDynamics was set to IPO.[75]
+One January 26, 2017, Cisco founded the Innovation Alliance in Germany with eleven other companies bringing together 40 sites and 2,000 staff to provide small businesses in Germany with expertise.[76]
+Products and services[edit]
+Main article: List of Cisco products
+
+
+
+
+
+
+
+
+Cisco SG300-28 Rackmount switch (top) and Cisco EPC-3010 modem (bottom).
+
+
+Cisco's products and services focus upon three market segments—enterprise and service provider, small business and the home.
+Cisco has grown increasingly popular in the Asia-Pacific region over the last three decades[when?] and is the dominant vendor in the Australian market with leadership across all market segments.[citation needed] It uses its Australian office as one of the main headquarters for the Asia-Pacific region, offering a diverse product portfolio for long-term[77] stability, and integration is a sustainable[citation needed] competitive advantage.
+VoIP services[edit]
+Cisco became a major provider of Voice over IP to enterprises and is now moving into the home user market through its acquisitions of Scientific Atlanta and Linksys. Scientific Atlanta provides VoIP equipment to cable service providers such as Time Warner, Cablevision, Rogers Communications, UPC and others; Linksys has partnered with companies such as Skype, Microsoft and Yahoo! to integrate consumer VoIP services with wireless and cordless phones.
+Hosted Collaboration Solution (HCS)[edit]
+Cisco partners can offer cloud-based services based on Cisco's virtualized Unified Computing System (UCS). A part of the Cisco Unified Services Delivery Solution that includes hosted versions of Cisco Unified Communications Manager (UCM), Cisco Unified Contact Center, Cisco Unified Mobility, Cisco Unified Presence, Cisco Unity Connection (unified messaging) and Cisco Webex Meeting Center.[78]
+Network Emergency Response[edit]
+
+
+
+
+A Cisco 8851 IP Phone
+
+
+As part of its Tactical Operations initiative, Cisco maintains several Network Emergency Response Vehicles (NERV)s.[79] The vehicles are maintained and deployed by Cisco employees during natural disasters and other public crises. The vehicles are self-contained and provide wired and wireless services including voice and radio interoperability, voice over IP, network-based video surveillance and secured high-definition video-conferencing for leaders and first responders in crisis areas with up to 3 Mbit/s of bandwidth (up and down) via a 1.8-meter satellite antenna.[80]
+NERVs are based at Cisco headquarters sites in San José, California and at Research Triangle Park, North Carolina, allowing strategic deployment in North America. They can become fully operational within 15 minutes of arrival. High-capacity diesel fuel-tanks allow the largest vehicles to run for up to 72 hours continuously.[81] The NERV has been deployed to incidents such as the October 2007 California wildfires; hurricanes Gustav, Ike and Katrina; the 2010 San Bruno gas pipeline explosion, tornado outbreaks in North Carolina and Alabama in 2011; and Hurricane Sandy in 2012.[82][83]
+The Tactical Operations team maintains and deploys smaller, more portable communication kits to emergencies outside of North America. In 2010, the team deployed to assist in earthquake recovery in Haiti and in Christchurch (New Zealand). In 2011, they deployed to flooding in Brazil, as well as in response to the 2011 earthquake and tsunami in Japan.[79][84]
+In 2011, Cisco received the Innovation Preparedness award from the American Red Cross Silicon Valley Chapter for its development and use of these vehicles in disasters.[85]
+Certifications[edit]
+Main article: Cisco certifications
+
+
+
+
+Cisco headquarters in San José, California in Silicon Valley.
+
+
+Cisco Systems also sponsors a line of IT professional certifications for Cisco products.[86] There are five levels of certification: Entry (CCENT), Associate (CCNA/CCDA), Professional (CCNP/CCDP), Expert (CCIE/CCDE) and recently Architect, as well as nine different paths, Routing & Switching, Design, Industrial Network, Network Security, Service Provider, Service Provider Operations, Storage Networking, Voice, Datacenter and Wireless.
+A number of specialist technician, sales and datacenter certifications are also available.
+Cisco also provides training for these certifications via a portal called the Cisco Networking Academy. Qualifying schools can become members of the Cisco Networking Academy and then provide CCNA level or other level courses. Cisco Academy Instructors must be CCNA certified to be a CCAI certified instructor.
+Cisco often finds itself involved with technical education. With over 10,000 partnerships in over 65 countries[87] Cisco Academy program operates in many exotic locations. For example, in March 2013, Cisco announced its interest in Myanmar by investing in two Cisco Networking Academies in Yangon and Mandalay and a channel partner network.[88]
+Corporate affairs[edit]
+Awards and accolades[edit]
+
+
+
+
+In 2010, Secretary of State Hillary Clinton awarded Cisco the Secretary of State’s Award for Corporate Excellence, which was presented in Jerusalem by Ambassador James B. Cunningham to Cisco Senior Manager Zika Abzuk.
+
+
+Cisco products, most notably IP phones and Telepresence, are frequently sighted in movies and TV series.[89] The company itself and its history was featured in the documentary film Something Ventured which premiered in 2011.
+Cisco was a 2002–03 recipient of the Ron Brown Award,[90][91] a U.S. presidential honor to recognize companies "for the exemplary quality of their relationships with employees and communities". Cisco commonly stays on top of Fortune "100 Best Companies to work for", with position No. 20 in 2011.[92]
+According to a report by technology consulting firm LexInnova, Cisco is one of the leading recipients of network security-related patents with the largest portfolio within other companies (6,442 security-related patents).[93]
+Controversies[edit]
+
+
+
+
+Cisco Live 2007 in Anaheim, California. Cisco Live is the company's annual exposition and conference.
+
+
+Shareholder relations A class action lawsuit filed on April 20, 2001, accused Cisco of making misleading statements that "were relied on by purchasers of Cisco stock" and of insider trading.[94] While Cisco denied all allegations in the suit, on August 18, 2006, Cisco's liability insurers, its directors and officers paid the plaintiffs US$91.75 million to settle the suit.[95]
+Intellectual property disputes On December 11, 2008, the Free Software Foundation filed suit against Cisco regarding Cisco's failure to comply with the GPL and LGPL license models and make the applicable source code publicly available.[96] On May 20, 2009, Cisco settled this lawsuit by complying with FSF licensing terms and making a monetary contribution to the FSF.[97]
+Censorship in China Cisco has been criticized for its involvement in censorship in the People's Republic of China.[98] According to author Ethan Gutmann, Cisco and other telecommunications equipment providers supplied the Chinese government with surveillance and Internet infrastructure equipment that is used to block Internet websites and track online activities in China.[99] Cisco says that it does not customize or develop specialized or unique filtering capabilities to enable governments to block access to information and that it sells the same equipment in China as it sells worldwide.[100]
+Wired News had uncovered a leaked, confidential Cisco PowerPoint presentation that details the commercial opportunities of the Golden Shield Project of Internet control.[101] In her article, journalist Sarah Stirland accuses Cisco of marketing its technology "specifically as a tool of repression."
+In May 2011, a group of Falun Gong practitioners filed the lawsuit under the Alien Tort Statute alleging that Cisco knowingly developed and customized its product to assist the Chinese government in prosecution and abuse of Falun Gong practitioners.[102] The presentation leaked from Cisco lists "Combat "Falun Gong" evil religion and other hostiles" as one of the benefits of the Cisco system.[101] The lawsuit was dismissed in September 2014[103] by the United States District Court for the Northern District of California, which decision was appealed to United States Court of Appeals for the Ninth Circuit[104] in September 2015.
+Tax fraud investigation On October 16, 2007, the Brazilian Federal Police and Brazilian Receita Federal (equivalent to the American IRS), under the "Persona Operation", uncovered an alleged tax fraud scheme employed by Cisco Systems Brazil Chief Carlos Roberto Carnevali since 2002 that exempted the company from paying over R$1.5 billion (US$824 million) in taxes.[105][106]
+Antitrust lawsuit On December 1, 2008, Multiven filed an antitrust lawsuit[107][108][109][110][111][112][excessive citations] against Cisco Systems, Inc. in an effort to open up the network maintenance services marketplace for Cisco equipment, promote competition and ensure consumer choice and value. Multiven's complaint alleges that Cisco harmed Multiven and consumers by bundling and tying bug fixes/patches and updates for its operating system software to its maintenance services (SMARTnet) and through a series of other illegal exclusionary and anticompetitive acts designed to maintain Cisco's alleged monopoly in the network maintenance services market for Cisco networking equipment. In May 2010, Cisco accused the person who filed the antitrust suit, British-Nigerian technology entrepreneur Peter Alfred-Adekeye, with hacking and pressured the US government to extradite him from Canada. Alfred-Adekeye was arrested while in the middle of testifying against Cisco in an anti-trust hearing.[113] Although he was released after 28 days on bail, the case has stretched for a year, because the U.S. Attorney's office was unable to present the evidence required for the extradition.[114] The antitrust lawsuit has been settled 2 months after Alfred-Adekeye's arrest.[115] In May 2011, the US extradition request has been denied. Canadian Supreme Court Justice Ronald McKinnon, who oversaw the extradition hearing, commented on the arrest saying "It is simply not done in a civilized jurisdiction that is bound by the rule of law".[113] He also stated that the real reason for the extradition proceedings was because Alfred-Adekeye "dared to take on a multinational giant." Judge McKinnon has also condemned the US prosecutor for hiding the fact that Alfred-Adekeye was in legal proceedings against Cisco Systems, for stating that Alfred-Adekeye had left the USA in a time period when he had not and a formal request for extradition was not filed against Alfred-Adekeye when he was taken into custody. He described the information provided by Cisco and the US prosecutor as "full of innuendo, half-truths and falsehoods," adding that "This speaks volumes for Cisco's duplicity" and accused them of "unmitigated gall" in using such a heavy-handed move as an unsupportable arrest and jailing to pressure Alfred-Adekeye to drop or settle his civil antitrust complaint.[116]
+This case was eventually settled out of court and dismissed with prejudice in February 2011.
+In March 2013, Multiven filed a complaint both in Switzerland and the US accusing Cisco of stealing thousands of its proprietary and copyrighted data files from its knowledge base. The attack has allegedly taken place with the use of "automated cyber scraping software" with the perpetrating IPs assigned to Cisco. Cisco has denied the claims.[117][118]
+On July 20, 2015, Multiven CEO, Peter Alfred-Adekeye filed a libel lawsuit against Cisco for (1) falsely claiming that ‘he or someone under his control at Multiven’ downloaded and ‘stole’ Cisco software five times in 2006 from cisco.com (2) using this lie to orchestrate his illegal arrest in Vancouver, Canada in 2010 and (3) continuing to knowingly propagate this falsehood till today.[119]
+Remotely monitoring users' connections Cisco's Linksys E2700, E3500, E4500 devices have been reported to be remotely updated to a firmware version that forces users to register for a cloud service, allows Cisco to monitor their network use and ultimately shut down the cloud service account and thus render the affected router unusable.[120][121]
+Firewall backdoor developed by NSA According to the German magazine Der Spiegel the NSA has developed JETPLOW for gaining access to ASA (series 5505, 5510, 5520, 5540 and 5550) and 500-series PIX Firewalls.[122]
+Cisco’s Chief Security Officer addressed the allegations publicly and denied working with any government to weaken Cisco products for exploitation or to implement security back doors.[123]
+A document included in the trove of National Security Agency files released with Glenn Greenwald’s book No Place to Hide details how the agency’s Tailored Access Operations (TAO) unit and other NSA employees intercept servers, routers and other network gear being shipped to organizations targeted for surveillance and install covert firmware onto them before they’re delivered. These Trojan horse systems were described by an NSA manager as being “some of the most productive operations in TAO because they pre-position access points into hard target networks around the world.”[124]
+Cisco denied the allegations in a customer document[125] saying that no information was included about specific Cisco products, supply chain intervention or implant techniques, or new security vulnerabilities. Cisco’s General Counsel also claimed that Cisco does not work with any government, including the United States Government, to weaken its products.[126] The allegations are reported to have prompted the company’s CEO to express concern to the President of the United States.[127]
+Spherix patent suit In March 2014 Cisco Systems was sued for patent infringement. Spherix asserts that over $43 billion of Cisco's sales infringe on old Nortel patents owned by Spherix. Officials with Spherix are claiming that a wide range of Cisco products, from switches to routers, infringe on 11 former Nortel patents that the company now owns.[128]
+See also[edit]
+
+
+Companies portal
+
+
+
+
+Cisco Certifications
+Cisco IOS
+Cisco Catalyst
+Cisco DevNet
+Cisco Express Forwarding
+Cisco Discovery Protocol
+Cisco Security Agent
+Cisco Systems VPN Client
+Cisco Field
+
+
+References[edit]
+
+
+^ "Contact Cisco". Retrieved 1 March 2017. 
+^ a b c d e "Cisco Systems, Inc. 2016 Annual Report Form (10-K)". EDGAR. United States Securities and Exchange Commission. February 27, 2016. Retrieved December 21, 2015. 
+^ "Cisco Overview". Cisco. 
+^ a b "Cisco, Form 10-K, Annual Report, Filing Date Sep 12, 2012" (PDF). secdatabase.com. Retrieved March 25, 2013. 
+^ Browning, E.S. (June 1, 2009). "Travelers, Cisco Replace Citi, GM in Dow". Wall Street Journal. Dow Jones & Company, Inc. Retrieved June 2, 2009. 
+^ a b "Cisco pushes past Microsoft in market value". CBS Marketwatch. March 25, 2000. Retrieved January 25, 2007. 
+^ Toscano, Paul (April 17, 2013). "Tech Companies Are Doing It Wrong: Cisco Co-Founder". CNBC. Retrieved September 23, 2015. 
+^ Carey, Pete. "A start-up's true tale". San Jose Mercury News. Retrieved July 26, 2012. 
+^ "Cisco's Acquisition Strategy". Case Studies in Business Strategy. ICMR. IV: 2. January 2004. BSTR083. Retrieved December 21, 2009. 
+^ Leung, Wendy (May 27, 2012). "Happy 85th birthday to our Golden Gate Bridge!". Retrieved March 26, 2014. 
+^ "Does Pink Make You Puke?". Forbes. August 25, 1997. Retrieved June 28, 2011. 
+^ "I, Cringely. NerdTV. Transcript | PBS". Pbs.org. Retrieved November 13, 2008. 
+^ Pennell, Ian (June 14, 2004). "The Evolution of Access Routing; Cisco claim of first multi-protocol router" (Interview). Cisco. Retrieved January 4, 2009. 
+^ "Cisco, Form PRE 14A, Filing Date Sep 19, 1995". secdatabase.com. Retrieved March 25, 2013. 
+^ "Cisco replaces Microsoft as world's most valuable company". The Indian Express. India. Reuters. March 25, 2000. Retrieved January 25, 2007. 
+^ Cisco Systems Summary. Finance.yahoo.com. Retrieved November 26, 2011.
+^ Fost, Dan (May 5, 2006). "Chron 200 Market capitalization". San Francisco Chronicle. Retrieved January 25, 2007. 
+^ "Visit to Cisco". 
+^ "Welcome to the Human Network" (PDF). Cisco Systems. 2006. Retrieved February 12, 2014. 
+^ "Cisco clue—6500 and 7600 split page". Retrieved March 8, 2012. 
+^ Segal, Adam (January 10, 2011). "Chapter 8 – Promoting Innovation at Home". Advantage: How American Innovation Can Overcome the Asian Challenge. W. W. Norton. p. 191. ISBN 978-0-393-06878-8. 
+^ Svensson, Peter. Cisco to cut costs and jobs as profit stalls. 12 May 2011. Christian Science Monitor. Accessed 2012-08-02.
+^ Vance, Ashlee. (2011-07-12) Cisco said to Plan Cutting Up to 10,000 Jobs to Buoy Profit. Bloomberg. Retrieved September 10, 2011.
+^ "Cisco CEO: We Were Fat". Retrieved January 5, 2016. 
+^ "Cisco Receives EU Approval to Acquires NDS". BrightWire. 
+^ "Cisco Sells Linksys Home Router Unit to Belkin". Bloomberg. 
+^ Worldwide. "Cisco Announces Agreement to Acquire Sourcefire Inc. – Cisco Systems". Cisco.com. Retrieved July 24, 2013. 
+^ "Cisco to cut 4,000 jobs". CNN Money. Retrieved August 14, 2013. 
+^ Stephen Lawson (November 13, 2013). "Cisco issues grim forecast after falling short on revenue". PCWorld. Retrieved January 5, 2016. 
+^ "Cisco to lay off 6,000 workers in second restructuring". San Jose News.Net. 13 August 2014. Retrieved 14 August 2014. 
+^ Joseph F. Kovar (4 November 2014). "Cisco, Intel Invest In Hyper-Converged Infrastructure Player Stratoscale". Crn.com. Retrieved 3 January 2016. 
+^ "Cisco's Chambers to step down as CEO, to be executive chairman". Reuters. 4 May 2015. Retrieved 4 May 2015. 
+^ "Technicolor to Buy Cisco’s Set-Top Box Unit for About $600 Million". The Wall Street Journal. July 22, 2015. Retrieved 25 July 2015. 
+^ Janakiram, MSV (18 April 2016). "Is Fog Computing the Next Big Thing in the Internet of Things". Forbes Magazine. Retrieved 18 April 2016. 
+^ "About Us : OpenFog Consortium". 
+^ Jim Duffy, Network World. “Cisco puts its money where the WAN is.” Jan 14, 2016. Jan 18, 2016.
+^ By Eamon McCarthy Earls, TechTarget. “Cisco opens Umbrella, a cloud-based secure internet gateway.” Feb. 16, 2017. Feb. 17, 2017.
+^ Garza, George (January 9, 2011). "The History of Cisco". Retrieved January 28, 2011. 
+^ "Cisco, Form 8-K, Current Report, Filing Date Apr 26, 1996". secdatabase.com. Retrieved March 25, 2013. 
+^ "Cisco, Form 8-K, Current Report, Filing Date Aug 26, 1999". secdatabase.com. Retrieved March 25, 2013. 
+^ "Cisco, Form 10-Q, Quarterly Report, Filing Date Nov 23, 2005" (PDF). secdatabase.com. Retrieved March 25, 2013. 
+^ "KPMG & Cisco". August 8, 1999. 
+^ Hochmuth, Phil. "Cisco nets Airespace for $450 million". Network World. Retrieved 2016-03-17. 
+^ "Cisco Announces Agreement to Acquire IronPort". News release. Cisco. January 4, 2007. Retrieved November 8, 2013. 
+^ Keith Regan (January 4, 2007). "Cisco buys IronPort for $830 Million". E-Commerce Times. Retrieved November 8, 2013. 
+^ "Cisco launches Self-Defending Network v3.0". News release. Cisco Systems. June 25, 2007. Retrieved November 8, 2013. 
+^ "About". Cisco IronPort. Accessed 8 November 2013.
+^ Patrick Ogenstad (October 6, 2009). "What is Cisco SensorBase?". Retrieved November 8, 2013. 
+^ "Cisco, Form 8-K, Current Report, Filing Date Mar 15, 2012". secdatabase.com. Retrieved March 25, 2013. 
+^ "Cisco to Acquire NDS for $5Bn". 
+^ "Cisco India Overview". Cisco. Retrieved April 14, 2013. 
+^ "Cisco, Form 8-K, Current Report, Filing Date Oct 14, 2009". secdatabase.com. Retrieved March 25, 2013. 
+^ By Jim Duffy, NetworkWorld. "Cisco Buys Moto—no, not that Moto." May 18, 2010.
+^ "Cisco Completes Acquisition Of Pari Networks (Started By Former Cisco Execs)". TechCrunch. March 1, 2011. 
+^ "Cisco, Form 8-K, Current Report, Filing Date Oct 5, 2009". secdatabase.com. Retrieved March 25, 2013. 
+^ "Alcatel-Lucent, Huawei continue tight race for leadership in optical network hardware market". Infonetics Research. May 17, 2010. Retrieved September 5, 2011. 
+^ "Cisco, Form 10-Q, Quarterly Report, Filing Date Nov 18, 2009" (PDF). secdatabase.com. Retrieved March 25, 2013. 
+^ Ulanoff, Lance (April 6, 2011). "Cisco's UMI Adventure Should End". PCMag. Retrieved September 5, 2011. 
+^ "Cisco, Form 10-Q, Quarterly Report, Filing Date Feb 19, 2013" (PDF). secdatabase.com. Retrieved March 25, 2013. 
+^ Reuters (23 January 2013). "Cisco to buy Israel-based software maker for $475 million". Reuters. 
+^ Goddard, Timothy. "Corum Group International Advises SolveDirect in Acquisition". PRWeb. 
+^ "Acquisitions". Retrieved 2013-10-07. 
+^ "Cisco Has Acquired ThreatGRID". Cisco. Retrieved 11 August 2014. 
+^ "Cisco Announces Intent to Acquire Tail-f Systems". 17 June 2014. 
+^ By Liam Tung, ZDNet. “Cisco to buy Embrane to boost datacenter SDN play.” April 2, 2015. April 7, 2015.
+^ Diggz, Johnny. "Tropo joins Cisco to Power next-gen collaboration APIs". Acquisition Summary. Tropo. 
+^ "Cisco Announces Intent to Acquire OpenDNS". Retrieved 2015-10-12. 
+^ "Cisco Completes MaintenanceNet Acquisition". Cisco. Retrieved 2015-10-12. 
+^ "Cisco has Acquired Pawaa". Cisco. Retrieved 2015-10-12. 
+^ "Acquisitions". Acquisition Summary. Cisco. 
+^ "Cisco Announces Intent to Acquire ParStream". blogs@Cisco – Cisco Blogs. Retrieved 2015-10-27. 
+^ Lunden, Ingrid. "Cisco Beefs Up Security, Buys Lancope For $453M". TechCrunch. Retrieved 2015-10-27. 
+^ "Cisco cracks open wallet for $293m CloudLock acquisition | Business Cloud News". Retrieved 2016-07-26. 
+^ Mark Haranas, CRN. “Sources: Cisco Close To Making Bid TO Buy Springpath.” August 4, 2016. August 8, 2016.
+^ Lynley, Matthew. "Cisco snaps up AppDynamics for $3.7B right before its IPO". TechCrunch. Retrieved 2017-01-25. 
+^ Alison, Homes. "Cisco Founds Innovation Alliance With Eleven Partners In Germany". Pressat. Retrieved 2017-01-26. 
+^ "CCIE Security Cisco Certified Internetwork Expert". 
+^ "Cisco Launches Hosted Collaboration Solution". UCStrategies.com. July 2, 2010. 
+^ a b "Cisco Tactical Operations (TacOps)". Cisco. Retrieved 26 July 2016. 
+^ "Cisco Network Emergency Response Vehicle". YouTube. Retrieved July 24, 2013. 
+^ "TACOPS — Emergency Response Vehicle Tour, learningatcisco on USTREAM. Conference". Ustream.tv. Retrieved July 24, 2013. 
+^ 49 Days Later, Superstorm Sandy Relief Effort is Still Running on Cisco Technology. Cisco.com Retrieved January 15, 2013.
+^ Cisco NERV: The ultimate first responder vehicle. TechRepublic. Retrieved September 10, 2011.
+^ "Cisco TacOps". YouTube. 2011-06-28. Retrieved July 24, 2013. 
+^ 2011 Innovative Preparedness—Cisco Tactical Operations. Youtube.com. Retrieved September 10, 2011.
+^ "Cisco Certification and Career Paths". 
+^ "About Network Academy". 
+^ "Cisco Expands Commitment to Myanmar". 
+^ Cisco on TV & in the Movies—About Cisco. Cisco Systems (May 15, 2008). Retrieved September 10, 2011.
+^ Highbeam Research website Presidential Award For Corporate Leadership Presented to Cisco Systems. Retrieved April 10, 2011.
+^ Cisco News website Cisco Systems Receives Presidential Award for Corporate Leadership. Retrieved April 10, 2011.
+^ 100 Best Companies to Work For 2011: Cisco—CSCO. CNN. (February 7, 2011). Retrieved September 10, 2011.
+^ David Braue (January 6, 2016). "Australia is world's fourth-largest holder of network-security patents, analysis finds". Retrieved January 5, 2016. 
+^ "Cisco Shareholder Class Action Lawsuit Resolved" (Press release). Cisco Systems, Inc. August 18, 2006. Retrieved January 25, 2007. 
+^ "Cisco resolves class action lawsuit". Silicon Valley/San Jose Business Journal. August 18, 2006. Retrieved January 25, 2007. 
+^ "Free Software Foundation Files Suit Against Cisco For GPL Violations" (Press release). BOSTON, Massachusetts: Free Software Foundation. December 11, 2008. Retrieved January 4, 2009. 
+^ "FSF Settles Suit Against Cisco" (Press release). Free Software Foundation. May 20, 2009. Retrieved May 20, 2009. 
+^ "FRONTLINE: the tank man: the struggle to control information | PBS". Pbs.org. Retrieved November 13, 2008. 
+^ Ethan Gutmann (May/June 2010) "Hacker Nation: China's Cyber Assault", World Affairs Journal
+^ Earnhardt, John (February 15, 2006). "Cisco Testimony Before House International Relations Subcommittee". Cisco Systems, Inc. Archived from the original on December 6, 2006. Retrieved January 25, 2007. 
+^ a b Stirland, Sarah (May 20, 2008). "Cisco Leak: ‘Great Firewall’ of China Was a Chance to Sell More Routers". Wired. Retrieved June 27, 2009. 
+^ "Doe I et al v. Cisco Systems, Inc. et al". Justia Dockets & Filings. 
+^ EDWARD J. DAVILA, District Judge. "DOE I v. CISCO SYSTEMS, INC.". 
+^ "Doe I, et al v. Cisco Systems, Inc., et al :: Court of Appeals for the Ninth Circuit :: Case No. 15-16909". 
+^ "Cisco offices raided, executives arrested in Brazil: reports". NetworkWorld. October 16, 2007. Retrieved October 16, 2007. 
+^ "Brazilian tax authorities raid, close Cisco System's offices in São Paulo, Rio de Janeiro". International Herald Tribune (Press release). October 17, 2007. Retrieved October 17, 2007. 
+^ "Multiven Sues Cisco". lightreading. December 1, 2008. Retrieved December 2, 2008. 
+^ "Net maintenance provider sues Cisco over allegedly monopolistic SMARTnet". NetworkWorld. December 1, 2008. Retrieved December 2, 2008. 
+^ "Cisco Accused Of Monopoly In Antitrust Lawsuit". ChannelWeb. December 2, 2008. Archived from the original on December 4, 2008. Retrieved December 2, 2008. 
+^ "Multiven Files Antitrust Lawsuit Against Cisco Systems, Inc." (Press release). Multiven, Inc. December 1, 2008. Retrieved December 1, 2008. 
+^ "Cisco Systems hit with antitrust lawsuit". SearchITChannel. December 4, 2008. Retrieved December 4, 2008. 
+^ "Lawsuit: Cisco blocks outsider gear maintenance". fiercetelecom. December 3, 2008. Retrieved December 3, 2008. 
+^ a b Rik Myslewski (3 June 2011). "Judge blasts Cisco's 'unmitigated gall' in ex-exec's arrest". The Register. 
+^ Stephen Lawson (20 April 2011). "Cisco accused of orchestrating engineer's arrest". Network World. 
+^ Stephen Lawson (2 August 2010). "Cisco settles antitrust suit over software updates". Computerworld. 
+^ Rik Myslewski (3 June 2011). "Judge blasts Cisco's 'unmitigated gall' in ex-exec's arrest". The Channel. 
+^ David Meyer (13 March 2013). "Cisco accused of stealing data from Swiss services firm Multiven". Gigaom. 
+^ Danielle Walker (15 March 2013). "Legal fight between Cisco and Swiss firm continues with latest data theft accusations". SC Magazine. 
+^ "Multiven CEO Peter Alfred-Adekeye Files Libel Lawsuit Against Cisco". 
+^ "Cisco Pushing 'Cloud Connect' Router Firmware, Allows Web History Tracking". Slashdot. Retrieved December 26, 2013. 
+^ "Cisco’s cloud vision: Mandatory, monetized and killed at their discretion". Extreme Tech. Retrieved December 26, 2013. 
+^ "Interactive graphics: the spy tools of the NSA are sitting here". Der Spiegel. Retrieved January 11, 2014. 
+^ "Comment on Der Spiegel articles about NSA TAO Organization". Cisco.com. Retrieved December 29, 2013. 
+^ "NSA "upgrade" factory show Cisco router getting implant". 
+^ "Customer Recommendations: Securing Your Network". Cisco.com. Retrieved January 25, 2017. 
+^ "Internet Security Necessary for Global Technology Economy". Cisco.com. Retrieved May 13, 2014. 
+^ "In Letter to Obama, Cisco CEO Complains About NSA Allegations". Re/Code. Retrieved May 18, 2014. 
+^ Jeffrey Burt (27 March 2014). "Cisco Sued for Infringement of Old Nortel Patents". eweek. 
+
+
+Further reading[edit]
+
+
+Bunnell, D. & Brate, A. (2001). Die Cisco Story (in German). Moderne Industrie. ISBN 3-478-35995-3.
+Bunnell, D. (2000). Making the Cisco Connection: The Story Behind the Real Internet Superpower. Wiley. ISBN 0-471-35711-1.
+Paulson, E. (2001). Inside Cisco: The Real Story of Sustained M&A Growth. Wiley. ISBN 0-471-41425-5.
+Slater, R. (2003). The Eye of the Storm: How John Chambers Steered Cisco Through the Technology Collapse. HarperCollins. ISBN 0-06-018887-1.
+Stauffer, D. (2001). Nothing but Net Business the Cisco Way. Wiley. ISBN 1-84112-087-1.
+Waters, J. K. (2002). John Chambers and the Cisco Way: Navigating Through Volatility. Wiley. ISBN 0-471-00833-8.
+Young, J. S. (2001). Cisco Unauthorized: Inside the High-Stakes Race to Own the Future. Prima Lifestyles. ISBN 0-7615-2775-3.
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Cisco.
+
+
+
+Official website (Mobile)
+
+
+
+
+
+Business data for Cisco Systems, Inc.: Google Finance
+Yahoo! Finance
+Reuters
+SEC filings
+
+
+
+
+
+
+
+Preceded by
+General Motors
+Dow Jones Industrial Average component
+June 8, 2009–present
+Incumbent
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Antivirus software
+
+
+
+Companies
+
+
+
+
+
+Major
+
+
+
+
+Agnitum
+Avast Software
+AVG Technologies
+Avira
+Bitdefender
+Comodo
+Dr. Web
+ESET
+F-Secure
+Kaspersky
+McAfee
+Microsoft
+Panda
+Quick Heal
+Qihoo 360
+Sophos
+Symantec
+Trend Micro
+
+
+
+
+
+
+Minor
+
+
+
+
+AhnLab
+Cisco
+Check Point
+ClamWin
+Fortinet
+FRISK
+G Data
+Intego
+Kingsoft
+Lavasoft
+Malwarebytes
+TrustPort
+VirusBlokAda
+Webroot
+Zemana
+ZoneAlarm
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+Desktop,
+server
+
+
+
+
+AhnLab V3 Internet Security
+Avast Antivirus
+AVG
+Avira Internet Security
+Bitdefender
+ClamWin
+Clam AntiVirus
+Comodo Antivirus
+Comodo Internet Security
+Dr. Web
+ESET NOD32
+F-Secure
+F-PROT
+Fortinet
+G Data
+Kaspersky Anti-Virus
+Kaspersky Internet Security
+Mac Internet Security
+Malwarebytes' Anti-Malware
+McAfee VirusScan
+Microsoft Security Essentials
+Windows Defender
+Panda
+360 Safeguard
+Sophos
+Symantec Endpoint Protection
+Immunet
+Element Anti-Virus
+Norton AntiVirus
+Norton Internet Security
+Spyware Doctor
+VirusBarrier
+Trend Micro Internet Security
+TrustPort
+Vba32 AntiVirus
+ZoneAlarm
+
+
+
+
+
+
+Mobile,
+tablet
+
+
+
+
+AhnLab Mobile Security
+Avast Antivirus
+AVG AntiVirus
+Avira Free Android Security
+Bitdefender Mobile Security
+CM Security
+Comodo Mobile Security
+Dr. Web Mobile Security Suite
+ESET Mobile Security
+F-Secure Mobile Security
+G Data Internet Security
+Lookout Mobile Security
+McAfee Mobile Security
+FireAMP Mobile
+Trend Micro Mobile Security
+TrustPort Mobile Security
+VirusBarrier
+
+
+
+
+
+
+
+
+Related
+
+
+
+Comparison of antivirus software
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Censorship and websites
+
+
+
+Censorship of
+
+
+
+Facebook
+File sharing sites
+GitHub
+iTunes Store
+The Pirate Bay
+Twitter
+WikiLeaks
+
+Reception
+in the United States
+
+
+Wikipedia
+YouTube
+
+in Germany
+
+
+
+
+
+
+
+
+
+
+Censorship by
+
+
+
+AOL
+Apple
+Cisco in China
+Google
+Microsoft in China
+Myspace
+
+in China
+
+
+Skype in China
+Yahoo
+Facebook
+YouTube
+Twitter
+
+
+
+
+
+Websites blocked in
+
+
+
+Belgium
+Mainland China
+
+Keywords
+
+
+India
+Pakistan
+Russia
+South Korea
+
+North Korean
+
+
+United Kingdom
+
+list
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Components of the Dow Jones Industrial Average
+
+
+
+
+
+
+3M
+American Express
+Apple
+Boeing
+Caterpillar
+Chevron
+Cisco Systems
+Coca-Cola
+Disney
+DuPont
+ExxonMobil
+General Electric
+Goldman Sachs
+The Home Depot
+Intel
+IBM
+Johnson & Johnson
+JPMorgan Chase
+McDonald's
+Merck & Co.
+Microsoft
+Nike
+Pfizer
+Procter & Gamble
+Travelers
+UnitedHealth Group
+United Technologies
+Verizon Communications
+Visa
+Walmart
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Major information technology companies
+
+
+
+
+
+
+Largest IT companies
+Largest Internet companies
+Largest software companies
+
+
+
+
+
+Consulting and
+outsourcing
+
+
+
+Accenture
+Atos
+Booz Allen Hamilton
+BMC Software
+BT Global Services
+CACI
+Capgemini
+CGI Group
+Cognizant
+Deloitte
+Digital China
+DXC Technology
+Fujitsu
+HCL Technologies
+Hitachi Consulting
+IBM Global Services
+Indra Sistemas
+Infosys
+Infor
+KPMG
+Leidos
+NEC
+NTT DATA
+Orange Business Services
+T-Systems
+Tata Consultancy Services
+Tech Mahindra
+Unisys
+Wipro
+
+
+
+
+
+Imaging
+
+
+
+Canon Inc.
+HP Inc.
+Eastman Kodak
+Fujifilm
+Konica Minolta
+Kyocera
+Lexmark
+Nikon
+Olympus Corporation
+Panasonic
+Ricoh
+Samsung Electronics
+Seiko Epson
+Sharp
+Sony
+Toshiba
+Xerox
+
+
+
+
+
+Information storage
+
+
+
+ADATA
+Dell Technologies
+Dell EMC
+Fujitsu
+Hitachi Data Systems
+Hewlett Packard Enterprise
+IBM
+Kingston Technology
+LenovoEMC
+NetApp
+Oracle Corporation
+Plextor
+Samsung Electronics
+Seagate Technology
+Silicon Power
+Sony
+Toshiba
+Transcend Information
+Western Digital (SanDisk)
+
+
+
+
+
+Internet
+
+
+
+Baidu
+Facebook
+Google
+IAC/InterActiveCorp
+Microsoft
+Naver
+NetEase
+Netflix
+Oath
+Tencent
+Twitter
+Uber
+Vox Media
+Yandex
+
+
+
+
+
+Cloud computing
+
+
+
+
+Akamai Technologies
+Amazon Web Services
+Google
+IBM
+Microsoft
+Oracle Corporation
+Rackspace
+Salesforce.com
+
+
+
+
+
+
+
+
+E-commerce only
+
+
+
+
+Alibaba Group
+Amazon.com
+eBay
+Flipkart
+Groupon
+JD.com
+Shopify
+Rakuten
+
+
+
+
+
+
+
+
+Mainframes
+
+
+
+Fujitsu
+IBM
+
+
+
+
+
+Mobile devices
+
+
+
+Acer Inc.
+Amazon.com
+Apple
+Asus
+BBK Electronics (OPPO, OnePlus, Vivo)
+BlackBerry Limited
+Hisense
+HTC
+Huawei
+I-Mobile
+Karbonn Mobiles
+Lava Mobiles (XOLO)
+Lenovo (Motorola Mobility)
+LG Electronics
+Meizu
+Micromax Informatics (YU Televentures)
+Microsoft
+Nokia
+Panasonic
+Samsung
+Sony
+TCL Corporation
+True
+Xiaomi
+ZTE
+
+
+
+
+
+Networking equipment
+
+
+
+Avaya
+Cisco Systems
+Ericsson
+Fujitsu
+Hewlett Packard Enterprise
+Huawei
+Juniper Networks
+Motorola Solutions
+NEC
+Nokia
+Qualcomm
+ZTE
+
+
+
+
+
+OEMs
+
+
+
+Celestica
+Compal Electronics
+Flextronics
+Foxconn
+Jabil
+Pegatron
+Quanta
+Sanmina Corporation
+TPV Technology
+Wistron Corporation
+
+
+
+
+
+Personal computers
+and servers
+
+
+
+Acer Inc.
+Apple Inc.
+Asus
+Dell
+Fujitsu
+HP Inc.
+Lenovo
+LG Electronics
+NEC
+Panasonic
+Positivo
+Samsung Electronics
+Toshiba
+
+
+
+
+
+Servers only
+
+
+
+
+Cisco Systems
+Hewlett Packard Enterprise
+IBM
+Inspur
+Oracle Corporation
+
+
+
+
+
+
+
+
+Financial technology
+
+
+
+Euronet Worldwide
+FIS
+PayPal
+Fiserv
+Jack Henry
+SWIFT
+Square
+
+
+
+
+
+Point of sale
+
+
+
+Casio
+NCR
+Panasonic
+Samsung Electronics
+Seiko Epson
+Sharp
+Star Micronics
+Toshiba
+Wincor Nixdorf
+
+
+
+
+
+Semiconductors
+
+
+
+Advanced Micro Devices
+Broadcom
+Fujitsu
+Infineon Technologies
+Integrated Micro-Electronics, Inc.
+Intel
+LG Electronics
+Marvell Technology Group
+MediaTek
+Micron Technology
+Nvidia
+NXP Semiconductors (Freescale)
+ON Semiconductor
+Panasonic
+Qualcomm
+Renesas Electronics
+Samsung Electronics
+SK Hynix
+Sony
+STMicroelectronics
+Texas Instruments
+Toshiba
+VIA Technologies
+
+
+
+
+
+Foundries
+
+
+
+
+GlobalFoundries
+TSMC
+United Microelectronics Corporation
+SMIC
+
+
+
+
+
+
+
+
+Equipment
+
+
+
+
+Applied Materials
+KLA-Tencor
+Lam Research
+Tokyo Electron
+
+
+
+
+
+
+
+
+Software
+
+
+
+Adobe Systems
+Amadeus IT Group
+Apple Inc.
+Autodesk
+BMC Software
+CA Technologies
+FIS
+Google
+Hewlett Packard Enterprise
+IBM
+Intuit
+Infor
+Microsoft
+Oracle Corporation
+Sage Group
+SAP SE
+Symantec
+VMware
+
+
+
+
+
+Telecommunications
+services
+
+
+
+América Móvil
+AT&T
+Bell Canada
+Bezeq
+Bharti Airtel
+Bharat Sanchar Nigam Limited
+BT Group
+CenturyLink
+China Mobile
+China Telecommunications Corporation
+
+China Telecom
+
+
+China Unicom
+Chunghwa Telecom
+Comcast
+Deutsche Telekom
+Hutchison Asia
+Idea Cellular
+KDDI
+KPN
+KT Corporation
+Mahanagar Telephone Nigam
+MTN
+MTS
+Nippon
+NTT DoCoMo
+Oi
+Orange S.A.
+PCCW
+Reliance
+Shaw
+Singtel
+SK Telecom
+SoftBank Mobile
+Spark
+Sprint Corporation
+Swisscom
+Tata Teleservices
+Telecom Italia
+Telefónica
+Telenor
+Telus
+Telmex
+Telstra
+TPG
+True
+Türk Telekom
+Veon
+Verizon
+Viettel
+Vivendi
+Vodafone
+
+
+
+
+
+Travel technology
+
+
+
+Amadeus IT Group
+Sabre Corporation
+Travelport
+
+
+
+
+
+Video games
+
+
+
+Activision Blizzard
+Atari
+Bandai Namco
+Capcom‎
+Electronic Arts
+Epic Games
+LucasArts
+Koei Tecmo
+Konami
+NCsoft
+Nexon
+Nintendo
+Sega
+Sony
+Square Enix
+Take-Two Interactive
+Tencent
+Ubisoft
+Warner Bros.
+
+
+
+
+
+
+Methodology: FY2014/15 applicable revenues of over: group 1-3, 6-12 - US$3 billion; group 4 - US$2 billion; group 5,13,16 - US$1 billion
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Companies of the NASDAQ-100 index
+
+
+
+
+
+
+21st Century Fox
+Activision Blizzard
+Adobe Systems
+Akamai Technologies
+Alexion Pharmaceuticals
+Alphabet
+Amazon.com
+American Airlines Group
+Amgen
+Analog Devices
+Apple
+Applied Materials
+Autodesk
+Automatic Data Processing
+Baidu
+Biogen
+BioMarin Pharmaceutical
+Broadcom Limited
+CA Technologies
+Celgene
+Cerner
+Charter Communications
+Check Point
+Cintas
+Cisco Systems
+Citrix Systems
+Cognizant
+Comcast
+Costco
+CSX
+Ctrip.com International
+Dentsply Sirona
+Discovery Communications
+Dish Network
+Dollar Tree
+eBay
+Electronic Arts
+Expedia
+Express Scripts
+Facebook
+Fastenal
+Fiserv
+Gilead Sciences
+Hasbro
+Henry Schein
+Hologic
+Idexx Laboratories
+Illumina
+Incyte
+Intel
+Intuit
+Intuitive Surgical
+J. B. Hunt Transport Services
+JD.com
+KLA-Tencor
+Kraft Heinz
+Lam Research
+Liberty Global
+Liberty Interactive
+Marriott International
+Mattel
+Maxim Integrated Products
+MercadoLibre
+Microchip Technology
+Micron Technology
+Microsoft
+Mondelez International
+Monster Beverage
+Mylan
+NetEase
+Netflix
+Norwegian Cruise Line
+Nvidia
+O'Reilly Auto Parts
+Paccar
+Paychex
+PayPal
+Qualcomm
+Regeneron
+Ross Stores
+Seagate Technology
+Shire
+Sirius XM Holdings
+Skyworks Solutions
+Starbucks
+Symantec
+T-Mobile US
+Tesla, Inc.
+Texas Instruments
+The Priceline Group
+Tractor Supply Company
+Ulta Beauty
+Verisk Analytics
+Vertex Pharmaceuticals
+Viacom
+Vodafone
+Walgreens Boots Alliance
+Western Digital
+Wynn Resorts
+Xilinx
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Cisco_Systems&oldid=793684626"					
+Categories: Companies in the NASDAQ-100 IndexCompanies listed on NASDAQCisco Systems1984 establishments in CaliforniaAmerican companies established in 1984Manufacturing companies based in San Jose, CaliforniaCompanies in the Dow Jones Industrial AverageComputer companies established in 1984Deep packet inspectionElectronics companies established in 1984Multinational companies headquartered in the United StatesNetworking companies of the United StatesNetworking hardware companiesTechnology companies based in the San Francisco Bay AreaTechnology companies established in 1984Telecommunications equipment vendorsVideotelephonyHidden categories: Coordinates not on WikidataAll articles with unsourced statementsArticles with unsourced statements from March 2017Articles with unsourced statements from September 2015All articles with vague or ambiguous timeVague or ambiguous time from July 2015Articles with unsourced statements from July 2015Citation overkillArticles tagged with the inline citation overkill template from July 2017 
+
+
+
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+Wikimedia CommonsWikinews 
+
+
+
+Languages
+
+
+العربيةAzərbaycancaবাংলাBân-lâm-gúБългарскиCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEuskaraفارسیFrançaisGalegoગુજરાતી한국어HrvatskiBahasa IndonesiaItalianoעבריתҚазақшаLietuviųMagyarമലയാളംमराठीBahasa Melayuမြန်မာဘာသာNederlands日本語Norsk bokmålPolskiPortuguêsRomânăРусскийScotsShqipSlovenčinaکوردیСрпски / srpskiSuomiSvenskaதமிழ்TürkçeУкраїнськаTiếng Việtייִדיש粵語中文 
+Edit links 
+
+
+
+
+
+ This page was last edited on 3 August 2017, at 09:23.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How Telephone and Data Systems, Inc. (TDS) Stock Stands Out in a Strong Industry - Nasdaq.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hot Topics:
+ETFs |
+Smart Portfolio |
+Currencies |
+Online Broker Center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How Telephone and Data Systems, Inc. (TDS) Stock Stands Out in a Strong Industry
+
+
+May 30, 2017, 08:53:00 AM EDT
+By Zacks Equity Research, Zacks.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shutterstock photo
+
+
+ One stock that might be an intriguing choice for investors right now is Telephone and Data Systems, Inc. TDS   . This is because this security in the Wireline - National Devices space is seeing solid earnings estimate revision activity, and is in great company from a Zacks Industry Rank perspective. This is important because, often times, a rising tide will lift all boats in an industry, as there can be broad trends taking place in a segment that are boosting securities across the board. This is arguably taking place in the Wireline - National Devices space as it currently has a Zacks Industry Rank of 4 out of more than 250 industries, suggesting it is well-positioned from this perspective, especially when compared to other segments out there. Meanwhile, Telephone and Data Systems is actually looking pretty good on its own too. The firm has seen solid earnings estimate revision activity over the past month, suggesting analysts are becoming a bit more bullish on the firm's prospects in both the short and long term.  Telephone and Data Systems, Inc. Price and   Consensus         Telephone and Data Systems, Inc. Price and   Consensus    |      Telephone and Data Systems, Inc. Quote  In fact, over the past month, current quarter estimates have risen from 1 cent per share to 5 cents per share, while current year estimates have risen from a loss of 2 cents per share to earnings of 30 cents per share. This has helped TDS to earn a Zacks Rank #1 (Strong Buy), further underscoring the company's solid position. You can see    the complete list of today's Zacks #1 Rank (Strong Buy)     stocks here    . So, if you are looking for a decent pick in a strong industry, consider Telephone and Data Systems. Not only is its industry currently in the top third, but it is seeing solid estimate revisions as of late, suggesting it could be a very interesting choice for investors seeking a name in this great industry segment.  More Stock News: 8 Companies Verge on Apple-Like   Run  Did you miss Apple's 9X stock explosion after they launched their iPhone in 2007? Now 2017 looks to be a pivotal year to get in on another emerging technology expected to rock the market. Demand could soar from almost nothing to $42 billion by 2025. Reports suggest it could save 10 million lives per decade which could in turn save $200 billion in U.S. healthcare costs.    A bonus Zacks Special Report names this breakthrough and the 8 best stocks to exploit it. Like Apple in 2007, these companies are already strong and coiling for potential mega-gains  . Click to see them right now >>    Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report   Telephone and Data Systems, Inc. (TDS): Free Stock Analysis Report   To read this article on Zacks.com click here.   Zacks Investment Research
+
+
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+
+
+
+
+
+
+
+
+
+
+This article appears in:
+Investing                           
+                            
+                                , Investing Ideas                           
+                            
+                                , Stocks
+
+
+
+
+
+Referenced Symbols:
+
+                                        TDS
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+More from Zacks.com
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related Investing Ideas Articles
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+Huntington Ingalls (HII) Beats on Q2 Earnings & Sales
+
+
+						8/03/2017 09:01 AM
+					
+
+
+
+Windstream (WIN) Q2 Loss Narrower than Expected
+
+
+						8/03/2017 09:00 AM
+					
+
+
+
+Should You Buy Nevro (NVRO) Ahead of Earnings?
+
+
+						8/03/2017 08:59 AM
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contributor:Zacks.com
+Equity Research
+
+
+
+Follow on:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Most Popular
+
+
+
+
+Highest Rated
+
+
+
+
+
+
+
+
+Jacobs Engineering To Buy CH2M HILL For Enterprise Value Of About
+Costco Wholesale Corporation Announces Quarterly Cash Dividend
+Grayscale Investments, LLC Statement Regarding Bitcoin Investment
+Amazon.com Inc. (AMZN) Is Heading Lower After Q2 Profit Disappoints
+Western Digital Corp Bottom Line Rises 228% In Q4
+
+
+
+
+
+
+
+U.S. Army Exercises Contract Option with Kraig Biocraft Laboratories...
+Zynga Announces Second Quarter 2017 Financial Results
+Costco Wholesale Corporation Reports July Sales Results
+Mexus releases information on current gold produced and the purchase...
+Cannabix Technologies Develops Beta 3.0 Marijuana Breathalyzer and...
+
+
+
+
+View All Highest Rated
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Research Brokers before you trade
+
+
+
+		Compare Online Brokers
+	
+
+
+Want to trade FX?
+
+
+
+		Visit our Forex Broker Center 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Find a Credit Card
+
+
+
+                    Select a credit card product by:
+                
+
+
+ Card Type
+ Credit Score
+ Card Issuer
+
+
+
+                    Select an offer:
+                
+
+
+
+
+
+0% APR Credit CardsAirline Credit CardsBalance Transfer Credit CardsBusiness Credit CardsCash Back Credit CardsCharge CardsCharge Cards for BusinessEMV Smart ChipsGas Cards & Auto RewardsHome Improvement Rewards Credit CardsInstant Approval Credit CardsLow Interest Credit CardsNo Annual Fee Credit CardsNo Foreign Transaction Fee Credit CardsPoints Rewards Credit CardsPrepaid & Debit CardsReward Credit CardsStudent Credit CardsTop 10 Best Credit Card Deals and Offers
+
+
+
+
+Bad CreditCredit Quality AverageCredit Quality ExcellentCredit Quality FairCredit Quality GoodLimited or No Credit HistoryPersonal Loans
+
+
+
+
+American ExpressAmerican Express Airline CardsAmerican Express Business CardsAmerican Express Cash Back Credit CardsAmerican Express Charge CardsBarclaycardCapital OneCapital One Cash BackCapital One Fair CreditCapital One MilesCapital One PointsCapital One Prepaid Credit CardsChaseCiti Credit CardsDiscoverDiscover CashbackDiscover MilesDiscover Student Credit CardsMasterCard Credit CardsU.S. BankUSAAUSAA SavingsVisa Credit Cards
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+Data Provided by BankRate.com
+
+
+
+
+
+
+Stocks
+
+Referenced
+
+
+
+
+
+TDS
+
+
+
+
+
+
+
+
+0%
+
+
+
+Rate It
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CLOSEX
+
+Edit Favorites
+
+Enter up to 25 symbols separated by commas or spaces in the text box below. These symbols will be available during your session for use on applicable pages.
+
+
+
+
+
+
+Update
+
+Clear List
+
+
+
+
+
+
+
+CLOSEX
+Customize your NASDAQ.com experience
+Background Color Selector
+
+Select the background color of your choice:
+
+
+
+
+
+ Black
+							
+
+
+
+
+
+ Slate Gray
+							
+
+
+
+
+
+
+ Light Gray
+							
+
+
+
+
+
+ Gray Blue
+							
+
+
+
+
+
+
+Quote Search
+
+Select a default target page for your quote search:
+
+
+
+						 Real-Time
+
+						 After Hours
+
+						 Pre-Market
+ News
+					
+
+
+						 Flash Quote
+
+						 Summary Quote
+
+						 Interactive Charts
+
+						 Default Setting
+
+
+
+
+					Please note that once you make your selection, it will apply to all future visits to NASDAQ.com.
+					If, at any time, you are interested in reverting to our default settings, please select Default Setting above.
+					
+					If you have any questions or encounter any issues in changing your default settings, please email isfeedback@nasdaq.com.
+				
+
+
+
+
+
+CLOSEX
+Please confirm your selection:
+
+					You have selected to change your default setting for the Quote Search. This will now be your default target page;
+					unless you change your configuration again, or you delete your
+					cookies. Are you sure you want to change your settings?
+
+
+YES
+NO
+
+
+
+
+
+
+
+
+
+
+
+
+
+CLOSEX
+
+
+Please disable your ad blocker (or update your settings to ensure that javascript and cookies are enabled), so that we can continue to provide you with the first-rate market news and data you've come to expect from us.
+
+
+
+
+
+CLOSEX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CUSTOMER SERVICE ASSISTANT - Waunakee, WI
+
+
+
+
+
+
+
+
+
+
+☰×Madison JobsEmployers / Post JobFind JobsAdvancedTelephone and Data Systems Inc.Receive alerts when this company posts new jobs.SubscribeCompany OverviewAll Jobs (21)CUSTOMER SERVICE ASSISTANTat Telephone and Data Systems Inc.Click here to Apply Online Share this Job View On MapPosted: 7/6/2017Job Reference #: 11514Categories: Administrative/Clerical, Call Center/Telemarketing, Customer ServiceKeywords: officeJob DescriptionID 2017-11514Job Locations US-WI-WaunakeeCompany Suttle-StrausOverview:Suttle-Straus is looking for a Customer Service Assistant to join our award winning team! The ideal candidate is a team player with great attention to detail, who strives to continuously improve processes. Suttle-Straus, is a premier provider of printing, wide format, digital imaging, mailing, custom kitting, warehousing, and distribution services. Our success is founded on three core principles: A clear focus on meeting and exceeding customer expectations; a long history of implementing new technologies to increase quality and efficiency; and the importance of building an outstanding workforce. Winner of the Printing Industries of America’s Best Workplace award for 17 consecutive years, Suttle-Straus offers a collaborative work environment, great benefits and fantastic co-workers.  We offer a competitive benefits package with immediate eligibility for health, dental, vision and life insurance, and eligibility after 30 days for a company matched 401(k) plan. Paid time off accrues monthly from date of hire.Responsibilities:Job Summary:The primary function of this position is to assist the Customer Service Representatives (CSRs) with various reporting and job coordination needs. The Customer Service Assistant helps with basic tasks such as running reports, pulling tickets, writing up reprint tickets, coordinating proofing and creating pre-bills. The Customer Service Assistant serves as a backup for CSRs when they are out of the office or overloaded. This is a training position for advancement into a CSR role. Duties & Responsibilities:Work closely with Sales Representatives and CSRs to provide customer supportEnter data into the order entry system for reprint jobs ensuring accuracy and timelinessAssist Sales, Client Services and Production personnel regarding order information, job status, issues, problems and updatesAssist Team Supervisors with administrative tasksRun various scheduled reportsAdd/edit/maintain item recordsAssist CSRs with gathering data for pre-billing of jobsForward proofs to customers and assist customers in proofing processMonitor progress of orders throughout the systemQualifications:Skills & Educational Requirements:Strong interpersonal skillsGeneral computer literacyExcellent verbal and written communication skillsAbility to multi-taskKnowledge of postal regulations a plusCLICK HERE TO APPLY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data Installers, Inc in Los Angeles, CA | CCTV, Cabling, Phone Systems, Fiber Optic, Access Control, Wireless
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ The Leading Telecommunications & Security Solutions Provider In Southern California.
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Your Low-Voltage CCTV, & Security Integrator
+
+
+
+
+
+
+ 
+Data Installers Inc. is an IT infrastructure design, A/V, security, and network cabling installation Company. We specialize in the sales, service, and installation of structured voice and data cabling systems, voice and data integration, fiber work area products plus fiber optic cabling systems.
+
+
+
+
+
+
+
+
+
+
+
+Want to add another phone cable in an existing, finished wall?  Thinking about installing a cable, a phone jack, or renovating an existing room or structure? Maybe you need a complete re-wire to be up-to-date with your Cat6 data system.
+
+
+
+
+These are just a few of the tasks we can accomplish for you. From the basement to the attic, from the outside to the inside, we can perform the work you need, done right the first time. Quality workmanship at affordable prices; pride in our work is a company standard.
+
+
+
+
+Our clients include several Westfield Malls throughout Southern California, Grove in Los Angeles, Americana at Glendale, Winco Foods, College of the Desert in Palm Springs, San Diego Chargers, Enterprise Rent A Car and various other School Districts. We do it all… telephone and data cabling, intercom systems, surround sound systems, fiber optic, CCTV, and more!
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ Our Services
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+CCTV & Surveillance
+We specialize in CCTV applications in a wide array of deployments including schools, commercial buildings, warehouses, government buildings and more. We also partner with several leading manufacturers.
+
+
+
+
+
+Business Phone Systems
+Voice communication is more important than ever for businesses of today. We understand the voice needs of businesses and organizations. We can help design and install the voice system that meets your needs whether it be a traditional PBX or VoIP.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Structured Cabling
+Structured, low-voltage cabling is the backbone of any network infrastructure. Therefore, it is critical to ensure your infrastructure wiring is installed & tested correctly. Our team of engineers & technicians have the experience needed to handle and deliver your next project with success.
+
+
+ 
+
+
+
+
+ 
+
+
+Fiber Optic Installation
+Fiber optic cabling is the future of the telecommunications world for both commercial and residential applications. The precision required for fiber optic installations demands specialized experts, like our team, experienced in both installing & splicing fiber.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Audio Video Installation
+Interested in audio/video applications for commercial or residential applications? Our team of experienced A/V professionals have you covered. We specialize in conference room A/V systems for the conference room and for home entertainment.
+
+
+
+
+
+Access Control Systems
+Protecting the organization are both security and safety requirements of today. Our team has the knowledge and know-how to provide a solid access control solution to meet your needs, whether it be simple or complex.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wireless Systems
+Wireless availability is a growing need for both commercial and residential applications. Whether you need to WiFi-enable a small office or large warehouse, our team has the experience to meet your needs. Being vendor agnostic, we can install wireless systems & access points from many enterprise-grade brands.
+
+
+Our Project Frame Work
+ 
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Initial Consultation 
+
+
+
+
+
+
+
+
+Site Survey 
+
+
+
+
+
+
+
+
+Infrastructure Design 
+
+
+
+
+
+
+
+
+Procurement of Materials 
+
+
+
+
+
+
+
+
+Setup and Installations 
+
+
+
+
+
+
+
+
+
+
+
+Certification 
+
+
+
+
+
+
+
+
+Moves/Add/Changes 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ Contact Us !
+ 
+
+
+
+
+ Send Us A Message
+
+
+
+
+
+
+
+
+
+
+ Your Name (required)
+ 
+ Your Email (required)
+ 
+ Subject
+ 
+ Your Message
+ 
+
+Contact Info
+
+
+Toll Free: 800-730-3468
+•Fax: 909-628-6777
+•Email: corp@datainstallers.com
+•Address:
+4190 Mission Blvd
+Montclair, CA 91763.
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright 2017 - Data Installers,
+Inc. - All Rights Reserved			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Telephone and Data Systems, Inc. (NYSE:TDS) Has a Value Score of 11 | DARC News
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+Thursday, August 3, 2017
+
+
+
+
+
+
+
+DARC News
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Telephone and Data Systems, Inc. (NYSE:TDS) Has a Value Score of 11
+
+
+July 31, 2017 Darc News Contributor     
+	
+
+
+
+
+
+
+
+
+
+
+Taking a look at valuation rankings for Telephone and Data Systems, Inc. (NYSE:TDS), we see that the stock has a Value Composite score of 11. Developed by James O’Shaughnessy, the VC score uses five valuation ratios. These ratios are price to earnings, price to cash flow, EBITDA to EV, price to book value, and price to sales. The VC is displayed as a number between 1 and 100. In general, a company with a score closer to 0 would be seen as undervalued, and a score closer to 100 would indicate an overvalued company. Adding a sixth ratio, shareholder yield, we can view the Value Composite 2 score which is currently sitting at 11.
+As most investors most likely have learned, there is no easy answer when deciding how to best take aim at the equity market, especially when faced with a volatile investing scenario. There are many different views when it comes to trading stocks. Investors may have to first come up with a plan in order to build a solid platform on which to compile a legitimate strategy. The vast amount of publically available data can seem overwhelming for novice investors. Making sense of the sea of information may do wonders for the health of the individual investor’s holdings.
+In taking a look at some other notable technicals, Telephone and Data Systems, Inc. (NYSE:TDS)’s ROIC is 0.020340. The ROIC 5 year average is 0.017984 and the ROIC Quality ratio is 5.620806. ROIC is a profitability ratio that measures the return that an investment generates for those providing capital. ROIC helps show how efficient a firm is at turning capital into profits. 
+The Q.i. Value of Telephone and Data Systems, Inc. (NYSE:TDS) is 39.00000.  The Q.i. Value is a helpful tool in determining if a company is undervalued or not.  The Q.i. Value is calculated using the following ratios: EBITDA Yield, Earnings Yield, FCF Yield, and Liquidity.  The lower the Q.i. value, the more undervalued the company is thought to be.
+The FCF Yield 5yr Average is calculated by taking the five year average free cash flow of a company, and dividing it by the current enterprise value.  Enterprise Value is calculated by taking the market capitalization plus debt, minority interest and preferred shares, minus total cash and cash equivalents.  The average FCF of a company is determined by looking at the cash generated by operations of the company.  The Free Cash Flow Yield 5 Year Average of Telephone and Data Systems, Inc. (NYSE:TDS) is -0.014470. 
+Shareholder YieldWe also note that Telephone and Data Systems, Inc. (NYSE:TDS) has a Shareholder Yield of 0.009847 and a Shareholder Yield (Mebane Faber) of 0.01267. The first value is calculated by adding the dividend yield to the percentage of repurchased shares. The second value adds in the net debt repaid yield to the calculation. Shareholder yield has the ability to show how much money the firm is giving back to shareholders via a few different avenues. Companies may issue new shares and buy back their own shares. This may occur at the same time. Investors may also use shareholder yield to gauge a baseline rate of return.
+MF RankTelephone and Data Systems, Inc. (NYSE:TDS) has a current MF Rank of 9675. Developed by hedge fund manager Joel Greenblatt, the intention of the formula is to spot high quality companies that are trading at an attractive price. The formula uses ROIC and earnings yield ratios to find quality, undervalued stocks. In general, companies with the lowest combined rank may be the higher quality picks.
+PIWe can now take aquick look at some historical stock price index data. Telephone and Data Systems, Inc. (NYSE:TDS) presently has a 10 month price index of 1.05191. The price index is calculated by dividing the current share price by the share price ten months ago. A ratio over one indicates an increase in share price over the period. 
+A ratio lower than one shows that the price has decreased over that time period. Looking at some alternate time periods, the 12 month price index is 0.93060, the 24 month is 1.08596, and the 36 month is 1.24139. Narrowing in a bit closer, the 5 month price index is 1.07251, the 3 month is 1.05007, and the 1 month is currently 1.00773.
+
+
+
+
+
+
+ Leave a Comment Cancel reply 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+
+
+Most Popular PostsAsian ADRs Trading LowerEuropean ADRs Edge Higher as Pharma Stocks See Mixed FortunesDuke Realty Ratings Raised by Moody’s on Improved Debt ProfileArista Networks Hits New 52-Week HighGroupon Sells Malaysian Unit to KFit Group
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get Market Moving Picks in your inbox Before the Bell
+
+
+
+
+
+
+
+Lists*
+
+
+Consumer Eagle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Telephone and Data Systems, Inc. (TDS): Ignore the noise and focus on the technicals | USA Commerce Daily
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E-Commerce News
+Wall Street
+Technology
+Economy
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+About Us
+Our Team
+Contact Us
+
+
+
+
+
+
+
+Sign in
+Welcome! Log into your account
+
+your username
+your password
+
+Forgot your password? Get help
+
+
+Password recovery
+Recover your password
+
+your email
+
+A password will be e-mailed to you.
+
+
+
+
+
+
+
+
+
+
+USA Commerce Daily
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+E-Commerce News
+Wall Street
+Technology
+Economy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Home  
+
+Business    Telephone and Data Systems, Inc. (TDS): Ignore the noise and focus on...
+Business
+
+Telephone and Data Systems, Inc. (TDS): Ignore the noise and focus on the technicals
+
+By Heather Davidson -   August 1, 2017 
+
+
+
+ 
+
+
+
+
+
+
+
+
+Share on Facebook
+Tweet on Twitter
+
+
+
+
+
+
+
+
+
+
+With all other things going on, Telephone and Data Systems, Inc. (NYSE:TDS) has been on a run — rising 5.37 percent in just three months. It looks like traders are happy with the stock. On the other side, analysts now consider Telephone and Data Systems, Inc. a neutral, and a technical analysis of the stock is setting somewhat neutral outlook for now.
+ Let’s talk about the gap between analyst price targets for the next 12 months and Telephone and Data Systems, Inc. (TDS)‘s current share price. Normally this spread should be in positive territory, indicating that analysts expect an investment’s value to increase over time. So is with Telephone and Data Systems, Inc.. The median target of analyst views collected by Yahoo Finance was as much as $4.57 below TDS’s recent stock price. That’s the optimistic view from Wall Street.
+ The stock has actually made sharp losses in the past year, as the company has gathered a -9.72% return in the past twelve months. But even with this move, there is still plenty of room for the company to come back from a longer term perspective, and especially if we look to recent lows for the company as well.
+
+
+
+
+
+ The company’s share price is down -15.97% from previous highs of around $32.97 per share on February 23, 2017. On the bright side, the company’s share price has been on the rebound, up more than 36.82% since hitting lows of $24.12 on November 04, 2016.
+ Finally, from a technical perspective, there’s a strong possibility that the stock could enter into a new bull market after finding strong support between $27.62 and $28.02. In terms of pullbacks, $28.66 level is the first resistance point. Technical analysis can help recognize key technical price levels in the stock. Investors can use these support and resistance levels to refine their entries and exits from stocks.
+ Telephone and Data Systems, Inc. (NYSE:TDS) price is pointing towards neither exit nor entry barriers, according to a technical analysis tool called the Relative Strength Index (RSI). Last session Telephone and Data Systems, Inc. RSI was seen at 53.12. RSI measures the speed and change of a stock price to warn investors when a stock’s momentum has carried it too far. An RSI reading above 80 indicates that a stock is overbought while anything below 20 is oversold.
+ With these kinds of figures it is worthy to note that Telephone and Data Systems, Inc. (TDS) has been put into a neutral territory, but there are few other spots to consider. The Stochastic %K for TDS is 71.71. Stochastics is a momentum indicator that uses basic support and resistance levels and integrates with the trend to give accurate buy or sell signals to traders. For stochastics, readings below 20 are considered oversold and you would only take buy signals if the indicator is below that level. A value of 80 is considered overbought and sell signals occurring below that level would be ignored. This leads to longer trades and should result in fewer losses.
+ 14-day Williams %R for Telephone and Data Systems, Inc. (NYSE:TDS) moved to around 30.24. The interpretation of Williams %R is very similar to that of the stochastic oscillator, except that the stochastic oscillator has internal smoothing. The oscillator ranges from 0 to -100. No matter how fast a security advances or declines, Williams %R will always fluctuate within this range. Overbought and oversold levels can be used to identify unsustainable price extremes. Simply put, readings in the range of 80% to 100% indicate that the security is oversold while readings in the 0% to 20% range suggest it is overbought.
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Popular Posts
+
+
+
+
+DDR Corp. (DDR) Stock Technicals are in the neutral area 
+August 3, 2017 
+
+
+ 
+
+
+
+
+Avis Budget Group, Inc. (CAR) technical charts are presenting a bleak... 
+August 3, 2017 
+
+
+ 
+
+
+
+
+Are Nuance Communications, Inc. (NUAN) Stock Technicals Favorable? 
+August 3, 2017 
+
+
+ 
+
+
+
+
+If You Lack Direction On QEP Resources, Inc. (NYSE:QEP), You Need... 
+August 3, 2017 
+
+
+  
+
+
+
+
+
+ 
+
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+USA Commerce Daily knows how managing information determines success in the modern world. People who are really looking for information about business, companies and latest stock news – USA Commerce Daily is the right place. USA Commerce Daily does not gather only pleasant news. It covers everything that is really important. This paper still provides own investigations on the high level. Local and International events are given with careful and complete analysis. USA Commerce Daily is here to grab all the latest – hottest news and popular interview and bring them to you in a concise way. 
+
+Categories 
+Business
+
+E-Commerce News
+
+Economy
+
+Technology
+
+Wall Street
+
+
+ 
+
+ Recent Posts 
+
+DDR Corp. (DDR) Stock Technicals are in the neutral area
+
+
+Avis Budget Group, Inc. (CAR) technical charts are presenting a bleak picture
+
+
+Are Nuance Communications, Inc. (NUAN) Stock Technicals Favorable?
+
+
+If You Lack Direction On QEP Resources, Inc. (NYSE:QEP), You Need to Read This
+
+
+Tetraphase Pharmaceuticals, Inc. (TTPH): Some of the key technical areas
+
+
+ 
+
+
+
+
+
+
+
+
+Home
+About Us
+Our Team
+Contact Us
+ 
+
+                    Copyright 2017 by USA Commerce Daily                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		  Telephone & Data Systems Inc (NYSE:TDS) Institutional Investor Sentiment Is 1.09
+		
+		
+		
+		
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Trending
+Business
+About US
+Contact
+Privacy Policy
+Comment Policy
+
+
+
+
+
+
+Telephone & Data Systems Inc (NYSE:TDS) Institutional Investor Sentiment Is 1.09
+
+
+					
+
+						August 2, 2017 - By Ellis Scott
+
+
+Sentiment for Telephone & Data Systems Inc (NYSE:TDS)
+Telephone & Data Systems Inc (NYSE:TDS) institutional sentiment increased to 1.09 in 2016 Q4. Its up 0.31, from 0.78 in 2016Q3. The ratio has increased, as 109 active investment managers increased and started new holdings, while 100 sold and decreased stakes in Telephone & Data Systems Inc. The active investment managers in our partner’s database now have: 85.47 million shares, up from 85.06 million shares in 2016Q3. Also, the number of active investment managers holding Telephone & Data Systems Inc in their top 10 holdings was flat from 1 to 1 for the same number . Sold All: 17 Reduced: 83 Increased: 82 New Position: 27.
+
+
+
+
+
+
+
+Telephone and Data Systems, Inc. is a diversified telecommunications company. The company has market cap of $3.18 billion. The Firm is engaged in conducting its Wireless activities through its subsidiary, United States Cellular Corporation , as well as providing its wireline services, cable services, and hosted and managed services (HMS), through its subsidiary, TDS Telecommunications Corporation (TDS Telecom).
+The stock increased 1.41% or $0.4 during the last trading session, reaching $28.83. About shares traded. Telephone & Data Systems, Inc. (NYSE:TDS) has declined 0.51% since August 2, 2016 and is downtrending. It has underperformed by 17.21% the S&P500.
+Wall Street await Telephone & Data Systems, Inc. (NYSE:TDS) to release earnings on August, 4. Analysts forecast earnings per share of $0.05, down exactly $0.15 or 75.00 % from 2014’s $0.2 EPS. The expected TDS’s profit could reach $5.52M giving the stock 144.15 P/E in the case that $0.05 earnings per share is reported. After posting $0.33 EPS for the previous quarter, Telephone & Data Systems, Inc.’s analysts now forecast -84.85 % negative EPS growth. 
+Eidelman Virant Capital holds 4.85% of its portfolio in Telephone & Data Systems, Inc. for 294,254 shares. Nokomis Capital L.L.C. owns 394,148 shares or 2.47% of their US portfolio. Moreover, Qv Investors Inc. has 1.77% invested in the company for 548,997 shares. The New York-based Nwi Management Lp has invested 1.75% in the stock. Sadoff Investment Management Llc, a Wisconsin-based fund reported 542,400 shares.#img1#
+Telephone & Data Systems, Inc. (NYSE:TDS) Ratings Coverage
+Ratings analysis reveals 0 of Telephone and Data Systems’s analysts are positive. Out of 2 Wall Street analysts rating Telephone and Data Systems, 0 give it “Buy”, 0 “Sell” rating, while 2 recommend “Hold”. TDS was included in 2 notes of analysts from January 4, 2016. The firm has “Mkt Perform” rating by Raymond James given on Monday, February 27. The firm has “Neutral” rating by JP Morgan given on Monday, January 4.
+Another recent and important Telephone & Data Systems, Inc. (NYSE:TDS) news was published by Prnewswire.com which published an article titled: “Wireless Communications Stock Performance Review — SK Telecom, Telephone and …” on July 19, 2017.
+
+
+Receive News & Ratings Via Email - Enter your email address below to receive a concise daily summary of the latest news and analysts' ratings with our FREE daily email newsletter.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Free Email Newsletter Enter your email address below to get the latest news and analysts' ratings for your stocks with our free daily email newsletter:
+
+
+
+
+
+
+  Recent Posts 
+
+Can METALS X LTD ORD (OTCMKTS:MLXEF)’s Tomorrow be Different? The Stock Had Increase in Shorts
+
+
+Malvern Bancorp Incorporated (NASDAQ:MLVF) Short Interest Increased By 43.79%
+
+
+Milestone Scientific Incorporated (NYSEMKT:MLSS) Sellers Covered 40.51% of Their Shorts
+
+
+What’s Propelling MAIL RU GROUP LTD (OTCMKTS:MLRYY) After Higher Shorts Reported?
+
+
+C-tracks Exchange-traded Notes (NYSEARCA:MLPC) Sellers Increased By 133.33% Their Shorts
+
+
+Could Maui Land & Pineapple Company (NYSE:MLP) Go Up After Its Newest Short Interest Report?
+
+
+Visa (V) Holding Has Boosted by Bank Hapoalim Bm; Enernoc Com (ENOC) Holder Oaktop Capital Management Ii LP Has Lowered Its Stake by $4.94 Million
+
+
+Mellanox Tech Limited Ord (NASDAQ:MLNX) Short Interest Increased By 4.92%
+
+
+Patrick Industries (PATK) Shareholder Tygh Capital Management Has Trimmed Its Position by $815,252; As Aspen Aerogels Com (ASPN) Share Price Rose, Holder Oaktop Capital Management Ii LP Raised Position
+
+
+Moduslink Global Solutions Incorporated (NASDAQ:MLNK) Reports Decline in Sellers; Strong Momentum for Longs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            	Get the Next Big Winner in your inbox Before the Bell
+
+
+
+
+
+
+
+            
+Lists*Consumer Eagle
+
+
+
+
+
+
+
+
+Twitter Auto Publish Powered By : XYZScripts.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business telephone system - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Business telephone system
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (June 2013) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+This article needs to be updated. Please update this article to reflect recent events or newly available information. (June 2013)
+
+
+
+
+(Learn how and when to remove this template message)
+
+
+
+
+
+
+Early model 464G Western Electric key telephone set
+
+
+A business telephone system is a multiline telephone system typically used in business environments, encompassing systems ranging from small key telephone systems to large-scale private branch exchanges.
+A business telephone system differs from an installation of several telephones with multiple central office (CO) lines in that the CO lines used are directly controllable in key telephone systems from multiple telephone stations, and that such a system often provides additional features related to call handling. Business telephone systems are often broadly classified into key telephone systems, and private branch exchanges, but many hybrid systems exist.
+A key telephone system was originally distinguished from a private branch exchange (PBX) in that it did not require an operator or attendant at the switchboard to establish connections between the central office trunks and stations, or between stations. Technologically, private branch exchanges share lineage with central office telephone systems, and in larger or more complex systems, may rival a central office system in capacity and features. With a key telephone system, a station user could control the connections directly using line buttons, which indicated the status of lines with built-in lamps.
+
+
+
+Contents
+
+
+1 Key telephone system
+
+1.1 Electromechanical shared-control key system
+1.2 Electronic shared-control system
+
+
+2 Hybrid key telephone system
+3 Private branch exchange
+
+3.1 History
+3.2 System components
+3.3 Current trends
+3.4 Home and small-business usage
+3.5 PBX functions
+3.6 Interface standards
+3.7 Hosted PBX systems
+
+
+4 Hosted PBX providers
+
+4.1 Mobile PBX
+4.2 IP-PBX
+
+
+5 See also
+6 References
+7 External links
+
+
+
+Key telephone system[edit]
+
+
+
+
+A 1930s key telephone for a private branch exchange.
+
+
+Key telephone systems are primarily defined by arrangements with individual line selection buttons for each available telephone line. The earliest systems were known as wiring plans and simply consisted of telephone sets, keys, lamps, and wiring.
+Key was a Bell System term of art for a customer-controlled switching system[1] such as the line-buttons on the phones associated with such systems.
+The wiring plans evolved into modular hardware building blocks with a variety of functionality and services in the 1A key telephone system developed in the Bell System in the 1930s.[2]
+Key systems can be built using three principal architectures: electromechanical shared-control, electronic shared-control, or independent key sets.
+New installations of key telephone systems have become less common, as hybrid systems and private branch exchanges of comparable size have similar cost and greater functionality.
+Electromechanical shared-control key system[edit]
+
+
+
+
+A typical rotary dial key telephone: the Western Electric eighteen-button Call Director, manufactured from 1958 to the early '80s.
+
+
+Before the advent of large-scale integrated circuits, key systems were typically composed of electromechanical components (relays) as were larger telephone switching systems.
+The systems marketed in North America as the 1A, 6A, 1A1 and the 1A2 Key System are typical examples and sold for many decades. The 1A family of Western Electric Company (WECo) key telephone units (KTUs) were introduced in the late 1930s and remained in use to the 1950s. 1A equipment was primitive and required at least two KTUs per line; one for line termination and one for station (telephone instrument) termination. The telephone instrument commonly used by 1A systems was the WECo 300-series telephone. Introduced in 1953, 1A1 key systems simplified wiring with a single KTU for both line and station termination, and increased the features available. As the 1A1 systems became commonplace, requirements for intercom features grew. The original intercom KTUs, WECo Model 207, were wired for a single talk link, that is, a single conversation on the intercom at a time. The WECo 6A dial intercom system provided two talk links and was often installed as the dial intercom in a 1A1 or 1A2 key system. The 6A systems were complex, troublesome and expensive, and never became popular. The advent of 1A2 technology in the 1964 simplified key system set up and maintenance. These continued to be used throughout the 1980s, when the arrival of electronic key systems with their easier installation and greater features signaled the end of electromechanical key systems.
+Two lesser-known key systems were used at airports for air traffic control communications, the 102 and 302 key systems. These were uniquely designed for communications between the air traffic control tower and radar approach control (RAPCON) or ground control approach (GCA), and included radio line connections.
+Automatic Electric Company also produced a family of key telephone equipment, some of it compatible with Western Electric equipment, but it did not gain the widespread use enjoyed by Western Electric equipment.
+Electronic shared-control system[edit]
+With the advent of LSI ICs, the same architecture could be implemented much less expensively than was possible using relays. In addition, it was possible to eliminate the many-wire cabling and replace it with much simpler cable similar to (or even identical to) that used by non-key systems. Electronic shared-control systems led quickly to the modern hybrid telephone system, as the features of PBX and key system quickly merged. One of the most recognized such systems is the AT&T Merlin.
+Additionally, these more modern systems allowed a diverse set of features including:
+
+Answering machine functions
+Automatic call accounting
+Caller ID
+Remote supervision of the entire system
+Selection of signaling sounds
+Speed dialing
+Station-specific limitations (such as no long distance access or no paging)
+
+Features could be added or modified simply using software, allowing easy customization of these systems. The stations were easier to maintain than the previous electromechanical key systems, as they used efficient LEDs instead of incandescent light bulbs for line status indication.
+LSI also allowed smaller systems to distribute the control (and features) into individual telephone sets that don't require any single shared control unit. Generally, these systems are used with a relatively few telephone sets and it is often more difficult to keep the feature set (such as speed-dialing numbers) in synchrony between the various sets.
+Hybrid key telephone system[edit]
+Into the 21st century, the distinction between key systems and PBX systems has become increasingly blurred. Early electronic key systems used dedicated handsets which displayed and allowed access to all connected PSTN lines and stations.
+
+
+
+
+Nortel T Series Key System Telephone
+
+
+The modern key system now supports SIP, ISDN, analog handsets (in addition to its own proprietary handsets - usually digital) as well as a raft of features more traditionally found on larger PBX systems. Their support for both analog and digital signaling, and of some PBX functionality gives rise to the hybrid designation.[3]
+A hybrid system typically has some call appearance buttons that directly correspond to individual lines and/or stations, but may also support direct dialing to extensions or outside lines without selecting a line appearance.
+The modern key system is usually fully digital, although analog variants persist and some systems implement VOIP services. Effectively, the aspects that distinguish a PBX from a hybrid key system are the amount, scope and complexity of the features and facilities offered.
+Hybrid systems are a common tool in the financial services industry used on trading floors. These advanced hybrid key systems generally only require attached PBXs for interaction with back-office staff and voicemail. These systems commonly have their front end units referred to as Turrets and are notable for their presentation of hoot-n-holler circuits. Multiple Hoots are presented to multiple users over multiplexed speakers to multiple locations.
+Private branch exchange[edit]
+
+
+
+
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (February 2014) (Learn how and when to remove this template message)
+
+
+
+
+
+
+An Avaya G3si PBX with front cover removed (view from the top)
+
+
+A private branch exchange (PBX) is a telephone exchange or switching system that serves a private organization and performs concentration of central office lines or trunks and provides intercommunication between a large number of telephone stations in the organization.[4] The central office lines provide connections to the public switched telephone network and the concentration aspect of a PBX permits the shared use of these lines between all stations in the organization. The intercommunication aspect[clarify] allows two or more stations to directly connect while not using the public switched telephone network.
+Each PBX-connected station, such as a telephone set, a fax machine, or a computer modem, is often referred to as an extension and has a designated extension telephone number that may or may not be mapped automatically to the numbering plan of the central office and the telephone number block allocated to the PBX.
+Initially, PBX systems offered the primary advantage of cost savings for internal phone calls: handling the circuit switching locally reduced charges for telephone service via central-office lines. As PBX systems gained popularity, they began to feature services not available in the public network, such as hunt groups, call forwarding, and extension dialing. From the 1960s a simulated PBX known as Centrex provided similar features from the central telephone exchange.
+A PBX differs from a key telephone system (KTS) in that users of a key system manually select their own outgoing lines on special telephone sets that control buttons for this purpose, while PBXs select the outgoing line automatically, or formerly, by an operator. The telephone sets connected to a PBX do not normally have special keys for central-office line control, but it is not uncommon for key systems to be connected to a PBX to extend its services.
+A PBX, in contrast to a key system, employs an organizational numbering plan for its stations. In addition, a dial plan determines whether additional digit sequences must be prefixed when dialing to obtain access to a central-office trunk. Modern number-analysis systems permit users to dial internal and external telephone numbers without special codes to distinguish the intended destination.
+History[edit]
+
+
+
+
+PBX switchboard, 1975
+
+
+The term PBX originated when switchboard operators managed company switchboards manually using cord circuits. As automated electromechanical switches and later electronic switching systems gradually replaced the manual systems, the terms private automatic branch exchange (PABX) and private manual branch exchange (PMBX) differentiated them. Solid-state digital systems were sometimes referred to as electronic private automatic branch exchanges (EPABX). As of 2016[update], the term PBX is by far the most widely recognized.[citation needed] The acronym now applies to all types of complex, in-house telephony switching systems.
+Two significant developments during the 1990s led to new types of PBX systems. One was the massive growth of data networks and increased public understanding of packet switching. Companies needed packet-switched networks for data, so using them for telephone calls proved tempting, and the availability of the Internet as a global delivery system made packet-switched communications even more attractive. These factors led to the development of the voice over IP PBX, or IP-PBX.
+The other trend involved the idea of focusing on core competence. PBX services had always been hard to arrange for smaller companies, and many[quantify] companies realized that handling their own telephony was not their core competence. These considerations gave rise to the concept of the hosted PBX. In wireline telephony, the original hosted PBX was the Centrex service provided by telcos since the 1960s; later competitive offerings evolved into the modern competitive local exchange carrier. In voice over IP, hosted solutions are easier to implement as the PBX may be located at and managed by any telephone service provider, connecting to the individual extensions via the Internet. The upstream provider no longer needs to run direct, local leased lines to the served premises.
+System components[edit]
+A PBX often includes:
+
+Cabinets, closets, vaults and other housings.
+Console or switchboard allows the operator to control incoming calls.
+Interconnecting wires and cables.
+Logic cards, switching and control cards, power cards and related devices that facilitate PBX operation.
+Microcontroller or microcomputer for arbitrary data processing, control and logic.
+Outside telco trunks that deliver signals to (and carry them from) the PBX.
+Stations or telephone sets, sometimes called lines.
+The PBX's internal switching network.
+Uninterruptible power supply (UPS) consisting of sensors, power switches and batteries.
+
+Current trends[edit]
+Since the advent of Internet telephony (Voice over IP) technologies, PBX development has tended toward the IP PBX, which uses the Internet Protocol to carry calls.[5] Most modern PBXs support VoIP. ISDN PBX systems also replaced some traditional PBXs in the 1990s, as ISDN offers features such as conference calling, call forwarding, and programmable caller ID. As of 2015 ISDN is being phased out by most major telecommunication carriers throughout Europe in favour of all-IP networks, with some expecting complete migration by 2025 [6] Originally having started as an organization's manual switchboard or attendant console operated by a telephone operator or just simply the operator, PBXs have evolved into VoIP centers that are hosted by the operators or even manufacturers.
+Even though VoIP is considered by many people as the future of telephony, the circuit switched network remains the core of communications, and the existing PBX systems are competitive in services with modern IP systems. Five distinct scenarios exist:
+
+Hosted/virtual PBX (hosted and circuit-switched) or traditional Centrex
+IP Centrex or hosted/virtual IP (hosted and packet-switched)
+IP PBX (private and packet-switched)
+Mobile PBX solution (mobile phones replacing or used in combination with fixed phones)
+PBX (private and circuit-switched)
+
+For the option to call from IP network to the circuit-switched PSTN (SS7/ISUP), the hosted solutions include interconnecting media gateways.
+Home and small-business usage[edit]
+Historically, the expense of full-fledged PBX systems has put them out of reach of small businesses and individuals. However, since the 1990s many small, consumer-grade and consumer-size PBXs have become available. These systems are not comparable in size, robustness or flexibility to commercial-grade PBXs, but still provide many features.
+The first consumer PBX systems used analog (POTS) telephone lines, typically supporting four private analog and one public analog line. They were the size of a small cigar box. In Europe these systems for analog phones were followed by consumer-grade PBXs for ISDN. Using small PBXs for ISDN is a logical step, since the ISDN basic rate interface provides two logical phone lines (via two ISDN B channels) which can be used in parallel. With the adoption of VoIP by consumers, consumer VoIP PBXs have appeared, with PBX functions becoming simple additional software features of consumer-grade routers and switches.[7] Additionally, many telecommunications providers now offer hosted PBX systems where the provider actually hosts the PBX and the phone handsets are connected to it through an internet connection.
+Open source projects have provided PBX-style features since the 1990s. These projects provide flexibility, features, and programmability.
+PBX functions[edit]
+Functionally, the PBX performs four main call processing duties:[8]
+
+Establishing connections (circuits) between the telephone sets of two users (e.g. mapping a dialed number to a physical phone, ensuring the phone isn't already busy)
+Maintaining such connections as long as the users require them (i.e. channelling voice signals between the users)
+Disconnecting those connections as per the user's requirement
+Providing information for accounting purposes (e.g. metering calls)
+
+In addition to these basic functions, PBXs offer many other calling features and capabilities, with different manufacturers providing different features in an effort to differentiate their products.[9] Common capabilities include (manufacturers may have a different name for each capability):
+
+Auto attendant
+Auto dialing
+Automated directory services (where callers can be routed to a given employee by keying or speaking the letters of the employee's name)
+Automatic call distributor
+Automatic ring back
+Busy override
+Call blocking
+Call forwarding on busy or absence
+Call logging
+Call park
+Call pick-up
+Call transfer
+Call waiting
+Camp-on
+Conference call
+Custom greetings
+Customized abbreviated dialing (speed dialing)
+Direct inward dialing (DID)
+Direct inward system access (DISA) (the ability to access internal features from an outside telephone line)
+Do not disturb (DND)
+Follow-me, also known as find-me: Determines the routing of incoming calls. The exchange is configured with a list of numbers for a person. When a call is received for that person, the exchange routes it to each number on the list in turn until either the call is answered or the list is exhausted (at which point the call may be routed to a voice mail system).
+Interactive voice response
+Local connection: Another useful attribute of a hosted PBX is the ability to have a local number in cities in which you are not physically present. This service essentially lets you create a virtual office presence anywhere in the world.[10]
+Music on hold
+Night service
+Public address voice paging
+Shared message boxes (where a department can have a shared voicemail box)
+Voice mail
+Voice message broadcasting
+Welcome message
+
+Interface standards[edit]
+Interfaces for connecting extensions to a PBX include:
+
+DECT – a standard for connecting cordless phones.
+Internet Protocol – For example, H.323 and SIP.
+POTS (plain old telephone service) – the common two-wire interface used in most homes. This is cheap and effective, and allows almost any standard phone to be used as an extension.
+proprietary – the manufacturer has defined a protocol. One can only connect the manufacturer's sets to their PBX, but the benefit is more visible information displayed and/or specific function buttons.
+
+Interfaces for connecting PBXs to each other include:
+
+DPNSS – for connecting PBXs to trunk lines. Standardized by British Telecom, this usually runs over E1 (E-carrier) physical circuits.
+Internet Protocol – H.323 and the Session Initiation Protocol (SIP) are IP-based solutions for multimedia sessions.
+Primary rate interface (ISDN) – Provided over T1 (23 bearer channels and 1 signaling channel) or E1 carriers.
+Proprietary protocols – if equipment from several manufacturers is on site, the use of a standard protocol is required.
+QSIG – for connecting PBXs to each other, usually runs over T1 (T-carrier) or E1 (E-carrier) physical circuits.
+
+Interfaces for connecting PBXs to trunk lines include:
+
+Internet Protocol – H.323, SIP, MGCP, and Inter-Asterisk eXchange protocols operate over IP and are supported by some network providers.
+ISDN – the most common digital standard for fixed telephony devices. This can be supplied in either Basic (2-circuit capacity) or Primary (24- or 30-circuit capacity) versions. Most medium to large companies would use Primary ISDN circuits carried on T1 or E1 physical connections.
+RBS (robbed bit signaling) – delivers 24 digital circuits over a four-wire (T1) interface
+standard POTS (plain old telephone service) lines – the common two-wire interface used in most domestic homes. This is adequate only for smaller systems, and can suffer from not being able to detect incoming calls when trying to make an outbound call (commonly called glare).
+
+Interfaces for collecting data from the PBX:
+
+File – the PBX generates a file containing the call records from the PBX.
+Network port (listen mode) – an external application connects to the TCP or UDP port. The PBX streams information to the application.
+Network port (server mode) – the PBX connects to another application or buffer.
+Serial interface – historically used to print every call record to a serial printer. In modern systems a software application connects via serial cable to this port.
+
+A data record from a PBX or other telecommunication system that provides the statistics for a telephone call is usually termed a call detail record (CDR) or a Station Messaging Detail Record (SMDR).
+Hosted PBX systems[edit]
+Virtual PBX systems or hosted PBX systems deliver PBX functionality as a service, available over the public switched telephone network (PSTN) or the Internet. Hosted PBXs are typically provided by a telephone company or service provider, using equipment located in the premises of a telephone exchange or the provider's data center.[11] This means the customer does not need to buy or install PBX equipment. Generally the service is provided by a lease agreement and the provider can, in some configurations, use the same switching equipment to service multiple hosted PBX customers.
+The first hosted PBX services were feature-rich compared to most premises-based systems of the time. Some PBX functions, such as follow-me calling, appeared in a hosted service before they became available in hardware PBX equipment. Since introduction, updates and new offerings have moved feature sets in both directions. It is possible to get hosted PBX services that include feature sets from minimal functionality to advanced feature combinations.
+In addition to the features available from premises-based PBX systems, hosted-PBX:
+
+allows a single number to be presented for the entire company, despite its being geographically distributed. A company could even choose to have no premises, with workers connected from home using their domestic telephones but receiving the same features as any PBX user.
+allows multimodal access, where employees access the network via a variety of telecommunications systems, including POTS, ISDN, cellular phones, and VOIP. This allows one extension to ring in multiple locations (either concurrently or sequentially).
+allows scalability so that a larger system is not needed if new employees are hired, and so that resources are not wasted if the number of employees is reduced.
+eliminates the need for companies to manage or pay for on-site hardware maintenance.
+supports integration with custom toll plans (that allow intra company calls, even from private premises, to be dialed at a cheaper rate) and integrated billing and accounting (where calls made on a private line but on the company's behalf are billed centrally to the company).
+
+Hosted PBX providers[edit]
+The ongoing migration of most major telecommunication carriers to IP-based networks, coupled with the rise in Cloud Communications has resulted in a significant rise in the uptake of hosted PBX solutions.
+Mobile PBX[edit]
+A mobile PBX is a hosted PBX service that extends fixed-line PBX functionality to mobile devices such as cellular handsets, smartphones and PDA phones by provisioning them as extensions. Mobile PBX services also can include fixed-line phones. Mobile PBX systems are different from other hosted PBX systems that simply forward data or calls to mobile phones by allowing the mobile phone itself, through the use of buttons, keys and other input devices, to control PBX phone functions and to manage communications without having to call into the system first.
+A mobile PBX may exploit the functionality available in smartphones to run custom applications to implement the PBX specific functionality.
+In addition, a mobile PBX may create extension identifiers for each handset that allow to dial other cell phones in the PBX via their extension shortcut, instead of a PSTN number.
+IP-PBX[edit]
+An IP PBX handles voice signals over Internet protocol, bringing benefits for computer telephony integration (CTI). An IP-PBX can exist as physical hardware, or can carry out its functions virtually, performing the call-routing activities of the traditional PBX or key system as a software system. The virtual version is also called a "Soft PBX".
+See also[edit]
+
+Centrex
+Circuit ID
+Cloud communications
+Ground start trunk
+List of SIP software
+RJ21
+Switchboard operator
+Telephone exchange
+Telephone switchboards
+
+References[edit]
+
+
+^ W.F.B. Wood, Key Telephone Systems: The Latest Chapter, Bell Laboratories Record, March 1966, pp.85
+^ AT&T (1984) Engineering and Operations in the Bell System
+^ Ng, John (June 16, 1986). "Fish, Fowl, or Neither?: Quick, what's the difference between a key telephone system and a hybrid?". Network World. 3 (15). 
+^ AT&T, Notes on the Network (1980) p.3
+^ "Big Changes Coming for SMBs in 2014 (Infographic)". eFax. 17 December 2013. Retrieved 23 February 2014. 
+^ "BT Prepare to Switch to an All IP Network by 2025". Yoozoom Telecommunications. Yoozoom Telecommunications. Retrieved 8 October 2015. 
+^ Sullivan, Mark. "The Big Guide To VOIP For Small Business". Forbes.com. Retrieved 23 April 2014. 
+^ Unuth, Nadeem. "The Functions of a PBX". About.com. Retrieved 23 February 2014. 
+^ Wright, Ian. "Features of a Business Phone System". Expert Market. Retrieved 23 April 2014. 
+^ "Why Hosted PBX is the Better Choice For Small Businesses". Unity Connected Solutions. Unity Connected. 
+^ "On-Premise [sic] vs Hosted PBX: Blockbuster or Netflix? - Blog - 1stel". Blog - 1stel. 2016-03-01. Retrieved 2016-05-02. 
+
+
+External links[edit]
+
+Telecommunications Equipment at DMOZ
+Business Phone Systems at Nexcom Digital
+Business Phone Systems UK at Vital Telcoms
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Telecommunications
+
+
+
+History
+
+
+
+
+Beacon
+Broadcasting
+Cable protection system
+Cable TV
+Communications satellite
+Computer network
+Drums
+Electrical telegraph
+Fax
+Heliographs
+Hydraulic telegraph
+Internet
+Mass media
+Mobile phone
+Optical telecommunication
+Optical telegraphy
+Pager
+Photophone
+Prepaid mobile phone
+Radio
+Radiotelephone
+Satellite communications
+Semaphore
+Smartphone
+Smoke signals
+Telecommunications history
+Telautograph
+Telegraphy
+Teleprinter (teletype)
+Telephone
+The Telephone Cases
+Television
+Timeline of communication technology
+Undersea telegraph line
+Videoconferencing
+Videophone
+Videotelephony
+Whistled language
+
+
+
+
+
+Pioneers
+
+
+
+Edwin Howard Armstrong
+John Logie Baird
+Paul Baran
+Alexander Graham Bell
+Tim Berners-Lee
+Jagadish Chandra Bose
+Vint Cerf
+Claude Chappe
+Donald Davies
+Lee de Forest
+Philo Farnsworth
+Reginald Fessenden
+Elisha Gray
+Erna Schneider Hoover
+Charles K. Kao
+Hedy Lamarr
+Innocenzo Manzetti
+Guglielmo Marconi
+Antonio Meucci
+Radia Perlman
+Alexander Stepanovich Popov
+Johann Philipp Reis
+Nikola Tesla
+Camille Tissot
+Alfred Vail
+Charles Wheatstone
+Vladimir K. Zworykin
+
+
+
+
+
+Transmission
+media
+
+
+
+Characteristic impedance
+Coaxial cable
+Electromagnetic radiation
+Electrical cable
+Free-space optical communication
+Heaviside condition
+Loading coil
+Molecular communication
+Optical fiber
+Telegrapher's equations
+
+
+
+
+
+Network topology
+and switching
+
+
+
+Links
+Nodes
+Terminal node
+Network switching (circuit
+packet)
+Telephone exchange
+
+
+
+
+
+Multiplexing
+
+
+
+Space-division
+Frequency-division
+Time-division
+Polarization-division
+Orbital angular-momentum
+Code-division
+
+
+
+
+
+Networks
+
+
+
+ARPANET
+BITNET
+Cellular network
+Computer
+CYCLADES
+Ethernet
+FidoNet
+Internet
+ISDN
+LAN
+Mobile
+NGN
+NPL network
+Public Switched Telephone
+Radio
+Telecommunications equipment
+Television
+Telex
+WAN
+Wireless
+World Wide Web
+
+
+
+
+
+
+
+
+ Category
+ Portal
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Business_telephone_system&oldid=793701964"					
+Categories: Telephone exchange equipmentComputer telephony integrationTelephony equipmentHidden categories: Articles needing additional references from June 2013All articles needing additional referencesWikipedia articles in need of updating from June 2013All Wikipedia articles in need of updatingArticles needing additional references from February 2014All Wikipedia articles needing clarificationWikipedia articles needing clarification from December 2015Articles containing potentially dated statements from 2016All articles containing potentially dated statementsAll articles with unsourced statementsArticles with unsourced statements from January 2016Articles with DMOZ links 
+
+
+
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+Wikimedia Commons 
+
+
+
+Languages
+
+
+БългарскиČeštinaDeutschEspañolFrançais한국어Bahasa IndonesiaItalianoಕನ್ನಡLumbaartBahasa MelayuNederlands日本語Norsk bokmålPiemontèisPolskiPortuguêsРусскийSvenskaไทยУкраїнська中文 
+Edit links 
+
+
+
+
+
+ This page was last edited on 3 August 2017, at 12:04.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+About Us - Providing Product Expertise in Data Networks, Structured Network Cabling, Surveillance Systems, Telephone Systems & Wireless Systems | Voice & Data Systems, Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Experts in Communications and Network Technology
+			    Proudly serving Omaha, NE & surrounding areas
+          Call today to discuss how we can help you
+(402) 571-9049
+
+
+
+
+
+
+
+
+
+
+Phone Systems
+ESI
+MxVirtual
+PhoneSuite
+Zultys
+
+
+
+Who We Are
+
+Meet Our Team
+
+Recognitions
+
+Testimonials
+
+
+Contact Us
+
+
+
+About Us
+
+        Voice & Data Systems, Inc. provides turnkey services for telecommunications by combining leading edge technology with product expertise in Data Networks, Structured Network Cabling, Surveillance Systems, Telephone Systems and Wireless Systems. We implement strategies and customize business solutions that are specific to your company's requirements and needs.  
+    
+
+        Voice & Data Systems serves a diverse customer base that includes Commercial, Educational, Health Care, Hospitality, Industrial, National Accounts, Public Utilities, Religious Entities and Local, State and Federal Government including the Military. States serviced include Nebraska, Iowa, Indiana, Kansas, Oklahoma, South Dakota and Wyoming. By providing customized solutions and building long - term business relationships, Voice & Data Systems has become a leader in the Communications Industry.
+    
+
+        Voice & Data Systems, Inc. is a corporate member of BICSI (Building Industry Consulting Service International) and TAG (Technology Assurance Group) both of which are an international organization that provides the competitive advantages necessary to steadily build a reputation for combining leading edge technology with superior customer service and support.
+    
+
+        Voice & Data Systems, Inc. has certified system engineers and technicians including a BICSI – RCDD (Registered Communications Distribution Designer) on staff. We are proud to provide Consulting Services; Solution’s Design; Installation Services; and System Integration Services.
+    
+
+        Voice & Data Systems, Inc. specializes in and is a Certified System Dealers for ESI Communication Systems, Cloud Based PBX and Disaster Recovery Systems, PhoneSuite – Hospitality Systems, Zultys – Enterprise, Digital, IP Based Systems and Unified Messaging,  Vivotek Surveillance Systems.
+    
+
+        Voice & Data Systems, Inc. offers Certified Structured Cabling for Horizontal, Backbone, Aerial, Burial Premise and Campus Wide Distribution Systems for CAT6 / CAT5E Voice, Data, Fiber Optics OM3 / OM4 / Single Mode, Audio Visual, Access Control and Building Automation (BAS). We are a Certified Installer for Hubbell Premise Wiring providing a Mission Critical 25 Year Performance Warranty.
+    
+
+
+
+
+
+
+
+

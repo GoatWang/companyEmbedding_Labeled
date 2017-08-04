@@ -1,0 +1,5067 @@
+ 
+
+
+
+
+Research - InvestSMART
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Home
+    
+
+
+
+        Research
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Research
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alerts
+
+
+
+
+
+
+
+
+Markets Today
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top Performing
+
+
+
+
+
+
+
+
+
+
+
+Market Indices
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Please check the following:
+
+{{x.value}}
+
+
+
+
+
+×
+                                {{ successMessage}}
+                            
+
+
+
+
+{{content.question}}
+
+
+
+
+
+
+{{ twilioFailed ? 'SMS Code Failed to Send…' : 'An SMS verification code has been sent ...' }}
+
+
+
+Log in to get started
+
+Eureka Report
+InvestSMART
+Intelligent Investor
+
+
+
+Hi {{ user.FirstName }}
+Looks like you have already taken a free trial 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            Email is required.
+                                        
+
+                                            Email must be a valid email.
+                                        
+
+
+
+
+
+
+                                            Password is required.
+                                        
+
+
+
+
+
+
+                                            First name is required.
+                                        
+
+
+
+
+
+
+                                            Last name is required.
+                                        
+
+
+
+
+
+
+                                            Mobile phone number is required.
+                                        
+
+
+
+
+
+
+ I have read InvestSMART's Financial Services Guide and Privacy Policy, and agree to the Terms & Conditions.
+                                        
+
+                                            You must accept the terms and conditions.
+                                        
+
+
+
+What emails do members receive?
+
+
+
+
+
+
+×
+Email Communications
+
+
+
+By default members will receive the following communications via email. At any time, once logged in, you can choose which emails your wish to receive (or not) via the My Details section:
+Research & Wealth Insights
+Mid-week update - Lists all the research and recommendations from the week.
+Weekend Briefing - An overview of the week gone and what to expect in the week to come.
+Portfolio Updates
+If you add your investments to the portfolio manager you will also receive regular updates including; recommendations, alerts, market pricing, dividends, profit & loss and your overall net wealth.
+Exclusive Opportunities
+Featured reports, invites to investor seminars and events, plus exclusive offers.
+Operational communications
+As an InvestSMART group member, you will occasionally receive operational updates. These could be about new features, changes to your membership, security information, or general business updates.
+
+
+
+
+ 
+
+
+
+ {{content.mainButtonText}} 
+
+OR
+
+
+
+
+
+
+
+Already a member? Login
+
+
+
+
+
+
+
+
+We have sent you a code via SMS to {{user.DayPhone}}
+please enter this code below to complete your SMS verification
+
+
+We cannot send you a code via SMS to {{user.DayPhone}}
+
+
+
+
+
+
+
+
+
+
+Complete verification
+
+If you didn't receive SMS code please 
+
+
+
+SMS code cannot be sent due to: {{ twilioStatus }}
+
+Please select one of the options below: 
+
+Resend Code
+Change number
+
+
+
+
+ Looks you are already a member. Please enter your password to proceed 
+
+
+
+You have entered an incorrect email or password
+
+
+
+
+
+                                            Email is required.
+                                        
+
+                                            Email must be a valid email.
+                                        
+
+
+
+
+
+
+                                            Password is required.
+                                        
+
+
+
+
+
+
+Remember me
+
+
+Please untick this box when using a public or shared device
+
+
+
+
+Login
+
+OR
+
+
+
+Not a member?
+
+
+
+
+
+Forgotten password? Click here
+
+
+
+
+
+
+Verify your mobile number to proceed...
+Please check your mobile number below and press the Send Verification Code button. This will be used to complete your verification in the next step.
+
+
+
+
+
+
+
+
+SEND VERIFICATION CODE
+
+
+
+
+
+Please sign up for full access 
+
+
+Sign up now
+
+
+
+
+
+
+
+ Updating information 
+Please wait ...  
+
+
+
+
+
+
+
+Trial
+
+
+
+
+
+
+                    {{ productPrice }} / day
+
+
+( GST included )
+
+
+
+
+
+
+ 
+{{ applyText }}
+
+
+
+
+
+
+
+Price
+$0
+
+
+Discount
+-{{productDiscount}}
+
+
+GST
+{{productGST}}
+
+
+TOTAL     (inc. GST)
+{{productPrice}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+
+
+
+
+
+
+
+
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make payment
+Proceed
+
+
+
+
+
+
+Maybe later
+
+
+
+
+
+
+
+Please click on the ACTIVATE button to finalise your membership
+
+
+
+Activate
+
+
+
+
+
+
+
+
+The email address you entered is registered with InvestSMART.
+Login or to reset your password, select Forgotten password
+
+
+
+
+
+You have entered an incorrect email or password
+
+
+
+
+
+                                            Email is required.
+                                        
+
+                                            Email must be a valid email.
+                                        
+
+
+
+
+
+
+                                            Password is required.
+                                        
+
+
+
+
+
+
+Remember me
+
+
+Please untick this box when using a public or shared device
+
+
+
+
+Login
+
+OR
+
+
+
+Not a member?
+
+
+
+
+
+Forgotten password? Click here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eureka Report
+InvestSMART
+Intelligent Investor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Privacy Policy | Eclipse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+best live chat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Australia
+
+
+
+
+
+
+United States
+
+
+
+
+
+New Zealand
+
+
+
+
+
+Fiji
+
+
+
+
+
+Canada
+
+
+
+
+
+
+
+
+
+
+
+
+Australia
+
+
+
+
+
+
+United States
+
+
+
+
+
+New Zealand
+
+
+
+
+
+Fiji
+
+
+
+
+
+Canada
+
+
+
+
+
+1300 660 471
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+
+
+
+Microsoft Solutions
+
+
+Microsoft Cloud
+
+
+Microsoft Dynamics 365
+
+
+Microsoft Dynamics AX
+
+
+Microsoft Dynamics NAV
+
+
+Microsoft Dynamics GP
+
+
+Microsoft Dynamics CRM
+
+
+Exceed Analytics
+
+
+Office 365
+
+
+
+
+
+
+Other solutions for...
+
+
+
+Enterprise Resource Planning
+
+
+Dynamics AX
+
+
+Dynamics NAV
+
+
+Dynamics GP
+
+
+Infor SunSystems
+
+
+e5
+
+
+
+
+
+Customer Relationship Management
+
+
+Microsoft Dynamics CRM
+
+
+Dynamics CRM Online
+
+
+Aptean Respond
+
+
+Aptean Pivotal CRM
+
+
+
+
+
+Business Process Management
+
+
+MAVIM
+
+
+Process Suites for Dynamics
+
+
+BlackLine
+
+
+
+
+
+Collaboration & BI
+
+
+Exceed Analytics
+
+
+SharePoint
+
+
+Sharperlight
+
+
+Solver BI360
+
+
+TM1
+
+
+ZAP BI
+
+
+
+
+
+Business Solutions
+
+
+Daxeam
+
+
+PayGlobal (Pacific only)
+
+
+PROACTIS
+
+
+ReQlogic
+
+
+ReadSoft
+
+
+Tenrox
+
+
+
+
+
+Database Management
+
+
+RockSolid SQL
+
+
+
+
+
+
+
+
+Industries
+
+
+
+
+
+
+Retail
+
+
+Distribution
+
+
+Manufacturing
+
+
+
+
+
+Other Industries
+
+
+Education
+
+
+Financial Services
+
+
+Mining & Resources
+
+
+Wine Management
+
+
+
+
+
+
+Services
+
+
+
+
+
+
+Business Services
+
+
+Engagement Process
+
+
+Enterprise Services
+
+
+
+
+
+
+Blog
+
+
+
+
+
+
+News
+
+
+
+
+
+
+About Us
+
+
+
+
+
+
+Our Leaders
+
+
+Our Awards
+
+
+Our Partners
+
+
+Events
+
+
+
+
+
+
+Careers & Culture
+
+
+
+
+
+
+Great Culture
+
+
+Fantastic People
+
+
+Great Benefits
+
+
+Projects & Customers
+
+
+Current Opportunities
+
+
+
+
+
+
+Customer Support
+
+
+
+
+
+
+Contact
+
+
+eSupport
+
+
+Training
+
+
+
+
+
+
+Contact Us
+
+
+
+ 
+
+
+
+
+
+
+Privacy Policy
+
+
+
+
+PRIVACY POLICY
+
+
+
+DXC Technology is committed to protecting the privacy of all the individuals it deals with.  This document sets out our policy on handling personal information.
+If you are a DXC Technology employee or contractor you should refer to the “DXC Technology Privacy Statement for Staff” for more specific details on how DXC Technology handles your personal information.
+
+What kinds of personal information does DXC Technology collect? How is it collected? What is it used for?
+DXC Technology is in the business of providing IT products and services to business customers.  The following table lists the main types of personal information collected by DXC Technology, how it is collected, and the purposes for which it is used.
+ 
+
+
+
+Personal information
+
+How it is collected
+
+What it is used for
+
+
+Information such as names, business contact details and dealings with suppliers and potential suppliers to DXC Technology (collectively “suppliers”).
+
+
+
+through suppliers’ advertisements, emails
+and order forms when suppliers offer or
+sell goods and services to DXC Technology
+
+
+
+
+
+to administer DXC Technology’s dealings and potential dealings with suppliers of products and services
+
+
+
+
+
+
+
+Information such as names, business contact details, professional and
+business details of customers and potential customers, and their dealings with DXC Technology.
+
+
+
+from customers when asking DXC Technology to respond to  tenders and other requests
+for DXC Technology’s products and services
+from customers when DXC Technology is providing products and services to them
+by DXC Technology account staff for customer administration such as invoicing
+marketing and sales staff may collect information volunteered by individuals during trade shows, conferences,
+industry networking events and product demonstrations
+
+
+
+
+
+to supply products and services
+to administer DXC Technology’s dealings and potential dealings with customers
+where permitted by privacy law, to market our products and services
+
+
+
+
+
+
+
+Information such as names and contact details of persons who contact DXC Technology with requests for information.
+
+
+
+details entered by the enquirer into
+DXC Technology’s website
+sales and account staff may collect information should an existing or potential customer request further information
+from DXC Technology
+
+
+
+
+
+to respond to those requests
+where permitted by privacy law, to market our products and services
+
+
+
+
+
+
+
+Information about applicants for employment or contractual positions with DXC Technology.
+
+
+
+from interview responses, CVs, referees, previous employers, recruitment agents, and history and details from relevant educational institutions and contracting agencies
+
+
+
+
+
+to assess those applications for employment or contractual position
+
+
+
+
+
+
+
+Information about DXC Technology’s employees and contractors relevant to their employment or contract with DXC Technology.
+
+
+
+as above through the hiring process
+from staff directly, such as emergency contact, salary banking details from
+DXC Technology’s IT systems,
+from other DXC Technology staff and customers’ staff (for example from asset usage monitoring reports, performance measurement)
+as required by customers in connection with their operations
+
+
+
+
+
+to fulfil DXC Technology’s responsibilities as employer and contractor
+to fulfil DXC Technology’s responsibilities to its customers
+
+
+
+
+
+
+
+Information such as identification numbers and security footage.
+
+
+
+by scanners at security doors
+through video surveillance images
+
+
+
+
+
+to provide a safe and secure environment for DXC Technology staff and visitors
+to provide security for DXC Technology facilities and assets
+
+
+
+
+
+
+
+Customers’ information for storage
+or handling in connection with cloud, outsourcing and systems management services.
+
+
+
+when DXC Technology’s customers transfer information, or require DXC Technology to transfer customers’ information, into DXC Technology’s IT environment
+
+
+
+
+
+to fulfil DXC Technology’s contractual responsibilities to its customers
+
+
+
+
+
+ 
+
+How does DXC Technology handle personal information?
+
+Applicable laws: DXC Technology is bound by the Australian Privacy Principles under the Privacy Act 1988 and other applicable laws governing privacy.  Where appropriate, DXC Technology may handle personal information relying on the related bodies corporate exemption and the employee records exemption in the Privacy Act and any other applicable exemptions in other legislation.
+How is it held? Personal information held by DXC Technology is stored on DXC Technology’s and its related companies’ internal IT infrastructure.  In some circumstances, it may be held on a third party’s infrastructure, as further described in this policy.  Where appropriate, access to personal information by DXC Technology staff is limited to those individuals with a relevant requirement for access.
+Who is the personal information disclosed to? As a general rule, DXC Technology will not disclose personal information to any third parties except:- to related companies of DXC Technology, for the same kinds of purposes as listed above (as well as for general backing-up of DXC Technology’s local servers);
+– to third parties engaged to provide services in connection with the purposes mentioned above (eg. cloud third party service providers with whom DXC Technology has partnerships, for administration of marketing communications, for technical services and maintenance on infrastructure used to hold information, to reference check job applicants);
+– to another company to ensure continuity of service if the supply of the product or service has been transferred to that company; and
+– if it is otherwise permitted or required by the Privacy Act or any other law.
+Does DXC Technology disclose personal information offshore? Personal information may be transferred or disclosed overseas for the purposes and processes described in this policy (eg: to back-up DXC Technology’s local systems, in connection with fulfillment of contracts with our customers, to a cloud environment controlled by an offshore DXC Technology cloud services partner, for administration of accounts payable, for administration of international customer dealings, for potential overseas work opportunities).
+Where is the offshore recipient likely to be located? If DXC Technology transfers personal information offshore from Australia, the destination will usually be one or more of the USA, Canada, and countries in the European and Asian regions.
+
+How can I access my personal information or make a complaint?
+To the extent you are entitled under the Privacy Act and other applicable laws, you can:
+
+ access (and where necessary seek correction of) your personal information held by DXC Technology; and
+ complain if you consider DXC Technology has breached its privacy obligations,
+
+by contacting the DXC Technology Australia Legal Department (contact details below) in writing.
+Any complaint about a privacy issue will be reviewed and, where appropriate, investigated by DXC Technology legal staff and/or other appropriately senior DXC Technology staff.  A written response to the complaint will be forthcoming to the person who lodged the complaint within a reasonable time (depending upon the nature of the complaint and the issues and logistics involved with its investigation).
+At DXC Technology we also welcome any suggestions for how we can improve our personal information handling processes.  Please send your comments or suggestions to the DXC Technology Australia Legal Department.
+DXC Technology Australia Legal Department
+The DXC Technology Australia Legal Department can be contacted by:
+
+sending an email including in the subject line “Privacy Issue – Australia” to ethics@dxc.com;
+sending a letter to The General Counsel, DXC Technology Australia Pty Ltd, 26 Talavera Road, Macquarie Park  NSW 2113; or
+sending a fax to +61 (0)2 9034 2198.
+
+Consent
+By providing DXC Technology with personal information, you consent to the collection, use and disclosure of your personal information as described in this policy.
+Changes to this policy
+DXC Technology may vary this policy from time to time. The most current version of this policy (the “DXC Technology Australia Privacy Policy”) will be published at www.dxc.com/au or can be obtained by contacting the DXC Technology Australia Legal Department. We encourage you to check the policy regularly. We will not separately notify you of changes to it.
+Definitions
+The terms “personal information” and “employee record” are used in this document with the meanings given to them in the Privacy Act 1988. To summarise their meaning:
+personal information means information or an opinion, in whatever form including a database, whether true or not, from which your identity is apparent or can be reasonably ascertained.
+employee record means personal information relating to the employment of an employee, for example:
+
+health information;
+engagement, training, disciplining or resignation;
+termination of employment;
+terms and conditions of employment;
+hours of employment and salary or wages;
+recreation, long service, sick, personal, maternity, paternity or other leave;
+taxation, banking or superannuation affairs.
+personal and emergency contact details;
+performance or conduct; or
+membership of a professional or trade association or trade union.
+
+All references to “DXC Technology”, “we”, “us”, or “our” in this document means DXC Technology Australia Pty Limited (ACN 008 476 944) and its related bodies corporates registered in Australia.
+© DXC Technology Australia Pty Ltd 2014 -2017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OPNSC | UXC LIMITED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Partners | Oracle
+
+
+
+
+
+
+
+Oracle
+
+Country
+Country
+Communities
+I am a...
+I want to...
+
+
+Welcome
+Account
+Sign Out
+Sign In/Register
+Help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+Solutions
+
+
+
+
+Downloads
+
+
+
+
+Store
+
+
+
+
+Support
+
+
+
+
+Training
+
+
+
+
+Partners
+
+
+
+
+About
+
+
+
+
+OTN
+
+
+
+
+
+
+
+
+
+ Back
+                  UXC LIMITED
+                
+                   GPO Box 2238T,
+                  
+                  
+                   Melbourne,
+                   VIC
+                      
+                           3001
+                      
+
+                              Australia  
+ 
+              |Map ItView Phone Number+61282705500|Have UXC LIMITED Call You|www.uxc.com.au
+OverviewSpecializationsOverview
+DetailsThe Partner is recognized by Oracle for:SpecializationsPartner Membership Level
+                          Platinum
+                       Partner Membership Location
+                       Australia
+                    Number of Employees1499SpecializationsOracle PartnerNetwork Specialized Partners
+
+
+
+
+
+
+
+
+
+
+
+
+Video: Customers Value Specialized Partners - Find Out Why  (2:19)
+
+
+Advanced SpecializationsApplications
+                                            Advanced Specialization Oracle EBS R12.1 Financial Management
+                                            
+                                            This partner has achieved Advanced Specialization, demonstrating their depth of implementation expertise and capabilities with 50 or more Oracle Certified Implementation Specialists in this product area. Adv Spec: Oracle EBS R12.1 Financial Management
+                                            
+                                            Advanced Specialization Oracle EBS R12.1 Supply Chain Management
+                                            
+                                            This partner has achieved Advanced Specialization, demonstrating their depth of implementation expertise and capabilities with 50 or more Oracle Certified Implementation Specialists in this product area. Adv Spec: Oracle EBS R12.1 Supply Chain Management
+                                            
+                                            Advanced Specialization PeopleSoft 9.1 Human Capital Management
+                                            
+                                            This partner has achieved Advanced Specialization, demonstrating their depth of implementation expertise and capabilities with 50 or more Oracle Certified Implementation Specialists in this product area. Adv Spec: PeopleSoft 9.1 Human Capital Management
+                                            
+                                            Advanced Specialization PeopleSoft PeopleTools 8.5x
+                                            
+                                            This partner has achieved Advanced Specialization, demonstrating their depth of implementation expertise and capabilities with 50 or more Oracle Certified Implementation Specialists in this product area. Adv Spec: PeopleSoft PeopleTools 8.5x
+                                            Database
+                                            Advanced Specialization Oracle Database 11g
+                                            
+                                            This partner has achieved Advanced Specialization, demonstrating their depth of implementation expertise and capabilities with 50 or more Oracle Certified Implementation Specialists in this product area. Adv Spec: Oracle Database 11g
+                                            
+                                            Advanced Specialization Oracle Real Application Clusters 11g
+                                            
+                                            This partner has achieved Advanced Specialization, demonstrating their depth of implementation expertise and capabilities with 50 or more Oracle Certified Implementation Specialists in this product area. Adv Spec: Oracle Real Application Clusters 11g
+                                            Middleware
+                                            Advanced Specialization Java Platform - Standard Edition 5/6
+                                            
+                                            This partner has achieved Advanced Specialization, demonstrating their depth of implementation expertise and capabilities with 50 or more Oracle Certified Implementation Specialists in this product area. Adv Spec: Java Platform - Standard Edition 5/6
+                                            
+                                            Advanced Specialization Oracle Business Intelligence Foundation 10
+                                            
+                                            This partner has achieved Advanced Specialization, demonstrating their depth of implementation expertise and capabilities with 50 or more Oracle Certified Implementation Specialists in this product area. Adv Spec: Oracle Business Intelligence Foundation 10
+                                            
+                                            Advanced Specialization Oracle SOA Suite 11g
+                                            
+                                            This partner has achieved Advanced Specialization, demonstrating their depth of implementation expertise and capabilities with 50 or more Oracle Certified Implementation Specialists in this product area. Adv Spec: Oracle SOA Suite 11g
+                                            Server And Storage Systems
+                                            Advanced Specialization Oracle Solaris 10
+                                            
+                                            This partner has achieved Advanced Specialization, demonstrating their depth of implementation expertise and capabilities with 50 or more Oracle Certified Implementation Specialists in this product area. Adv Spec: Oracle Solaris 10
+                                            Partner SpecializationsApplications
+                                            JD Edwards EnterpriseOne 9.0 CNC
+                                            
+                                            The JD Edwards EnterpriseOne 9.0 Configurable Network Computing (CNC) Specialization recognizes partner organizations that are proficient in selling, implementing and/or developing 9.0 CNC modules.
+                                            
+                                            JD Edwards EnterpriseOne 9.0 Financial Management
+                                            
+                                            The JD Edwards EnterpriseOne 9.0 Financial Management Specialization recognizes partner organizations that are proficient in selling, implementing and/or developing EnterpriseOne 9.0 Financial modules.
+                                            
+                                            Oracle CRM OnDemand
+                                            
+                                            The Oracle CRM On Demand Specialization recognizes partner organizations that are proficient in selling, implementing and/or developing Oracle CRM On Demand modules.
+                                            
+                                            Oracle Documaker 12
+                                            
+                                            The Oracle Documaker 12 Specialization recognizes partner organizations that are proficient in selling and/or implementing Oracle Documaker 12 solutions.
+                                            
+                                            Oracle EBS R12.1 Financial Management
+                                            
+                                            The Oracle E-Business Suite (Oracle EBS) R12.1 Financial Management Specialization recognizes partners who are proficient in selling, implementing and/or developing Oracle EBS R12.1 Financial Management modules.
+                                            
+                                            Oracle EBS R12.1 Human Capital Management
+                                            
+                                            The Oracle E-Business Suite (Oracle EBS) R12.1 Human Capital Management (HCM) Specialization recognizes partners who are proficient in selling, implementing and/or developing Oracle EBS R12.1 HCM.
+                                            
+                                            Oracle EBS R12.1 Supply Chain Management
+                                            
+                                            The Oracle E-Business Suite (Oracle EBS) R12.1 Supply Chain Management (SCM) Specialization recognizes partners who organizations that are proficient in selling, implementing and/or developing Oracle EBS R12.1 SCM.
+                                            
+                                            Oracle Hyperion Financial Management 11
+                                            
+                                            The Oracle Hyperion Financial Management 11 Specialization recognizes partners who are proficient in selling, implementing and/or developing Oracle Hyperion Financial Management 11 solutions.
+                                            
+                                            PeopleSoft 9.1 Financial Management
+                                            
+                                            The PeopleSoft 9.1 Financial Management Specialization recognizes partner organizations that are proficient in selling, implementing and/or developing PeopleSoft 9.1 Financial Management modules.
+                                            
+                                            PeopleSoft 9.1 Human Capital Management
+                                            
+                                            The PeopleSoft 9.1 Human Capital Management (HCM) Specialization recognizes partner organizations that are proficient in selling, implementing and/or developing PeopleSoft 9.1 HCM modules.
+                                            
+                                            PeopleSoft PeopleTools 8.5x
+                                            
+                                            The PeopleSoft PeopleTools 8.5x Specialization recognizes partner organizations that are proficient in selling, implementing and/or developing PeopleSoft PeopleTools 8.5x modules.
+                                            Cloud Services
+                                            Oracle Hyperion Planning 11
+                                            
+                                            The Oracle Hyperion Planning 11 Specialization recognizes partner organizations that are proficient in selling, implementing and/or developing Oracle Hyperion Planning 11 solutions.
+                                            Database
+                                            MySQL 5
+                                            
+                                            The MySQL 5 Specialization recognizes partner organizations that are proficient in selling, implementing, developing and deploying applications using MySQL 5.
+                                            
+                                            Oracle Database 11g
+                                            
+                                            The Oracle Database 11g Specialization recognizes partner organizations that are proficient in selling, implementing and/or developing Oracle Database 11g solutions.
+                                            
+                                            Oracle Database 11g Performance Tuning
+                                            
+                                            The Oracle Database 11g Performance Tuning Specialization recognizes partners ,who are proficient in selling, implementing and/or developing Oracle Database 11g Performance Tuning solutions.
+                                            
+                                            Oracle Database 11g Data Warehousing
+                                            
+                                            The Oracle Database 11g Data Warehousing Specialization recognizes partner organizations that are proficient in selling, implementing and/or developing Oracle Database 11g Data Warehousing solutions.
+                                            
+                                            Oracle Enterprise Manager 11g
+                                            
+                                            The Oracle Enterprise Manager 11g Specialization recognizes partners proficient in selling, developing, implementing and/or managing with Enterprise Manager 11g technology.
+                                            
+                                            Oracle Enterprise Manager 12c
+                                            
+                                            The Oracle Enterprise Manager 12c Specialization recognizes partner organizations that are proficient in selling, implementing and/or developing Oracle Enterprise Manager 12c solutions.
+                                            
+                                            Oracle Real Application Clusters 11g
+                                            
+                                            The Oracle Real Application Clusters 11g Specialization recognizes partner organizations that are proficient in selling, implementing and/or developing Oracle Real Application Clusters 11g solutions.
+                                            Engineered Systems
+                                            Exadata Database Machine Models X2-2 and X2-8
+                                            
+                                            The Exadata Database Machine Models X2-2 and X2-8 Specialization recognizes partner organizations that are proficient in selling, implementing and/or developing Oracle Exadata solutions.
+                                            
+                                            Exalogic Elastic Cloud X2-2
+                                            
+                                            The Exalogic Elastic Cloud X2-2 Specialization recognizes partner organizations that are proficient in selling and implementing Exalogic Elastic Cloud X2-2.
+                                            Industries
+                                            Aerospace and Defense
+                                            
+                                            The Aerospace and Defense Industry Specialization recognizes partner organizations that are proficient in applying Oracle’s hardware and software solutions to the Aerospace and Defense Industry.
+                                            
+                                            Automotive
+                                            
+                                            The Automotive Industry Specialization recognizes partner organizations that are proficient in applying Oracle’s hardware and software solutions to solve the unique needs of the Automotive Industry.
+                                            
+                                            Communications
+                                            
+                                            The Communications Industry Specialization recognizes partner organizations that are proficient in applying Oracle’s hardware and software solutions to solve the needs of the Communications Industry.
+                                            
+                                            Consumer Goods
+                                            
+                                            The Consumer Goods Industry Specialization recognizes partner organizations that are proficient in applying Oracle’s hardware and software solutions to solve the needs of the Consumer Goods Industry.
+                                            
+                                            Financial Services
+                                            
+                                            The Financial Services Industry Specialization recognizes partner organizations that are proficient in applying Oracle’s hardware and software solutions to the Financial Services Industry.
+                                            
+                                            Healthcare
+                                            
+                                            The Healthcare Industry Specialization recognizes partner organizations that are proficient in applying Oracle’s hardware and software solutions to solve the unique needs of the Healthcare Industry.
+                                            
+                                            Industrial Manufacturing
+                                            
+                                            The Industrial Manufacturing Industry Specialization recognizes partner organizations that are proficient in applying Oracle’s hardware and software solutions to the Industrial Manufacturing Industry.
+                                            
+                                            Life Sciences
+                                            
+                                            The Life Sciences Industry Specialization recognizes partner organizations that are proficient in applying Oracle’s hardware and software solutions to solve the needs of the Life Sciences Industry.
+                                            
+                                            Media and Entertainment
+                                            
+                                            The Media and Entertainment Industry Specialization recognizes partner organizations that are proficient in applying Oracle’s hardware and software solutions to the Media and Entertainment Industry.
+                                            
+                                            Natural Resources
+                                            
+                                            The Natural Resources Industry Specialization recognizes partner organizations that are proficient in applying Oracle’s hardware and software solutions to the Natural Resources Industry.
+                                            
+                                            Oil and Gas
+                                            
+                                            The Oil and Gas Industry Specialization recognizes partner organizations that are proficient in applying Oracle’s hardware and software solutions to solve the unique needs of the Oil and Gas Industry.
+                                            
+                                            Professional Services
+                                            
+                                            The Professional Services Industry Specialization recognizes partner organizations that are proficient in applying Oracle’s hardware and software solutions to the Professional Services Industry.
+                                            
+                                            Public Sector
+                                            
+                                            The Public Sector Industry Specialization recognizes partner organizations that are proficient in applying Oracle’s hardware and software solutions to the Public Sector Industry.
+                                            
+                                            Travel and Transportation
+                                            
+                                            The Travel and Transportation (T&T) Industry Specialization recognizes partner organizations that are proficient in applying Oracle’s hardware and software solutions to the T&T Industry.
+                                            
+                                            Wholesale Distribution
+                                            
+                                            The Wholesale Distribution Industry Specialization recognizes partner organizations that are proficient in applying Oracle’s hardware and software solutions to the Wholesale Distribution Industry.
+                                            Middleware
+                                            Java Platform - Enterprise Edition 6
+                                            
+                                            The Java Platform - Enterprise Edition 6 Specialization recognizes partner organizations that are proficient in selling, implementing, developing and deploying Java Enterprise 6 applications.
+                                            
+                                            Java Platform - Standard Edition 5/6
+                                            
+                                            The Java Platform, - Standard Edition 5/6 Specialization recognizes partner organizations that are proficient in selling, implementing, developing and/or deploying Java applications on desktops and servers.
+                                            
+                                            Oracle Business Intelligence Applications 7
+                                            
+                                            The Oracle Business Intelligence (BI) Applications 7 Specialization recognizes partner organizations that are proficient in selling, implementing and/or developing Oracle BI Applications 7 solutions.
+                                            
+                                            Oracle Business Intelligence Foundation 10
+                                            
+                                            The Oracle Business Intelligence Foundation 10 Specialization recognizes partner organizations that are proficient in selling and/or implementing Oracle Business Intelligence Foundation 10 solutions.
+                                            
+                                            Oracle Essbase 11
+                                            
+                                            The Oracle Essbase 11 Specialization recognizes partner organizations that are proficient in selling, implementing and/or developing Oracle Essbase 11 solutions.
+                                            
+                                            Oracle SOA Suite 11g
+                                            
+                                            The Oracle SOA Suite 11g Specialization recognizes partners who are proficient in selling, implementing and/or developing Oracle SOA Suite 11g solutions.
+                                            
+                                            Oracle WebCenter Content 11g
+                                            
+                                            The Oracle WebCenter Content 11g Specialization recognizes partner organizations that are proficient in selling, implementing and/or developing Oracle WebCenter Content 11g solutions.
+                                            
+                                            Oracle WebLogic Server 12c
+                                            
+                                            The Oracle WebLogic Server 12c Specialization recognizes partner organizations that are proficient in selling, implementing and/or developing Oracle WebLogic Server 12c solutions
+                                            Server And Storage Systems
+                                            SPARC T2 and T3-Based Servers
+                                            
+                                            The SPARC T2 and T3-Based Servers Specialization recognizes partner organizations that are proficient in selling and implementing  SPARC T2 and T3-Based Server solutions.
+                                            
+                                            Oracle Linux 5
+                                            
+                                            The Oracle Linux 5 Specialization recognizes partner organizations that include Oracle Linux in their solutions and resell support available through the Oracle Linux support program.
+                                            
+                                            Oracle Solaris 10
+                                            
+                                            The Oracle Solaris 10 Specialization recognizes partner organizations that are proficient in selling, implementing and/or developing Oracle Solaris 10 solutions.
+                                            
+                                            Oracle Solaris 11
+                                            
+                                            The Oracle Solaris 11 Specialization recognizes partner organizations that are proficient in selling, implementing and/or developing Oracle Solaris 11 solutions.
+                                            
+                                            Oracle Solaris Cluster 3.x
+                                            
+                                            The Oracle Solaris Cluster 3.x Specialization recognizes partners that have demonstrated proficiency in the sales and implementation of Oracle Solaris 3.x Cluster.
+                                            
+                                            SPARC Enterprise Entry-Midrange M-Series Servers
+                                            
+                                            The SPARC Enterprise Entry-Midrange M-Series Servers Specialization recognizes partners who are proficient in selling and implementing these SPARC Enterprise Server solutions.
+                                            
+                                            SPARC Enterprise High-End M-Series Servers Specialization
+                                            
+                                            The SPARC Enterprise High-End M-Series Servers Specialization recognizes partner organizations that are proficient in selling and implementing SPARC Enterprise High-End M-Series Server solutions.
+                                            
+
+
+
+
+
+
+
+
+
+
+More Information
+
+Contact Help
+FAQ
+Partner Resources
+
+Manage Profile
+
+
+
+The partners listed in the Oracle PartnerNetwork (OPN) Solutions Catalog are part of the Oracle PartnerNetwork Program, however Oracle does not endorse any of the partners or their software, solutions, services or training listed on this site. Oracle disclaims any and all liability arising out of your use of the Oracle PartnerNetwork Solutions Catalog, including use of partners, software, solutions, services and training listed on the site.
+
+
+
+
+
+
+ 
+
+
+
+Oracle Cloud
+Learn About Oracle Cloud Computing
+Get a Free Trial
+Learn About DaaS
+Learn About SaaS
+Learn About PaaS
+Learn About IaaS
+Learn About Private Cloud
+Learn About Managed Cloud
+
+
+
+
+Java
+Learn About Java
+Download Java for Consumers
+Download Java for Developers
+Java Resources for Developers
+Java Cloud Service
+Java Magazine
+
+
+
+
+Customers and Events
+Explore and Read Customer Stories
+All Oracle Events
+Oracle OpenWorld
+JavaOne
+
+
+
+E-mail Subscriptions
+Subscribe to Oracle Communications
+Subscription Center
+
+
+
+
+Communities
+Blogs
+Discussion Forums
+Wikis
+Oracle ACEs
+User Groups
+Social Media Channels
+
+
+
+
+Services and Store
+Log In to My Oracle Support
+Training and Certification
+Become a Partner
+Find a Partner Solution
+Purchase from the Oracle Store
+
+
+Contact and Chat
+Sales: +1.800.633.0738 
+Global Contacts
+Oracle Support
+Partner Support
+
+
+
+
+
+ 
+
+
+
+
+
+
+Integrated Cloud Applications and Platform Services
+
+Subscribe
+Careers
+Contact Us
+Site Maps
+Legal Notices
+Terms of Use
+Privacy
+
+
+
+Oracle Mobile
+
+
+Facebook
+LinkedIn
+Twitter
+Google+
+YouTube
+Oracle RSS Feed
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+	UxC: Product Terms and Conditions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Internet Explorer 8 and lower are no longer supported on the UxC Website. Visit here for more information.
+
+
+	Internet Explorer versions 9 and 10 will soon no longer be supported. Visit here for more information.
+
+
+
+
+Account
+
+
+ Client Site (log in)
+ Log In
+
+
+
+×
+		Click your name to visit the client site  
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Terms and Conditions of Sale for UxC Off-the-Shelf Reports and Publications
+			
+
+
+
+Rev. 3 November 20, 2014
+
+
+All sales of The Ux Consulting Company, LLC (UxC)’s Off-the-Shelf Reports or Publications  (the “Report” or “Reports”) to a Purchaser are subject to and expressly conditioned upon the terms and conditions contained herein.  Purchaser’s agreement with these terms and conditions shall be assumed to take effect upon the occurrence of any one of the following events: a) payment of the related invoice, b) receipt of the subject Report (s), or c) opening an electronic version of the subject Report (s).  If UxC and Purchaser have entered into a separate agreement regarding the purchase of a Report(s), these terms and conditions may also apply:
+
+
+
+Copyright Notice – UxC shall have title to, ownership of, and all proprietary rights in the Report(s).  Under United States federal copyright law (17 USC 101 et seq.), it is illegal to reproduce the Report(s), or any portion of, or data contained in the Reports(s), by any means without written permission from UxC.  UxC grants its permission to the Purchaser of any UxC Report to use the data and information within the Report (the “Content”) for its own internal business purposes only.  Under specific written request, UxC may grant permission to the Purchaser to use Content from the Report(s) on a limited basis in materials the Purchaser prepares and distributes to any third party, including the Purchaser’s own clients.  The extent and type of Content permitted for use is totally at UxC’s discretion.  The Purchaser further agrees that it shall provide attribution in its materials distributed to any third party whenever it uses permitted Content from a Report(s).  UxC reserves the right to review the continued use of the permitted Content and has the right to rescind its permission if the Content being used goes beyond the limited Content originally permitted.
+
+Disclaimer – The information contained in each Report is obtained from sources that UxC believes to be reliable.  UxC makes no warranty or representation, express or implied, with respect to the accuracy, completeness or usefulness of the information contained in any Report and UxC, to the maximum extent permitted by law, assumes no liability for the use or effects of any of the information or data contained in a Report(s).
+
+Representations – UxC represents and covenants that it has all necessary intellectual property rights, licenses, consents and regulatory approvals, and is otherwise authorized, to provide the Report(s) to the Purchaser.  UxC shall not be liable for any third party claims arising from the use of a Report(s) by a Purchaser other than breach of intellectual property rights of such party.
+
+Warranty – UxC warrants that personnel possessing competency consistent with applicable industry standards have prepared all of its Report(s).  No other representation, express or implied, and no warranty or guarantee is included or intended for any of its Report(s).  This warranty is made expressly in lieu of all other warranties, express or implied, including without limitation any implied warranties of fitness for a purpose, merchantability, non-infringement, title, or otherwise.
+
+Recommendations – It is UxC’s strict policy not to endorse, promote, or recommend any particular securities, currencies, or other financial products or instruments.  Nothing contained in any UxC Report is intended to constitute investment, legal, tax, accounting or other professional advice and the reader should not rely on the information provided in an UxC Report for making financial decisions.
+
+Liability – UxC shall not be liable to the Purchaser of a Report(s) and Purchaser shall not be liable to UxC for any loss of profit, loss of revenue, loss of investment money, consequential, indirect or incidental damages arising out of or related to the purchase of any of its Report(s), in tort, contract or otherwise, whether such loss or damages could be foreseen by such Purchaser or not.
+
+Redistribution – Except as provided herein, the redistribution of the electronic edition of any Report or Reports is strictly prohibited.  This includes, but is not limited to, forwarding to others using internal or external e-mail systems, Internet distribution or inter-office electronic exchanges.  All electronic copies must be distributed directly by UxC.
+
+Electronic Storage – Without a specific site license, electronic versions of the Report(s) cannot be stored in a system that allows, but is not limited to, general public access or the ability to redistribute the Reports(s).
+
+Payment Terms – Payment by the Purchaser for any Report ordered from UxC is due within 30 (thirty) days of receipt of the invoice received from UxC unless special arrangements have been made.  A Purchaser of a Report may choose to make payment with a valid and active credit card.  A finance charge of 0.5% per month on the unpaid amount of the invoice, may be charged on past due accounts and shall be paid by the Purchaser in case of UxC’s written claim.
+
+Remedy – In the event UxC has not delivered a purchased Report(s) to the Purchaser within a reasonable amount of time following the purchase order, the Purchaser shall first request performance of the delivery from UxC, and, if delivery is still not forthcoming, then the Purchaser’s sole remedy is to request from UxC the return of its payment for the Report(s), which UxC shall do without hesitation.
+
+Cancellation – If a Purchaser cancels a subscription to a newsletter or subscriber service, the Purchaser will receive a prorated refund subject to minimum charges and administrative fees.  Refunds will not be given for individual Reports.
+
+Intellectual Property – If applicable, the Ux U3O8 Price® and other Ux Price indicators that may be contained within a Report(s) are developed by UxC and are proprietary and exclusive intellectual property of UxC.  These price indicators are provided to UxC’s customers through the Ux Weekly® publication and are made available on UxC’s public website solely at UxC’s discretion.  They may not be reproduced or otherwise used without UxC’s express permission.
+
+Trademarks – UxC®, Ux Weekly®, Ux U3O8 Price®, Ux®, and Ux Consulting® are registered trademarks of The Ux Consulting Company, LLC and their use is strictly forbidden by a non-UxC person or entity.
+
+Prices and Taxes – Prices quoted for UxC’s Report(s) are in U.S. dollars and are exclusive of any taxes.  Any use tax, sales tax, excise tax, value added tax, duty, custom or inspection fee or any other tax, fee or charge of any nature imposed by any governmental authority shall be paid by the Purchaser with the exception of any related income tax liability imposed on UxC in connection with the sale of the Report(s). 
+
+
+
+
+For additional information, please contact:
+Eric Webb  +1 (770) 642-7745  
+
+
+
+
+
+
+
+BACK TO TOP  | 
+		HOME  | 
+		SITE MAP   | 
+		Contact Us
+
+
+Ux Consulting Company
+
+Corporate Office:
+				1501 MACY DR  |  ROSWELL, GA 30076 USA
+PH +1 (770) 642-7745   FX +1 (770) 643-2954
+			
+
+				© 2017 The Ux Consulting Company, LLC
+				All rights reserved.
+Terms of Use
+
+
+
+
+
+
+
+
+
+
+
+
+	UxC: Ux Consulting - The Nuclear Fuel Price Reporter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Internet Explorer 8 and lower are no longer supported on the UxC Website. Visit here for more information.
+
+
+	Internet Explorer versions 9 and 10 will soon no longer be supported. Visit here for more information.
+
+
+
+
+Account
+
+
+ Client Site (log in)
+ Log In
+
+
+
+×
+		Click your name to visit the client site  
+	
+
+
+
+
+
+
+
+
+
+
+
+
+Ux U3O8 Prices*
+
+
+
+
+
+
+
+		
+		What's inside the 
+
+
+July 31, 2017
+
+
+				The Decline of U.S. U3O8 Production
+				
+			
+
+
+				SCANA decides not to complete two AP1000 reactors in South Carolina
+				
+			
+
+
+				Georgia Power assumes responsibility for construction of Vogtle 3 and 4
+				
+			
+
+
+				South Korea’s government to re-evaluate costs for nuclear energy
+				
+			
+
+
+				KHNP in talks to invest in Horizon Nuclear Power
+				
+			
+
+
+				ENEC completes CHT at Barakah 2
+				
+			
+
+
+				EDF reports results for first half of 2017
+				
+			
+
+
+				Bugey 5 resumes operation in France
+				
+			
+
+
+				CGN in discussions with Poland for nuclear plant construction
+				
+			
+
+
+				Cameco releases Q2 2017 financial and production results
+				
+			
+
+
+				NexGen issues PEA of Arrow Deposit
+				
+			
+
+
+				NexGen reports final assays from winter 2017 drill program at Rook I property
+				
+			
+
+
+				Peninsula reports Q2 2017 production
+				
+			
+
+
+				Bank of Namibia reports uranium sector performance projections
+				
+			
+
+
+				UEC extends Burke Hollow drill program
+				
+			
+
+
+				Azarga closes C$1.14 million private placement
+				
+			
+
+
+				The Market
+				
+			
+
+
+
+UxC Publications
+
+Periodicals:
+ Ux Weekly
+ SpentFUEL
+ StoreFUEL
+
+Market Outlook Reports:
+ Uranium Market Outlook 
+ Conversion Market Outlook 
+ Enrichment Market Outlook 
+ Fabrication Market Outlook 
+
+Special Products:
+ UxC Training Seminar
+ Nuclear Power Outlook
+ UxC Requirements Model
+ SMR Research Center
+ Uranium Suppliers Annual
+ UxC's Policy Watch
+
+
+
+
+
+
+			The industry's leading source of Publications, Data Services, and Consulting, on the Global Nuclear Fuel Cycle Markets
+		
+
+
+
+
+
+
+
+
+What's NewUraniumConversionEnrichmentFabricationReactorsBackend
+
+
+
+
+
+
+Recent Special Reports
+ Nuclear Zirconium Alloy Market Outlook - May 2017
+ UxC White Paper - Prospects for China's Nuclear Program - Apr 2017
+ China’s Nuclear Reactor and Fuel Cycle Markets - Dec 2016
+ Uranium Suppliers Annual 2016 - Dec 2016
+ Nuclear Industry Value Chain 2016 - May 2016
+Market Outlook Report Essays
+ The Emerging Production Cost Gap - Q2 2017
+ China’s Conversion Industry – Status and Prospects - Dec 2016
+ The Increasing Role of EUP Inventories - Q2 2017
+ Is There MOX In Your Future? - Jul 2016
+ 2017 Q2 Nuclear Power Market Trends and Analysis - Q2 2017
+ PolicyWatch
+May 2, 2017 DOE Issues 2017 Secretarial Determination 
+Feb 17, 2017 UK Confirms Intention to Leave Euratom
+Feb 1, 2017 NNSA Issues RFI Seeking Interest for Supplies of LEU/HEU
+Nov 22, 2016 DOE Agrees to Sell Depleted Uranium to GLE
+Oct 7, 2016 Russia Suspends Plutonium Management Disposition Agreement with the U.S. 
+
+
+
+
+
+UxC's Uranium Market Outlook (UMO) highlights recent developments and their impact on the market.
+
+
+							Each quarterly report, at over 130 pages, covers key supply and demand developments as well as the 
+							overall supply and demand situation, reviews spot and long-term contract activity over the 
+							past three months, provides a near-term technical analysis along with detailed spot market 
+							indicators, projects prices under different market scenarios with associated probabilities, 
+							and examines key developments in the market through a topical essay. 
+						
+
+							Also included are a review of recent market activity and a look a current and prospective activity, 
+							and a detailed listing of reactor and production developments that promise to shape the future market.
+						
+
+Uranium Suppliers Annual
+
+
+							Sometimes referred to as "The Uranium Bible", the Uranium Suppliers Annual contains comprehensive data and 
+							information on all of the world's uranium suppliers, including detailed sections on planned producers and 
+							junior/exploration companies.  
+						
+
+							Whether you are a utility, producer, trader, or investor, the Uranium Suppliers Annual provides the 
+							basis for understanding potential future developments surrounding the availability of supply, particularly 
+							since uranium production has continued to be sub-par against a backdrop of growing demand.  In light 
+							of the increasing volatile nature of the uranium market, primary and potential suppliers are continuously 
+							re-evaluating their properties and future production plans, as well as expanding exploration programs where 
+							economically feasible. 
+						
+
+Uranium Production Cost Study
+
+
+							The Uranium Production Cost Study complements UxC's Uranium Market Outlook (UMO) and 
+							Uranium Supplier's Annual (USA) in identifying where expanded and new uranium supply will come from among 116 worldwide projects 
+							to meet future nuclear fuel demand through 2030. 
+						
+
+
+
+
+
+UxC's Conversion Market Outlook (CMO) details an often overlooked market.
+
+
+							Each bi-annual report, at over 120 pages, covers key supply and demand developments as well as the 
+							overall supply and demand situation, reviews spot and long-term contract activity over the 
+							past three months, provides a near-term technical analysis along with detailed spot market 
+							indicators, projects prices under different market scenarios with associated probabilities, 
+							and examines key developments in the market through a topical essay. 
+						
+
+							Also included are a review of recent market activity and a look a current and prospective activity, 
+							and a detailed listing of reactor and production developments that promise to shape the future market.
+						
+
+
+
+
+
+UxC's Enrichment Market Outlook (EMO) Covers a Dynamic and Key Segment of the Overall Nuclear Fuel Market.
+
+
+							Enrichment developments not only are important for understanding the enrichment market, but are 
+							also crucial for understanding the future progression of the uranium market.  
+							Since uranium and enrichment are substitutes, increases in enrichment supply can 
+							have a major impact on the future demand for uranium.  
+							Each quarterly report, at over 110 pages, covers key supply and demand developments as well as the 
+							overall supply and demand situation, reviews spot and long-term contract activity over the 
+							past three months, provides a near-term technical analysis along with detailed spot market 
+							indicators, projects prices under different market scenarios with associated probabilities, 
+							and examines key developments in the market through a topical essay. 
+						
+
+
+							Also included are a review of recent market activity and a look a current and prospective activity, 
+							and a detailed listing of reactor and production developments that promise to shape the future market.
+						
+
+UxC's Enrichment Suppliers Assessments (ESA)
+
+
+							USEC recently declared its intention to file for Chapter 11 bankruptcy and re-emerge as a leaner, new enrichment company. What will 
+							happen to the American Centrifuge Project (ACP)? Where will USEC find the funding for the ACP? How will the new USEC survive until 
+							an ACP plant can be built? These are just a few of the multitude of questions raised by the USEC bankruptcy announcement. UxC's USEC 
+							Watch subscriber service follows all of USEC's activities in depth and analyzes their consequences for the company and also for 
+							their impact on the enrichment market as a whole.  Learn more about the ESA.
+						
+
+End of an Era: The HEU Agreement and Beyond
+
+
+							"End of an Era: The HEU Agreement and Beyond," examines the HEU deal from an historical standpoint, and addresses the impact of the 
+							deal's end on the parties to the deal and nuclear fuel market as a whole. In this regard, the essay takes a close look at the fate 
+							the Russian enrichment plants, Russia's enrichment industry after the HEU Agreement, and the fate of USEC. Looking forward, we turn 
+							to examining the likelihood of follow-on to the HEU Agreement as well as the prospects for the SWU and uranium markets in the 
+							post-HEU era.  Get more information.
+						
+
+
+
+
+
+UxC's Fabrication Market Outlook (FMO)
+
+      
+							UxC and its consultant, Joel Gingold, with over forty years experience in the fuel fabrication industry, have prepared a comprehensive 
+							and up-to-date Fabrication Market Outlook (FMO) 
+							report addressing the commercial, economic, institutional, and technical aspects of this sector. Fabrication differs greatly from other 
+							steps in the fuel cycle. Its high technical content, need for regulatory approval, and the restriction of fuel assemblies to specific 
+							reactors require a unique approach to its analysis.  To those with little knowledge of fuel fabrication and its markets, this report 
+							can serve as a primer providing a solid background and understanding of how its markets function. To those knowledgeable in the 
+							fundamentals, it offers analyses of a variety of its aspects based on several decades of participation. To those who are actively 
+							involved in the industry, it supplies additional insights to assist in the improvement of existing nuclear fuel programs and in the development of new ones. 
+						
+
+UxC's Nuclear Grade Zirconium Alloy Market Outlook
+
+							UxC has prepared a new special report to provide an overview of the zirconium alloy market for the nuclear industry entitled 
+							Nuclear Grade Zirconium Alloy Market Outlook.  
+							Nuclear-grade zirconium alloys and products are used in the fabrication of fuel assemblies, 
+							which are used in the vast majority of nuclear reactor designs either currently operating, under construction, or planned around the world.  
+							As the nuclear renaissance takes hold in countries all over the globe, many questions about the international nuclear supply chain have arisen.  
+							The supply of nuclear-grade zirconium – from zircon mineral sand through the cladding and components used in finished fuel assemblies – 
+							has also not escaped this scrutiny.  Therefore, the primary objective of this report is to factually and analytically approach the current and 
+							expected future direction of the nuclear-grade zirconium market to help formulate clear conclusions about how producers of fuel assemblies for 
+							nuclear reactors will obtain the necessary zirconium for their finished products.
+						
+
+
+
+
+
+UxC's Nuclear Power Outlook (NPO)
+
+
+							Each quarterly report, at over 200 pages, covers key supply and demand developments as well as the 
+							overall supply and demand situation, reviews spot and long-term contract activity over the 
+							past three months, provides a near-term technical analysis along with detailed spot market 
+							indicators, projects prices under different market scenarios with associated probabilities, 
+							and examines key developments in the market through a topical essay. 
+						
+
+
+						Also included are a review of recent market activity and a look a current and prospective activity, 
+						and a detailed listing of reactor and production developments that promise to shape the future market.
+						
+UxC Analyzes Reactor Technology
+
+
+							In March 2013, UxC issued a new special report on the SMR Market Outlook (SMO).  
+							This 450 page report provides comprehensive commercial and technical analysis of the overall SMR market 
+							and detailed reviews of the leading SMR designs in the world. The SMO report is the result of UxC's 
+							continuing efforts to provide its global clients with insightful products and services in the SMR sector.  
+							It includes a global SMR market review along with a global outlook for SMR market developments as well as deployment forecasts to 2040.
+						
+
+
+							In December 2010, UxC issued a groundbreaking special report on Small Modular Reactor Assessments (SMRA).  
+							This report's objective is to provide technical, economic, and other commercial assessments of each of the 
+							SMR designs being developed in the world today. In addition, the report provides an in-depth discussion 
+							of the broader issues impacting SMRs,  such as the keys to successful deployment for SMRs, comparisons with 
+							larger reactor technologies, specific applications for SMRs, and the broader issues facing potential customers for SMRs.
+						
+
+
+
+							In August 2008, UxC completed a special report on Nuclear Reactor Technology Assessments.  
+							This in-depth study provides nuclear reactor technology 
+							assessments and overall evaluations of the major reactor designs currently available in the world.  
+							The decision of which reactor design to pursue is an extremely important one and must be based on many 
+							factors, such as the robustness of the technology, the constructability of the plant, the plant 
+							economics - both initial and operating, the type of fuel used, the ability to license and regulate, 
+							among a variety of other considerations.
+						
+
+
+
+
+UxC's SpentFUEL and StoreFUEL
+
+
+						UxC is not only expanding its geopolitical coverage of the market, but is also now covering more of the fuel cycle.  
+						In June 2007, UxC began to publish SpentFUEL and StoreFUEL, 
+						two leading newsletters dealing with the backend of the fuel cycle.
+					
+
+
+
+						Both publications cover major fuel cycle and backend-related conferences in detail.  
+						In addition, UxC can advise clients in issues related to the back end of the fuel cycle, including 
+						profiles of utility spent fuel storage facilities and plans, country profiles, vendor profiles, etc.   
+					
+
+
+
+Latest Headlines (more information)
+
+
+
+Failing Nuclear Power Is Good For Coal, Bad For Earth
+
+
+Bloomberg (Aug 2, 2017)
+
+		Article examines how some states with retired nuclear power plants fill the gap in electricity generation.
+		
+		https://www.bloomberg.com/news/articles/2017-08-01/failing-nuclear-power-is-good-for-coal-bad-for-earth
+
+
+
+Utility stops construction of new South Carolina nuclear plant in 'disappointing' decision
+
+
+Washington Examiner (Jul 31, 2017)
+
+		Nuclear industry and politicians are disappointed in the decision to abandon the V.C. Summer project.
+		
+		http://www.washingtonexaminer.com/utility-stops-construction-of-new-south-carolina-nuclear-plant-in-disappointing-decision/article/2630217
+
+
+
+Japan's Tepco, Tohoku Electric seek joint grid operation
+
+
+Nikkei Asian Review (Jul 31, 2017)
+
+		Tokyo Electric Power Co. Holdings and Tohoku Electric Power are currently in discussions to jointly operate their distribution grids.
+		
+		https://asia.nikkei.com/Japan-Update/Japan-s-Tepco-Tohoku-Electric-seek-joint-grid-operation
+
+
+
+Westinghouse needs more time in crafting bankruptcy plan
+
+
+Pittsburgh Post-Gazette (Jul 27, 2017)
+
+		Westinghouse asks a New York bankruptcy judge for an additional three months to file a reorganization plan.
+		
+		http://powersource.post-gazette.com/powersource/companies/2017/07/27/Westinghouse-bankruptcy-filing-document-plan-complicated-more-time/stories/201707270160
+
+
+
+Bugey 5 restarts following containment repairs
+
+
+World Nuclear News (Jul 27, 2017)
+
+		EDF resumes operations at Bugey 5.
+		
+		http://world-nuclear-news.org/RS-Bugey-5-restarts-following-containment-repairs-2707174.html
+
+
+
+
+
+
+
+
+
+
+
+
+BACK TO TOP  | 
+		HOME  | 
+		SITE MAP   | 
+		Contact Us
+
+
+Ux Consulting Company
+
+Corporate Office:
+				1501 MACY DR  |  ROSWELL, GA 30076 USA
+PH +1 (770) 642-7745   FX +1 (770) 643-2954
+			
+
+				© 2017 The Ux Consulting Company, LLC
+				All rights reserved.
+Terms of Use
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UXC LIMITED (ASX:UXC) - Share Price and Dividend Yield - Intelligent Investor
+
+
+
+
+
+ 
+
+
+Skip to main content
+
+
+
+
+
+
+
+Intelligent Investor Home
+About Intelligent Investor
+InvestSMART
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+Search
+
+
+Search
+Search
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More on UXC
+
+Overview ›
+Research ›
+Q&A ›
+Announcements ›
+Reporting Dates ›
+Dividends ›
+Financial Data
+
+Key Financials ›
+
+ 
+
+
+
+
+Home
+
+
+
+
+
+Companies
+
+
+
+
+
+UXC
+
+
+
+
+
+Overview
+
+
+
+
+UXC LIMITED (UXC)
+
+
+
+
+
+
+
+
+Overview
+
+
+
+Current recommendation
+
+Members Only 
+
+
+
+12 month range
+
+Members Only 
+
+
+
+Business risk
+
+Members Only 
+
+
+
+Share price risk
+
+Members Only 
+
+
+
+Maximum portfolio weighting
+
+Members Only 
+
+
+
+
+
+
+
+Following the divestment of non-core businesses in 2011, UXC is now the largest listed IT services firm. Divisions include consulting, applications and IT infrastructure. The client base is reasonably diversified, with UXC shifting focus to bigger projects for large corporate and government clients. 
+
+
+Latest Research
+
+
+
+2y ago
+0
+
+
+
+
+
+
+
+
+
+
+
+
+New year stock cleanout ›
+
+
+
+
+
+3y ago
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+Banks, IT services and more ›
+
+
+
+
+
+3y ago
+0
+
+
+
+
+
+
+
+
+
+
+
+
+IT Services under a cloud ›
+
+
+
+
+
+4y ago
+0
+
+
+
+
+
+
+
+
+
+
+
+
+Introducing IT services ›
+
+
+
+
+
+5y ago
+0
+
+
+
+
+
+
+
+
+
+
+
+
+Pressing the button on IT stocks—Pt 2 ›
+
+
+
+
+
+Read more research on UXC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UXC LIMITED (ASX:UXC) - Dividend Yield, Dividend Payout Ratio & Ex Dividend Dates - Intelligent Investor
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+Intelligent Investor Home
+About Intelligent Investor
+InvestSMART
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+Search
+
+
+Search
+Search
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More on UXC
+
+Overview ›
+Research ›
+Q&A ›
+Announcements ›
+Reporting Dates ›
+Dividends ›
+Financial Data
+
+Key Financials ›
+
+ 
+
+
+
+
+Home
+
+
+
+
+
+Companies
+
+
+
+
+
+UXC
+
+
+
+
+
+Dividends
+
+
+
+
+UXC LIMITED (UXC)
+
+
+
+ 
+ 
+
+Dividends
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Shares - Australian Stock Market - InvestSMART
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Home
+    
+
+
+
+        Research
+    
+
+
+
+        Shares
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shares
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company Announcements
+More announcements
+
+
+
+
+
+Date/time
+Company
+
+Headline
+
+
+
+
+3 Aug 2017 7:19PM
+
+iSelect Limited (ISU)
+                    
+
+
+
+
+Becoming a substantial holder
+
+
+
+
+3 Aug 2017 7:18PM
+
+Virtus Health Limited (VRT)
+                    
+
+
+
+
+Becoming a substantial holder
+
+
+
+
+3 Aug 2017 7:17PM
+
+Cabral Resources Limited (CBS)
+                    
+
+
+
+
+Prospectus
+
+
+
+
+3 Aug 2017 7:17PM
+
+Prima BioMed Limited (PRR)
+                    
+
+
+
+
+Investor Update
+
+
+
+
+3 Aug 2017 7:14PM
+
+iSentia Group Limited (ISD)
+                    
+
+
+
+
+Ceasing to be a substantial holder
+
+
+
+
+
+
+
+
+
+Upcoming Dividends
+More dividends
+
+
+
+
+
+Company
+Dividend
+Franking
+Ex-dividend date
+
+
+
+
+
+
+                        BKI
+                    
+
+
+3.7¢
+            
+100%
+4 Aug 2017
+
+
+
+
+                        DJW
+                    
+
+
+10¢
+            
+100%
+4 Aug 2017
+
+
+
+
+                        AMH
+                    
+
+
+3.5¢
+            
+100%
+7 Aug 2017
+
+
+
+
+                        OZG
+                    
+
+
+0.25¢
+            
+100%
+7 Aug 2017
+
+
+
+
+                        WIC
+                    
+
+
+3¢
+            
+100%
+7 Aug 2017
+
+
+
+
+                        AFI
+                    
+
+
+14¢
+            
+100%
+8 Aug 2017
+
+
+
+
+                        AYJ
+                    
+
+
+48¢
+            
+5%
+10 Aug 2017
+
+
+
+
+                        AYK
+                    
+
+
+34¢
+            
+90%
+10 Aug 2017
+
+
+
+
+                        AYZ
+                    
+
+
+69¢
+            
+60%
+10 Aug 2017
+
+
+
+
+                        MLT
+                    
+
+
+10¢
+            
+100%
+10 Aug 2017
+
+
+
+
+
+
+
+Change of Directors' Interest
+More changes
+
+
+
+
+
+
+
+
+
+
+Current Recommendations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Please check the following:
+
+{{x.value}}
+
+
+
+
+
+×
+                                {{ successMessage}}
+                            
+
+
+
+
+{{content.question}}
+
+
+
+
+
+
+{{ twilioFailed ? 'SMS Code Failed to Send…' : 'An SMS verification code has been sent ...' }}
+
+
+
+Log in to get started
+
+Eureka Report
+InvestSMART
+Intelligent Investor
+
+
+
+Hi {{ user.FirstName }}
+Looks like you have already taken a free trial 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            Email is required.
+                                        
+
+                                            Email must be a valid email.
+                                        
+
+
+
+
+
+
+                                            Password is required.
+                                        
+
+
+
+
+
+
+                                            First name is required.
+                                        
+
+
+
+
+
+
+                                            Last name is required.
+                                        
+
+
+
+
+
+
+                                            Mobile phone number is required.
+                                        
+
+
+
+
+
+
+ I have read InvestSMART's Financial Services Guide and Privacy Policy, and agree to the Terms & Conditions.
+                                        
+
+                                            You must accept the terms and conditions.
+                                        
+
+
+
+What emails do members receive?
+
+
+
+
+
+
+×
+Email Communications
+
+
+
+By default members will receive the following communications via email. At any time, once logged in, you can choose which emails your wish to receive (or not) via the My Details section:
+Research & Wealth Insights
+Mid-week update - Lists all the research and recommendations from the week.
+Weekend Briefing - An overview of the week gone and what to expect in the week to come.
+Portfolio Updates
+If you add your investments to the portfolio manager you will also receive regular updates including; recommendations, alerts, market pricing, dividends, profit & loss and your overall net wealth.
+Exclusive Opportunities
+Featured reports, invites to investor seminars and events, plus exclusive offers.
+Operational communications
+As an InvestSMART group member, you will occasionally receive operational updates. These could be about new features, changes to your membership, security information, or general business updates.
+
+
+
+
+ 
+
+
+
+ {{content.mainButtonText}} 
+
+OR
+
+
+
+
+
+
+
+Already a member? Login
+
+
+
+
+
+
+
+
+We have sent you a code via SMS to {{user.DayPhone}}
+please enter this code below to complete your SMS verification
+
+
+We cannot send you a code via SMS to {{user.DayPhone}}
+
+
+
+
+
+
+
+
+
+
+Complete verification
+
+If you didn't receive SMS code please 
+
+
+
+SMS code cannot be sent due to: {{ twilioStatus }}
+
+Please select one of the options below: 
+
+Resend Code
+Change number
+
+
+
+
+ Looks you are already a member. Please enter your password to proceed 
+
+
+
+You have entered an incorrect email or password
+
+
+
+
+
+                                            Email is required.
+                                        
+
+                                            Email must be a valid email.
+                                        
+
+
+
+
+
+
+                                            Password is required.
+                                        
+
+
+
+
+
+
+Remember me
+
+
+Please untick this box when using a public or shared device
+
+
+
+
+Login
+
+OR
+
+
+
+Not a member?
+
+
+
+
+
+Forgotten password? Click here
+
+
+
+
+
+
+Verify your mobile number to proceed...
+Please check your mobile number below and press the Send Verification Code button. This will be used to complete your verification in the next step.
+
+
+
+
+
+
+
+
+SEND VERIFICATION CODE
+
+
+
+
+
+Please sign up for full access 
+
+
+Sign up now
+
+
+
+
+
+
+
+ Updating information 
+Please wait ...  
+
+
+
+
+
+
+
+Trial
+
+
+
+
+
+
+                    {{ productPrice }} / day
+
+
+( GST included )
+
+
+
+
+
+
+ 
+{{ applyText }}
+
+
+
+
+
+
+
+Price
+$0
+
+
+Discount
+-{{productDiscount}}
+
+
+GST
+{{productGST}}
+
+
+TOTAL     (inc. GST)
+{{productPrice}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+
+
+
+
+
+
+
+
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make payment
+Proceed
+
+
+
+
+
+
+Maybe later
+
+
+
+
+
+
+
+Please click on the ACTIVATE button to finalise your membership
+
+
+
+Activate
+
+
+
+
+
+
+
+
+The email address you entered is registered with InvestSMART.
+Login or to reset your password, select Forgotten password
+
+
+
+
+
+You have entered an incorrect email or password
+
+
+
+
+
+                                            Email is required.
+                                        
+
+                                            Email must be a valid email.
+                                        
+
+
+
+
+
+
+                                            Password is required.
+                                        
+
+
+
+
+
+
+Remember me
+
+
+Please untick this box when using a public or shared device
+
+
+
+
+Login
+
+OR
+
+
+
+Not a member?
+
+
+
+
+
+Forgotten password? Click here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eureka Report
+InvestSMART
+Intelligent Investor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+UXC - Australian Stock Market - InvestSMART
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Research
+
+
+Shares
+
+
+UXC Limited
+
+
+ 
+
+
+
+
+
+
+
+
+Delisted
+
+
+
+
+
+                            UXC Limited (UXC)
+
+
+
+
+
+
+
+
+Current Price
+$1.215
+
+
+
+
+
+
+Are you using our Portfolio Manager?
+Track, improve and optimise your portfolio - for free.
+
+                            Get Started
+                        
+
+
+
+
+
+
+
+
+Overview
+
+
+Company Financials
+
+
+Company Announcements
+
+
+Dividends
+
+
+Change in Directors' Interest
+
+
+Research
+
+
+
+
+
+
+
+
+
+General Information
+
+
+
+
+Name
+--
+
+
+Stock Code
+UXC
+
+
+GICS Sub-Industry
+IT Consulting & Other Services
+
+
+Market Cap ($M)
+419
+
+
+Equiv. Shares (M)
+345
+
+
+
+
+
+
+Current Price Data+
+
+
+
+
+Current Price
+
+
+ $1.215
+                        
+
+
+
+Open
+$1.215
+
+
+High
+$1.220
+
+
+Low
+$1.215
+
+
+Last Close
+$1.215
+
+
+Volume
+1638753
+
+
+Price Movement
+
+
+                            -
+                            (
+                                                                    No change
+                            )
+                        
+
+
+
+
+
+
+
++Security prices are delayed by at least 20 minutes and are indicative only.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Research
+
+
+
+
+
+
+
+
+Overview
+
+
+
+Current recommendation
+
+
+UNLOCK
+
+
+
+Business risk
+
+
+UNLOCK
+
+
+
+
+
+
+                        Unlock this Recommendation
+                    
+
+
+
+
+
+
+
+Directors
+
+
+
+
+Name
+Position
+Start Date
+
+
+
+
+Mr Cris Nicolli
+Chief Executive Officer, Managing Director
+28 Oct 2010
+
+
+Mr Geoffrey Fredrick Lord
+Non-Executive Deputy Chairman
+13 Sep 2002
+
+
+Mr Jean-Marie Simart
+Non-Executive Director
+10 Aug 2001
+
+
+Mr Brian Arnold Mitchell
+Non-Executive Director
+24 Oct 2012
+
+
+Mr Douglas Norman Snedden
+Non-Executive Director
+24 Oct 2012
+
+
+Ms Gail Pemberton
+Non-Executive Director
+1 Nov 2011
+
+
+Mr Geoffrey Owen Cosgriff
+Non-Executive Director, Non-Executive Chairman
+13 Sep 2002
+
+
+
+
+
+
+
+
+Management
+
+
+
+
+Name
+Position
+
+
+
+
+Iona  MacPherson
+Chief Financial Officer,Company Secretary
+
+
+Mark  Grodzicky
+Chief General Counsel,Company Secretary
+
+
+Paul Timmins
+Chief Operating Officer
+
+
+Ralph Pickering
+Director - Divestments and Acquisitions
+
+
+
+
+
+
+
+
+Substantial Shareholders
+
+
+
+
+Holding
+Name
+
+
+
+
+31,501,840 (9.46%)
+National Nominees Limited
+
+
+30,415,984 (9.13%)
+HSBC Custody Nominees (Australia) Limited
+
+
+24,801,691 (7.45%)
+J P Morgan Nominees Australia Limited
+
+
+23,976,281 (7.20%)
+Citicorp Nominees Pty Limited
+
+
+
+
+
+
+
+        © 2017 Morningstar. All rights reserved. Neither any Morningstar company nor any of their content providers guarantee the data or content contained herein to be accurate,
+        complete or timely nor will they have any liability for its use or distribution. Any general advice has been prepared by Morningstar Australasia Pty Ltd (ABN: 95 090 665 544, AFSL: 240892)
+        and/or Morningstar Research Limited, subsidiaries of Morningstar, Inc, without reference to your objectives, financial situation or needs. You should consider the advice in light of these matters and,
+        if applicable, the relevant Product Disclosure Statement (in respect of Australian products) or Investment Statement (in respect of New Zealand products) before making any decision to invest.
+        No Morningstar-affiliated company or any of their employees is providing you with personalised financial advice. To obtain advice tailored to your particular circumstances, please contact a professional financial adviser.
+        Some material is copyright and published under licence from ASX Operations Pty Limited ACN 004 523 782 ("ASXO"). Data and content is provided for personal use only. DISCLOSURE: InvestSMART Group Limited
+         employees may have an interest in the securities and managed funds displayed via this service. Please refer to our Financial Services Guide for more information.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Please check the following:
+
+{{x.value}}
+
+
+
+
+
+×
+                                {{ successMessage}}
+                            
+
+
+
+
+{{content.question}}
+
+
+
+
+
+
+{{ twilioFailed ? 'SMS Code Failed to Send…' : 'An SMS verification code has been sent ...' }}
+
+
+
+Log in to get started
+
+Eureka Report
+InvestSMART
+Intelligent Investor
+
+
+
+Hi {{ user.FirstName }}
+Looks like you have already taken a free trial 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            Email is required.
+                                        
+
+                                            Email must be a valid email.
+                                        
+
+
+
+
+
+
+                                            Password is required.
+                                        
+
+
+
+
+
+
+                                            First name is required.
+                                        
+
+
+
+
+
+
+                                            Last name is required.
+                                        
+
+
+
+
+
+
+                                            Mobile phone number is required.
+                                        
+
+
+
+
+
+
+ I have read InvestSMART's Financial Services Guide and Privacy Policy, and agree to the Terms & Conditions.
+                                        
+
+                                            You must accept the terms and conditions.
+                                        
+
+
+
+What emails do members receive?
+
+
+
+
+
+
+×
+Email Communications
+
+
+
+By default members will receive the following communications via email. At any time, once logged in, you can choose which emails your wish to receive (or not) via the My Details section:
+Research & Wealth Insights
+Mid-week update - Lists all the research and recommendations from the week.
+Weekend Briefing - An overview of the week gone and what to expect in the week to come.
+Portfolio Updates
+If you add your investments to the portfolio manager you will also receive regular updates including; recommendations, alerts, market pricing, dividends, profit & loss and your overall net wealth.
+Exclusive Opportunities
+Featured reports, invites to investor seminars and events, plus exclusive offers.
+Operational communications
+As an InvestSMART group member, you will occasionally receive operational updates. These could be about new features, changes to your membership, security information, or general business updates.
+
+
+
+
+ 
+
+
+
+ {{content.mainButtonText}} 
+
+OR
+
+
+
+
+
+
+
+Already a member? Login
+
+
+
+
+
+
+
+
+We have sent you a code via SMS to {{user.DayPhone}}
+please enter this code below to complete your SMS verification
+
+
+We cannot send you a code via SMS to {{user.DayPhone}}
+
+
+
+
+
+
+
+
+
+
+Complete verification
+
+If you didn't receive SMS code please 
+
+
+
+SMS code cannot be sent due to: {{ twilioStatus }}
+
+Please select one of the options below: 
+
+Resend Code
+Change number
+
+
+
+
+ Looks you are already a member. Please enter your password to proceed 
+
+
+
+You have entered an incorrect email or password
+
+
+
+
+
+                                            Email is required.
+                                        
+
+                                            Email must be a valid email.
+                                        
+
+
+
+
+
+
+                                            Password is required.
+                                        
+
+
+
+
+
+
+Remember me
+
+
+Please untick this box when using a public or shared device
+
+
+
+
+Login
+
+OR
+
+
+
+Not a member?
+
+
+
+
+
+Forgotten password? Click here
+
+
+
+
+
+
+Verify your mobile number to proceed...
+Please check your mobile number below and press the Send Verification Code button. This will be used to complete your verification in the next step.
+
+
+
+
+
+
+
+
+SEND VERIFICATION CODE
+
+
+
+
+
+Please sign up for full access 
+
+
+Sign up now
+
+
+
+
+
+
+
+ Updating information 
+Please wait ...  
+
+
+
+
+
+
+
+Trial
+
+
+
+
+
+
+                    {{ productPrice }} / day
+
+
+( GST included )
+
+
+
+
+
+
+ 
+{{ applyText }}
+
+
+
+
+
+
+
+Price
+$0
+
+
+Discount
+-{{productDiscount}}
+
+
+GST
+{{productGST}}
+
+
+TOTAL     (inc. GST)
+{{productPrice}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+
+
+
+
+
+
+
+
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make payment
+Proceed
+
+
+
+
+
+
+Maybe later
+
+
+
+
+
+
+
+Please click on the ACTIVATE button to finalise your membership
+
+
+
+Activate
+
+
+
+
+
+
+
+
+The email address you entered is registered with InvestSMART.
+Login or to reset your password, select Forgotten password
+
+
+
+
+
+You have entered an incorrect email or password
+
+
+
+
+
+                                            Email is required.
+                                        
+
+                                            Email must be a valid email.
+                                        
+
+
+
+
+
+
+                                            Password is required.
+                                        
+
+
+
+
+
+
+Remember me
+
+
+Please untick this box when using a public or shared device
+
+
+
+
+Login
+
+OR
+
+
+
+Not a member?
+
+
+
+
+
+Forgotten password? Click here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eureka Report
+InvestSMART
+Intelligent Investor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

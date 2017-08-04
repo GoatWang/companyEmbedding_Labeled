@@ -1,0 +1,8029 @@
+
+
+
+
+
+
+
+Andes2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Technology
+
+
+
+
+
+
+
+
+
+
+
+
+晶心科技股份有限公司 Andes Technology Corporation
+因应全球外嵌入式系统应用的快速成长，2005年晶心科技创立于新竹科学园区，致力于开发32位元处理器为核心的系统晶片设计平台(Processor-based SoC Platforms)。晶心科技是一家国际化结合软硬体平台及系统整合能力且专注于系统晶片核心开发的公司。随着电子产业产品日趋多功能化，更多厂商开始对处理器及设计平台要求更佳的整合性、延展性、设计弹性，以及高效能、低成本与低功率。晶心科技以创新的弹性配置平台(Configurable Platforms)，搭配独特的软硬体智财，来满足未来客户对产品高品质及快速上市的需求。晶心在自有CPU平台架构下经过几年研发及市场的耕耘，目前的V3 CPU家族包括N7、N8、S8、E8、N9、N10和N13系列都已成熟到位，满足客户各种应用面的全方位需求。晶心科技亦提供适合MCU应用的开发平台AndeShape™ AE210P，可与AndesCore™ N7、N8、E8、S8、N9及N10系列产品结合，适合客户开发物联网、穿戴式装置低功耗MCU。
+                N8、E8、N9、N10、N13和S8系列都已成熟到位，满足客户各种应用面的全方位需求。
+
+摊位展示主题：
+                物联网解决方案
+实机展示说明：
+穿戴式装置
+车载资通讯
+智慧家居
+              
+
+
+
+
+
+
+
+
+
+络达科技 Airoha Technology Corp.
+络达科技是国内IC 设计领导厂商, 致力于开发无线通信的高度集成电路，为客户提供高性能、
+                低成本的各式射频/混合信号积体电路元件及完整的蓝牙/蓝牙低功耗系统单晶片解决方案。产
+                品主要包括手机功率放大器(PA)、射频开关(T/R Switch)、低杂讯功率放大器(LNA)、数位电视
+                与机顶盒卫星(DVB-S/S2)调谐器，WiFi射频收发器和蓝牙系统单晶片。目前络达的产品已广泛
+                使用在各式手机、数位电视与机顶盒、蓝牙输入控制、音讯周边设备及穿戴式产品。
+
+摊位展示主题：
+                Airoha Bluetooth 4.2 Solution for Smart Home
+实机展示说明：
+                Airoha has launched Bluetooth 4.2 single mode solution for smart home applications. AB1600
+                and AB1601 embeds Andes N-705 32bit MCU, 512KB flash, and 32KB RAM. It also supports
+                the HW accelerator for Apple HomeKit application
+                
+              
+
+
+
+
+
+
+
+
+
+佑华微电子股份有限公司 Alpha Microelectronics Corp.
+A key player in audio signal processing technology, Alpha Microelectronics Corp. is a
+                fables consumer IC design company that bridges the gaps between technology and
+                design for its customer by providing advanced and competitive solution with development
+                platform service. Alpha is dedicated in the developments of ICs, hardware supporting
+                tools and robust embedded software. Its customers and partners can easily use the
+                technology to their advantage to develop audio content-based chip products and
+                application solutions.
+
+摊位展示主题：
+                Is Your Home Smart and Fun?
+实机展示说明：
+                Alpha Microelectronics Corp. dreams big in serving smart electronic product to every
+                customer’s need and entertaining every family with our interesting design in great fun.
+                
+                Thus, Alpha provides A32A1xx series with N7-core inside, multi-interface outside, high
+                quality voice algorithms and friendly tooling-train for user to develop and create unique
+                and innovative products that full of interesting ideas.
+With Alpha’s A32A1xx series, user can apply various features on products as thinking,
+                flying and singing: A32A1xx series merges BLE to connect device for thinking, drives
+                motors to become quad-copters for flying and plays harmony sounds for singing.
+Alpha’s A32A1xx is going to make you experience more and more incredible
+                experiences are going to be made by you!
+
+
+
+
+
+
+
+
+
+
+建荣集成电路科技（珠海）有限公司 Buildwin International（Zhuhai）Limited
+建荣集成电路科技（珠海）有限公司成立于2003年，是一家芯片设计公司，由美国硅谷回
+                国的优秀企业家郑灼荣先生创办，公司自成立以来一直致力于设计和销售高性能、低成本
+                、高可靠性的SoC芯片。
+                建荣科技先后研发了100 MIPS的SX微处理器、SDH/SONET chipset, 奔腾兼容处理器、用
+                于SUN SPARC 5系统的100MIPS的MicroSPARCⅡ、8051兼容CPU、32位RISC CPU等多
+                款处理器。在音频编解码及音效算法、视频编解码及图像处理、NAND Flash存储应用、高
+                速有线及无线通信、音视频及精准数模转换等领域有深入的研究。在音频、蓝牙、移动存
+                储、影像系统、MCU等市场具有较高的影响力。
+                建荣科技秉承“倡导智慧生活”的企业愿景，以“创造，优化及整合科技，为人们带来创新，
+                实用及便利的技术方案”为使命，始终致力于为员工和客户创造价值，在激烈的市场竞争中
+                不断发展壮大。
+摊位展示主题：
+                户外多媒体音箱
+实机展示说明：
+                户外多媒体音箱所使用的主控是建荣科技推出的的一款性能强、集成度高的音频应用处理
+                器芯片，以Andes N9 CPU为核心，集成了多格式音频编解码器、数字音效处理器
+                （DSP）、高性能音频ADC和DAC。
+                针对特有的音频市场，通过主芯片内置功能强大的多路数字混音系统，采用数字调音器与
+                数字音效处理结构，极大地减少现有产品的外围混音分立元器件，提高了整机性能的同时
+                ，降低整机BOM成本，减少分立电路所带来的各种噪音及生产返修问题，通过数字调音器
+                ，可配合更多复杂的音效算法，从而开发出更加丰富的音频娱乐功能。
+                拉杆音箱电路板同时搭载建荣科技的蓝牙4.2模组，除了基本的蓝牙音乐播放功能外，可通
+                过蓝牙的BLE接口与智能手机等进行通信，从而实现手机对音箱的遥控功能，也是适应物
+                联网潮流的重要一步。
+
+
+
+
+
+
+
+
+
+
+力旺电子 eMemory Technology Inc.
+力旺电子为全球最大的嵌入式非挥发性记忆体(eNVM)技术开发及硅智财供应厂商。力旺电子与全球主要的晶圆代工厂、整合元件製造商以及专业IC设计公司有紧密的合作关係，协助这些合作伙伴导入力旺电子独特开发之硅智财(IP)。
+                NeoFuse, NeoBit, NeoEE, NeoMTP 与 NeoFlash 为力旺电子之五大核心技术，目前全球已有超过150亿个IC产品，嵌入使用力旺电子所提供的核心技术，应用领域涵括消费性电子产品、工业规格、以及车用电子之领域。
+
+                力旺电子独特开发之硅智财及技术平台，对于每一个合作伙伴而言，均扮演着重要的角色。对于专业IC设计公司，技术平台的普及提供了供应商的选择弹性以及製程的可携性；对整合元件製造商，此技术平台将可带来製程微缩以及极具产业价值之know-how；对晶圆代工厂，此技术平台更代表着开发全球庞大的潜在客户资源。
+                
+
+摊位展示主题：
+                嵌入式非挥发记忆体硅智财服务与解决方案   
+实机展示说明：
+                力旺电子致力于满足业界对于嵌入式记忆体技术之需求，并提供晶圆代工厂、整合元件製造商以及专业IC设计公司最佳解决方案。多年来，力旺电子在设计、製造以及工程技术方面，已累积深厚的经验与实力，同时发展出完整的嵌入式非挥发性记忆体硅智财製程平台，提供相关的技术、产品以及解决方案。
+                除了提供先进且完整之硅智财及技术平台，力旺电子更建立一套高度整合的服务模式，自先期的设计阶段到投片量产，力旺电子均提供DSS(DSS，Design Service Solution)之全方位服务。此DSS设计服务解决方案，係目前业界最完整之硅智财管理与服务系统，可提供客户百分百的服务与承诺。
+                
+              
+
+
+
+
+
+
+
+
+
+GoToMyThings Inc.
+At Orbweb, our guiding principal for the products we make is simple... "make it better". "Better" means different things to different people. To our partners, it means being empowered with the latest cloud technologies to make everyday things into everyday smart things. To users, better means more enjoyment of their home, vehicle, things and to enjoy those things with family and friends.
+
+                Orbweb Inc. is an "IoT platform & Cloud Enablement" company based in Palo Alto, California, with local offices in Asia, partnering with consumer electronics, PC & Notebook, IoT devices makers, and traditional non-tech companies worldwide. Today, the average user's digital assets include their mobile devices, personal computers, and the information stored in them. Tomorrow, the average user's digital assets will also include everyday smart things.
+                
+
+                GoToMyThings™ is an IoT cloud enabling service that provides cross device access and management of smart things from anywhere in the world. It bridges the gap between device manufacturers and customers by providing a common platform in which devices from partnered manufacturers can work together, ensuring that the customer the convenience of an integrated smart home. By providing embedded SDKs, app SDKs, and cloud APIs, GoToMyThings is able to reduce the time to market and total cost of investment for device manufacturers.
+                
+
+                Shop.GoToMyThings aims to provide a brilliant one stop shopping experience for all home automation devices via a clean web design, customized product descriptions, various payment options and fast shipping service. In that, we create an opportunity for users to enable a “SMART LIFE.” Furthermore, by connecting to our service via the GoToMyThings portal, we enrich your life by making it more connected.
+                
+
+摊位展示主题：
+                GoToMyThings IoT Platform  
+实机展示说明：
+                The ultimate goal for IoT in a smart home environment is to create an ecosystem which enables a “seamless” connected experience between all devices. However, this requires interoperability between devices regardless of make, model, or manufacturer. This is the biggest problem facing IoT at this stage. Products from different vendors, and even from the same vendor, are often unable to communicate with each other. As of today, interoperability is still in its early stages, and it remains ad-hoc, proprietary, and controlled by vendors.
+                The problem facing IoT interoperability is something that the IT industry has struggled with for some time. Seamless interaction among devices from different makers isn't just a benefit; it will eventually be a standard, just like SMS on cellular phones. Orbweb’s GTMT platform addresses such problems by providing complete solutions to both the end user and device makers. GTMT provides such benefits such as:
+Easy platform integration
+Multiple protocol connectivity support
+Secure & encrypted communication
+Multiple embedded chip support
+Multiple OS platform support
+Extended services support, including cloud recording and notifications.
+                For users, GTMT lowers the barrier and complexity for users to enter the world of home automation by providing strong security, data protection, certified products that are guaranteed to work together, set and forget configurations, and feature-rich applications. For device makers, GTMT offers a SaaS platform to eliminate the pain and cost to build their own cloud, device interoperability through extensive compatibility testing, ecommerce including payment system and logistics handling, business development, and big data analysis. GTMT provides the tools and platform for a win-win situation for all.
+                
+              
+
+
+
+
+
+
+
+
+
+法商颖设科技有限公司 INSIDE SECURE
+InsideSecure是一家总部位于法国专注于安全解决方安案的提供商
+                    其涵盖范围包含平台安全HWIP，DRM服务器与终端内容保护软件，通信安全HWIP与加解
+                    密加速模块与软件（IPSec VPN的，MACSec的，SSL数据包引擎），与移动支付安全
+                    （HCE）与敏感性APP软件与数据与韧体保护工具。
+                    在物联网领域，对于认证与安全Communication有完整的解決方案以確保物聯網在帶來便利
+                    性的同時亦兼具安全性的確保
+                    其相關之加解密演算法與實際施行,皆通過FIPS相關認證,提供客戶客觀安全等級依據
+                    其广泛之安全认证经验，亦成为客户安全认证宝贵咨询资源
+                    在大中華區具備本地技術支持團隊,提供客戶直接技術支持,大幅降低等待外援時間.
+                    源自欧洲技术不受美加政府技术出口管制审查
+
+摊位展示主题：
+                Security Everywhere, from the SOC to Application
+实机展示说明：
+ 1. DRM Server+ Client Solution.
+ 2. IPSec VPN solution for networking product.
+ 3. MacSec for high speed Ethernet Switch product.
+ 4. Matrix SSL for secure communication session link.
+ 5. Authorization+ Secure Communication for IOT.
+ 6. HCE for MobilePayment
+ 7. Software Application Protection Tool.
+ 8. DRM for VR content Protection.
+                
+              
+
+
+
+
+
+
+
+主办单位
+
+
+
+
+
+
+
+协办单位
+
+
+
+
+
+
+
+
+
+
+赞助单位 (依笔画排序)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TAIWAN ALPHA ELECTRONIC CO., LTD.
+
+
+
+
+
+
+
+
+ 
+
+
+¤¤¤å
+                    
+    English
+
+
+ 
+
+
+
+| Áô¨pÅv«OÅ@ |
+
+        © 2002 TAIWAN ALPHA ELECTRONIC CO., LTD.
+        
+
+
+
+
+
+
+
+
+Alpha & Omega Semiconductor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+English
+简体中文
+
+
+Products
+Applications
+Quality
+Investors
+Careers
+About AOS
+Contact Us
+
+
+
+
+
+
+Powering a Greener Future ™
+
+
+
+
+
+
+Contact Us
+
+AOS Offices
+
+AOS Manufacturing
+
+Worldwide Sales Partners
+
+Send Inquiry
+
+Supplier Login
+
+Search Products By
+
+Part Number 
+
+
+
+Search
+
+
+Parametric Search
+
+
+
+
+Select Category...
+
+Analog Switches
+IGBTs
+MOSFETs
+Power ICs
+IPMs
+TVS
+
+Select Subcategory...
+
+
+Show
+
+
+
+Keyword 
+
+
+
+Search
+
+
+Cross Reference 
+
+
+
+Select Manufacturer...
+
+Amazing
+Analog Power
+ANPEC
+APEC
+AUK
+Central Semi
+CET
+Diodes
+DNI
+Fairchild
+Fuji
+Fuji Semi
+Harris
+Infineon
+International Rectifier
+Intersil
+IR
+JWT
+KEC
+Magnachip
+Matsuki
+NEC
+Niko
+NXP
+On Semi
+On Semiconductor
+Panjit
+Renesas
+Rohm
+Samhop
+Sanyo
+Semihow
+SemiWell
+Semtech
+Sirect
+ST Micro
+STMicroelectronics
+Ti
+Toshiba
+TSC
+Vishay
+Vishay\/IR
+Wisdom
+
+Select Part Number...
+
+
+Search
+
+
+
+
+Tools
+
+Packaging
+Short Form Catalog (PDF)
+MOSFETs Selector Guide (Excel)
+IGBTs Selector Guide (Excel)
+TVS Selector Guide
+EZBuck Design Tool
+
+Featured Product
+
+
+
+	Alpha and Omega Semiconductor Debuts High Performance HV MOSFET aMOS5 Platform
+
+	more »
+
+
+
+Worldwide Sales Partners
+Distributors Sales Representatives
+
+
+North America
+
+
+Latin America
+
+
+Europe, Middle East & Africa
+
+
+Asia Pacific
+
+
+
+Distributors
+
+
+
+
+
+
+
+
+Digi-Key Electronics
+701 Brooks Ave. South
+Theif River Falls, MN 56701
+Phone: (800) 344-4539
+Website: http://www.digikey.com/
+
+
+
+
+
+China
+
+
+
+
+
+
+
+
+Arrow Electronics
+Arrow Asia Pac Ltd.
+20\/F, Tower Two, Ever Gain Plaza, 88 Container Port Road
+Kwai Chung, Hong Kong
+Phone: (852) 2484-2484
+Fax: (852) 2484-2122
+Website: http://www.arrowasia.com/
+
+
+
+
+
+			 
+		
+
+
+Arrow Electronics
+Arrow Electronics Distribution (Shanghai) Co. Ltd. - Shanghai Office
+6\/F, Building 1, Zhangjiang River Front Harbor, 3000 Long Dong Avenue
+Shanghai 201203
+Phone: +86 (21) 2893-2000
+Fax: +86 (21) 2893-2333
+Website: http://www.arrowasia.com/
+
+
+
+
+
+			 
+		
+
+
+Arrow Electronics
+Arrow Electronics China Ltd - Shenzhen Office
+No. 109-112 Building, International Commerce & Exhibition Centre
+Futian Free Trade Zone, Shenzhen 518038
+Phone: +86 (755) 8359-2920
+Fax: +86 (755) 8359-2377
+Website: http://www.arrowasia.com/
+
+
+
+
+
+
+
+
+
+China Electronic Appliance Shenzhen Co., Ltd.
+Harmony Building, Qiaoxiang Road
+Futian District
+Shezhen 518040
+Phone: +86 (755) 8253-1616
+Phone: +86 (400) 626-1616 (Hotline)
+Fax: +86 (755) 8253-1717
+Email: marketing@ceacsz.com.cn
+Website: http://www.ceacsz.com.cn/
+
+
+
+
+
+
+
+
+
+Comtech - Shenzhen Headquarters
+9th Floor, Tower C, Skyworth Building
+High-tech Industrial Park, Nanshan
+Shenzhen 518057
+Phone: +86 (755) 2698-8221
+Phone: +86 (755) 2674-3372
+Email: irvinhu@comtech.com.cn
+Website: http://www.comtech.com.cn/
+
+
+
+
+
+
+
+
+
+Frontek Technology (Shenzhen) Co., Ltd
+WPG China (SZ) Inc.
+5F, Block 2, Kia Da Er Bldg., No. 168 TongSha Rd., XiLi Town
+NanShan, Shenzhen
+Phone: +86 (755) 2671-1655 (x32768)
+Fax: +86 (755) 8655-6760
+Website: http://www.frontek.com.tw/
+
+
+
+
+
+
+
+
+
+Jetronic Technology Limited
+Unit J, 7\/F., World Tech Centre
+95 How Ming St., Kwun Tong
+Kowloon, Hong Kong
+Phone: +852 2763-6806
+Fax: +852 2790-2038
+Website: http://www.jetronic.com/
+
+
+
+
+
+			 
+		
+
+
+Jetronic Technology Limited
+Shanghai Branch
+Rm. F&G, 18th Floor, Jinxuan Hotel, No. 238, Nandan East Road
+Shanghai
+Phone: +86 (21) 6487-1925
+Fax: +86 (21) 6487-1926
+Website: http://www.jetronic.com/
+
+
+
+
+
+			 
+		
+
+
+Jetronic Technology Limited
+Shenzhen Branch, Unit 216-224, No. 4A Bldg.
+International Commerce & Exhibition Centre, Honghua Rd., Futian Free Trade Zone
+Shenzhen 518038
+Phone: +86 (755) 8359-5125
+Fax: +86 (755) 8359-5211
+Website: http://www.jetronic.com/
+
+
+
+
+
+
+
+
+
+Kargent International Technology Ltd.
+5F, Block 12, Shangsha Innovative Science & Tech Park
+Binhe Rd., Futian District
+Shenzhen
+Phone: +86 (755) 3322-8375; 3322-8372
+Fax: +86 (755) 3322-8383
+Email: wangyu@kargent.net
+Website: http://www.kargent.net/
+
+
+
+
+
+
+
+
+
+Kei Kong Electronics, LTD. - Beijing Branch Office
+Rm. 1503, Gan Jia Kou Building
+No. 21 SanLiHe, Haidian District
+Beijing 100037
+Phone: +86 (10) 8837-7105; 8837-7016
+Phone: +86 (10) 8837-7019; 8837-7031
+Fax: +86 (10) 6835-8255
+Email: kevin.wang@keikong.com
+Website: http://www.keikong.com/
+
+
+
+
+
+			 
+		
+
+
+Kei Kong Electronics, LTD. - Fuzhou Branch Office
+Rm. 1907, Building Hong Yun Di Hao International
+No.151, Wu Si Road, Gu Lou District
+Fuzhou 350003
+Phone: +86 (592) 8727-3697
+Fax: +86 (592) 8727-6802
+Email: hellen@keikong.com
+Website: http://www.keikong.com/
+
+
+
+
+
+			 
+		
+
+
+Kei Kong Electronics, LTD. - Guangzhou Branch Office
+Unit 1402C, Tianyu Garden
+No. 146 Linhe Road, Tianhe District
+Guangzhou 510610
+Phone: +86 (20) 3885-2968
+Phone: +86 (20) 3885-2127
+Fax: +86 (20) 3885-2297
+Email: yuliang@keikong.com
+Website: http://www.keikong.com/
+
+
+
+
+
+			 
+		
+
+
+Kei Kong Electronics, LTD. - Hangzhou Branch Office
+Phone: +86 (571) 8720-3881; 8720-3882
+Phone: +86 (571) 8720-3883; 8720-3884
+Fax: +86 (571) 8720-3880
+Email: julie.chen@keikong.com
+Website: http://www.keikong.com/
+
+
+
+
+
+			 
+		
+
+
+Kei Kong Electronics, LTD. - Hong Kong Headquarters
+Unit 7-11, 9\/F., New Commerce Centre
+19 On Sum Street, Siu Lek Yuen
+Shantin, N.T., Hong Kong
+Phone: +(852) 2715-0738 
+Fax: +(852) 2715-1337 
+Email: keikong@keikong.com
+Website: http://www.keikong.com/
+
+
+
+
+
+			 
+		
+
+
+Kei Kong Electronics, LTD. - Nanjing Branch Office
+Unit A-2903, 29F., Qing Hua Mansion
+No.120 Han Zhong Road
+Nanjing 210029
+Phone: +86 (25) 8470-2292; 8472-5755
+Phone: +86 (25) 8471-3781; 8471-7036
+Fax: +86 (25) 8471-8031
+Email: jason.du@keikong.com
+Website: http://www.keikong.com/
+
+
+
+
+
+			 
+		
+
+
+Kei Kong Electronics, LTD. - Ningbo Branch Office
+Phone: +86 (574) 8762-6761
+Fax: +86 (574) 8762-6761
+Email: terry.liu@keikong.com
+Website: http://www.keikong.com/
+
+
+
+
+
+			 
+		
+
+
+Kei Kong Electronics, LTD. - Qingdao Branch Office
+Rm. 316, No. 6 Fuzhou South Road
+QingDao 266100
+Phone: +86 (532) 8825-0686
+Phone: +86 (158) 6421-8376
+Fax: +86 (532) 8825-0687
+Email: jason.wang@keikong.com
+Website: http://www.keikong.com/
+
+
+
+
+
+			 
+		
+
+
+Kei Kong Electronics, LTD. - Shanghai Branch Office
+Rm. 603 - 604, Tower 1, Kerry Everbright City
+No. 218 Tian Mu Road West
+Shanghai 20070
+Phone: +86 (21) 5169-5122
+Phone: +86 (21) 6354-1141; 6354-1142
+Fax: +86 (21) 6353-6038
+Email: terry.liu@keikong.com
+Website: http://www.keikong.com/
+
+
+
+
+
+			 
+		
+
+
+Kei Kong Electronics, LTD. - Shenzhen Branch Office
+Rm. 11-18, 29\/F.,Ying Long Zhan Ye Bldg., No. 6025 Shennan Rd.
+Che Gong Miao, Futian District
+Shenzhen
+Phone: +86 (755) 8328-1338
+Phone: +86 (755) 8328-1002
+Fax: +86 (755) 8328-1001
+Email: danny@keikong.com
+Website: http://www.keikong.com/
+
+
+
+
+
+			 
+		
+
+
+Kei Kong Electronics, LTD. - Xiamen Branch Office
+Rm. 3004, Hongyun Building
+No.108, Hubing East Road
+Xiamen City 361004
+Phone: +86 (592) 380-6901
+Fax: +86 (592) 380-6909
+Email: jim@keikong.com
+Website: http://www.keikong.com/
+
+
+
+
+
+
+
+
+
+Newtek Electronics Ltd.
+3\/F, F2 Bldg., Chang Feng Industrial Garden
+68 Area, Bao an district
+Shenzhen City
+Phone: +86 (755) 2601-5986
+Phone: +86 (755) 2601-6528
+Fax: +86 (755) 2601-5985
+Website: http://www.newtekcn.com
+
+
+
+
+
+
+
+
+
+Promate Electronic Co. Ltd
+Rm 1409-1416, 14\/F, FuChun-DongFang Bldg.
+No. 7006 Shennan Road
+Shenzhen, China
+Phone: +86 (755) 2557-3919
+Website: http://www.promate.com/
+
+
+
+
+
+			 
+		
+
+
+Promate Electronic Co. Ltd
+3F, Block 10, Lane 1555, Jinshajiang West Rd.
+Jiading District
+Shanghai 201803, China
+Website: http://www.promate.com/
+
+
+
+
+
+
+
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Beijing Office
+Rm. 601, Tower B, Jihaua Bldg.
+NO.9 3rd St., ShagndiHaidian Dist.
+Beijing
+Phone: +86 (10) 8260-9830
+Fax: +86 (10) 8260-9836
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+ Serial Microelectronics (Shenzhen) Co., Ltd - Changsha Office
+Rm. 804, Block 4, City of Center
+NO.249 Wuyi Rd., Furong Dist.
+Changsha 410011
+Phone: +86 (731) 8865-8418
+Fax: +86 (731) 8868-7450
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Chengdu Office
+Rm. 1709, Zhengxi International Bld.
+NO.16 Hongxing Rd.
+Chengdu City, Sichuan
+Phone: +86 (28) 8672-5223
+Fax: +86 (28) 8672-5219
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Chongqing Office
+Rm. 17-4, Yujingtiancheng Bldg.
+NO.19 Yanghe Rd., Longta St., Yubei Dist.
+Chongqing
+Phone: +86 (23) 8691-1248
+Fax: +86 (23) 8677-1042
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Dongguan Office
+Rm. C5-5B, Century Kangchen Garden
+Changping Town
+Dongguan 523560
+Phone: +86 (769) 8160-3169
+Fax: +86 (769) 8160-3169
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Guangzhou Office
+Rm. 2609, Unit A, HuaBiao Plaza
+NO.601 Tianhe North Rd.
+Guangzhou 510635
+Phone: +86 (20) 3884-2750
+Fax: +86 (20) 3884-2094
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Hangzhou Office
+14\/G West Tower, International Garden
+NO.160 Tianmushan Rd.
+Hangzhou, Zhejiang
+Phone: +86 (571) 8803-3809
+Fax: +86 (571) 8803-4131
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Huizhou Office
+16B, Bldg. 2B, Shihu Garden
+Yanda 1st Rd., Henan Coast
+Huizhou
+Phone: +86 (752) 2506-5923
+Fax: +86 (752) 2693-5923
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Jinan Office
+Rm. 22 Layers of C1, Bldg. 1, China Railway Smartfortune Center
+NO.59 Industrial South Rd., High-Tech Zone
+Jinan
+Phone: +86 (23) 8691-1248
+Fax: +86 (23) 8677-1042
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Nanjing Office
+Rm. 2801 Huali International Bldg.
+NO.67 Zhujiang Rd., Xuanwu Dist.
+Nanjing, Jiangsu
+Phone: +86 (25) 8369-8858
+Fax: +86 (25) 8332-8139
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Qingdao Office
+Rm. 1302, Eurasia Plaza
+NO.138 Dunhua Rd., Shibei Dist.
+Qingdao 266034
+Phone: +86 (532) 8597-0929
+Fax: +86 (532) 8597-0930
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Shanghai Office
+Rm. 1503-1506, Block 4, NO.5 China Railway Real Estate Central Times Square
+Lane 299, West Jiangchang Rd., Zhabei Dist.
+Shanghai 200436
+Phone: +86 (21) 5665-6161
+Phone: +86 (21) 5186-6588
+Fax: +86 (21) 6387-7262
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Shenyang Office
+Rm. 1903, Zhongchi International Bldg.
+NO.3 South Fifth Highway, Heping Dist.
+Shenyang
+Phone: +86 (24) 3131-4979
+Fax: +86 (24) 3125-6286
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Shenzhen Office
+Rm. 513-525, Bldg. B3, Futian Plaza
+NO.3 Shihua Rd., Futian Free Trade Zone, Futian Dist.
+Shenzhen City 518038
+Phone: +86 (755) 8829-0080
+Fax: +86 (755) 2693-5923 
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Suzhou Office
+Rm. 1113, SIPCTD Mansion
+NO.181 Cuiyuan Rd.
+SIP Suzhou, Jiangsu 215125
+Phone: +86 (512) 6762-6852
+Fax: +86 (512) 6761-7953
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Tianjin Office
+Rm. 505, Bldg. B, Haitai Information Plaza
+Huayuan Industries Park, Nankai Dist.
+Tianjin
+Phone: +86 (22) 2371-2550
+Fax: +86 (22) 2371-2550
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Wuhan Office
+Rm. 2605, Unit A of Bldg. 4, Zhiyuan Wealth Center
+NO.229 Xiongchu St.
+Wuhan, Hubei
+Phone: +86 (27) 8773-9343
+Fax: +86 (27) 8773-9347
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Wuxi Office
+Rm. 403, Block 1, Xiangshan Garden
+NO.3 Xiangshan Rd., New District
+Wuxi, Jiangsu
+Phone: +86 (510) 8181-0984
+Fax: +86 (510) 8181-0856
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Xiamen Office
+Rm. B2, 31\/F, Guo Mao Bldg.
+NO.388 HuBin South Rd.
+Xiamen
+Phone: +86 (592) 5161-359
+Fax: +86 (592) 5161-379
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Xian Office
+Rm. 105, 11\/F, Wutonglangzuo
+NO.70 Keji Rd., High-Tech Zone
+Xian City 710075
+Phone: +86 (29) 8834-4206
+Fax: +86 (29) 8834-4220
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Zhengzhou Office
+Rm. 067, Floor 11, Bldg. 11, ChengKaiXiangHeLi
+NO.59 SongShan North Rd., Erqi District
+Zhengzhou 450052
+Phone: +86 (371) 8616-9576
+Fax: +86 (371) 8616-9575
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Zhongshan Office
+Rm. E1-804, Yongjing Garden
+East District
+Zhongshan
+Phone: +86 (760) 8822-9399
+Fax: +86 (755) 2693-5923
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics (Shenzhen) Co., Ltd - Zhuhai Office
+Rm. 402, Block 13, Huafa International Garden
+NO.366 Changsheng Rd., Gongbei District
+Zhuhai
+Phone: +86 (756) 3356-022
+Fax: +86 (756) 8719-022
+Website: http://www.serialsystem.com
+
+
+
+
+
+
+
+
+
+Skynoon Technologies Co., Ltd. - Beijing Office
+Rm. 3012, Tower B, Bldg. 1, Tianzuo International Center
+No. 12, Zhongguancun South Ave. B, Haidian District
+Beijing
+Phone: +86 (10) 8235-8601
+Fax: +86 (10) 8235-8605
+Email: gary.wu@skynoon.com
+Website: http://www.skynoon.com/
+
+
+
+
+
+			 
+		
+
+
+Skynoon Technologies Co., Ltd. - Chengdu Office
+Rm. 102, No. 1-2-1, ShangDing International Bldg.
+Renmin South Rd.
+Chengdu City
+Phone: +86 (28) 8602-6569
+Phone: +86 (28) 8602-6570; 8602-6571
+Fax: +86 (28) 8602-6585
+Email: annie.zeng@skynoon.com
+Website: http://www.skynoon.com/
+
+
+
+
+
+			 
+		
+
+
+Skynoon Technologies Co., Ltd. - Qigndao Office
+Rm. 202, Building 30, YueHaiHaoTing
+No. 458, HongKong East Rd.
+Qingdao
+Phone: +86 (532) 8580-7122
+Fax: +86 (532) 8580-7120
+Email: belinda.yuan@skynoon.com
+Website: http://www.skynoon.com
+
+
+
+
+
+			 
+		
+
+
+Skynoon Technologies Co., Ltd. - Shanghai Office
+Rm. 1308, Mingshen Center Bldg., No. 3131
+Kaixuan Road
+Shanghai
+Phone: +86 (21) 5407-1761
+Fax: +86 (21) 5407-1242
+Email: tony.wang@skynoon.com
+Website: http://www.skynoon.com/
+
+
+
+
+
+			 
+		
+
+
+Skynoon Technologies Co., Ltd. - Shenzhen Office
+Rm. 605, Unit B-3, Kexing Science Park
+Ke Yuan Road, Nanshan District
+Shenzhen 518057
+Phone: +86 (755) 8696-4833
+Fax: +86 (755) 8696-4933
+Email: simon.cheng@skynoon.com
+Website: http://www.skynoon.com/
+
+
+
+
+
+
+
+
+
+Wuhan P&S Information Technology Co., Ltd.
+P&S Building, 5 Wudayuan 3 Road
+Donghu High-Tech Develop District
+Wuhan City 430070
+Phone: 400-800-8051 (Hotline)
+Phone: +86 (027) 8156-6668
+Website: http://www.icbase.com
+
+
+
+
+
+Taiwan
+
+
+
+
+
+
+
+
+Frontek Technology Corporation
+7F, No. 435 Ruei Guang RD.
+Neihu, Taipei 11492
+Taiwan, R.O.C.
+Phone: +886 (2) 8797-1158
+Fax: +886 (2) 8797-7369
+Website: http://www.frontek.com.tw/
+
+
+
+
+
+
+
+
+
+Promate Electronic Co., Ltd
+4F, 32 SEC. 1 Huan Shan RD
+Neihu, Taipei 114
+Taiwan, R.O.C.
+Phone: +886 (2) 2659-0303
+Fax: +886 (2) 2658-0954
+Website: http://www.promate.com.tw/
+
+
+
+
+
+
+
+
+
+Techmosa
+6F., NO. 118, Lide St., Zhonghe Dist.,
+New Taipei City 235
+Taiwan, R.O.C.
+Phone: +886 (2) 82267698
+Fax: +886 (2) 22258960
+Email: service@techmosa.com.tw
+Website: http://www.techmosa.com/
+
+
+
+
+
+Hong Kong
+
+
+
+
+
+
+
+
+Kargent International Technology Ltd.
+Flat 16, 10\/F Kenning Industrial Bldg.
+19 Want Hoi Rd., Kowloon Bay
+Kowloon
+Phone: +852 3118-7296
+Fax: +852 3118-0577
+Email: vannessa@kargent.net
+Website: http://www.kargent.net/
+
+
+
+
+
+
+
+
+
+Promate Electronic Co., Ltd
+Unit 2, 3\/F Blk B, Kong Nam Ind. Bldg.
+603-609 Castle Peak Road
+Tsuen Want, N.T.
+Phone: +852 2331-8680
+Fax: +852 2750-9981
+Website: http://www.promate.com.tw/
+
+
+
+
+
+
+
+
+
+Serial Microelectronics (HK) Limited
+Rm. 601-02, 6\/F, 909 Cheung Sha Wan Rd.
+Kowloon
+Phone: +852 2790-8220
+Fax: +852 3101-9183
+Website: http://www.serialsystem.com
+
+
+
+
+
+Japan
+
+
+
+
+
+
+
+
+Furutaka Electronics Co., Ltd.
+2-3-11 Sotokanda
+Chiyoda-ku
+Tokyo 101-0021
+Phone: +81 (3) 3251-7773
+Website: http://www.furutaka.co.jp/
+
+
+
+
+
+
+
+
+
+Hakuto Co., Ltd.
+1-13, Shinjuku 1-chome, 
+Shinjuku-ku
+Tokyo 160-8910
+Phone: +81-3-3355-7637
+Fax: +81-3-3355-7691
+Website: http://www.hakuto.co.jp/
+
+
+
+
+
+
+
+
+
+Sanshin Electronics Co., Ltd.
+4-4-12, Shiba, Minato-ku
+Tokyo, 108-8404
+Phone: +81-3-5484-7235
+Fax: +81-3-3453-6366
+Website: http://www.sanshin.co.jp
+
+
+
+
+
+
+
+
+
+Satori Electric Co., Ltd.
+1-14-10, Shiba, Minato-ku
+Tokyo 105-0014
+Phone: +81-3-3452-7557
+Fax: +81-3-3452-7406
+Website: http://www.satori.co.jp
+
+
+
+
+
+South Korea
+
+
+
+
+
+
+
+
+DAE JIN Semiconductor Co., Ltd
+#1209, SJ Technibile, 60-19, Gasan-Dong
+Geumcheon-Gu, Seoul, Korea
+Phone: +82 (2) 3397-3610
+Fax: +82 (2) 3397-3600
+Website: http://www.semidj.com/
+
+
+
+
+
+
+
+
+
+FYD Co., Ltd.
+5F., FYD Bldg., 489-2 Maetan 3-dong
+Suwon Si Yeongtong-gu, Gyeonggi-Do
+Seoul 443-803
+Phone: +82 (31) 215-9432
+Fax: +82 (31) 215-9438
+
+
+
+
+
+
+
+
+
+NSK
+1308, Dongyang Pyungchon Tres-belle Park
+1598-1 Bulim-Dong, Dongan-Gu, Anyang-Shi
+Gyeonggi-Do, 431-060
+Phone: +82 (31) 448-7100
+Fax: +82 (31) 448-7600
+Website: http://www.nskelec.co.kr/
+
+
+
+
+
+Singapore
+
+
+
+
+
+
+
+
+GS Technology Pte. Ltd.
+Blk 5012 Ang Mo Kio, Ave 5
+#05-05 Techplace II
+569876
+Phone: +65 6483-2920
+Fax: +65 6483-2930
+Email: info@gstec.com.sg
+Website: http://www.gstec.com.sg/
+
+
+
+
+
+
+
+
+
+Serial Microelectronics Pte Ltd
+8Ubi View #04-01 Serial System Building 
+408554
+Phone: +65 6510-2408
+Fax: +65 6510-2437 \/ 47
+Website: http://www.serialsystem.com
+
+
+
+
+
+India
+
+
+
+
+
+
+
+
+GS Technology Pte. Ltd.
+#1790, 5th Main, 9th Cross, R.P.C. Layout
+Vijayanagar 11 Stage
+Bangalore 560 040
+Website: http://www.gstec.com.sg/
+
+
+
+
+
+
+
+
+
+Rabyte Electronics
+F-32, Sector-11, Noida-201301
+Distt. Gautam Budh
+Nagar (U.P.)
+Phone: +00 91 120-4746074
+Fax: +00 91 120-4746050
+Email: aos@rabyte.com
+Website: http://rabyte.com/
+
+
+
+
+
+Indonesia
+
+
+
+
+
+
+
+
+GS Technology Pte. Ldt.
+JL Kalimaya Block L8, No 2 Cluster Limonia
+Metland Tambun
+Bekasi
+Website: http://www.gstec.com.sg/
+
+
+
+
+
+
+
+
+
+Serial Microelectronics Pte. Ltd. - Jakarta (Rep.) Office
+Kompleks The City Resort Residences Town House
+Block E, NO.20B Jl. Kamal Raya Outer Ring Rd.
+Cengkareng Jakarta Barat, 11730
+Phone: +62 (21) 5695-9841
+Fax: +62 (21) 5695-9841
+Website: http://www.serialsystem.com
+
+
+
+
+
+Malaysia
+
+
+
+
+
+
+
+
+GT Technology Pte. Ltd.
+2B-8-6, Desa Airmas Condo, Jalan Helang
+11700 Gelugor
+Penang
+Website: http://www.gstec.com.sg/
+
+
+
+
+
+
+
+
+
+ Serial Microelectronics Pte. Ltd. - Kulau Lumpur (Rep.) Office
+Lot 13, Suite 15-4-3, Block E2, Jln PJU 1\/42A DataranPrima
+TamanMayang Mas 47301 Petaling Jaya
+Selangor DarulEhsan
+Phone: +604 657-0204
+Phone: +604 657-0712
+Fax: +604 656-2762
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics Pte. Ltd. - Penang (Rep.) Office
+NO.14 Jalan Sultan Azlan Shah
+11700 Gelugor
+Pulau Pinang
+Phone: +604 657-0204
+Phone: +604 657-0712
+Fax: +604 656-2762
+Website: http://www.serialsystem.com
+
+
+
+
+
+Philippines
+
+
+
+
+
+
+
+
+GS Technology Pte. Ltd.
+134 11th Avenue, Between Campupot Street
+2And Sampaguita Street, Brgy. 97, Grace Park
+Calooncan City 1400
+Website: http://www.gstec.com.sg/
+
+
+
+
+
+
+
+
+
+Serial Microelectronics Pte. Ltd.
+Unit 204, Palm Square Bldg., ZapoteAlabang Rd.
+Pamplona 3
+Las Pinas City 1740
+Phone: +63 2822-2140
+Website: http://www.serialsystem.com
+
+
+
+
+
+Thailand
+
+
+
+
+
+
+
+
+GS Technology Pte. Ltd.
+51 Moo 4 Tambal Wangvar Amphure
+Sriprajun Suphanburi Province 72140
+Website: http://www.gstec.com.sg/
+
+
+
+
+
+
+
+
+
+Serial Microelectronics Pte. Ltd. - Bangkok (Rep.) Office
+184\/188 Forum Tower Bldg., 29th Flr, Ratchadapisek Rd.
+HuayKwang
+Bangkok 10320
+Phone: +66 (2) 645-3196 
+Phone: +66 (2) 645-3197 \/ 98
+Fax: +66 (2) 645-3199
+Website: http://www.serialsystem.com
+
+
+
+
+
+Vietnam
+
+
+
+
+
+
+
+
+GS Technology Pte. Ltd.
+30 Road No. 7A, Cu Xa Binh Thoi
+Ward 8, District 11, HCMC
+Website: http://www.gstec.com.sg/
+
+
+
+
+
+
+
+
+
+ Serial Microelectronics Pte. Ltd. - Hanoi (Rep.) Office
+Rm. 902, Tan Minh Office, NO.37, Alley 27, Dai Co Viet St.
+Hai Ba Trung District
+Hanoi City
+Phone: +84 (4) 6673-1373
+Website: http://www.serialsystem.com
+
+
+
+
+
+			 
+		
+
+
+Serial Microelectronics Pte. Ltd. - Ho Chi Minh (Rep.) Office
+1st Floor, Rm. 101 Tam Khue Office
+142 Vo Van Tan St., Ward 6, District 3
+Ho Chi Minh City
+Phone: +84 (8) 6678-2750
+Website: http://www.serialsystem.com
+
+
+
+
+
+
+
+Back to Top
+
+
+News Alpha and Omega Semiconductor Debuts High Performance HV MOSFET aMOS5 Platformmore »
+News Alpha and Omega Semiconductor Launches 5A EZBuck™ DC-DC Regulator with Ultra Pulse Energy Mode (U-PEM)more »
+News Alpha and Omega Semiconductor Introduces First USB Type-C Loadmore »
+
+
+
+
+
+
+
+
+
+
+
+Site Map
+Terms of Use
+Terms and Conditions of Sale
+Privacy
+Contact Us
+Copyright © 2017 Alpha and Omega Semiconductor. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ALPHA MICROELECTRONICS CORP.
+
+
+
+
+
+
+頁首
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home．
+English．
+繁體．
+簡體．
+SiteMap |
+ Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+PRODUCT
+
+
+
+
+
+
+
+
+ 
+
+
+   
+                  	Software Tool 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Software Tool 
+
+
+
+							Product
+
+Programming
+
+
+							I/O Control
+
+Graphics and Animation
+
+
+							Instruments and Sound
+
+
+							Utility and Driver
+
+
+
+						AM9AH/AG
+                        AM9BF/BE
+						AM9CA
+
+EzSpeech
+
+						PowerIO
+
+						 
+
+						EzSound
+						Soun'Direct
+
+						FlashWriter 
+
+
+AM9AK/9BK
+
+EzSpeech
+
+						PowerIO
+ 
+EzSound
+						Soun'Direct
+FlashWriter 
+
+
+AM4E
+
+EzCode4E
+							IDE 
+
+						PowerIO
+						PowerMelody
+						ActionCompiler
+
+						 
+
+						EzSound
+						Soun'Direct
+
+						FlashWriter
+						Uni_Writer 
+
+
+AM4F
+
+							EzCode4F
+							IDE 
+PowerIO
+						PowerMelody
+						ActionCompiler
+ 
+EzSound
+						MusicShop
+						Soun'Direct
+						MIDI'Direct
+
+                          FlashWriter 
+
+
+AM4G
+
+
+EzCode4G
+							IDE 
+
+						PowerIO
+						ActionCompiler
+
+						 
+
+						EzSound
+						Soun'Direct
+
+                          FlashWriter 
+
+
+AM4H
+
+							EzCode4H
+							IDE 
+PowerMelody
+						ActionCompiler
+ 
+MusicShop
+						MIDI'Direct
+FlashWriter
+						Uni_Writer
+
+
+AM4K
+
+
+EzCode4K
+							IDE 
+
+						PowerIO
+						PowerMelody
+						ActionCompiler
+
+						 
+
+						EzSound
+						Soun'Direct
+
+                          FlashWriter
+						Uni_Writer 
+
+
+AM4J
+
+							EzCode4J
+							IDE 
+PowerIO
+						PowerMelody
+						ActionCompiler
+ 
+EzSound
+						MusicShop
+						Soun'Direct
+						MIDI'Direct
+
+                          FlashWriter 
+
+
+AM5A
+
+
+EzCode5A
+							IDE 
+
+						PowerIO
+						ActionCompiler
+
+						 
+
+						EzSound
+						Soun'Direct
+
+                          FlashWriter
+						Uni_Writer 
+
+
+AM5B
+
+							EzCode5B
+							IDE 
+PowerMelody
+						ActionCompiler
+ 
+EzSound
+						Soun'Direct
+FlashWriter
+						Uni_Writer
+
+
+AM4A
+
+
+IDE 
+
+						PowerIO
+						PowerMelody
+
+						EzLCD
+
+						EzSound
+						Soun'Direct
+
+                          FlashWriter 
+
+
+AM8EB
+
+							IDE8E 
+ActionEditor
+ 
+ 
+Uni_Writer
+
+
+AM8EC
+
+
+							IDE8E
+
+						ActionEditor
+
+						 
+ 
+
+						Uni_Writer
+
+
+AM8L
+
+							IDE8L 
+PowerIO
+						PowerMelody
+						ActionCompiler
+EzLCD
+EzSound
+						MusicShop
+						Soun'Direct
+						MIDI'Direct
+
+                          FlashWriter
+						Uni_Writer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Speech IC
+
+
+
+
+
+					Multi-Channel Voice IC
+
+
+
+
+General 
+					Purpose MCU
+
+
+
+
+LCD MCU
+
+
+
+
+32-bit MCU
+
+
+
+
+
+					Recording IC
+
+
+
+
+Development 
+					Tool
+
+
+
+
+
+
+             
+
+
+
+
+
+
+
+
+    Alpha Microelectronics Corp - Company Profile and Financial Analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Login -
+  My basket -
+  
+
+
+
+
+EUR GBP 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alpha Microelectronics Corp - Company Profile and Financial Analysis
+
+June 2015
+26 pages
+GlobalData
+        
+
+Report ID: 3078043
+
+
+
+Summary
+Table of contents
+
+
+SummaryICD Research's "Alpha Microelectronics Corp - Company Profile and Financial Analysis" contains in depth information and data about the company and its operations. The profile contains a company overview, key facts, major products and services, financial ratios, financial analysis, company locations and subsidiaries.Key FindingsThis report is a crucial resource for industry executives and anyone looking to access key information about "Alpha Microelectronics Corp"The report utilizes a wide range of primary and secondary sources, which are analyzed and presented in a consistent and easily accessible format. ICD Research strictly follows a standardized research methodology to ensure high levels of data quality and these characteristics guarantee a unique report.Synopsis- Identifies crucial company information about "Alpha Microelectronics Corp" along with major products and services for business intelligence requirements.- Provides key ratios on company's financial performance.- Identifies key employees to assist with key business decisions.- Provides annual and interim financial ratios.Reasons To Buy- Enhance your understanding of "Alpha Microelectronics Corp"- Increase business/sales activities by understanding customers' businesses better.- Recognize potential partnerships and suppliers.- Qualify prospective partners, affiliates or suppliers.- Acquire up-to-date company information and an understanding of the company's financial health.Key HighlightsAlpha Microelectronics Corp. (Alpha Microelectronics) is a manufacturer and supplier of semiconductor components. The company designs, develops and markets integrated circuits. It offers products such as speech IC, multi-channel voice IC, LCD MCU, general purpose MCU, recording IC, and hardware and software tools. Alpha Microelectronics' products are used in sound equipments, home appliances, personal electronics, gifts, toys and interactive consumer products, among others. The company markets its products through a network of distributors located across the world. It operates through its facilities located in Hsinchu, Taiwan; Shenzhen, China; and Hong Kong. Alpha Microelectronics is headquartered in Hsinchu, Taiwan.
+	
+
+		Table of Contents1 Alpha Microelectronics Corp - Major Products and Services2 Alpha Microelectronics Corp - Key Events3 Alpha Microelectronics Corp - Locations and Subsidiaries3.1 Alpha Microelectronics Corp - Head Office4 Alpha Microelectronics Corp - Business Analysis4.1 Alpha Microelectronics Corp - Company Overview5 Alpha Microelectronics Corp - Company Financial Analysis5.1 Alpha Microelectronics Corp - Five Year Snapshot: Overview of Financial and Operational Performance Indicators6 Alpha Microelectronics Corp - Interim ratios6.1.1 Alpha Microelectronics Corp - Financial ratios: Capital Market Ratios6.2 Alpha Microelectronics Corp - Financial Performance and Ratio Charts6.2.1 Alpha Microelectronics Corp - Revenue and Operating margin6.2.2 Alpha Microelectronics Corp - Asset and Liabilities6.2.3 Alpha Microelectronics Corp - Operational Efficiency6.2.4 Alpha Microelectronics Corp - Valuation6.3 Alpha Microelectronics Corp - Competitive Benchmarking6.3.1 Alpha Microelectronics Corp - Market Capitalization6.3.2 Alpha Microelectronics Corp - Efficiency6.3.3 Alpha Microelectronics Corp - Turnover: Inventory and Asset7 Appendix7.1 Methodology7.2 Alpha Microelectronics Corp - Ratio Definitions7.3 DisclaimerList of TablesTable 1: Alpha Microelectronics Corp - Major Products and ServicesTable 2: Alpha Microelectronics Corp - Key EventsTable 3: Alpha Microelectronics Corp - Annual ratiosTable 4: Alpha Microelectronics Corp - Interim ratiosTable 5: Alpha Microelectronics Corp - Capital Market RatiosList of FiguresFigure 1: Alpha Microelectronics Corp - Revenue and Operating ProfitFigure 2: Alpha Microelectronics Corp - Financial PositionFigure 3: Alpha Microelectronics Corp - Operational EfficiencyFigure 4: Alpha Microelectronics Corp - ValuationFigure 5: Alpha Microelectronics Corp - Market CapitalizationFigure 6: Alpha Microelectronics Corp - EfficiencyFigure 7: Alpha Microelectronics Corp - Turnover: Inventory and Asset
+	
+
+
+
+
+
+
+Immediate delivery
+
+
+
+
+
+
+              $ 99 - 1 User License
+              
+
+              $ 198 - Site License
+              
+
+              $ 297 - Corporate License
+              
+
+
+
+
+Get Report
+Pay by invoice
+Get a quote
+
+
+
+ Veronica helps you find the right report:
+
++1 718 213 4904
+Contact by email
+
+
+
+
+FAQ
+
+Delivery time
+User license
+Payment options
+
+
+
+Testimonials
+
+
+
+
+
+
+
+The market research advisor answered my questions quickly and professionally. ReportBuyer's team did their best to ensure that I felt comfortable before making the investment to purchase the report.
+
+
+Cristian Nunez
+          Director of Corporate Development Chugach Alaska Corporation
+        
+
+
+
+My overall experience with ReportBuyer today has been very positive, and I must thank you for your patience (...). Also, the sample you sent me and the explanations provided were very helpful.
+
+
+D. Lescuyer
+          Executive Vice President Oral Business at Skyepharma
+        
+
+
+
+The research specialist was very helpful, and proposed the best content for my needs.
+ReportBuyer also offered a great follow-up, thanks for everything !
+
+
+P. Thompson
+          EMEA Managing Director
+        
+
+
+
+We were satisfied with the support that ReportBuyer's team provided. Thanks to their recommendations, the report we purchased provided exactly what we want.
+
+
+Y. Wang
+          Business Analyst
+        
+
+
+
+We didn't have time to do the research internally, and thanks to ReportBuyer's team we were able to find the appropriate data.
+
+
+S. Chen
+          Research Coordinator
+        
+
+
+
+I was impressed by the customer service: it was fast, responsive, and 100% professional !
+
+
+D. Krivan
+          Market Research Analyst
+        
+
+
+
+The research specialist provided prompt and helpful service. He also followed up to ensure I had all the information to deliver my business development plan.
+
+
+C. Adams
+          Senior Business Development Manager
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Our reports have been used by over 10K customers, including:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related reports and data
+
+
+
+
+
+
+            Topics
+                            related to
+                                        
+        Microelectronics
+    
+
+
+
+
+        Electronic Component
+    
+
+
+
+
+
+
+            Parent Industry        
+
+
+Electronics Manufacturing
+
+
+
+
+
+
+
+            Related Industries
+        
+
+
+Electrical Equipment
+
+
+Furniture Manufacturing
+
+
+Industrial Equipment
+
+
+Metal Manufacturing
+
+
+Packaging
+
+
+Printing
+
+
+Publishing
+
+
+Shipbuilding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    TongFu Microelectronics Co Ltd
+                
+
+ 90
+ 99
+ 77
+
+                                    68 pages •
+                                By Wright Investors' Service 
+                •     Jul 2017
+
+            
+
+
+                                                    A textual analysis of the financial results for TongFu Microelectronics Co Ltd  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company, including...
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Tianma Microelectronics Co., Ltd
+                
+
+ 90
+ 99
+ 77
+
+                                    69 pages •
+                                By Wright Investors' Service 
+                •     Jul 2017
+
+            
+
+
+                                                    A textual analysis of the financial results for Tianma Microelectronics Co., Ltd  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company, including...
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Alpha Microelectronics Corp.
+                
+
+ 90
+ 99
+ 77
+
+                                    69 pages •
+                                By Wright Investors' Service 
+                •     Jul 2017
+
+            
+
+
+                                                    A textual analysis of the financial results for Alpha Microelectronics Corp.  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company, including...
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Hana Microelectronics Public Company Limited
+                
+
+ 90
+ 99
+ 77
+
+                                    69 pages •
+                                By Wright Investors' Service 
+                •     Jul 2017
+
+            
+
+
+                                                    A textual analysis of the financial results for Hana Microelectronics Public Company Limited  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company,...
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Novatek Microelectronics Corporation
+                
+
+ 90
+ 99
+ 77
+
+                                    69 pages •
+                                By Wright Investors' Service 
+                •     Jul 2017
+
+            
+
+
+                                                    A textual analysis of the financial results for Novatek Microelectronics Corporation  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company,...
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Cabot Microelectronics Corporation
+                
+
+ 90
+ 99
+ 77
+
+                                    68 pages •
+                                By Wright Investors' Service 
+                •     Jul 2017
+
+            
+
+
+                                                    A textual analysis of the financial results for Cabot Microelectronics Corporation  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company, including...
+                                            
+
+
+
+
+
+More…
+
+
+
+
+
+        Industry=ElectronicsManufacturing ParentIndustry=Manufacturing Date=201506 Topic=FinancialAnalysis Publisher=GlobalData Price=1000
+    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Alpha & Omega Semiconductor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+English
+简体中文
+
+
+Products
+Applications
+Quality
+Investors
+Careers
+About AOS
+Contact Us
+
+
+
+
+
+
+Powering a Greener Future ™
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Videos
+
+
+
+
+
+PSDtv – AOS on the new XSPairFETs
+
+
+
+
+
+
+
+PSDtv – MOSFETs for DC Motor Drive Apps
+
+
+
+
+
+
+
+					Your browser doesn't support playback. Download
+
+
+
+
+
+
+					Your browser doesn't support playback. Download
+
+
+
+
+Search Products By
+
+
+AOS Part Number
+Parametric
+Keyword
+Cross Reference
+
+
+
+
+
+
+ 
+
+
+
+
+Select Category...
+
+Analog Switches
+IGBTs
+MOSFETs
+Power ICs
+IPMs
+TVS
+
+Select Subcategory...
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select Manufacturer...
+
+Amazing
+Analog Power
+ANPEC
+APEC
+AUK
+Central Semi
+CET
+Diodes
+DNI
+Fairchild
+Fuji
+Fuji Semi
+Harris
+Infineon
+International Rectifier
+Intersil
+IR
+JWT
+KEC
+Magnachip
+Matsuki
+NEC
+Niko
+NXP
+On Semi
+On Semiconductor
+Panjit
+Renesas
+Rohm
+Samhop
+Sanyo
+Semihow
+SemiWell
+Semtech
+Sirect
+ST Micro
+STMicroelectronics
+Ti
+Toshiba
+TSC
+Vishay
+Vishay\/IR
+Wisdom
+
+Select Part Number...
+
+
+
+
+
+
+
+
+
+
+
+
+Application Solutions
+Application Notes
+
+
+
+
+
+
+
+Notebook PC
+Desktop PC
+LCD TV
+Cell Phone
+eBike
+Power Supply
+
+View All
+
+
+
+MOSFETs
+Power IC
+TVS
+Packaging
+
+View All
+
+
+
+
+
+
+
+ 
+Featured Product
+
+
+Alpha and Omega Semiconductor Debuts High Performance HV MOSFET aMOS5 Platform more
+
+
+ 
+
+
+News Alpha and Omega Semiconductor Debuts High Performance HV MOSFET aMOS5 Platformmore »
+News Alpha and Omega Semiconductor Launches 5A EZBuck™ DC-DC Regulator with Ultra Pulse Energy Mode (U-PEM)more »
+News Alpha and Omega Semiconductor Introduces First USB Type-C Loadmore »
+
+
+
+
+
+
+
+
+
+
+
+Site Map
+Terms of Use
+Terms and Conditions of Sale
+Privacy
+Contact Us
+Copyright © 2017 Alpha and Omega Semiconductor. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ALPHA MICROELECTRONICS CORP.
+
+
+
+
+
+頁首
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home．
+English．
+繁體．
+簡體．
+SiteMap |
+ Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Alpha - Download Data List
+
+
+
+
+
+
+
+
+
+
+PRODUCT 
+
+
+
+
+  AM32A Series
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AM32A100_DS_v1.0.2.00.pdf
+
+AM32A100 DataSheet
+Rev.1.0.2.00
+2017/5/16
+37
+660KB
+
+
+
+
+ 
+ 
+
+
+  AM4A Series
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AM4A_v2-3.pdf
+
+AM4AA,AM4AB series data sheet
+Rev.2.3
+2005/5/24
+12
+148KB
+
+
+
+AM4AC024A_v1-0.pdf
+
+AM4AC024A data sheet
+Rev.1.0
+2006/5/25
+12
+550KB
+
+
+
+AM4AC024A_UM_v1-0.pdf
+
+AM4AC024A user manual
+Rev.1.0
+2006/5/25
+57
+1.53MB
+
+
+
+AM4AC024A-005_v1-00.pdf
+
+AM4AC024A-005 standard code 
+Rev.1.00
+2006/6/2
+9
+585KB
+
+
+
+AM4AC024A-024_DS_v1-00.pdf
+
+AM4AC024A-024 IC Datatsheet
+Rev.1.00
+2009/2/12
+9
+366KB
+
+
+
+AM4A_UM_Eng_v1-01.pdf
+
+AM4A User Manual English
+Rev.1.01
+2015/2/11
+62
+539KB
+
+
+
+
+ 
+ 
+
+
+  AM4E
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AM4E_UM_v3-1.pdf
+
+AM4E user manual
+Rev.3.10
+2005/1/12
+43
+396KB
+
+
+
+AM4EB_v1-5.pdf
+
+AM4EB series date sheet
+Rev.1.5
+2004/7/1
+6
+163KB
+
+
+
+AM4EC_v1-6.pdf
+
+AM4EC series date sheet
+Rev.1.6
+2004/7/1
+7
+254KB
+
+
+
+AM4ED_v1-6.pdf
+
+AM4ED series date sheet
+Rev.1.6
+2004/7/1
+6
+167KB
+
+
+
+AM4EE_v1-7.pdf
+
+AM4EE series date sheet
+Rev.1.7
+2004/7/1
+9
+275KB
+
+
+
+AM4EG_v1-6.pdf
+
+AM4EG series date sheet
+Rev.1.6
+2004/7/1
+8
+180KB
+
+
+
+AM4EA_OTP_v1-21.pdf
+
+AM4EA_OTP data sheet
+Rev.1.21
+2012/9/18
+18
+326KB
+
+
+
+
+ 
+ 
+
+
+  AM4F Series
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AM4F_UM_v1-50.pdf
+
+AM4F user manual
+Rev.1.50
+2010/8/16
+52
+486KB
+
+
+
+AM4FB_v1-50.pdf
+
+AM4FB series data sheet
+Rev.1.50
+2009/12/09
+12
+234KB
+
+
+
+AM4FC_v1-40.pdf
+
+AM4FC series data sheet
+Rev.1.40
+2009/12/09
+13
+245KB
+
+
+
+AM4FD_v1-50.pdf
+
+AM4FD series data sheet
+Rev.1.50
+2009/12/09
+3
+247KB
+
+
+
+AM4FE_v1-30.pdf
+
+AM4FE series data sheet
+Rev.1.30
+2009/12/09
+16
+269KB
+
+
+
+AM4FF_v1-30.pdf
+
+AM4FF series data sheet
+Rev.1.30
+2009/12/09
+12
+251KB
+
+
+
+AM4FA_SDB_UM_v1-10.pdf
+
+AM4FA_SDB User Manual
+Rev.1.10
+2012/5/18
+13
+570KB
+
+
+
+AM4FG_DS_v1-20.pdf
+
+AM4FG Serices data Sheet
+Rev.1.20
+2015/8/26
+19
+365KB
+
+
+
+
+ 
+ 
+
+
+  AM4G
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AM4G_UM_Eng_v1-21.pdf
+
+AM4G Usermanual English
+Rev.1.21
+2011/3/3
+52
+482KB
+
+
+
+AM4GB_DS_v1-11.pdf
+
+AM4GB  Data Sheet
+Rev.1.11
+2011/3/3
+10
+132KB
+
+
+
+AM4GC_DS_Eng_v1-11.pdf
+
+AM4GC Data Sheet
+Rev.1.11
+2011/3/3
+10
+142KB
+
+
+
+AM4GD_DS_v1-02.pdf
+
+AM4GD Series Data Sheet
+Rev.1.02
+2013/4/18
+15
+136KB
+
+
+
+AM4GD383_DS_v1-01.pdf
+
+AM4GD383/319 Data sheet
+Rev.1.01
+2011/3/3
+15
+187KB
+
+
+
+AM4GD511_DS_v1-01.pdf
+
+AM4GD511/447 Data Sheet
+Rev.1.01
+2011/3/3
+15
+190KB
+
+
+
+AM4GA_SDB_UM_v1-10.pdf
+
+AM4GA_SDB User Manual
+Rev.1.10
+2012/5/18
+11
+428KB
+
+
+
+
+ 
+ 
+
+
+  AM4H
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AM4H_UM_Eng_v1-02.pdf
+
+AM4H User Manual
+Rev.1.02
+2008/3/20
+57
+491KB
+
+
+
+AM4H_Standard_Code_v1-01.zip
+
+AM4H_Standard_Code
+Rev.1.01
+2007/7/24
+-
+128KB
+
+
+
+AM4HA_OTP_DS_v1-01.pdf
+
+AM4HA_OTP Data Sheet
+Rev.1.01
+2008/4/8
+17
+280KB
+
+
+
+AM4HB_DS_v1-00.pdf
+
+AM4HB Data Sheet
+Rev.1.0
+2007/3/20
+9
+169KB
+
+
+
+AM4HC_DS_v1-00.pdf
+
+AM4HC Data Sheet
+Rev.1.00
+2008/3/20
+9
+173KB
+
+
+
+
+ 
+ 
+
+
+  AM4J
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AM4J_UM_v1-00.pdf
+
+AM4J User Manual
+Rev.1.00
+2015/8/24
+104
+897KB
+
+
+
+
+ 
+ 
+
+
+  AM4JA
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AM4JA_DS_v1-02.pdf
+
+AM4JA Data Sheet
+Rev.1.02
+2017/4/13
+26
+467KB
+
+
+
+AM4JA680x_DS_v1-00.pdf
+
+AM4JA680x DataSheet
+Rev.1.00
+2017/6/16
+21
+324KB
+
+
+
+
+ 
+ 
+
+
+  AM4JC
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AM4JC_DS_v1-03.pdf
+
+AM4JC Data Sheet
+Rev.1.03
+2016/8/24
+20
+346KB
+
+
+
+
+ 
+ 
+
+
+  AM4JD
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AM4JD_DS_v1-01.pdf
+
+AM4JD Data Sheet
+Rev.1.01
+2016/9/6
+20
+290KB
+
+
+
+
+ 
+ 
+
+
+  AM4JE
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AM4JE_DS_v1-00.pdf
+
+AM4JE DataSheet
+Rev.1.00
+2017/6/16
+22
+341KB
+
+
+
+
+ 
+ 
+
+
+  AM4K Series
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AM4KG_DS_v1-04.pdf
+
+AM4KG Data Sheet
+Rev.1.04
+2011/12/29
+17
+707KB
+
+
+
+AM4K_UM_Eng_v1-02.pdf
+
+AM4K series User Manual
+Rev.1.02
+2015/4/27
+66
+371KB
+
+
+
+AM4KB_DS_v1-01.pdf
+
+AM4KB Series Data Sheet
+Rev.1-01
+2011/11/11
+15
+186KB
+
+
+
+AM4KD_DS_v1-03.pdf
+
+AM4KD Data Sheet
+Rev.1.03
+2016/6/23
+18
+318KB
+
+
+
+AM4KA_OTP_Series-I_DS_v2-30.pdf
+
+AM4KA_OTP_Series I(20/41/84/170) Data Sheet
+Rev.2.30
+2017/4/13
+28
+749KB
+
+
+
+AM4KI_DS_v2-04.pdf
+
+AM4KI Data Sheet
+Rev.2.04
+2016/6/23
+19
+346KB
+
+
+
+AM4KA_OTP_Series-II_DS_v1-04.pdf
+
+AM4KA_OTP_Series II (680x_1A2x_1F7x) Data Sheet
+Rev.1.04
+2016/12/8
+23
+494KB
+
+
+
+AM4KE_DS_v1-01.pdf
+
+AM4KE Data Sheet
+Rev.1.01
+2016/6/23
+17
+240KB
+
+
+
+AM4K0_OTP_Series_DS_v1-01.pdf
+
+AM4K0_OTP series (68x_1A2x_1F7x) Data Sheet
+Rev.1.01
+2016/6/23
+18
+303KB
+
+
+
+AM4KA340_OTP_DS_v1-01.pdf
+
+AM4KA340 OPT Data Sheet
+Rev.1.01
+2016/11/4
+23
+1.01MB
+
+
+
+AM4KF_DS_v1-01.pdf
+
+AM4KF Data Sheet
+Rev.1.01
+2016/5/30
+17
+270KB
+
+
+
+
+ 
+ 
+
+
+  AM5A Series
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AM5AA_OTP_DS_Eng_v3-04.pdf
+
+AM5AA_OTP Data Sheet
+Rev.3.04
+2014/11/24
+26
+788KB
+
+
+
+AM5AA_OTP_DS_Chi-T_v1-03.pdf
+
+AM5AA_OTP Data Sheet
+Rev.1.03
+2014/11/24
+26
+872KB
+
+
+
+AM5AA_OTP_DS_Chi-S_v1-03.pdf
+
+AM5AA_OTP Data Sheet
+Rev.1.03
+2014/11/24
+26
+863KB
+
+
+
+AM5A_UM_Eng_v2-02.pdf
+
+AM5A User Manual
+Rev.2.02
+2015/4/8
+41
+304KB
+
+
+
+AM5A_UM_Chi-T_v1-01.pdf
+
+AM5A UserMAnual Chinese-T
+Rev.1.01
+2015/4/8
+40
+471KB
+
+
+
+AM5A_UM_Chi-S_v1-01.pdf
+
+AM5A UserMAnual Chinese-S
+Rev.1.01
+2015/4/8
+40
+394KB
+
+
+
+AM5AB_DS_Eng_v2-02.pdf
+
+AM5AB Data Sheet
+Rev.2.02
+2014/11/11
+17
+217KB
+
+
+
+AM5AB_DS_Chi-T_v1-01.pdf
+
+AM5AB Data Sheet
+Rev.1.01
+2014/11/11
+17
+420KB
+
+
+
+AM5AB_DS_Chi-S_v1-01.pdf
+
+AM5AB Data Sheet
+Rev.1.01
+2014/11/11
+17
+391KB
+
+
+
+AM5AC_DS_Eng_v2-03.pdf
+
+AM5AC Data Sheet
+Rev.2.03
+2015/4/27
+18
+202KB
+
+
+
+AM5AC_DS_Chi-T_v1-02.pdf
+
+AM5AC Data Sheet
+Rev.1.02
+2015/4/27
+17
+286KB
+
+
+
+AM5AC_DS_Chi-S_v1-02.pdf
+
+AM5AC Data Sheet
+Rev.1.02
+2015/4/27
+17
+273KB
+
+
+
+AM5AD_DS_Eng_v1-03.pdf
+
+AM5AD Data Sheet
+Rev.1.03
+2014/11/11
+16
+294KB
+
+
+
+AM5AD_DS_Chi-T_v1-02.pdf
+
+AM5AD Data Sheet
+Rev.1.02
+2014/11/11
+16
+270KB
+
+
+
+AM5AD_DS_Chi-S_v1-02.pdf
+
+AM5AD Data Sheet 
+Rev.1.02
+2014/11/11
+16
+224KB
+
+
+
+AM5AL_DS_v1-02.pdf
+
+AM5AL Data Sheet
+Rev.1.02
+2015/4/8
+17
+150KB
+
+
+
+AM5AE_DS_v1-02.pdf
+
+AM5AE Data Sheet
+Rev.1.02
+2016/7/21
+16
+251KB
+
+
+
+AM5AA_OTP_Series-II_DS_v1-01.pdf
+
+AM5AA_OTP Series II (085x_171x) DAta Sheet
+Rev.1.01
+2016/5/23
+29
+733KB
+
+
+
+AM5AA340_OTP_DS_v1-02.pdf
+
+AM5AA340_OTP Data Sheet
+Rev.1.02
+2017/3/23
+26
+434KB
+
+
+
+
+ 
+ 
+
+
+  AM5B Series
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AM5BA_OTP_DS_v1-01.pdf
+
+AM5BA OTP Data Sheet
+Rev.1.01
+2016/9/23
+28
+427KB
+
+
+
+AM5B_UM_v1-00.pdf
+
+AM5B User Manual
+Rev.1.00
+2016/9/23
+109
+1.15MB
+
+
+
+AM5BE_DS_Eng_v1-01.pdf
+
+AM5BE DataSheet
+Rev.1.01
+2017/5/10
+21
+313KB
+
+
+
+AM5BE_DS_Chi-T_v1-01.pdf
+
+AM5BA DataSheet Chinese-T
+Rev.1.01
+2017/5/10
+21
+399KB
+
+
+
+AM5BE_DS_Chi-S_v1-01.pdf
+
+AM5BE DataSheet Chinese-S
+Rev.1.01
+2017/5/10
+21
+397KB
+
+
+
+
+ 
+ 
+
+
+  AM6 Series
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AM6DA015D_v1-2.pdf
+
+AM6DA015D data sheet
+Rev.1.2
+2002/11/6
+9
+252KB
+
+
+
+AM6DB032D_v1-2.pdf
+
+AM6DB032D data sheet
+Rev.1.2
+2002/11/6
+12
+287KB
+
+
+
+
+ 
+ 
+
+
+  AM8EB Series
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AM8EB051A_DS_v1-10.pdf
+
+AM8EB051A data sheet
+Rev.1.10
+2009/4/13
+46
+492KB
+
+
+
+AM8EB053A_DS_v1-10.pdf 
+
+AM8EB053A data sheet
+Rev.1.10
+2009/4/13
+48
+547KB
+
+
+
+AM8EB056A_DS_v1-30.pdf
+
+AM8EB056A data sheet
+Rev.1.30
+2009/4/13
+53
+591KB
+
+
+
+AM8EB057A_DS_v1-20.pdf
+
+AM8EB057A data sheet
+Rev.1.20
+2009/9/15
+62
+393KB
+
+
+
+AM8EB151x_DS_v1-41.pdf
+
+AM8EB151x Data Sheet
+Rev.1.41
+2015/4/9
+69
+891KB
+
+
+
+AM8EB153x_DS_v1-21.pdf
+
+AM8EB153x Data Sheet
+Rev.1.21
+2015/4/8
+62
+820KB
+
+
+
+AM8EB156x_DS_v1-22.pdf
+
+AM8EB156x Data Sheet
+Rev.1.22
+2015/4/8
+75
+971KB
+
+
+
+AM8EB157x_DS_v1-11.pdf
+
+AM8EB157x Data Sheet
+Rev.1.11
+2015/4/8
+81
+967KB
+
+
+
+AM8EB150x_DS_Eng_v1-12.pdf
+
+AM8EB150x Data Sheet
+Rev.1.12
+2016/11/4
+68
+765KB
+
+
+
+AM8EB150x_DS_Chi-T_v1-02.pdf
+
+AM8EB150x Data Sheet
+Rev.1.02
+2016/11/4
+66
+931KB
+
+
+
+AM8EB150x_DS_Chi-S_v1-02.pdf
+
+AM8EB150x Data Sheet
+Rev.1.02
+2016/11/4
+66
+0.98MB
+
+
+
+AM8EB153C_DS_Eng_v1-01.pdf
+
+AM8EB153C Data Sheet
+Rev.1.01
+2015/4/8
+67
+464KB
+
+
+
+AM8EB153C_DS_Chi-T_v1-00.pdf
+
+AM8EB153C Data Sheet
+Rev.1.00
+2015/4/8
+67
+572KB
+
+
+
+AM8EB153C_DS_Chi-S_v1-00.pdf
+
+AM8EB153C Data Sheet
+Rev.1.00
+2015/4/8
+67
+660KB
+
+
+
+AM8EB156_Programming Guide_Eng.pdf
+
+AM8EB156_Progrmming Guide Usermanual
+Rev.1.01
+2013/9/5
+112
+533KB
+
+
+
+AM8EB156_Programming Guide_Chi-T.pdf
+
+AM8EB156_Progrmming Guide Usermanual
+Rev.1.01
+2013/9/5
+112
+724KB
+
+
+
+AM8EB156_Programming Guide_Chi-S.pdf
+
+AM8EB156_Progrmming Guide Usermanual
+Rev.1.01
+2013/9/5
+112
+686KB
+
+
+
+AM8EB156C_DS_v1-00.pdf
+
+AM8EB156C Data Sheet
+Rev.1.00
+2015/12/15
+80
+965KB
+
+
+
+AM8EB130x_DS_v1-00.pdf
+
+AM8EB130x Data Sheet
+Rev.1.00
+2016/11/28
+68
+868KB
+
+
+
+AM8EB253_DS_v0-1-Preliminary.pdf
+
+AM8EB253 Datasheet
+Rev.0.1
+2017/3/22
+68
+1.15MB
+
+
+
+
+ 
+ 
+
+
+  AM8EC Series
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AM8EC701A_DS_v1-00.pdf
+
+AM8EC701A Data Sheet
+Rev.1.00
+2015/10/12
+72
+818KB
+
+
+
+AM8EC711A_DS_Chi-T_v1-03.pdf
+
+AM8EC711A Data Sheet Chinese-T
+Rev.1.03
+2015/4/8
+84
+1.66MB
+
+
+
+AM8EC711A_DS_Chi-S_v1-03.pdf
+
+AM8EC711A Data Sheet Chinese-S
+Rev.1.03
+2015/4/8
+83
+1.64MB
+
+
+
+AM8EC711A_DS_v1-14.pdf
+
+AM8EC711A Deata Sheet
+Rev.1.14
+2015/4/8
+85
+1.47MB
+
+
+
+AM8EC704_DS_v1-13.Pdf
+
+AM8EC704 Data Sheet
+Rev.1.13
+2015/4/8
+85
+1.54MB
+
+
+
+AM8EC720A_DS_v1-02.pdf
+
+AM8EC720A Data Sheet
+Rev.1.02
+2015/4/2
+101
+1.12MB
+
+
+
+AM8EC704_DS_Chi-T_v1-02.pdf
+
+AM8EC704 Data Sheet Chinese-T
+Rev.1.02
+2015/4/8
+81
+1.57MB
+
+
+
+AM8EC704_DS_Chi-S_v1-02.pdf
+
+AM8EC704 Data Sheet Chinese-S
+Rev.1.02
+2015/4/8
+81
+1.66MB
+
+
+
+
+ 
+ 
+
+
+  AM9CA Series
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AM9AB_v2-1.pdf
+
+AM9AB series data sheet
+Rev.2.1
+2002/10/29
+10
+248KB
+
+
+
+AM9AC_v1-5.pdf
+
+AM9AC series data sheet
+Rev.1.5
+2005/12/16
+14
+703KB
+
+
+
+AM9AD_v1-3.pdf
+
+AM9AD series data sheet
+Rev.1.3
+2006/11/2
+28
+259KB
+
+
+
+AM9AE_v1-2.pdf
+
+AM9AE series data sheet
+Rev.1.2
+2005/12/16
+14
+707KB
+
+
+
+AM9AF_v1-1.pdf
+
+AM9AF series data sheet
+Rev.1.1
+2005/12/16
+15
+652KB
+
+
+
+AM9BB_v2-1.pdf
+
+AM9BB series data sheet
+Rev.2.1
+2002/10/29
+14
+295KB
+
+
+
+AM9BD_v1-3.pdf
+
+AM9BD series data sheet
+Rev.1.3
+2005/12/16
+15
+758KB
+
+
+
+AM9CB_v2-1.pdf
+
+AM9CB series data sheet
+Rev.2.1
+2002/10/29
+16
+303KB
+
+
+
+AM9CC_v2-1.pdf
+
+AM9CC series data sheet
+Rev.2.1
+2002/10/29
+8
+231KB
+
+
+
+AM9CD_v1-1.zip
+
+AM9CD series data sheet
+Rev.1.10
+2004/12/16
+14
+357KB
+
+
+
+AM9BE_DS_v1-10.pdf
+
+AM9BE Series Data Sheet
+Rev.1.10
+2014/1/29
+28
+342KB
+
+
+
+AM9AH_DS_v1-03.pdf
+
+AM9AH series Data Sheet
+Rev.1.03
+2014/9/19
+13
+172KB
+
+
+
+AM9BF_DS_v1-21.pdf
+
+AM9BF Series Data Sheet
+Rev.1.21
+2014/8/19
+18
+224KB
+
+
+
+AM9AG_DS_v1-20.pdf
+
+AM9AG Data Sheet
+Rev.1.20
+2012/8/1
+16
+254KB
+
+
+
+AM9AK_DS_v1-00.pdf
+
+AM9AK Series Data Sheet
+Rev.1.00
+2012/10/2
+9
+161KB
+
+
+
+AM9AX_DS_v1-00.pdf
+
+AM9AX Series Data Sheet
+Rev.1.00
+2012/10/2
+13
+207KB
+
+
+
+AM9CA_OTP_DS_v1-50.pdf
+
+AM9CA OTP Data Sheet
+Rev.1.50
+2017/3/9
+31
+709KB
+
+
+
+AM9BK_DS_v1-00.pdf
+
+AM9BK Data Sheet
+Rev.1.00
+2014/4/15
+18
+242KB
+
+
+
+
+ 
+ 
+
+
+  AM9CE Series
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AM9CE_DS_v1-00.pdf
+
+AM9CE Data Sheet
+Rev.1.00
+2016/11/25
+25
+599KB
+
+
+
+
+ 
+ 
+
+
+  AMAP Serues
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AMAPA001A_DS_Eng_v1-01.pdf
+
+AMAPA001A DataSheet
+Rev.1.01
+2016/3/14
+15
+608KB
+
+
+
+
+ 
+ 
+
+
+  AMFR Series
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AMFRB6009_v1-3.pdf
+
+AMFRB6009 data sheet English
+Rev.1.3
+2003/12/2
+15
+425KB
+
+
+
+AMFRB6009_Chi-T_v1-4.pdf
+
+AMFRB6009 data sheet Chinese-T
+Rev.1.4
+2003/12/2
+14
+687KB
+
+
+
+AMFRB6009_Chi-S_v1-4.pdf
+
+AMFRB6009 data sheet Chinese-S
+Rev.1.4
+2003/12/2
+14
+690KB
+
+
+
+AMFRC0163_v1-1.pdf
+
+AMFRC0163 data sheet English
+Rev.1.11
+2001/7/18
+21
+473KB
+
+
+
+AMFRC0163_Chi-T_v1-2.pdf
+
+AMFRC0163 data sheet Chinese-T
+Rev.1.2
+2003/12/3
+21
+541KB
+
+
+
+AMFRC0163_Chi-S_v1-2.pdf
+
+AMFRC0163 data sheet Chinese-S
+Rev.1.2
+2003/12/3
+21
+663KB
+
+
+
+
+ 
+ 
+
+
+  AMMD117A
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+
+ 
+ 
+
+
+  AMMD117B
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AMMD117B_DS_v1-00.pdf
+
+AMMD117B Data Sheet
+Rev.1.00
+2015/8/24
+13
+299KB
+
+
+
+
+ 
+ 
+
+
+  AMMD1A
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AMMD1A_DS_v1-20.pdf
+
+AMMD1A Data Sheet
+Rev.1.20
+2012/7/3
+9
+355KB
+
+
+
+AMMD1A_DS_Chi-T_v1-00.pdf
+
+AMMD1A Data Sheet
+Rev.1.00
+2012/7/17
+9
+352KB
+
+
+
+AMMD1A_DS_Chi-S_v1-00.pdf
+
+AMMD1A Data Sheet
+Rev.1.00
+2012/7/17
+9
+353KB
+
+
+
+
+ 
+ 
+
+
+  AMMD2A
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AMMD2A_DS_v1-03.pdf
+
+AMMD2A Data Sheet
+Rev.1.03
+2012/10/3
+11
+200KB
+
+
+
+AMMD2A_DS_Chi-T_v1-02.pdf
+
+AMMD2A Data Sheet
+Rev.1.02
+2012/10/3
+11
+285KB
+
+
+
+AMMD2A_DS_Chi-S_v1-02.pdf
+
+AMMD2A Data Sheet
+Rev.1.02
+2012/10/3
+11
+248KB
+
+
+
+
+ 
+ 
+
+
+  AMMD2B
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AMMD2B_DS_Eng_v1-00.pdf
+
+AMMD2B Data Sheet
+Rev.1.00
+2012/10/3
+12
+197KB
+
+
+
+AMMD2B_DS_Chi-T_v1-00.pdf
+
+AMMD2B Data Sheet
+Rev.1.00
+2012/10/3
+12
+284KB
+
+
+
+AMMD2B_DS_Chi-S_v1-00.pdf
+
+AMMD2B Data Sheet
+Rev.1.00
+2012/10/3
+12
+248KB
+
+
+
+
+ 
+ 
+
+
+  AMMD3A
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AMMD3A_DS_v1-00.pdf
+
+AMMD3A Data Sheet
+Rev.1.00
+2012/5/11
+11
+225KB
+
+
+
+
+ 
+ 
+
+
+  AMMD3B
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AMMD3B_DS_v1-00.pdf
+
+AMMD3B Data Sheet
+Rev.1.00
+2015/10/12
+11
+200KB
+
+
+
+
+ 
+ 
+
+
+  AMSR Series
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AMSRA003A_v1-0.pdf
+
+AMSRA003A data sheet
+Rev.1.0
+2005/8/3
+10
+282KB
+
+
+
+AMSRB006A_v1-1.pdf
+
+AMSRB006A data sheet
+Rev.1.1
+2005/8/3
+10
+371KB
+
+
+
+AMSRC_v1-0.pdf
+
+AMSRC data sheet
+Rev.1.0
+2005/11/7
+11
+639KB
+
+
+
+
+ 
+ 
+
+
+  AMWPT1TX1A
+
+
+
+
+
+
+File Name
+Description
+Version
+Date
+Page
+Size
+
+
+
+AMWPT1TX1A_DS_v1-00.pdf
+
+AMWPT1TX1A Data Sheet
+Rev.1.00
+2015/2/24
+17
+364KB
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+Quick Download
+
+
+
+Download Data List
+
+
+
+Quality Policy
+
+
+
+Process Management Systems
+
+
+
+
+
+
+             
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alpha Microelectronics Corp - Company Profile and Financial Analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABOUT US
+BLOG
+CONTACT US
+FAQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+USD
+EUR
+GBP
+
+
+
+USD 
+▼
+
+USD
+EUR
+GBP
+
+
+
+
+
+
+€
+EUR
+$
+USD
+£
+GBP
+
+
+
+
+
+
+
++353-1-416-8900REST OF WORLD
+
+
+
+1-800-526-8630U.S. (TOLL FREE)
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Advanced
+
+
+
+
+
+
+
+
+Price From: 
+€87EUR$99USD£78GBP 
+View Pricing
+
+
+
+
+
+
+ Home
+/
+
+
+
+
+
+
+Categories
+/
+
+
+
+
+
+
+Company Reports
+
+
+
+
+
+
+
+
+
+
+
+ 
+SELECT A FORMAT
+
+
+
+
+
+
+
+
+€87EUR$99USD£78GBP
+
+
+
+                                                        Single User
+                                                         Electronic (PDF)
+
+
+
+
+
+
+                                                                            
+                                                                            This is a single user license, allowing one specific user access to the product. The report will be emailed to you.  The report is sent in PDF format. 
+
+                                                
+
+
+
+
+
+
+
+
+
+
+€173EUR$198USD£155GBP
+
+
+
+                                                        Site License
+                                                         Electronic (PDF)
+
+
+
+
+
+
+                                                                            
+                                                                            This is a site license, allowing all users within a given geographical location of your organisation access to the product. The report will be emailed to you.  The report is sent in PDF format. 
+
+                                                
+
+
+
+
+
+
+
+
+
+
+€260EUR$297USD£233GBP
+
+
+
+                                                        Enterprisewide
+                                                         Electronic (PDF)
+
+
+
+
+
+
+                                                                            
+                                                                            This is an enterprise license, allowing all employees within your organisation access to the product. The report will be emailed to you.  The report is sent in PDF format. 
+
+                                                
+
+
+
+
+
+
+
+  ADD TO BASKET
+
+
+
+
+                                                                        order by fax
+                                        
+
+                                            need a quote ?
+                                        
+
+
+
+ 
+
+OUR CLIENTS
+
+
+
+
+
+
+
+
+
+
+
+
+HAVE A QUESTION?
+EMAIL US
+VIEW FAQs
+
+
+
+RECENTLY VIEWED PRODUCTS
+
+
+
+
+
+
+
+
+
+
+
+Partner of Research and MarketsVACCINATING 40,000 CHILDREN IN 2017
+
+
+
+
+
+WHY CHOOSE RESEARCH AND MARKETS?
+
+
+
+WORLD'S LARGEST SELECTION
+
+
+
+
+TRUSTED BY THE BEST
+
+
+
+
+CUSTOMER FOCUSED
+
+
+
+
+SAFE & SECURE
+
+
+
+
+
+
+
+The Research and Markets’ customer support team provided me with timely and immediate responses and delivered
+
+                         exactly the information that I was looking for – great job. Thank you very much. I would recommend them to anybody who is looking for market research data.
+                        
+                    
+
+
+
+                            READ MORE
+                        
+
+
+Ms Iris Teichmann
+Head of Marketing & Communications
+Berliner Glas KGaA Herbert Kubatz GmbH & Co.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alpha Microelectronics Corp - Company Profile and Financial Analysis
+
+
+
+ID: 3287663
+Company Profile
+June 2015
+26 pages
+
+GlobalData                                
+
+
+
+
+
+
+
+
+
+
+
+DESCRIPTION
+
+
+TABLE OF CONTENTS
+
+
+
+                                                                COMPANIES MENTIONED
+                                                            
+
+
+FORMATS / FAQ
+
+
+
+
+
+
+
+1 of 4
+
+
+
+
+
+
+
+
+
+
+
+                            LOGIN TO ACCESS EXECUTIVE SUMMARY
+                        
+
+
+
+                            PRINTER FRIENDLY
+                        
+
+
+
+                            PRINTABLE PDF BROCHURE
+                        
+
+SEND TO A FRIEND
+
+
+
+
+
+
+                                                                                    SummaryThe Research's "Alpha Microelectronics Corp - Company Profile and Financial Analysis" contains in depth information and data about the company and its operations. The profile contains a company overview, key facts, major products and services, financial ratios, financial analysis, company locations and subsidiaries.Key FindingsThis report is a crucial resource for industry executives and anyone looking to access key information about "Alpha Microelectronics Corp"The report utilizes a wide range of primary and secondary sources, which are analyzed and presented in a consistent and easily accessible format. The Research strictly follows a standardized research methodology to ensure high levels of data quality and these characteristics guarantee a unique report.Synopsis- Identifies crucial company information about "Alpha Microelectronics Corp" along with major products and services for business intelligence requirements.- Provides key ratios on company's financial performance.- Identifies key employees to assist with key business decisions.- Provides annual and interim financial ratios.Reasons To Buy- Enhance your understanding of "Alpha Microelectronics Corp"- Increase business/sales activities by understanding customers' businesses better.- Recognize potential partnerships and suppliers.- Qualify prospective partners, affiliates or suppliers.- Acquire up-to-date company information and an understanding of the company's financial health.Key HighlightsAlpha Microelectronics Corp. (Alpha Microelectronics) is a manufacturer and supplier of semiconductor components. The company designs, develops and markets integrated circuits. It offers products such as speech IC, multi-channel voice IC, LCD MCU, general purpose MCU, recording IC, and hardware and software tools. Alpha Microelectronics' products are used in sound equipments, home appliances, personal electronics, gifts, toys and interactive consumer products, among others. The company markets its products through a network of distributors located across the world. It operates through its facilities located in Hsinchu, Taiwan; Shenzhen, China; and Hong Kong. Alpha Microelectronics is headquartered in Hsinchu, Taiwan.
+                                                                                
+
+ SHOW LESS
+                                                                                
+
+ READ MORE
+                                                                                
+
+
+
+Note: Product cover images may vary from those shown
+
+
+
+
+2 of 4
+
+
+
+
+
+
+
+                            LOGIN TO ACCESS EXECUTIVE SUMMARY
+                        
+
+
+
+                            PRINTER FRIENDLY
+                        
+
+
+
+                            PRINTABLE PDF BROCHURE
+                        
+
+SEND TO A FRIEND
+
+
+
+
+
+
+                                                                    1 Alpha Microelectronics Corp - Major Products and Services2 Alpha Microelectronics Corp - Key Events3 Alpha Microelectronics Corp - Locations and Subsidiaries3.1 Alpha Microelectronics Corp - Head Office4 Alpha Microelectronics Corp - Business Analysis4.1 Alpha Microelectronics Corp - Company Overview5 Alpha Microelectronics Corp - Company Financial Analysis5.1 Alpha Microelectronics Corp - Five Year Snapshot: Overview of Financial and Operational Performance Indicators6 Alpha Microelectronics Corp - Interim ratios6.1.1 Alpha Microelectronics Corp - Financial ratios: Capital Market Ratios6.2 Alpha Microelectronics Corp - Financial Performance and Ratio Charts6.2.1 Alpha Microelectronics Corp - Revenue and Operating margin6.2.2 Alpha Microelectronics Corp - Asset and Liabilities6.2.3 Alpha Microelectronics Corp - Operational Efficiency6.2.4 Alpha Microelectronics Corp - Valuation6.3 Alpha Microelectronics Corp - Competitive Benchmarking6.3.1 Alpha Microelectronics Corp - Market Capitalization6.3.2 Alpha Microelectronics Corp - Efficiency6.3.3 Alpha Microelectronics Corp - Turnover: Inventory and Asset7 Appendix7.1 Methodology7.2 Alpha Microelectronics Corp - Ratio Definitions7.3 DisclaimerTable 1: Alpha Microelectronics Corp - Major Products and ServicesTable 2: Alpha Microelectronics Corp - Key EventsTable 3: Alpha Microelectronics Corp - Annual ratiosTable 4: Alpha Microelectronics Corp - Interim ratiosTable 5: Alpha Microelectronics Corp - Capital Market RatiosFigure 1: Alpha Microelectronics Corp - Revenue and Operating ProfitFigure 2: Alpha Microelectronics Corp - Financial PositionFigure 3: Alpha Microelectronics Corp - Operational EfficiencyFigure 4: Alpha Microelectronics Corp - ValuationFigure 5: Alpha Microelectronics Corp - Market CapitalizationFigure 6: Alpha Microelectronics Corp - EfficiencyFigure 7: Alpha Microelectronics Corp - Turnover: Inventory and Asset
+                                                                
+Note: Product cover images may vary from those shown
+
+
+
+
+3 of 4
+
+
+
+
+
+LOADING...
+
+
+
+
+
+
+
+4 of 4
+
+
+
+
+
+
+
+                            LOGIN TO ACCESS EXECUTIVE SUMMARY
+                        
+
+
+
+                            PRINTER FRIENDLY
+                        
+
+
+
+                            PRINTABLE PDF BROCHURE
+                        
+
+SEND TO A FRIEND
+
+
+
+
+
+
+                                                                                    -  Alpha Microelectronics Corp
+                                                                                
+Note: Product cover images may vary from those shown
+
+
+
+
+5 of 4
+
+
+
+
+
+
+Note: Product cover images may vary from those shown
+
+
+
+
+
+
+
+
+RELATED PRODUCTS 
+
+
+
+
+
+
+
+Nantong Fujitsu Microelectronics Co.Ltd. - Company Profile and Financial Analysis
+
+
+ Company Profile
+June 2015
+
+
+
+
+FROM
+
+
+€87EUR$99USD£78GBP
+
+
+
+
+
+
+
+United Microelectronics Corporation (2303) - Financial and Strategic SWOT Analysis Review
+
+
+ SWOT Analysis
+August 2016
+
+
+
+
+FROM
+
+
+€109EUR$125USD£98GBP
+
+
+
+
+
+
+
+Cabot Microelectronics Corporation (CCMP) - Financial and Strategic SWOT Analysis Review
+
+
+ SWOT Analysis
+April 2017
+
+
+
+
+FROM
+
+
+€109EUR$125USD£98GBP
+
+
+
+
+
+
+
+Alpha Imaging Technology Corp. - Company Profile and Financial Analysis
+
+
+ Company Profile
+January 2016
+
+
+
+
+FROM
+
+
+€87EUR$99USD£78GBP
+
+
+
+
+
+
+
+Microelectronics Technology Inc. (2314) - Financial and Strategic SWOT Analysis Review
+
+
+ SWOT Analysis
+May 2017
+
+
+
+
+FROM
+
+
+€262EUR$300USD£235GBP
+
+
+
+
+
+
+
+Melexis Microelectronic Integrated Systems N.V. (MELE) - Financial and Strategic SWOT Analysis Review
+
+
+ SWOT Analysis
+April 2015
+
+
+
+
+FROM
+
+
+€262EUR$300USD£235GBP
+
+
+
+
+
+
+
+Cabot Microelectronics Corp. Fundamental Company Report Including Financial, SWOT, Competitors and Industry Analysis
+
+
+ Company Profile
+February 2017
+
+
+
+
+FROM
+
+
+€481EUR$550USD£431GBP
+
+
+
+
+
+
+
+Cabot Microelectronics Corp. Company Profile - Business Description, Strategies, SWOT and Financial Analysis
+
+
+ SWOT Analysis
+October 2014
+
+
+
+
+FROM
+
+
+€175EUR$200USD£157GBP
+
+
+
+
+
+
+
+Cabot Microelectronics Corp. Company Profile - Business Strategies, Outlook Statement, Business Description, Products and Services, Competitors, Employees, Updates, SWOT and Financials
+
+
+ Company Profile
+May 2016
+
+
+
+
+FROM
+
+
+€175EUR$200USD£157GBP
+
+
+
+
+
+
+
+Alpha Group, Inc. - Company Profile and Financial Analysis
+
+
+ Company Profile
+January 2016
+
+
+
+
+FROM
+
+
+€87EUR$99USD£78GBP
+
+
+
+
+
+
+
+
+ close
+
+Alpha Microelectronics Corp - Company Profile and Financial Analysis
+
+
+
+ close
+
+ASK A QUESTION
+
+*Required Information
+ 
+Product: Alpha Microelectronics Corp - Company Profile and Financial Analysis
+
+
+YOUR QUESTION*
+
+
+
+
+
+
+
+YOUR CONTACT DETAILS*
+
+Title
+Mr
+Mrs
+Dr
+Miss
+Ms
+Prof
+
+
+
+
+First Name
+
+
+
+
+Last Name
+
+
+
+
+Email Address
+
+
+
+
+Country
+Please Select
+------------------------------
+United States
+United Kingdom
+Germany
+Canada
+Australia
+------------------------------
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica-Casey
+Antarctica-Scott
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Ascension Island
+Ashmore and Cartier Islands
+Atlantic East
+Atlantic West
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Clipperton Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaco 
+Cyprus
+Czech Republic
+Democratic Republic of Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Islas Malvinas)
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guiana
+French Polynesia
+Gabon
+Gambia
+Gaza Strip
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Ivory Coast
+Ivory Coast (Cote d'Ivoire)
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte Islands
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Islands
+North Korea
+Northern Ireland
+Northern Marianas
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Christopher Nevis
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome
+Saudi Arabia
+Scotland
+Senegal
+Serbia
+Serbia and Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Tahiti
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City (Holy See)
+Venezuela
+Vietnam
+Virgin Islands
+Wallis And Futuna
+West Bank
+West Indies
+Western Sahara
+Yemen
+Yugoslavia
+Zaire
+Zambia
+Zimbabwe
+
+
+
+
+Phone Number
+
+
+
++1
++11
++1-242
++1-246
++1-264
++1-268
++1-284
++1-345
++1-441
++1-473
++1-649
++1-664
++1-670
++1-671
++1-684
++1-758
++1-767
++1-784
++1-787
++1-809
++1-868
++1-869
++1-876
++20
++212
++213
++216
++218
++220
++221
++222
++224
++225
++226
++227
++228
++229
++23
++230
++231
++232
++233
++234
++235
++236
++237
++238
++239
++240
++241
++242
++243
++244
++245
++247
++248
++249
++250
++251
++252
++253
++254
++255
++256
++257
++258
++260
++261
++263
++264
++265
++266
++267
++268
++269
++27
++284
++290
++291
++297
++298
++299
++30
++31
++32
++33
++34
++350
++351
++352
++353
++354
++355
++356
++357
++358
++359
++36
++370
++371
++372
++373
++374
++375
++376
++377
++378
++379
++380
++381
++382
++385
++386
++387
++389
++39
++40
++41
++420
++421
++423
++43
++44
++45
++46
++47
++48
++49
++500
++501
++502
++503
++504
++505
++506
++507
++509
++51
++52
++53
++54
++55
++56
++57
++58
++590
++591
++592
++593
++594
++595
++596
++597
++598
++599
++60
++61
++6101
++62
++63
++64
++65
++66
++670
++672
++673
++674
++675
++677
++678
++679
++680
++681
++682
++683
++685
++686
++687
++688
++689
++691
++692
++7
++81
++82
++84
++850
++852
++853
++855
++856
++86
++869
++871
++874
++880
++886
++90
++91
++92
++93
++94
++95
++960
++961
++962
++963
++964
++965
++966
++967
++968
++970
++971
++972
++973
++974
++975
++976
++977
++98
++992
++993
++994
++995
++996
++998
+
+
+
+
+
+
+
+
+
+
+
+
+We request your telephone number so we can contact you in the event we have difficulty reaching you via email.
+                    We aim to respond to all questions on the same business day.
+
+
+
+
+
+ 
+
+
+
+ close
+
+SEND TO A FRIEND
+
+* Required Information
+ FRIEND'S DETAILS
+
+Full Name*
+
+
+
+
+Email Address*
+
+
+
+
+Message to friend
+
+
+
+
+YOUR CONTACT DETAILS
+
+Full Name*
+
+
+
+
+Email Address*
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ close
+
+Request a Quote
+
+ 
+Please complete the below form and click "send request" to obtain a pdf quotation and order form.
+This document will be available for immediate download and will also be emailed to you.
+            
+* Required Information
+
+
+YOUR ADDRESS
+
+Address 1*
+
+
+
+
+Address 2
+
+
+
+
+Address 3
+
+
+
+
+City*
+
+
+
+
+Postal/ZIP Code
+
+
+
+
+Country*
+Please Select
+------------------------------
+United States
+United Kingdom
+Germany
+Canada
+Australia
+------------------------------
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica-Casey
+Antarctica-Scott
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Ascension Island
+Ashmore and Cartier Islands
+Atlantic East
+Atlantic West
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Clipperton Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaco 
+Cyprus
+Czech Republic
+Democratic Republic of Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Islas Malvinas)
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guiana
+French Polynesia
+Gabon
+Gambia
+Gaza Strip
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Ivory Coast
+Ivory Coast (Cote d'Ivoire)
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte Islands
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Islands
+North Korea
+Northern Ireland
+Northern Marianas
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Christopher Nevis
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome
+Saudi Arabia
+Scotland
+Senegal
+Serbia
+Serbia and Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Tahiti
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City (Holy See)
+Venezuela
+Vietnam
+Virgin Islands
+Wallis And Futuna
+West Bank
+West Indies
+Western Sahara
+Yemen
+Yugoslavia
+Zaire
+Zambia
+Zimbabwe
+
+
+
+
+State
+
+
+
+
+
+YOUR DETAILS
+
+Title*
+Mr
+Mrs
+Dr
+Miss
+Ms
+Prof
+
+
+
+
+First Name*
+
+
+
+
+Last Name*
+
+
+
+
+Organisation*
+
+
+
+
+Email Address*
+
+
+
+
+Phone Number*
+
+
+
++1
++11
++1-242
++1-246
++1-264
++1-268
++1-284
++1-345
++1-441
++1-473
++1-649
++1-664
++1-670
++1-671
++1-684
++1-758
++1-767
++1-784
++1-787
++1-809
++1-868
++1-869
++1-876
++20
++212
++213
++216
++218
++220
++221
++222
++224
++225
++226
++227
++228
++229
++23
++230
++231
++232
++233
++234
++235
++236
++237
++238
++239
++240
++241
++242
++243
++244
++245
++247
++248
++249
++250
++251
++252
++253
++254
++255
++256
++257
++258
++260
++261
++263
++264
++265
++266
++267
++268
++269
++27
++284
++290
++291
++297
++298
++299
++30
++31
++32
++33
++34
++350
++351
++352
++353
++354
++355
++356
++357
++358
++359
++36
++370
++371
++372
++373
++374
++375
++376
++377
++378
++379
++380
++381
++382
++385
++386
++387
++389
++39
++40
++41
++420
++421
++423
++43
++44
++45
++46
++47
++48
++49
++500
++501
++502
++503
++504
++505
++506
++507
++509
++51
++52
++53
++54
++55
++56
++57
++58
++590
++591
++592
++593
++594
++595
++596
++597
++598
++599
++60
++61
++6101
++62
++63
++64
++65
++66
++670
++672
++673
++674
++675
++677
++678
++679
++680
++681
++682
++683
++685
++686
++687
++688
++689
++691
++692
++7
++81
++82
++84
++850
++852
++853
++855
++856
++86
++869
++871
++874
++880
++886
++90
++91
++92
++93
++94
++95
++960
++961
++962
++963
++964
++965
++966
++967
++968
++970
++971
++972
++973
++974
++975
++976
++977
++98
++992
++993
++994
++995
++996
++998
+
+
+
+
+
+
+
+
+
+
+
+                                PO Number
+                                (if applicable)
+
+
+
+
+
+
+
+PRODUCT FORMAT
+
+
+
+
+License
+Format
+Properties
+Price
+
+
+
+
+ 
+SINGLE USER Electronic (PDF)                                                
+
+
+
+                                            The report will be emailed to you.  The report is sent in PDF format. 
+                                        
+
+                                            This is a single user license, allowing one specific user access to the product.
+                                        
+
+€87EUR$99USD£78GBP
+
+
+
+
+
+ 
+SITE LICENSE Electronic (PDF)                                                
+
+
+
+                                            The report will be emailed to you.  The report is sent in PDF format. 
+                                        
+
+                                            This is a site license, allowing all users within a given geographical location of your organisation access to the product.
+                                        
+
+€173EUR$198USD£155GBP
+
+
+
+
+
+ 
+ENTERPRISEWIDE Electronic (PDF)                                                
+
+
+
+                                            The report will be emailed to you.  The report is sent in PDF format. 
+                                        
+
+                                            This is an enterprise license, allowing all employees within your organisation access to the product.
+                                        
+
+€260EUR$297USD£233GBP
+
+
+
+
+
+
+
+* The price quoted above is only valid for 30 days. Please submit your order within that time frame to avail of this price as all prices are subject to change.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alpha Micro Components solutions for wired and wireless M2M communications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AlphaMicro
+CONTACT Our Experts01256 851770
+QUICK SEARCHA-Z of Product Listings >
+
+
+
+AboutCompany OverviewTerms and ConditionsCareer OpportunitiesLocations and MapsPrivacy PolicyFranchisesAMCAtechBridgetekCalAmpFTDIIridiumLairdLantronixLPRSLSRneo.cortecON Semiconductoru-bloxProductsCellular2G/3GEmbedded 2G/3GExternal 2G/3GLTE High SpeedEmbedded LTE High SpeedExternal LTE High SpeedLTE low speed / NB-IoTRPMAEval Kits & SWReference designsPrevious generationsGNSS Positioning & TimeStandard Precision GNSSHigh Precision GNSSDead ReckoningTimingPositioning Eval Kits & SWPositioning Reference DesignsPositioning Previous GenerationsBluetoothBluetooth ClassicBluetooth Low Energy (BLE)Bluetooth Dual ModeBluetooth Eval Kits & SWBluetooth USB DonglesBluetooth Previous GenerationsWi-FiWi-Fi Embedded ModulesWi-Fi External DevicesWi-Fi Eval Kits & SWWi-Fi Previous GenerationsMulti-RadioMulti-Radio ModulesMulti-Radio Eval Kits & SWPrevious GenerationsSigfox & LoRaISM - Sub 1GHz RFWireless Mesh NetworkGSM Modems for Elster MetersSatellite Tx/Rx ModulesAntennasBluetooth/Wi-Fi AntennasBluetooth/Wi-Fi Embedded AntennasBluetooth/Wi-Fi Adhesive Mount AntennasBluetooth/Wi-Fi Body Mount AntennasBluetooth/Wi-Fi Bracket Mount AntennasBluetooth/Wi-Fi Terminal Mount AntennasCellular AntennasCellular Embedded AntennasCellular Adhesive Mount AntennasCellular Body Mount AntennasCellular Bracket Mount AntennasCellular Magnetic Mount AntennasCellular Terminal Mount AntennasGNSS AntennasGNSS Embedded Active Patch AntennasGNSS Embedded Passive Patch AntennasGNSS Adhesive Mount AntennasGNSS Body Mount AntennasGNSS Magnetic Mount AntennasGNSS Terminal Mount AntennasIridium Band AntennasISM Sub 1GHz AntennasISM Embedded AntennasISM Magnetic Mount AntennasISM Terminal Mount AntennasCombi AntennasCombi Adhesive Mount AntennasCombi Body Mount AntennasCombi Terminal Mount AntennasCombi PCB AntennasRF Cables & CouplersDisplay ControllersDevelopment ToolsDisplay ControllersEthernet & USBEthernet Embedded ModulesEthernet External DevicesPrevious Generation Ethernet devicesUSB ICsUSB Host ICsUSB Peripheral ICsUSB CablesUSB ModulesBridging SolutionsMCU - ConnectivityMCU - USB HubSIM Card Connectors2FF Mini SIM Card Connectors3FF Micro SIM Card ConnectorsTransformersNewsroomPress ReleasesCase StudiesBlogsExhibitionsContact Us
+
+Follow Us: TwitterFacebook
+LinkedIn
+Google+
+
+Cellulargo to this product >Bluetoothgo to this product >Wi-Figo to this product >External Wi-Fi Devicesgo to this product >Embedded Wi-Fi Modulesgo to this product >Sub 1GHz RFgo to this product >GNSS Positioninggo to this product >Antennasgo to this product >Cellulargo to this product >
+Franchised LinesProduct CategoriesCellularGNSS Positioning & TimeBluetoothWi-FiMulti-RadioSigfox & LoRaISM - Sub 1GHz RFWireless Mesh NetworkGSM Modems for Elster MetersSatellite Tx/Rx ModulesAntennasDisplay ControllersEthernet & USBBridging SolutionsSIM Card ConnectorsTransformers
+
+Design-based M2M
+component distribution
+Here at Alpha Micro we are proud to have pioneered the concept
+of "design based" component distribution where our product
+knowledge and expertise has made us a prominent force in wireless
+communications, global positioning and M2M markets.
+
+
+
+
+
+
+
+Laird RG1xx LoRa-enabled Gateway
+
+
+
+Laird's Sentrius RG1xx Gateway provides
+multi-protocol connectivity to long-distance IoT sensors and
+devices.
+Read more
+
+
+
+
+
+
+
+u-blox SARA-R4 LTE Cat M1 modules
+
+
+
+Low power consumption for extended battery life, with enhanced
+coverage for indoor applications
+Read more
+
+
+
+
+
+
+
+Bridgetek FT93x Connectivity MCU
+
+
+
+Complete System-On-Chip 32-bit RISC microcontrollers for USB to
+multi-interface bridging and embedded applications.
+Read more
+
+
+
+
+
+
+
+LSR SaBLE-x-R2 Bluetooth 5 module
+
+
+
+SaBLE-x-R2 provides an easy upgrade path from SaBLE-x for
+Bluetooth 5 connectivity.
+Read more
+
+
+
+
+
+
+
+Lantronix xPico 110 SMT module
+
+
+
+SMT device server module for serial to Ethernet applications,
+network enabling industrial machines.
+Read more
+
+
+
+
+
+
+
+
+
+
+
+Buy now from our Webshop
+
+
+
+We now offer certain products in our Webshop to enable you to
+purchase at any time. (Min. order value £20 / Max. order value £350
+exc. VAT & shipping)
+Visit our Webshop
+
+
+
+
+
+
+
+“GE Security greatly benefit from Alpha Micro's expertise in developing wireless IP solutions"
+
+
+Alpha Micro Components and GE Security Design Award Winning
+GPRS/GSM Remote Alarm System
+
+
+
+
+
+
+
+Can we help?Contact our sales team01256 851770Ask a questionRequest a call back
+
+
+
+
+
+
+Share this page
+
+ 
+
+
+
+
+
+
+Company InformationCompany OverviewTerms and ConditionsLocations and MapsPrivacy PolicyNewsroomCase StudiesExhibitionsPress ReleasesProductsAntennasBluetoothCellularGNSS Positioning & TimeISM - Sub 1GHz RFSigfox & LoRaWi-Fi
+
+Last updated: 8 May 2017
+
+             Alpha Micro Components Ltd: Registered in England and Wales with company number 3045916
+Registered Office: Ascentia House, Lyndhurst Road, South Ascot, Berkshire, SL5 9ED. VAT Registration Number GB 641 8181 42
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ALPHA MICROELECTRONICS CORPORATION (886-3-5736660) | Taiwan Business Database
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+Taiwan Business Database
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+ 
+ 
+
+You are hereHome » Integrated Circuits
+
+
+
+
+
+
+
+
+
+
+          ALPHA MICROELECTRONICS CORPORATION        
+
+
+
+
+
+
+
+
+
+Company Information
+
+
+
+
+
+
+
+
+
+Company Name: ALPHA MICROELECTRONICS CORPORATIONCountry: TaiwanAddress: 9Fl-1, No. 295, Sec. 2, Kuang Fu Rd., Hsin-Chu City,International Area Code: 886Phone: 886-3-5736660Fax: 886-3-5736661Website: www.ealpha.com.twProduct List: Voice recording IC, 4-bit micro-controller with voice/LCD, 4-bit micro-controller with voice, 8-bit micro-controller with voice, 8-bit micro-controller with voice/LCD, 3-channel voice/melody synthesizer IC, voice synthesizer IC.Classification: Electronic Products & ComponentsCategory Activities: Integrated CircuitsEmployees: 85Capital: 492450000Type: ManufacturerYear of Establish: 1992Industry: Integrated Circuits
+Buy Now:
+
+Click Here to Buy Taiwan Full Data
+
+Business Directory Database Supermarket
+
+
+
+
+More Links
+
+
+
+ALPHA HID TECHNOLOGY CO., LTD.
+ALPHA IND. ASSOCIATES INC.
+ALPHA LED/HID TECHNOLOGY CO., LTD.
+ALPHA METALS (TAIWAN ) INC.
+ALPHA METALS (TAIWAN) INC.
+ALPHA MICROELECTRONICS CORPORATION
+ALPHA PLUS ELECTRONIC CO., LTD.
+ALPHA PLUS MACHINERY CORP.
+ALPHA PRECISION INSTRUMENTATION CORP.
+ALPHAPLUS CONNECTORS & CABLES CORP.
+ALPINTEX INDUSTRY CORPORATION
+
+        ‹ previous | next ›
+
+
+
+
+
+Log in to post comments
+ 
+
+
+
+
+ 
+
+
+
+Languages
+
+
+AfrikaansShqipالعربيةՀայերենazərbaycanБългарскиCatalà简体中文繁體中文HrvatskiČeštinaDanskNederlandsEnglishEsperantoEestiFilipinoSuomiFrançaisGalegoGeorgianDeutschΕλληνικάMagyarÍslenskaGaeilgeItaliano日本語한국어LatviešuLietuviųМакедонскиBahasa MelayuMaltiفارسیPolskiPortuguese, InternationalRomânăРусскийСрпскиSlovenčinaSlovenščinaEspañolKiswahiliSvenskaภาษาไทยTürkçeУкраїнськаTiếng ViệtCymraeg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+ 
+
+BizDirLib.com
+2011-2017 v5.7 a-j-e-3
+Contact UsWEB | AMP⚡
+
+
+
+

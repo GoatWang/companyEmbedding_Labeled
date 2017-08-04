@@ -1,0 +1,5546 @@
+
+
+
+
+
+
+
+金麗科技ASIC service, x86-compatible microprocessor, MCU | 金麗科技 - Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Processor Platform
+
+
+
+
+MCU & NPU
+
+
+
+
+Low Power SoCs
+
+
+
+
+RDC ASIC Service
+
+
+
+
+IP Service
+
+
+
+
+
+
+
+
+全球經銷商
+
+
+
+
+
+
+
+EXTRANET
+
+
+
+
+
+繁體中文
+简体中文
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID：
+
+
+
+Password：
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+首頁 >
+RDC 產品 >
+IP Service
+
+
+
+
+
+
+
+
+
+
+
+Processor Platform
+
+
+MCU & NPU
+
+
+RDC ASIC Service
+
+
+Low Power SoCs
+
+
+IP Service
+
+
+
+
+
+
+
+
+
+
+
+線上支援
+
+
+RDC經銷夥伴
+
+
+開發支援
+
+
+企業沿革與榮耀
+
+
+RDC 技術
+
+
+
+
+
+
+
+
+
+
+
+金麗科技聯絡資訊如下:ADD: 新竹科學工業園區力行路2-1號6F-1TEL: 03-6662866FAX: 03-5631498E-mail: sales@rdc.com.tw
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        IP Service
+                    
+
+
+
+
+
+							8-bit MCU IP
+						
+The 8032 series is a high-performance 8051 family compatible micro-controller based on RISC architecture & Pipeline design. This IP Specification of interface timing, external Data Memory read / write timing and external Program Memory read timing are same or faster than standard 80C52 ,based on different version, and instruction-set is fully compatible with standard 8051 family.
+
+
+							Design Specification
+						
+
+RISC Architecture
+Synchronous Design
+Static Design
+Synthesizable
+Silicon proved (0~66 MHz at 0.5um process)
+
+
+
+                            Key features
+                        
+
+
+
+
+Instruction  compatible with generic 8051
+256 byte scratchpad RAM  interface
+Two external interrupts
+Memory Addressing Capability
+ -64K Byte external RAM  & ROM
+8-bit I/O port x 4 (P0~P3)
+16-bit timer/counter x3
+
+
+Full duplex UART x1
+Data Pointer x1
+Watch Dog Timer x1
+Support Power Down and Idle  Mode
+Power Down waked up by  Interrupt 
+12/4/1 clocks/machine cycle (S/T/TT or  TTE/TTEX)
+Dual data pointer (Above T)
+
+
+
+
+
+
+
+                            Deliverable
+                        
+
+Product Data Specification
+RTL code in Verilog format
+Pipeline Diagram
+Synthesis Script file
+Function Test Pattern in Verilog format
+
+
+
+                            Application
+                        
+DSC,CF Card, Pattern Recognition, LCD Monitor Controller, USB Device Controller, Scanner Controller, MP3 Controller, Modem Controller, Voice Recognition
+
+
+                            Spec Summary
+                        
+
+
+
+
+
+R8032S
+R8032T
+R8032TT
+R8032TTE
+R8032TTEX
+
+
+
+
+RISC Arch
+V
+V
+V
+V
+V
+
+
+Machine Cycle
+12
+4
+1
+1
+1
+
+
+Static & Synchronous
+V
+V
+V
+V
+V
+
+
+8052 Inst, Comptabile
+V
+V
+V
+V
+V
+
+
+Dual DPTR
+--
+V
+V
+V
+V
+
+
+Timer
+3
+3
+3
+3
+3
+
+
+PD waked up by Int0 / Int1
+V
+V
+V
+V
+V
+
+
+UART
+1
+2
+2
+2
+2
+
+
+MUL Inst. Enchance
+--
+--
+V
+V
+V
+
+
+Mem Ins wait-state
+--
+V
+V
+V
+V
+
+
+Code Ins wait-state
+--
+--
+--
+--
+V
+
+
+MOVC Protect
+--
+--
+--
+--
+V
+
+
+Watch dog timer
+--
+V
+V
+V
+V
+
+
+Power Manager
+--
+--
+V
+V
+V
+
+
+Extra I/O, Interrupt
+--
+--
+--
+--
+V
+
+
+PWM
+--
+--
+--
+--
+V
+
+
+Serial E2ROM Interface
+--
+--
+--
+--
+V
+
+
+Debug Mode
+Optional
+Optional
+Optional
+Optional
+V
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+公司簡介
+
+
+
+關於金麗科技
+企業沿革與榮耀
+企業文化
+金麗科技位置
+
+
+
+
+
+
+RDC產品
+
+
+
+Processor Platform
+MCU & NPU
+Low Power SoCs
+RDC ASIC Service
+IP Service
+
+
+
+
+
+
+RDC技術
+
+
+
+產品低功耗
+多樣之周邊及介面
+開發支援
+
+
+
+
+
+
+技術支援
+
+
+
+聯絡我們
+資源下載
+線上支援
+
+
+
+
+
+
+投資人專區
+
+
+
+股東服務專區
+公司治理
+財務資訊
+利害關係人專區 公開資訊觀測站
+
+
+
+
+
+
+加入RDC
+
+
+隱私權聲明
+
+
+網站地圖
+
+Copyright © 2014 All Rights Reserved by RDC Semiconductor Co., Ltd.
+
+ 
+
+
+
+
+
+
+
+
+
+金麗科技ASIC service, x86-compatible microprocessor, MCU | 金麗科技 - Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Processor Platform
+
+
+
+
+MCU & NPU
+
+
+
+
+Low Power SoCs
+
+
+
+
+RDC ASIC Service
+
+
+
+
+IP Service
+
+
+
+
+
+
+
+
+全球經銷商
+
+
+
+
+
+
+
+EXTRANET
+
+
+
+
+
+繁體中文
+简体中文
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ID：
+
+
+
+Password：
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+公司簡介
+
+
+
+關於金麗科技
+企業沿革與榮耀
+企業文化
+金麗科技位置
+
+
+
+
+
+
+RDC產品
+
+
+
+Processor Platform
+MCU & NPU
+Low Power SoCs
+RDC ASIC Service
+IP Service
+
+
+
+
+
+
+RDC技術
+
+
+
+產品低功耗
+多樣之周邊及介面
+開發支援
+
+
+
+
+
+
+技術支援
+
+
+
+聯絡我們
+資源下載
+線上支援
+
+
+
+
+
+
+投資人專區
+
+
+
+股東服務專區
+公司治理
+財務資訊
+利害關係人專區 公開資訊觀測站
+
+
+
+
+
+
+加入RDC
+
+
+隱私權聲明
+
+
+網站地圖
+
+Copyright © 2014 All Rights Reserved by RDC Semiconductor Co., Ltd.
+
+ 
+
+
+
+
+
+
+
+
+
+
+RDC Semiconductor Co., Ltd.- Exhibitor List - Taiwan Automation Intelligence and Robot Show
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+Home
+Media Center
+
+Latest News
+Press Release
+Exhibitor's Press Release
+Media Partner
+Media Contact
+
+
+For Visitors
+
+Visit Information
+Online Registration
+Floor Plan
+Exhibitor List
+Exhibitor Product
+Transportation
+Accommodation
+
+
+For Exhibitors
+
+Registration Info
+Apply for Waiting List
+Exhibitor Schedule
+Downloads
+Contact Sales
+Exhibitors Online Service
+
+
+
+Events/Seminar
+
+Show Report
+
+Post Show Report
+Show Gallery
+
+
+Concurrent Expo
+Contact Us
+
+
+
+
+
+logo
+
+中
+
+contact
+
+
+
+
+Home / For Visitors / Exhibitor List / RDC Semiconductor Co., Ltd.
+
+
+
+
+Exhibitor List
+ 
+
+
+
+
+
+Product
+Exhibitor
+
+
+
+
+
+
+ 
+
+
+
+
+RDC Semiconductor Co., Ltd.
+ 
+Cartgoery: Smart Manufacturing
+Booth No.:
+        K629
+      
+ 
+
+
+
+
+ 
+ 
+
+Main Product
+
+ 
+    1. IA Systems & the Optimization Platform (IATOP)    -RDC Real-time Platform   -EtherCAT Master Protocol Stack   -EtherCAT Slave Protocol Stack   -Motion 2. Customized ASIC service demonstration3. BLDC motor control and driver turnkey solution
+     
+
+
+
+
+
+
+
+
+
+Online Inquiry
+ 
+
+
+
+* Name
+
+
+
+ 
+ * Email 
+
+
+
+ 
+ * Tel
+
+
+
+
+
+* Message
+
+
+
+ 
+* Verification Code
+
+
+                 Refresh
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+For Visitors
+ 
+
+Visit Information
+Online Registration
+Floor Plan
+Exhibitor List
+Exhibitor Product
+Transportation
+Accommodation
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Info.
+ 
+Taiwan Automation Intelligence and Robots Association
+Tel: +886-4-2358-1866 (Ext. 21)
+Fax: +886-4-2358-1566
+Contact Person: Ms. Aurora Ho 
+E-mail: tairos@tairos.tw
+
+ 
+Copywriting & web design by Chan Chao
+
+Chan Chao Int'l Co., Ltd. 
+Tel: +886-2-2659-6000 
+Fax: +886-2-2659-7000
+Contact Person: Ms. Mindy Huang
+E-mail: show@chanchao.com.tw
+
+
+Advisor
+ 
+Ministry of Science and Technology, R.O.C.
+        Ministry of Education
+        Industrial Development Bureau Ministry of Economic Affairs
+        Ministry of Economic Affairs, R.O.C.- Department of Industrial TechnologyThe Bureau of Foreign Trade, MOEA
+
+
+Organizer
+ 
+Taiwan Automation Intelligence and Robotics Association
+Chan Chao International Co., Ltd.
+
+
+ Copyright © Chan Chao Int'l Co., Ltd. | Contact Us
+
+TOP
+
+
+
+
+
+TechKinetics Pte. Ltd: RDC Semiconductors
+
+
+
+
+
+
+
+
+
+
+Attention: You are using an outdated browser and the page presentation cannot be loaded. Please download the latest version of your preferred browser to view the site as it was intended.
+
+
+
+
+ 
+
+
+News & EventsCompany ProfileProductsBothhandDigi InternationalConnectCore for i.MX6ULQNX SoftwareWIZnetOpgalQtRDC SemiconductorsTrainingCareersSoftware Sales Manager/EngineerSoftware EngineerContact Us
+
+ 
+
+
+RDC Semiconductors
+
+
+
+Home > Products > RDC Semiconductors
+
+ 
+
+
+
+
+
+Other Pages
+
+QNX Software
+WIZnet
+Digi International
+Bothhand
+RDC Semiconductors
+Qt
+Opgal
+
+
+
+            
+
+ 
+RDC Semiconductor Co., Ltd. (RDC in short) was founded in 1997. It was the first company in Taiwan to focus on the design and development of IC for high-end, low power 16/32 bit microprocessors. Led by its Chairman Jana Yi, a renown figure in the industry, RDC' core management team is comprised of a group of high-tech elites with extremely rich experience in the field. With headquarter located in Hsinchu Science-Based Industrial Park.
+Expertise in x86-compatible architecture helps RDC to deliver highly integrated and low power consumption SoC (System on Chip). Aside from developing x86-compatible CPU integrated wired and wireless technology, RDC is strengthening its competitiveness through increasing its control of key peripheral IPs and providing IAD (Internet Access Device) solution for x86-compatible embedded commercial applications.
+
+   
+For more product range and details, please visit: http://www.rdc.com.tw
+
+
+ 
+
+ 
+
+			Copyright © 2004 TechKinetics Pte. Ltd. Design and Development by Simple Box Web Development.
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Taiwan MPU,processor,microprocessor,SoC | RDC SEMICONDUCTOR CO., LTD. | Taiwantrade.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Service
+Service Overview
+Customized Sourcing
+
+
+台灣經貿網
+English
+正體中文
+日本語
+简体中文
+Русский
+Español
+Português
+العربية
+Indonesia
+Tiếng Việt Nam
+ภาษาไทย
+
+
+Favorites(0)
+Sign In
+Register
+guest no cache from cms-cm:172.17.0.6
+
+
+
+
+
+
+
+
+Product
+Product
+Supplier
+Sample
+
+
+
+
+Advanced
+
+
+
+
+
+Home
+
+Computer
+
+Industrial Computers & Accessories
+
+Embedded Products
+
+
+MPU,processor,microprocessor,SoC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MPU,processor,microprocessor,SoC
+
+Model No.：R8610
+Get Latest Price
+Supplier：RDC SEMICONDUCTOR CO., LTD.
+
+Contact SupplierNo sign-up required.
+
+
+
+
+
+
+
+
+Product Detail
+Company Profile
+
+
+Add To Favorites
+
+
+Key Features(1)Embedded RISC Controller–	Full 32 bit RISC architecture–	Supports diverse operation systems, including MS-Windows, Linux and most of the popular 32 bit RTOS–	6-stage pipeline–	Operation frequency: 133 MHz–	Supports MMU function which includes 32 TLB entries(2)MAC Controller–	Supports two-port 10/100 Fast Ethernet MAC–	IEEE 802.3u MII interface–	IEEE 802.3x flow control in full-duplex mode–	Descriptor architecture for packet TX/RX(3)Interrupt Controller–	Provides two 8259 compatible interrupt controllers which are cascaded internally–	Independent programmable level/edge-triggered interrupt channels–	Serial IRQ supported(4) DMA Controller–	Provides two 8237 DMA compatible controllers which are cascaded internally–	4 channels for 8-bit DMA transfer and 3 channels for 16 bit transfer(5)Two USB 2.0 Host Port Support–	Supports HS, FS and LS(6) FIFO UART Port–	A high performance UART port with transmit and receive FIFOs–	Supports the programmable baud rate generator with the data rates from 50 to 115,200 bps–	The character options are programmable for 1 start bit; 1, 1.5 or 2 stop bits; even, odd or no parity; 5~8 data bits(7) PCI Control Interface–	Supports PCI Rev 2.1 specification–	32-bit bus interface–	Supports PCI clock at 33 MHz–	Supports PCI host–	Supports PCI master/ slave–	Up to 133 Mbytes / Sec. maximum bandwidth–	Supports up to 3 external master devices on PCI–	Provides four PCI interrupt channels(8) LPC ( Low Pin Count ) Bus Interface–	LPC revision 1.0 compliant–	Supports LPC/FWH ( Firmware Hub ) compliant interfaces–	Provides the interface to connect an LPC/FWH Flash ROM or Super I/O chip–	Supports LPC DMA–	Supports serial IRQ–	Supports 8/16/32-bit transfer size–	Supports bus master request in DMA channel 4(9) X-Bus Interface–	Provides the interface to boot ROM BIOS & DOC (Disk On Chip).–	Supports 8/16 bit data width–	Provides ROMCS_n for booting from X-bus Flash ROM –	Supports from 64K byte to max 16M byte ROM space addressing–	Supports two independent and programmable CSs ( Chip Selects )(10) SDRAM Control Interface–	PC100/ PC133 compliant–	Supports 16-bit data bus width–	Supports speeds up to 133 MHz and above–	Supports maximum 128 MB memory space(11) On-Chip L1 16KB Cache–	Unified instructions and data cache–	Supports write through for cache write policy–	Snooping mechanism support for data coherence between main memory and cache–	Direct map(12) General Programmable I / O–	Supports 58 programmable I/ O pins–	Each GPIO pin can be individually configured to be an input/output pin(13) Counter / Timers–	8254 compatible timers–	Provides three independent programmable timers / counters–	Supports a watchdog timer (WDT)–	Supports a speaker output(14) Real Time Clock ( External )–	Provides a direct interface to external RTC chips(15) Operating Voltage Range–	Core voltage :  1 .8 V ± 5%–	I / O voltage :  3.3 V ± 10%(16) Operating Temperature: 0 ~ +70°C(17) Package Type–	24mm x 24mm, 216- pin LQFP–	13mm x 13mm, 225 -pin LFBGA(18) RoHS Compliant
+ 
+ 
+
+Main Export Market
+Asia, Middle East, Europe, Africa, North America, Central America, South America, Oceania
+Last Update :
+									2011-02-08
+
+Loading ...
+				            	
+                              
+
+Product Detail
+Company Profile
+
+
+
+				              The purpose of Slider Kit is to gather common slideshow-like jQuery functionalities (such as news sliders, photos galleries/sliders, carousels, tabs menus)
+				            
+
+				              When tracking mouse movement, you usually need to know the actual position of the mouse pointer. The event object that is passed to the handler contains some information about the mouse coordinates.
+				            
+
+Contact Supplier
+
+
+
+To:
+
+Mrs.Maggie
+				                        					    , RDC SEMICONDUCTOR CO., LTD.
+
+
+ 
+
+MPU,processor,microprocessor,SoC
+
+
+
+
+
+CC:
+Use ; or , to separate multiple recipients
+
+
+
+
+
+
+
+
+From:
+
+
+Sign in to have your contact details filled in for youSign In
+
+
+
+ 
+
+*Email
+Send a Copy to Myself
+
+
+
+ 
+
+*Re-enter Email
+Verified
+
+
+
+ 
+
+*Subject
+
+
+
+
+ 
+
+*Message
+
+
+
+
+ 
+
+
+Upload file formats : htm、html、doc、docx、pdf、txt、jpg、gif、png
+
+
+
+ 
+
+Estimated Purchase Amount USD
+
+
+
+
+ 
+
+
+Continue
+
+
+
+
+
+
+
+Contact Supplier
+
+
+
+ 
+
+
+
+
+
+ 
+
+*Full Name
+
+Mrs.
+Ms.
+Mr.
+
+
+
+ 
+
+*Company Name
+
+
+
+
+ 
+
+*Location
+
+Please Select a Country
+Czech Republic
+Finland
+Gibraltar
+Other
+Montenegro
+Serbia
+Niue
+Equatorial Guinea
+Guinea Bissau
+Kenya
+Federal Islamic Republic of the Comoros
+Liberia
+Lesotho
+Libyan Arab Jamahiriya
+Monaco
+Madagascar
+Mali
+Mauritania
+Mauritius
+Malawi
+Mozambique
+Namibia
+Niger
+Nigeria
+Reunion
+Rwanda
+Seychelles
+Sudan
+Sierra Leone
+Senegal
+Somalia
+Swaziland
+Chad
+Togo
+Tunisia
+Uganda
+South Africa
+Zambia
+Zimbabwe
+Greenland
+Guadeloupe
+St. Pierre and Miquelon
+St. Helena
+United States of America
+Anguilla
+Netherlands Antilles
+Barbados
+Bermuda
+Belize
+Costa Rica
+Dominica
+Dominican Republic
+Guatemala
+Honduras
+Haiti
+Jamaica
+Saint Christopher (St. Kitts) and Nevis
+Cayman Islands
+Saint Lucia
+Montserrat
+Mexico
+Nicaragua
+Panama
+El Salvador
+Trinidad And Tobago
+St Vincent
+Virgin Islands (British)
+Virgin Islands (U.S.)
+Nevis
+F T/C C A
+BR T/C C A
+Argentina
+Aruba
+Bolivia
+Chile
+Colombia
+Falkland Islands (Malvinas)
+French Guiana
+S. Georgia And The S. Sandwich Islands
+Guyana
+Peru
+Paraguay
+Uruguay
+Venezuela
+American Samoa
+Australia
+Cocos (Keeling) Islands
+Christmas Island
+Fiji
+Guam
+Kiribati
+Marshall Islands
+Northern Mariana Islands
+Maldives
+New Caledonia
+Norfolk Island
+Nauru
+New Zealand
+French Polynesia
+Papua New Guinea
+Palau
+Solomon Islands
+Tokelau
+Tonga
+East Timor
+Tuvalu
+Vanuatu
+Wallis And Futuna Islands
+Samoa
+Tahiti
+Other Oceania
+US T/P P A
+Antarctica
+Bougainville Island
+British Indian Ocean Territory
+Neutral Zone
+Pitcairn
+Svalbard And Jan Mayen Islands
+French Southern Territories
+Mayotte
+Gambia
+Guinea
+Bangladesh
+Brunei Darussalam
+Mainland China
+Hong Kong
+Indonesia
+India
+Japan
+Cambodia
+Korea, North Korea
+Korea, South Korea
+Lao People's Democratic Republic
+Myanmar
+Mongolia
+Macau
+Malaysia
+Nepal
+Pakistan
+Singapore
+Thailand
+Taiwan, ROC
+Viet Nam
+Ryukyu
+United Arab Emirates
+Afghanistan
+Bahrain
+Israel
+Iraq
+Iran
+Jordan
+Kuwait
+Lebanon
+Oman
+Qatar
+Syrian Arab Republic
+Turkey
+Yemen
+Andorra
+Armenia
+Austria
+Bosnia and Herzegovina
+Belgium
+Bulgaria
+Belarus
+Switzerland
+Germany
+Denmark
+Estonia
+Spain
+Faroe Islands
+France
+France, Metropolitan
+United Kingdom
+Georgia
+Greece
+Croatia
+Hungary
+Ireland
+Iceland
+Kyrgyzstan
+Kazakhstan
+Liechtenstein
+Luxembourg
+Latvia
+Morocco
+Republic of Moldova
+Malta
+Netherlands
+Norway
+Poland
+Portugal
+Romania
+Russian Federation
+Sweden
+Slovenia
+Slovakia (Slovak Republic)
+San Marino
+Tajikistan
+Turkmenistan
+Ukraine
+Uzbekistan
+Vatican City
+Angola
+Burkina Faso
+Burundi
+Benin
+Botswana
+Central African Republic
+Congo
+Cote D'Ivoire
+Cameroon
+Cape Verde
+Djibouti
+Algeria
+Egypt
+Western Sahara
+Eritrea
+Ethiopia
+Gabon
+Ghana
+Sao Tome and Principe
+Tanzania, United Republic Of
+Canada
+Heard and Mc Donald Island
+Antigua And Barbuda
+Bahamas
+Cuba
+Grenada
+Martinique
+Puerto Rico
+Turks And Caicos Islands
+Brazil
+Ecuador
+Suriname
+Cook Islands
+Micronesia, Federated States Of
+United States Minor Outlying Islands
+Bhutan
+Sri Lanka
+Philippines
+Cyprus
+Saudi Arabia
+Albania
+Azerbaijan
+Italy
+Lithuania
+Macedonia
+Democratic Republic of Congo
+Republic of Somaliland
+Republic of South Sudan
+State of Palestine
+
+
+
+ 
+
+*Company Site
+Not Available
+
+
+
+ 
+
+Business PhoneExt.
++#
+
+
+
+ 
+
+
+Submit
+
+
+
+
+
+
+
+
+
+
+
+Loading ...
+                              
+
+
+
+
+
+
+Loading ...
+				      		
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Submit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rdc Semiconductor Co.,Ltd - Research and Markets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABOUT US
+BLOG
+CONTACT US
+FAQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+USD
+EUR
+GBP
+
+
+
+USD 
+▼
+
+USD
+EUR
+GBP
+
+
+
+
+
+
+€
+EUR
+$
+USD
+£
+GBP
+
+
+
+
+
+
+
++353-1-416-8900REST OF WORLD
+
+
+
+1-800-526-8630U.S. (TOLL FREE)
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Advanced
+
+
+
+
+
+
+
+
+Price:
+€75EUR$92USD£70GBP 
+View Pricing
+
+
+
+
+
+
+ Home
+/
+
+
+
+
+
+
+Categories
+/
+
+
+
+
+
+
+Company Reports
+
+
+
+
+
+
+
+
+
+
+
+ 
+SELECT A FORMAT
+
+
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+                                                        Single User
+                                                         Electronic (PDF)
+
+
+
+
+
+
+                                                                            
+                                                                            This is a single user license, allowing one specific user access to the product. The report will be emailed to you.  The report is sent in PDF format. 
+
+                                                
+
+
+
+
+
+
+
+  ADD TO BASKET
+
+
+
+
+                                                                        order by fax
+                                        
+
+                                            need a quote ?
+                                        
+
+
+
+ 
+
+OUR CLIENTS
+
+
+
+
+
+
+
+
+
+
+
+
+HAVE A QUESTION?
+EMAIL US
+VIEW FAQs
+
+
+
+RECENTLY VIEWED PRODUCTS
+
+
+
+
+
+
+
+
+
+
+
+Partner of Research and MarketsVACCINATING 40,000 CHILDREN IN 2017
+
+
+
+
+
+WHY CHOOSE RESEARCH AND MARKETS?
+
+
+
+WORLD'S LARGEST SELECTION
+
+
+
+
+TRUSTED BY THE BEST
+
+
+
+
+CUSTOMER FOCUSED
+
+
+
+
+SAFE & SECURE
+
+
+
+
+
+
+
+Thank you very much for your prompt, kind and helpful support.
+
+Ms Cynthia Alomia
+Senior Buyer
+Vertex Pharmaceuticals
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rdc Semiconductor Co.,Ltd
+
+
+
+ID: 644824
+Company Profile
+June 2017
+69 Pages
+
+Wright Investors Service                                
+
+
+
+
+
+
+
+
+
+
+
+DESCRIPTION
+
+
+TABLE OF CONTENTS
+
+
+SAMPLES
+
+
+
+                                                                COMPANIES MENTIONED
+                                                            
+
+
+FORMATS
+
+
+
+
+
+
+
+1 of 5
+
+
+
+
+
+
+
+
+                            LOGIN TO ACCESS EXECUTIVE SUMMARY
+                        
+
+
+
+                            PRINTER FRIENDLY
+                        
+
+
+
+                            PRINTABLE PDF BROCHURE
+                        
+
+SEND TO A FRIEND
+
+
+
+
+
+
+                                                                                A textual analysis of the financial results for Rdc Semiconductor Co.,Ltd  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company, including contact information, senior officers and Wright Quality Rating analyses is also provided.Quantitative analyses of financial statements (Income Statement, Balance Sheet and Sources of Capital), extensive ratio tables (Accounting, Asset Utilization, Employee Efficiency, Fixed Charges Coverage, Leverage Analysis, Liquidity Analysis, Per-share Data and Profitability Analysis) and proprietary Wright Quality Rating® analyses tables. The Wright Quality Rating measures the liquidity of the stock and the financial strength, profitability and corporate growth characteristics of Rdc Semiconductor Co.,Ltd A textual review of the financial results of Rdc Semiconductor Co.,Ltd versus Silicon Touch Technology Inc., Analog Integrations Corporation and Syncomm Technology Corporation is includedrepo.   The comparative analysis,of these companies,compares Sales, Company Valuations and Financial Position. Also included for Rdc Semiconductor Co.,Ltd are: Company Description, Recent Stock Performance, Profitability Analysis, Dividend Analysis, and key data items. Additional research for Rdc Semiconductor Co.,Ltd includes tables with up to 10-years of history of computed ratios, sales, earnings, and security prices. The company’s financial results are compared in a series of reports (i.e. financial statements, sales, key ratios, etc.) to global industry averages.
+                                                                            
+
+Note: Product cover images may vary from those shown
+
+
+
+
+2 of 5
+
+
+
+
+
+
+
+                            LOGIN TO ACCESS EXECUTIVE SUMMARY
+                        
+
+
+
+                            PRINTER FRIENDLY
+                        
+
+
+
+                            PRINTABLE PDF BROCHURE
+                        
+
+SEND TO A FRIEND
+
+
+
+
+
+
+                                                                    Company FundamentalsCompany ProfileComparative Business AnalysisSummary Analysis per ShareSales AnalysisPrice AnalysisEarnings and Dividends AnalysisFinancial Statement AnalysesBalance Sheet - Common SizeBalance Sheet - Year-Year Percent ChangeBalance Sheet - Five-Year AveragesIncome Statement - Common SizeIncome Statement - Year-Year Percent ChangeIncome Statement - Five-Year AveragesSources of CapitalFinancial Ratio AnalysesAccounting RatiosAsset UtilizationEmployee EfficiencyFixed Charges CoverageLeverage AnalysisLiquidity AnalysisPer-Share DataProfitability AnalysisWright Quality Rating AnalysesInvestment AcceptanceFinancial StrengthProfitability and StabilityCorporate Growth
+
+Note: Product cover images may vary from those shown
+
+
+
+
+3 of 5
+
+
+
+
+
+LOADING...
+
+
+
+
+
+
+
+4 of 5
+
+
+
+
+
+
+
+                            LOGIN TO ACCESS EXECUTIVE SUMMARY
+                        
+
+
+
+                            PRINTER FRIENDLY
+                        
+
+
+
+                            PRINTABLE PDF BROCHURE
+                        
+
+SEND TO A FRIEND
+
+
+
+
+
+
+                                                                                    Taiwan
+                                                                                
+Note: Product cover images may vary from those shown
+
+
+
+
+5 of 5
+
+
+
+
+
+
+Note: Product cover images may vary from those shown
+
+
+
+
+
+
+
+
+RELATED PRODUCTS 
+
+
+
+
+
+
+
+Tekcore Co., Ltd
+
+
+ Company Profile
+69 Pages
+July 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Shih Her Technologies Inc.
+
+
+ Company Profile
+69 Pages
+July 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Myson-Century Incorporated
+
+
+ Company Profile
+69 Pages
+June 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Analog Integrations Corporation
+
+
+ Company Profile
+69 Pages
+June 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Mospec Semiconductor Corp.
+
+
+ Company Profile
+69 Pages
+July 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Golden Long Teng Development Co Ltd
+
+
+ Company Profile
+69 Pages
+June 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Eon Silicon Solution Inc.
+
+
+ Company Profile
+56 Pages
+August 2015
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Weltrend SemiConductor Incorporated
+
+
+ Company Profile
+69 Pages
+June 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Service & Quality Technology Co Ltd
+
+
+ Company Profile
+69 Pages
+May 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+MOSPEC SEMICONDUCTOR CORP. - Company Profile and Financial Analysis
+
+
+ Company Profile
+August 2015
+
+
+
+
+FROM
+
+
+€87EUR$99USD£78GBP
+
+
+
+
+
+
+
+
+ close
+
+Rdc Semiconductor Co.,Ltd
+
+
+
+ close
+
+ASK A QUESTION
+
+*Required Information
+ 
+Product: Rdc Semiconductor Co.,Ltd
+
+
+YOUR QUESTION*
+
+
+
+
+
+
+
+YOUR CONTACT DETAILS*
+
+Title
+Mr
+Mrs
+Dr
+Miss
+Ms
+Prof
+
+
+
+
+First Name
+
+
+
+
+Last Name
+
+
+
+
+Email Address
+
+
+
+
+Country
+Please Select
+------------------------------
+United States
+United Kingdom
+Germany
+Canada
+Australia
+------------------------------
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica-Casey
+Antarctica-Scott
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Ascension Island
+Ashmore and Cartier Islands
+Atlantic East
+Atlantic West
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Clipperton Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaco 
+Cyprus
+Czech Republic
+Democratic Republic of Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Islas Malvinas)
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guiana
+French Polynesia
+Gabon
+Gambia
+Gaza Strip
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Ivory Coast
+Ivory Coast (Cote d'Ivoire)
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte Islands
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Islands
+North Korea
+Northern Ireland
+Northern Marianas
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Christopher Nevis
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome
+Saudi Arabia
+Scotland
+Senegal
+Serbia
+Serbia and Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Tahiti
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City (Holy See)
+Venezuela
+Vietnam
+Virgin Islands
+Wallis And Futuna
+West Bank
+West Indies
+Western Sahara
+Yemen
+Yugoslavia
+Zaire
+Zambia
+Zimbabwe
+
+
+
+
+Phone Number
+
+
+
++1
++11
++1-242
++1-246
++1-264
++1-268
++1-284
++1-345
++1-441
++1-473
++1-649
++1-664
++1-670
++1-671
++1-684
++1-758
++1-767
++1-784
++1-787
++1-809
++1-868
++1-869
++1-876
++20
++212
++213
++216
++218
++220
++221
++222
++224
++225
++226
++227
++228
++229
++23
++230
++231
++232
++233
++234
++235
++236
++237
++238
++239
++240
++241
++242
++243
++244
++245
++247
++248
++249
++250
++251
++252
++253
++254
++255
++256
++257
++258
++260
++261
++263
++264
++265
++266
++267
++268
++269
++27
++284
++290
++291
++297
++298
++299
++30
++31
++32
++33
++34
++350
++351
++352
++353
++354
++355
++356
++357
++358
++359
++36
++370
++371
++372
++373
++374
++375
++376
++377
++378
++379
++380
++381
++382
++385
++386
++387
++389
++39
++40
++41
++420
++421
++423
++43
++44
++45
++46
++47
++48
++49
++500
++501
++502
++503
++504
++505
++506
++507
++509
++51
++52
++53
++54
++55
++56
++57
++58
++590
++591
++592
++593
++594
++595
++596
++597
++598
++599
++60
++61
++6101
++62
++63
++64
++65
++66
++670
++672
++673
++674
++675
++677
++678
++679
++680
++681
++682
++683
++685
++686
++687
++688
++689
++691
++692
++7
++81
++82
++84
++850
++852
++853
++855
++856
++86
++869
++871
++874
++880
++886
++90
++91
++92
++93
++94
++95
++960
++961
++962
++963
++964
++965
++966
++967
++968
++970
++971
++972
++973
++974
++975
++976
++977
++98
++992
++993
++994
++995
++996
++998
+
+
+
+
+
+
+
+
+
+
+
+
+We request your telephone number so we can contact you in the event we have difficulty reaching you via email.
+                    We aim to respond to all questions on the same business day.
+
+
+
+
+
+ 
+
+
+
+ close
+
+SEND TO A FRIEND
+
+* Required Information
+ FRIEND'S DETAILS
+
+Full Name*
+
+
+
+
+Email Address*
+
+
+
+
+Message to friend
+
+
+
+
+YOUR CONTACT DETAILS
+
+Full Name*
+
+
+
+
+Email Address*
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ close
+
+Request a Quote
+
+ 
+Please complete the below form and click "send request" to obtain a pdf quotation and order form.
+This document will be available for immediate download and will also be emailed to you.
+            
+* Required Information
+
+
+YOUR ADDRESS
+
+Address 1*
+
+
+
+
+Address 2
+
+
+
+
+Address 3
+
+
+
+
+City*
+
+
+
+
+Postal/ZIP Code
+
+
+
+
+Country*
+Please Select
+------------------------------
+United States
+United Kingdom
+Germany
+Canada
+Australia
+------------------------------
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica-Casey
+Antarctica-Scott
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Ascension Island
+Ashmore and Cartier Islands
+Atlantic East
+Atlantic West
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Clipperton Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaco 
+Cyprus
+Czech Republic
+Democratic Republic of Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Islas Malvinas)
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guiana
+French Polynesia
+Gabon
+Gambia
+Gaza Strip
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Ivory Coast
+Ivory Coast (Cote d'Ivoire)
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte Islands
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Islands
+North Korea
+Northern Ireland
+Northern Marianas
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Christopher Nevis
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome
+Saudi Arabia
+Scotland
+Senegal
+Serbia
+Serbia and Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Tahiti
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City (Holy See)
+Venezuela
+Vietnam
+Virgin Islands
+Wallis And Futuna
+West Bank
+West Indies
+Western Sahara
+Yemen
+Yugoslavia
+Zaire
+Zambia
+Zimbabwe
+
+
+
+
+State
+
+
+
+
+
+YOUR DETAILS
+
+Title*
+Mr
+Mrs
+Dr
+Miss
+Ms
+Prof
+
+
+
+
+First Name*
+
+
+
+
+Last Name*
+
+
+
+
+Organisation*
+
+
+
+
+Email Address*
+
+
+
+
+Phone Number*
+
+
+
++1
++11
++1-242
++1-246
++1-264
++1-268
++1-284
++1-345
++1-441
++1-473
++1-649
++1-664
++1-670
++1-671
++1-684
++1-758
++1-767
++1-784
++1-787
++1-809
++1-868
++1-869
++1-876
++20
++212
++213
++216
++218
++220
++221
++222
++224
++225
++226
++227
++228
++229
++23
++230
++231
++232
++233
++234
++235
++236
++237
++238
++239
++240
++241
++242
++243
++244
++245
++247
++248
++249
++250
++251
++252
++253
++254
++255
++256
++257
++258
++260
++261
++263
++264
++265
++266
++267
++268
++269
++27
++284
++290
++291
++297
++298
++299
++30
++31
++32
++33
++34
++350
++351
++352
++353
++354
++355
++356
++357
++358
++359
++36
++370
++371
++372
++373
++374
++375
++376
++377
++378
++379
++380
++381
++382
++385
++386
++387
++389
++39
++40
++41
++420
++421
++423
++43
++44
++45
++46
++47
++48
++49
++500
++501
++502
++503
++504
++505
++506
++507
++509
++51
++52
++53
++54
++55
++56
++57
++58
++590
++591
++592
++593
++594
++595
++596
++597
++598
++599
++60
++61
++6101
++62
++63
++64
++65
++66
++670
++672
++673
++674
++675
++677
++678
++679
++680
++681
++682
++683
++685
++686
++687
++688
++689
++691
++692
++7
++81
++82
++84
++850
++852
++853
++855
++856
++86
++869
++871
++874
++880
++886
++90
++91
++92
++93
++94
++95
++960
++961
++962
++963
++964
++965
++966
++967
++968
++970
++971
++972
++973
++974
++975
++976
++977
++98
++992
++993
++994
++995
++996
++998
+
+
+
+
+
+
+
+
+
+
+
+                                PO Number
+                                (if applicable)
+
+
+
+
+
+
+
+PRODUCT FORMAT
+
+
+
+
+License
+Format
+Properties
+Price
+
+
+
+
+ 
+SINGLE USER Electronic (PDF)                                                
+
+
+
+                                            The report will be emailed to you.  The report is sent in PDF format. 
+                                        
+
+                                            This is a single user license, allowing one specific user access to the product.
+                                        
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+* The price quoted above is only valid for 30 days. Please submit your order within that time frame to avail of this price as all prices are subject to change.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     3228.TW Stock Price & News - RDC Semiconductor Co. Ltd. - Wall Street Journal                                    DOW JONES, A NEWS CORP COMPANY         News Corp is a network of leading companies in the worlds of diversified media, news, education, and information services.  DOW JONES  Barron's BigCharts DJX Dow Jones Newswires Factiva Financial News Mansion Global MarketWatch   Newsmart NewsPlus Private Markets Risk & Compliance WSJ.com WSJ Pro WSJ Conference WSJ Video    NEWS CORP  Big Decisions Business Spectator Checkout51 Harper Collins New York Post PropTiger REA   realtor.com Storyful The Australian The Sun The Times              DJIA ▲  22027.59 0.05%        S&P 500 ▲  2472.34 -0.21%        Nasdaq ▲  6349.96 -0.20%        U.S. 10 Yr ▲  9/32 yield 2.237%        Crude Oil ▲  49.22 -0.75%        Euro ▲  1.1871 0.12%                 Subscribe Now Sign In      The Wall Street Journal     Asia Edition  U.S. Asia Europe India 中国 (China) 日本 (Japan)    3 August 2017   Today's Paper     Sections    My Journal       Home   World   U.S.   Politics   Economy   Business   Tech   Markets   Opinion   Arts   Life   Real Estate   Today's Paper   SHOW ALL SECTIONS HIDE ALL SECTIONS     World Home   Africa Asia Canada China Europe Latin America Middle East   Economy   World Video     U.S. Home   Economy Law New York Politics   Real Time Economics Washington Wire   Journal Report U.S. Video What's News Podcast     Politics Home   Washington Wire   Politics Video WSJ/NBC News Poll     Economy Home   Real Time Economics   Economic Forecasting Survey Economy Video     Business Home   Management Tech/WSJ.D   Aerospace & Defense Autos & Transportation Commercial Real Estate Consumer Products Energy Entrepreneurship Financial Services Food & Services Health Care Hospitality Law Manufacturing Media & Marketing Natural Resources Retail   CFO Journal CIO Journal CMO Today Logistics Report Risk & Compliance   Heard on the Street   Business Video Journal Report Business Podcast     Tech Home   CIO Journal   Geoffrey Fowler Christopher Mims Joanna Stern Li Yuan   Billion Dollar Startup Club Tech Video Tech Podcast Startup Stock Trader     Markets Home   Bonds Commercial Real Estate Commodities & Futures Currencies Deals Financial Services Funds Stocks Your Money   Heard on the Street MoneyBeat Wealth Adviser Ahead of the Tape   CFO Journal Journal Report Market Data Markets Video Markets Podcast MoneyBeat Podcast Watching Your Wealth Podcast     Opinion Home   James Freeman William A. Galston Daniel Henninger Holman W. Jenkins William McGurn Peggy Noonan Mary Anastasia O'Grady Jason Riley Kimberley A. Strassel   Books Film Television Theater Art Masterpiece Series Music Dance Opera Exhibition Cultural Commentary   Editorials Commentary Letters to the Editor The Weekend Interview Potomac Watch Podcast Foreign Edition Podcast Opinion Video Notable & Quotable Best of the Web Newsletter Morning Editorial Report Newsletter     Arts Home   Books Film Television Theater Art Masterpiece Series   Arts Video WSJ. Magazine     Life Home   Careers Cars Food & Drink Health Ideas Real Estate Science Sports Style & Fashion Travel   Life Video WSJ. Magazine WSJ Puzzles The Future of Everything     Real Estate Home   Commercial Real Estate House of the Day Mansion   Real Estate Video      HIDE ALL SECTIONS      Aim higher, reach further.  Get the Wall Street Journal $12 for 12 weeks. Subscribe Now   Sign In   Reveal Navigation Options    Subscribe Sign In               RDC Semiconductor Co. Ltd. 3228 (TPEx)      search    View All companies            N/A CST N/A     NT$0.00 TWD     0.00 0.00%     Volume 0       Volume 0     65 Day Avg Vol      1 Day Range 0.00 - 0.00     52 Week Range            1 D 5 D 1 M 3 M YTD 1 Y 3 Y    $ %            Advanced Charting Compare     Compare to Benchmark:   DJIA   S&P 500   GLOBAL DOW   NASDAQ   Technology      Compare to    Add          Open  0.00   Prior Close  0.00 (N/A)     1 Day    3228 0.00%     DJIA 0.05%     S&P Mid Cap 400 -0.19%     Technology 0.48%                             Overview     Overview Profile Financials Income Statement Balance Sheet Cash Flow Research & Ratings Historical Prices Options Advanced Charting              News RDC Semiconductor Co. Ltd.3228  No news for 3228 in the past two years.         Key Stock Data     ?    P/E Ratio (TTM) The Price to Earnings (P/E) ratio, a key valuation measure, is calculated by dividing the stock's most recent closing price by the sum of the diluted earnings per share from continuing operations for the trailing 12 month period.  Earnings Per Share (TTM) A company's net income for the trailing twelve month period expressed as a dollar amount per fully diluted shares outstanding. Market Capitalization Reflects the total market value of a company. Market Cap is calculated by multiplying the number of shares outstanding by the stock's price. For companies with multiple common share classes, market capitalization includes both classes. Shares Outstanding Number of shares that are currently held by investors, including restricted shares owned by the company's officers and insiders as well as those held by the public. Public Float The number of shares in the hands of public investors and available to trade. To calculate, start with total shares outstanding and subtract the number of restricted shares. Restricted stock typically is that issued to company insiders with limits on when it may be traded. Dividend Yield A company's dividend expressed as a percentage of its current stock price.      Key Stock Data    P/E Ratio (TTM) N/A     EPS (TTM)  NT$-0.44      Market Cap NT$1.44 B     Shares Outstanding 67.79 M     Public Float N/A     Yield 3228 has not issued dividends in more than 1 year.     Latest Dividend N/A     Ex-Dividend Date N/A       ?    Shares Sold Short The total number of shares of a security that have been sold short and not yet repurchased. Change from Last Percentage change in short interest from the previous report to the most recent report. Exchanges report short interest twice a month. Percent of Float Total short positions relative to the number of shares available to trade.      Short Interest ()   N/A      ?    Money Flow Uptick/Downtick Ratio Money flow measures the relative buying and selling pressure on a stock, based on the value of trades made on an "uptick" in price and the value of trades made on a "downtick" in price. The up/down ratio is calculated by dividing the value of uptick trades by the value of downtick trades. Net money flow is the value of uptick trades minus the value of downtick trades. Our calculations are based on comprehensive, delayed quotes.      Stock Money Flow   N/A              Advertisement         Competitors 3228      Company Change P/E (TTM)    6202 Holtek Semiconductor Inc.   +0.34% +0.20   16.16     5425 Taiwan Semiconductor Co. Ltd.   - -   -     5314 Myson Century Inc.   - -   -        More information on 3228   Competitor Data Provided By: capital cube           Profile 3228      RDC Semiconductor Co., Ltd. is engaged in the design and development of IC for high-end, low power 16/32 bit microprocessors. It provides microcontroller units (MCUs), wired/wireless network processor system on chips (SoCs) and microprecessor SoCs. Its MCUs are used...      6F-1, No.2-1, Li-Hsin Rd., Hsinchu 300 Taiwan   Email Website Map       Employees  89    Sector  Semiconductors      Sales or Revenue  250.36 M    Industry  Technology      1Y Sales Change  -8.12%    Fiscal Year Ends December 31 Download Reports          Chien Nan Yi Chairman       Chang Cheng Yap General Manager       Shih Min Lue Director-Finance Department & Spokesman       Li Ta Lu Director        More             Research & Ratings RDC Semiconductor Co. Ltd.3228 Per-Share Earnings, Actuals and Estimates      Quarterly   Annual    3228 will report FY 2017 earnings on false   3228 will report Q2 earnings on false         Actual     Analyst Range     Consensus             N/A     N/A     N/A     N/A      N/A     N/A                     0.40  0.20  0.00  -0.20         N/A     N/A     N/A     N/A                      Q2 2017 Estimate Trends     Current: NT$-   1 month ago: NT$-   3 months ago: NT$-       Q3 2017 Estimate Trends     Current: NT$-   1 month ago: NT$-   3 months ago: NT$-         FY 2017 Estimate Trends     Current: NT$-   1 month ago: NT$-   3 months ago: NT$-       FY 2018 Estimate Trends     Current: NT$-   1 month ago: NT$-   3 months ago: NT$-         More         Financials RDC Semiconductor Co. Ltd.3228     Quarterly   Annual      Net Income      0  4M                 0  -4M  -8M  -12M  -16M                 Mar 2016   Jun 2016   Sep 2016   Dec 2016   Mar 2017         0                 0  -30M  -60M  -90M                '12 '13 '14 '15 '16         Mar 2017 5-quarter trend   Net Income Growth -41.79%                     Sales or Revenue 58.72 M                Sales or Revenue Growth -2.90%                     EBITDA -440,000                          2016 5-year trend  Net Income Growth +58.79%                     Sales or Revenue 250.36 M                Sales or Revenue Growth -8.12%                     EBITDA +18.84 M                            More             Overview    Notes & Data Providers   Real-time U.S. stock quotes reflect trades reported through Nasdaq only. International stock quotes are delayed as per exchange requirements. Indexes may be real-time or delayed; refer to time stamps on index quote pages for information on delay times. Quote data, except U.S. stocks, provided by SIX Financial Information. Data is provided "as is" for informational purposes only and is not intended for trading purposes. SIX Financial Information (a) does not make any express or implied warranties of any kind regarding the data, including, without limitation, any warranty of merchantability or fitness for a particular purpose or use; and (b) shall not be liable for any errors, incompleteness, interruption or delay, action taken in reliance on any data, or for any damages resulting therefrom. Data may be intentionally delayed pursuant to supplier requirements.  All of the mutual fund and ETF information contained in this display was supplied by Lipper, A Thomson Reuters Company, subject to the following: Copyright  © Thomson Reuters. All rights reserved. Any copying, republication or redistribution of Lipper content, including by caching, framing or similar means, is expressly prohibited without the prior written consent of Lipper. Lipper shall not be liable for any errors or delays in the content, or for any actions taken in reliance thereon. Bond quotes are updated in real-time. Source: Tullett Prebon. Currency quotes are updated in real-time. Source: Tullet Prebon. Fundamental company data and analyst estimates provided by FactSet. Copyright  FactSet Research Systems Inc. All rights reserved.        Advertisement                  
+
+
+
+
+
+RDC Semiconductor Co. Ltd. | Company Spotlight Profile
+
+
+
+
+
+
+
+
+
+
+
+Warning! This site has features that require JavaScript.
+
+
+
+
+
+
+
+
+
+
+
+
+watch
+
+
+
+
+
+
+
+
+        RDC Semiconductor Co. Ltd.
+        
+      
+
+Sector: 
+
+
+            Electronic Components Not Elsewhere Classified
+          
+Region: 
+
+Taiwan
+
+
+ 
+  : 
+
+|
+Gretai Securities Market: 3228
+
+
+  
+
+
+
+Listed in: 
+Manufacturing
+
+
+        Similar to:
+Mitsubishi Electric Corp.
+
+
+
+
+
+♣ Request Investor Kit
+
+ View Contact Details
+
+
+
+
+
+
+
+ News & Analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Featured Company
+
+
+Kellogg Company
+Battle Creek, MI, US
+For more than 100 years, Kellogg Company has delivered great taste, nutrition and value to our consumers. And, today, our...
+
+
+
+
+
+
+
+ You may also be interested in:
+
+
+
+
+
+Mitsubishi Electric Corp.
+
+
+
+Tokyo, TY, JP
+Mitsubishi Electric Corp. engages in the manufacture, development, and sale of electric and electronic equipment. It operates in the following...
+
+
+
+
+AURES Technologies
+
+
+
+Lisses, IF, FR
+AURES Technologies specializes in importing and marketing computer terminals and equipment. Its products and services include point-of-sale computer terminals and...
+
+
+
+
+Blackrock Massachusetts Tax-Exempt Trust (MHE)
+
+
+
+Wilmington, DE, US
+
+
+
+
+
+
+
+
+
+
+
+×
+Contact Investor Relations
+
+
+
+RDC Semiconductor Co. Ltd.
+Investor Relations
+         6F-1, No.2-1, Li-Hsin Rd.,Hsinchu Science Park
+         Hsinchu  300
+         Taiwan
+Phone:886.3.6662866
+
+SIC Code:
+3679
+
+
+
+Close
+
+
+
+
+×
+Request Investor Kit
+
+
+
+
+
+
+
+
+
+Select your country:
+
+
+Afghanistan
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire, St. Eust., Saba
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+Brit. Indian Ocean Terr.
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo (Dem. Rep. of the)
+Congo (Rep. of)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curacao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Terr.
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard & McDonald Islands
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kyrgyzstan
+La Reunion
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marianas
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Korea
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russian Federation
+Rwanda
+Saint Barthelemy
+Saint Helena
+Saint Kitts and Nevis
+Saint Martin
+Saint Pierre & Miquelon
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Marten
+Slovakia
+Slovenia
+So Georgia & So Sand Isl
+Solomon Islands
+Somalia
+South Africa
+South Korea
+Spain
+Sri Lanka
+St Vincent & Grenadines
+St. Lucia
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+U.S. Minor Outlying Isl.
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Virgin Islands
+Wallis & Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+
+
+
+
+
+E-mail:
+
+
+required field!
+
+
+
+First Name:
+
+
+required field!
+
+
+
+Last Name:
+
+
+required field!
+
+
+
+
+Street 1:
+
+
+required field!
+
+
+
+Street 2:
+
+
+
+
+
+City:
+
+
+required field!
+
+
+
+State/Province:
+
+
+-
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+
+
+required field!
+
+
+
+Postal Code:
+
+
+required field!
+
+
+
+
+
+
+ I consent to receiving periodic email communications from RDC Semiconductor Co. Ltd.. 
+            
+
+ I'd like to receive more information from PrecisionIR.
+            
+
+
+
+
+
+
+
+Watch
+
+Watch this company to be notified of upcoming earnings calls and new content with a weekly digest sent to your email.
+            
+ Watch content
+            
+
+
+
+
+Go!
+Cancel
+
+
+
+
+
+
+Company Spotlight is available free to investors through the financial support of participating companies. In return for receiving this free information, your contact data are made available to the companies whose reports you have ordered, and to other parties as described in our privacy policy, which you can read in its entirety here. In addition, you agree to be contacted by these companies from time to time. You may select at any time to opt out of these communications by using the unsubscribe link in your email(s) or by sending an email to nacustomerservice@precisionir.com.
+
+
+
+×
+ Enter your email address to watch this company.
+
+
+
+
+E-mail (required):
+
+
+required field!
+
+
+
+First Name:
+
+
+
+
+
+Last Name:
+
+
+
+
+
+
+
+
+
+
+
+
+    Signup 
+
+
+
+
+×
+  Enter your email address and notification preferences.
+
+
+
+
+A reminder has been added for this event.
+
+
+
+    Add to Calendar
+  
+
+
+Add to Google Calendar
+
+
+Add to Live Calendar
+
+
+Add to Yahoo! Calendar
+
+
+Add to iCalender
+
+
+Add to Outlook Calendar
+
+
+
+
+
+
+
+Or
+
+
+
+
+
+Send me a reminder
+
+
+
+
+Weeks
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+
+
+
+Days
+
+0
+1
+2
+3
+4
+5
+6
+
+
+
+Hours
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+
+
+
+Minutes
+
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+
+
+
+
+
+before the event.
+
+Please enter a valid email to watch!
+
+First Name
+
+Last Name
+
+
+
+
+
+
+
+
+    Signup 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+RDC Semiconductor Co., Ltd. (金丽科技) Company Profile | EMIS
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+
+
+
+Menu
+
+
+
+
+
+
+
+Search
+
+
+
+
+$0.00 (0)
+Basket
+
+
+
+Basket
+
+
+ 
+
+ 
+
+
+
+
+ 
+ 
+
+
+
+Total
+
+
+USD
+$0.00
+
+
+ 
+
+View basket
+Checkout now
+ 
+
+ 
+
+
+
+
+
+
+Industry Reports
+Company Reports
+M&A Reports
+
+
+
+                                 
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home  Company reports search  RDC Semiconductor Co., Ltd. (金丽科技)     
+
+
+
+
+
+
+
+ 
+
+
+ Taiwan                
+RDC Semiconductor Co., Ltd. (金丽科技)
+An EMIS Company Report
+EMIS is a Euromoney Institutional Investor plc company
+USD 29.95
+
+Industry: Semiconductor and Other Electronic Component Manufacturing 
+Available in: English & Chinese
+Format: PDF Download
+Most recent financial data: 2016
+
+Buy full report
+ 
+ 
+ 
+ 
+
+
+
+
+What’s included?
+This report extracts all available information about this company from EMIS' database of company information. The Table of Contents on the right indicates the categories of information that will be included in your report upon purchase.
+Download a sample report
+
+
+
+
+
+
+ 
+
+
+Company Tear Sheet                    
+                        (locked content will be provided in the purchased report)
+                    
+
+
+Contact Information                    
+
+
+
+
+
+Headquarters
+                                6-1/F, 2-1, LiHsin Rd., Science-Based Ind.Park HsinChu                                
+                                Hsinchu County;                                Hsinchu County;                                Map 
+
+
+Tel: 886-3-666
+Fax: 886-3-563
+
+
+
+
+Website:
+http://www.rdc.com.tw 
+
+
+
+ 
+
+Company Description                    
+
+
+
+
+                        RDC Semiconductor Co., Ltd. was established in 1997. Company stock issued public offering in 2002. And it began to trade at GreTai Securities Market in 2005. Compared with other domestic companies taking 16 as a starting point for MCU design, RDC is the first domestic IC design company focusing on high-frequency and energy-saving 16/32bit MCU, which results in obvious market segmentation. The majority of products are used in the areas of network, information appliance and industrial PC. Most competitors producing microcontrollers are foreign companies, such as AMD, AMD, ST and Infineon. As to the network processor IC, there are SOHO Router, Print Server and WLAN Router. In 2006, the company introduced a new product putting the CPU onto a single chip plus a DRAM, which only costs about $ 20. There are many adverse factors, such as too many competitors, price cutting to scramble for orders, pressure on product development resulted from the rapidly changing market and short product life cycles.                    
+
+
+NAICS Industry Classification                    
+
+
+Basic Information                    
+
+
+Key Executives                    
+
+
+Ownership Details                    
+
+
+Key Financial Highlights                    
+
+
+Financial Performance Charts                    
+
+
+Top Competitors                    
+
+ 
+
+Financial Statements
+
+Annual Statements                    
+
+
+Ratios                    
+
+ 
+
+EMIS Credit Analytics
+
+EMIS Benchmark Score                    
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+What this report allows you to do
+EMIS company reports provide the data you need to make accurate assessments about businesses you are interested in.
+
+
+
+
+Identify sales opportunities
+
+Does the company match your target demographic?
+Who are the key executives?
+
+
+
+
+Conduct risk assessment
+
+Is the company creditworthy?
+Is it financially stable?
+
+
+
+
+Carry out strategic research
+
+Is the company a potential business partner/investment opportunity?
+What is its financial performance?
+
+
+ 
+ 
+ 
+ 
+
+
+You’re in good company
+EMIS company reports are used extensively by the world’s biggest companies, financial institutions, professional service companies and universities to assess businesses in emerging markets. 
+
+
+
+
+
+
+
+800,000+
+company profiles
+We have information on both public and private companies across 125 countries.
+
+
+2,000+
+clients
+EMIS is the go-to information source on emerging market companies for the world’s most prestigious businesses.
+
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+Enterprise ACCESS
+If you need regular and ongoing access to company information, you should consider a subscription to the full EMIS service.
+EMIS company profiles are part of a larger information service where that combines company, industry and country data and analysis for over 125 emerging markets on a unique information platform.
+REQUEST A DEMO
+
+
+
+
+ 
+
+
+Contact us to learn more about our business solutions.
+ 
+ 
+
+
+
+
+
+FOLLOW US
+
+B
+
+
+
+ 
+ 
+
+
+
+Sign up to our newsletter
+Make sure you’re not the last to know by getting the latest insights on emerging markets straight to your inbox.
+
+
+Sign up
+
+ 
+ 
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RDC SEMICONDUCTOR CO., LTD.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Service
+Service Overview
+Customized Sourcing
+
+
+台灣經貿網
+English
+正體中文
+日本語
+简体中文
+Русский
+Español
+Português
+العربية
+Indonesia
+Tiếng Việt Nam
+ภาษาไทย
+
+
+Favorites(0)
+Sign In
+Register
+guest no cache from cms-cm:172.17.0.7
+
+
+
+
+
+
+
+
+Product
+Product
+Supplier
+Sample
+
+
+
+
+Advanced
+
+
+
+
+
+Home
+
+Company
+
+RDC SEMICONDUCTOR CO., LTD.
+
+
+
+
+
+
+
+
+
+
+RDC SEMICONDUCTOR CO., LTD.
+                                 Add to favorites
+
+
+
+
+
+
+
+
+Company Name:RDC SEMICONDUCTOR CO., LTD.
+Business Type:ODM
+Year Established:1997
+Tel (1):+886-3-6662866
+Zip Code:300
+Address:6F-1 No.2-1,  Lihsin Rd. Science Park, Hsinchu
+Brand:RDC
+Main Product:MCU,NPU, CPU, Processor, Microprocessor
+Main Export Market:United States of America
+																			,
+																		Mainland China
+																			,
+																		Japan
+																			,
+																		Korea, South Korea
+																			,
+																		Singapore
+																			,
+																		Taiwan, ROC
+																			,
+																		Germany
+																			,
+																		Brazil
+
+
+
+Products
+
+New
+
+
+Processor Platform..
+
+
+
+
+
+Processor Platform..
+
+
+
+
+
+MPU,processor,micr..
+
+
+
+
+
+MCU, processor, mi..
+
+
+
+
+Contact Information
+
+Owner:Mr.Jack Chen
+Contact Person:Mrs.Maggie
+																		(
+																		PM
+																		)
+																	
+Contact Supplier
+Office Address:300 6F-1 No.2-1,  Lihsin Rd. Science Park, Hsinchu
+Company Site:http://www.rdc.com.tw
+
+Last Update:
+													2013-02-25
+N/A
+N/A
+N/A
+
+Contact Supplier
+
+
+
+To:
+
+Mrs.Maggie
+																	,
+																	RDC SEMICONDUCTOR CO., LTD.
+
+
+
+
+CC:
+Use ; or , to separate multiple recipients
+
+
+
+
+
+
+
+
+From:
+
+
+Sign in to have your contact details filled in for youSign In
+
+
+
+ 
+
+*Email
+Send a Copy to Myself
+
+
+
+ 
+
+*Re-enter Email
+Verified
+
+
+
+ 
+
+*Subject
+
+
+
+
+ 
+
+*Message
+
+
+
+
+ 
+
+
+Upload file formats
+																		:
+																		htm、html、doc、docx、pdf、txt、jpg、gif、png
+
+
+
+ 
+
+Estimated Purchase Amount USD
+
+
+
+
+ 
+
+
+Continue
+
+
+
+
+
+
+
+Contact Supplier
+
+
+
+ 
+
+
+																		<
+																		Back to previous step
+
+
+
+ 
+
+*Full Name
+
+
+Mrs.
+Ms.
+Mr.
+
+
+
+ 
+
+*Company Name
+
+
+
+
+ 
+
+*Location
+
+Please Select a Country
+Czech Republic
+Finland
+Gibraltar
+Other
+Montenegro
+Serbia
+Niue
+Equatorial Guinea
+Guinea Bissau
+Kenya
+Federal Islamic Republic of the Comoros
+Liberia
+Lesotho
+Libyan Arab Jamahiriya
+Monaco
+Madagascar
+Mali
+Mauritania
+Mauritius
+Malawi
+Mozambique
+Namibia
+Niger
+Nigeria
+Reunion
+Rwanda
+Seychelles
+Sudan
+Sierra Leone
+Senegal
+Somalia
+Swaziland
+Chad
+Togo
+Tunisia
+Uganda
+South Africa
+Zambia
+Zimbabwe
+Greenland
+Guadeloupe
+St. Pierre and Miquelon
+St. Helena
+United States of America
+Anguilla
+Netherlands Antilles
+Barbados
+Bermuda
+Belize
+Costa Rica
+Dominica
+Dominican Republic
+Guatemala
+Honduras
+Haiti
+Jamaica
+Saint Christopher (St. Kitts) and Nevis
+Cayman Islands
+Saint Lucia
+Montserrat
+Mexico
+Nicaragua
+Panama
+El Salvador
+Trinidad And Tobago
+St Vincent
+Virgin Islands (British)
+Virgin Islands (U.S.)
+Nevis
+F T/C C A
+BR T/C C A
+Argentina
+Aruba
+Bolivia
+Chile
+Colombia
+Falkland Islands (Malvinas)
+French Guiana
+S. Georgia And The S. Sandwich Islands
+Guyana
+Peru
+Paraguay
+Uruguay
+Venezuela
+American Samoa
+Australia
+Cocos (Keeling) Islands
+Christmas Island
+Fiji
+Guam
+Kiribati
+Marshall Islands
+Northern Mariana Islands
+Maldives
+New Caledonia
+Norfolk Island
+Nauru
+New Zealand
+French Polynesia
+Papua New Guinea
+Palau
+Solomon Islands
+Tokelau
+Tonga
+East Timor
+Tuvalu
+Vanuatu
+Wallis And Futuna Islands
+Samoa
+Tahiti
+Other Oceania
+US T/P P A
+Antarctica
+Bougainville Island
+British Indian Ocean Territory
+Neutral Zone
+Pitcairn
+Svalbard And Jan Mayen Islands
+French Southern Territories
+Mayotte
+Gambia
+Guinea
+Bangladesh
+Brunei Darussalam
+Mainland China
+Hong Kong
+Indonesia
+India
+Japan
+Cambodia
+Korea, North Korea
+Korea, South Korea
+Lao People's Democratic Republic
+Myanmar
+Mongolia
+Macau
+Malaysia
+Nepal
+Pakistan
+Singapore
+Thailand
+Taiwan, ROC
+Viet Nam
+Ryukyu
+United Arab Emirates
+Afghanistan
+Bahrain
+Israel
+Iraq
+Iran
+Jordan
+Kuwait
+Lebanon
+Oman
+Qatar
+Syrian Arab Republic
+Turkey
+Yemen
+Andorra
+Armenia
+Austria
+Bosnia and Herzegovina
+Belgium
+Bulgaria
+Belarus
+Switzerland
+Germany
+Denmark
+Estonia
+Spain
+Faroe Islands
+France
+France, Metropolitan
+United Kingdom
+Georgia
+Greece
+Croatia
+Hungary
+Ireland
+Iceland
+Kyrgyzstan
+Kazakhstan
+Liechtenstein
+Luxembourg
+Latvia
+Morocco
+Republic of Moldova
+Malta
+Netherlands
+Norway
+Poland
+Portugal
+Romania
+Russian Federation
+Sweden
+Slovenia
+Slovakia (Slovak Republic)
+San Marino
+Tajikistan
+Turkmenistan
+Ukraine
+Uzbekistan
+Vatican City
+Angola
+Burkina Faso
+Burundi
+Benin
+Botswana
+Central African Republic
+Congo
+Cote D'Ivoire
+Cameroon
+Cape Verde
+Djibouti
+Algeria
+Egypt
+Western Sahara
+Eritrea
+Ethiopia
+Gabon
+Ghana
+Sao Tome and Principe
+Tanzania, United Republic Of
+Canada
+Heard and Mc Donald Island
+Antigua And Barbuda
+Bahamas
+Cuba
+Grenada
+Martinique
+Puerto Rico
+Turks And Caicos Islands
+Brazil
+Ecuador
+Suriname
+Cook Islands
+Micronesia, Federated States Of
+United States Minor Outlying Islands
+Bhutan
+Sri Lanka
+Philippines
+Cyprus
+Saudi Arabia
+Albania
+Azerbaijan
+Italy
+Lithuania
+Macedonia
+Democratic Republic of Congo
+Republic of Somaliland
+Republic of South Sudan
+State of Palestine
+
+
+
+ 
+
+*Company Site
+Not Available
+
+
+
+ 
+
+Business PhoneExt.
++#
+
+
+
+ 
+
+
+Submit
+
+
+
+
+
+
+
+
+
+
+
+
+Loading ...
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Submit
+
+

@@ -1,0 +1,3716 @@
+
+
+	MOBOTIX AG - asmag.com provide MOBOTIX AG latest product information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+Vertical Solutions
+Integrated systems
+asmag Reports
+Suppliers
+Products
+Security 50
+
+
+
+
+
+
+
+
+MOBOTIX AG
+
+
+
+
+
+
+
+
+Home
+Products
+Press Releases
+Company Info
+Downloads
+
+
+
+
+
+Register
+Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Product Ranges
+ Key Components, CCTV, IP Surveillance, Access Control, Intrusion Detection, Intercoms, Management Platform
+
+
+
+Contact Us
+
+
+MOBOTIX AG
+Country: Germany
+City: 67722 Langmeil
+Address: Kaiserstrasse
+Contact Person: Simone Gerrits 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home > Products
+Total Online Products: 31
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mobotix 6 MP Vandalism Camera v25
+inquiry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mobotix p25 6MP ceiling camera
+inquiry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX MxDisplay
+inquiry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX FlexMount S15 Thermal camera
+inquiry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX Hemispheric i25 camera
+inquiry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX  IP Video Door Station T25
+inquiry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX AllroundDual M15D Thermal camera
+inquiry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX Hospitality & Amusement solution
+inquiry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX Banking Sector solution
+inquiry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX Transport, Logistics & Traffic Solution
+inquiry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX Industry and Retail solution
+inquiry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX Public Sector solution
+inquiry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX banking solution
+inquiry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX BellRFID Module For The IP Video Door Stat...
+inquiry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX Hemispheric Q25 camera
+inquiry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX AllroundMono M25M camera
+inquiry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX MonoDome D25 camera
+inquiry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX AllroundDual M15 camera
+inquiry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 2
+
+
+
+
+
+
+
+
+
+MOBOTIX AG
+
+
+Company Info
+Products
+Press Release
+Downloads
+
+Supplier Management Center
+
+
+          	Links associated with the pages:
+            Company Website
+
+
+
+
+Copyright ©2017 asmag.com. All rights reserved.
+Privacy Policy
+Magazine
+Company Info
+Contact Us
+Site Map
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX Software Development Kits SDK
+
+
+
+
+
+
+
+
+Software Development Kits(SDK)
+
+
+
+
+
+
+
+EventStreamClient
+
+
+
+
+Version:
+1.0
+
+
+Status:
+Release
+
+
+Publishing Date:
+October 06, 2016
+
+
+Platforms:
+Linux, OS X, Windows
+
+
+Overview
+
+The EventStream Client SDK implements the EventStream command protocol that is needed to access the EventStream service of MOBOTIX cameras from a C++ application. This service provides access to live AV streams as well as to recordings stored on the camera. In addition, the EventStream service includes a notification mechanism that allows the camera to send event notifications to the client. The entire communication is handled through a single TCP connection. The platform specific packages include the required library and header files and some sample C++ code together with a documentation of the usage.
+
+Release Notes
+
+
+This is the initial release of EventStream Client SDK for Linux (x86_64), OS X (x86_64) and Windows (x86_32/64).
+Here you find a short description of the SDK's features and its usage.
+Further information is included in the file 'doc/ReadMe.txt' which is contained in the platform specific packages.
+
+Download Packages
+
+
+Linux
+eventstreamclient-1-0-0-Linux_x86_64.tgz
+
+
+OS X
+eventstreamclient-1-0-0-Darwin_x86_64.tgz
+
+
+Windows
+eventstreamclient-1-0-0-Windows.zip
+
+
+
+
+
+
+
+
+MxMessageSystem
+
+
+
+
+Version:
+1.1
+
+
+Status:
+Release
+
+
+Publishing Date:
+October 11, 2016
+
+
+Platforms:
+Linux, OS X, Windows 32Bit
+
+
+Overview
+
+The MOBOTIX MxMessageSystem allows actions and alarm notifications to be sent and received throughout the entire network. The MOBOTIX MxMessageSystem SDK helps system integrators and software developers to integrate the MxMessageSystem into their own C++ applications as well as to send and receive messages.
+
+Release Notes
+
+
+Second release of MxMessageSystem SDK for Linux (Ubuntu 16.4, x86_64), OS X (x86_64) and now additionally Windows (x86_32).
+Supports sending and receiving of MxMessages.
+Further information are included in the ReadMe.html which is included in the zip file.
+
+Obsolete versions
+
+V1.0 (Dec. 17, 2015)
+
+Download Package
+
+MxMessageSystem SDK 1.1 package for Linux, OS X and Win32:MxMessageSystem-SDK-Demo-v1_1.zip
+
+
+
+
+
+
+
+MxCameraSystem
+
+
+
+
+Note: 
+You can download the entire current SDK 1.0.2 package
+	here.
+
+
+
+Obsolete SDK releases:
+	1.0.1,
+	0.9.1,
+	0.8.3
+
+
+
+
+Overview
+
+The MOBOTIX MxCameraSystem SDK is intended to support software developers of,
+e.g., surveillance solutions and/or video management systems in integrating
+MOBOTIX network cameras into their products. Typical integration tasks
+here include
+
+retrieval and decoding of MxPEG video/audio streams for the purpose of displaying, analyzing, converting, post processing or storing
+	programmatically changing camera settings and parameters
+	programmatically making use of camera events
+	programmatically triggering signal output and other camera actions, as for
+			example FTP transfers or the sending of mail messages
+
+To assist in solving these tasks, MOBOTIX offers three different
+levels of integration support providing the developer with varying degrees of
+control. These levels are
+
+ the Camera HTTP API
+ the MxPEG ActiveX Component
+ the Open Source MxPEG Decoding Library (C++)
+
+and they will be discussed more thoroughly in the following sections.
+
+
+
+The intended audience for the Software Development Kit are system integrators
+and developers with a background in image compression. In order to reasonably
+make use of the included source code, solid experience with C++ development is
+required.
+
+
+Please note that MOBOTIX AG's regular product support does not include
+assistance in programming with the SDK's C++ library. However, feel free to
+contact mxpeg-sdk@mobotix.com if you
+have questions of this sort or regarding MxPEG in general.
+
+
+What's New in Release 1.0.2
+The sole purpose of this release is to publish an updated version of the MOBOTIX MxPEG ActiveX Component.
+
+New MOBOTIX MxPEG ActiveX Component version 1.6.3.0
+
+What's New in Release 1.0.1
+The major changes clearly have been improvements to the included C++ library
+package:
+
+First off, there's been a change in functional scope. The package no
+			longer contains any user interface and/or video display elements, but
+			concentrates on the actual MxPEG decoding instead. Thus, the dependency on
+			Qt has been eliminated. As another consequence the portable MxPEG Player
+			application is no longer part of MxPEG SDK.
+		
+	Audio Support : The decoder interfaces have been extended in order to also
+			hand decoded audio data over to the client application code for further
+			processing. Note however that in order to actually hear anything, you will
+			have to provide your own audio output routines for your specific target
+			platform - a fact that is now also true for displaying video.
+		
+	As was requested by many customers, the package now also compiles under
+			Microsoft Visual C++. At MX, we're working and testing with Visual Studio
+			2005.
+
+	We are currently migrating considerable parts of our codebase to a
+			component oriented design, with the MxPEG SDK C++ package actually being
+			a subset of it. As a result, the MxPEG SDK code has also been reworked and
+			molded into components, and its infrastructure and interfaces have
+			received a fair amount of streamlining in the process.
+		
+	The actual MxPEG decoder engine has grown more mature: it implements a
+			larger subset of the JPEG stream specification including an additional
+			subsampling mode (enabling it to also properly digest MJPEG streams coming
+			in from certain Axis and MerritLiLin camera models), hands more frame
+			parameters over to the client application and has an improved handling of
+			error conditions.
+
+
+Version
+
+
+MOBOTIX MxCameraSystem SDK Release
+1.0.2
+
+
+Release Date
+Feb. 26, 2010
+
+
+ActiveX Version
+1.6.3.0
+
+
+Compatible Camera Models
+All MOBOTIX cameras
+
+
+Compatible Camera Software Versions
+All versions
+
+
+
+Top of Page
+
+
+Camera HTTP API
+
+The HTTP API allows your software to interact with MOBOTIX cameras by
+invoking special CGI programs via standard HTTP transactions
+and by processing potential reply messages. The HTTP API is supported by all
+MOBOTIX camera models and, among other things, can be used to
+
+retrieve single camera images or continous MxPEG / MJPEG
+			video streams via the HTTP protocol
+	programmatically change camera settings and parameters
+	programmatically make use of camera events
+	programmatically trigger signal output and other camera actions, as for
+			example FTP transfers or the sending of mail messages
+
+
+Camera HTTP API
+
+HTTP API documentation, reproduced from the camera's
+						 online help.
+Image retrieval /
+						 streaming CGI documentation, reproduced from the camera's
+						 online help.
+Remote configuration CGI documentation,
+						 reproduced from the camera's online help.
+
+
+
+
+Note:
+Please note that these API pages are not generic, but depend on the camera model and software version. It is thus highly recommended to open the HTTP API and CGI Parameters of the MOBOTIX Camera help topics on your camera to find the options that are available.
+
+
+
+Top of Page
+
+
+MxPEG ActiveX Component
+
+The MxPEG ActiveX Component shipping with each MOBOTIX camera
+can be used as a plugin in Microsoft Internet Explorer, thus
+allowing for playback of live or stored MxPEG video streams in the web
+browser, including audio if desired. MJPEG streams can be displayed as
+well, but obviously without sound.
+
+
+What makes the MxPEG ActiveX Component furthermore attractive in regard
+to integration efforts, is that it can be integrated into 3rd party MS
+Windows applications in order to
+
+display MxPEG streams received fom MOBOTIX cameras in
+			the ActiveX component's display window, optionally including audio playback
+	display MJPEG video streams received fom MOBOTIX cameras
+			in the ActiveX component's display window (no audio playback in this case)
+	retrieve and decode MxPEG or MJPEG streams, handing
+			the individual frame bitmaps over to the client application for further
+			processing
+
+
+MxPEG ActiveX Component
+
+Demo Page including Interface Description (also used to install the MxPEG ActiveX Component automatically
+MxPEG ActiveX Component for 64-bit computers (manual installation)
+MxPEG ActiveX Component for 32-bit computers(manual installation)
+
+
+
+Top of Page
+
+
+MxPEG C++ Library
+As part of the Software Development Kit, MOBOTIX releases a C++
+library in open source form under the BSD License. It provides
+MxPEG decoding to system integrators and runs on Windows, Linux and
+Mac OS X.
+System integrators are encouraged to incorporate the code in their own
+software products. Since the sources are freely available, potential
+shortcomings if they should be considered as such can be easily fixed, as
+missing features for a given specific application scenario can be added.
+By using the MxPEG SDK C++ library, application developers have the most
+flexible access to MxPEG or MJPEG video streams coming in from
+MOBOTIX cameras. In contrast to the ActiveX component described earlier,
+due to their platform-independent nature, these classes can be used to build
+applications that can be deployed on Windows, Linux or Mac OS X.
+The C++ library basically implements an object-oriented decoder
+infrastructure allowing for the processing of
+
+MxPEG streams, including video and optional audio
+	MJPEG streams, video-only
+
+In the typical case your client application will feed an MxPEG stream
+into the decoder, and be then presented with a sequence of
+
+ decoded video tiles, 16x16 pixels, three-byte-RGB
+ audio blocks
+
+all together with the necessary timestamp information for proper
+resynchronization. Furthermore, entire frames can be dumped in raw RGB
+or YUV formats, as well as they can be re-packed into individual single
+JPEG frames.
+
+To complete the package, there is also an optional Qt-dependent part
+of the library that provides support for the aforementioned camera HTTP API by
+implementing classes for comfortably performing HTTP GET transactions
+with remote cameras.
+Please note again that assistance in programming with the SDK's C++ library
+is not included in MOBOTIX AG's regular product support. Note also that
+solid experience with C++ development is required to reasonably put to use the
+included source code.
+
+Open Source, Cross-Platform C++ Library
+
+README
+LICENSE
+Online Reference Documentation
+Source Code Package
+MxPEG Converter (mxgconv) Binaries for 
+						Windows,
+						Linux,
+						Mac OS X (Intel)
+						
+
+
+
+Top of Page
+
+
+MxPEG Format Documentation
+
+To help you better understand the aforementioned C++ library's source code, and
+to enable you to extend it in case you need access to a larger subset of the
+stream data, our Development Tools package is completed by a detailed
+description of the MxPEG stream format.
+
+MxPEG Format Documentation
+
+
+Why MxPEG?
+How does it work?
+Finding the right streaming parameters
+
+Instead of I-frames...
+
+
+Accessing Recordings (in preparation)
+			
+Through the event list of the camera
+In the file server's directory structure
+Searching a recording close to a given time
+
+
+Detailed Data Format Description
+			
+MxPEG Frame/Stream Format
+MxPEG Stream Header (M1IMG)
+MxPEG Frame Header (MXF)
+Audio
+
+
+
+
+
+
+Top of Page
+
+
+
+
+Overview
+Camera HTTP API
+MxPEG ActiveX Component
+MxPEG C++ Library
+MxPEG Format Documentation
+
+Copyright © 2005-2007, MOBOTIX AG. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX - Products
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Home
+      /      Products
+        
+
+
+
+
+
+
+
+
+Company
+Products
+Solutions
+Partners
+Investors
+Support 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview
+
+
+Camera Line Mx6 
+
+Outdoor Cameras 
+
+Indoor Cameras 
+
+Thermographic Cameras 
+
+Optics 
+
+Software 
+
+Home Automation 
+
+MxThinClient 
+
+Accessories 
+
+  
+
+
+Technology 
+
+
+Light Sensitivity 
+
+Thermal 
+
+3D Motion Detection 
+
+Motion Analysis 
+
+Object Statistics 
+
+Behavioral Analytics 
+
+Heatmap 
+
+  
+
+
+Architects & Engineers 
+
+
+MxPlanner A&E 
+
+  
+
+
+Support 
+
+
+Contact us 
+
+  
+
+
+
+
+
+Product Portfolio
+
+
+21.06 MB
+
+Product Overview
+
+
+10.12 MB
+
+
+
+
+ 
+
+Right menu
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Not logged in
+
+
+
+
+
+
+Not registered?
+
+
+
+
+
+
+
+
+Personal product list
+
+
+
+
+
+
+
+
+News
+
+
+13/07/2017
+The Mx6 Camera Line Is Complete: Indoor Models With More Performance Now Also Available 
+09/05/2017
+Single Lens Outdoor Cameras with Higher Performance 
+04/05/2017
+MxManagementCenter 1.4 with optimized features
+
+
+
+ 
+
+
+
+
+
+
+Products 
+ Camera Line Mx6
+
+
+
+
+
+
+
+ 
+Dome D25/D26
+Allround M25/M26
+Flex S15M/S26
+Hemispheric Q25/Q26
+IP Video Door Station T25
+DualDome D15/D16
+AllroundDual M15/M16
+DualFlex S15/S16
+Vandalism V15/V16
+
+
+Outdoor Cameras
+
+
+
+ 
+Indoor v25/v26
+Indoor p25/p26
+Indoor c25/c26
+Indoor i25/i26
+
+
+Indoor Cameras
+
+
+
+
+ 
+AllroundDual M15/M16 Thermal
+DualFlex Thermal
+
+
+Thermographic Cameras
+
+
+
+ 
+MxManagementCenter
+
+
+Software
+
+
+
+
+ 
+IP Video Door Station T25
+BellRFID
+MxDisplay+
+Mx2wire
+ExtIO
+
+
+Home Automation
+
+
+
+ 
+System Components
+Power Supply
+Mounting
+Housing • Mounts
+Interface Boxes
+Lenses • Sensors
+Cables
+Special and Spare Parts
+
+
+Accessories
+
+
+ 
+ 
+
+
+
+ 
+
+
+
+
+MOBOTIX AG
+Kaiserstrasse
+D-67722 LangmeilGermany
+Phone:+49 6302 9816-0
+Support:+49 6302 9816-102info-intl@mobotix.com
+
+
+
+
+
+
+
+
+
+Address for GPS:
+Am Stundenstein 2
+67722 WinnweilerGermany
+ 
+
+
+
+
+Career |
+            Imprint |
+            Disclaimer |
+            Site Map |
+            COS |
+            General Terms and Conditions of Purchase |            Home
+
+
+            Contact us: info@mobotix.com
+
+
+
+
+
+top
+
+
+
+
+
+
+
+	MOBOTIX Industry and Retail solution - MOBOTIX AG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+Vertical Solutions
+Integrated systems
+asmag Reports
+Suppliers
+Products
+Security 50
+
+
+
+
+
+
+
+
+MOBOTIX AG
+
+
+
+
+
+
+
+
+Home
+Products
+Press Releases
+Company Info
+Downloads
+
+
+
+
+
+Register
+Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Product Ranges
+ Key Components, CCTV, IP Surveillance, Access Control, Intrusion Detection, Intercoms, Management Platform
+
+
+
+Contact Us
+
+
+MOBOTIX AG
+Country: Germany
+City: 67722 Langmeil
+Address: Kaiserstrasse
+Contact Person: Simone Gerrits 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home > Products
+
+
+MOBOTIX Industry and Retail solution
+
+
+Product Category:Solution > Retail > Convenient Store
+Supplier: MOBOTIX AG
+Region: Germany
+Updated: 2015/02/19
+
+
+
+
+
+Key Specifications
+Whether they are used to monitor jammed conveyor belts, to watch over plant rooms, to remotely monitor production machinery or to record activities at long-term test facilities – MOBOTIX cameras can facilitate industrial processes by assuming diagnosis and monitoring tasks. In the event of malfunctions, the cameras automatically issue alarms and, thanks to their high-resolution images, enable reliable remote diagnoses. Industrial applications are typically very demanding, however, the MOBOTIX outdoor models are weatherproof from -30°C to +60°C (-22°F to + 140°F) and certified according to the IP65 industrial standard.
+
+* high-resolution, detailed camera images
+* direct connection to the camera in the event of an alarm
+* rapid transfer of images without loss of time
+* greater deterrence due to improved chance of detection
+* secure system with authorized access only
+* authentic video and sound recording (lip-synchronous)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 of 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX AG
+
+
+Company Info
+Products
+Press Release
+Downloads
+
+Supplier Management Center
+
+
+          	Links associated with the pages:
+            Company Website
+
+
+
+
+Copyright ©2017 asmag.com. All rights reserved.
+Privacy Policy
+Magazine
+Company Info
+Contact Us
+Site Map
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX - Intelligent IP Video Solutions
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+        Home
+        
+
+
+
+
+
+
+
+
+Company
+Products
+Solutions
+Partners
+Investors
+Support 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
+
+
+MxMedia Library
+
+
+Trainings
+
+
+Events
+
+
+Demo Tools
+
+
+Infopackage (zip containing pdf)
+
+
+19.04 MB
+
+
+
+
+ 
+
+Right menu
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Not logged in
+
+
+
+
+
+
+Not registered?
+
+
+
+
+
+
+
+
+Personal product list
+
+
+
+
+
+
+
+
+News
+
+
+26/07/2017
+M16 Wins Golden PROTECTOR Award 
+26/07/2017
+MOBOTIX at Security Expo in Sydney 
+13/07/2017
+The Mx6 Camera Line Is Complete: Indoor Models With More Performance Now Also Available
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to MOBOTIXPowerful new Mx6 camera system with H.264/ONVIF opens new horizons.We made it! The new Mx6 camera line is now ready for full-scale production. For the first time it brings together the video codec MxPEG developed specially for security applications, as well as the H.264 industry standard. This is a revolutionary step for us. The ONVIF-compatible* camera system opens new application and integration options for our partners and our end customers.Mx6 will be presented as a part of an intelligent solution on a worldwide roadshow.* ONVIF-ready; full Profile S support with future software update
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+MxInsight for downloadBeyond Standards. Solutions Meeting Your Needs.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solutions for Your Business
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+MOBOTIX AG
+Kaiserstrasse
+D-67722 LangmeilGermany
+Phone:+49 6302 9816-0
+Support:+49 6302 9816-102info-intl@mobotix.com
+
+
+
+
+
+
+
+
+
+Address for GPS:
+Am Stundenstein 2
+67722 WinnweilerGermany
+ 
+
+
+
+
+Career |
+            Imprint |
+            Disclaimer |
+            Site Map |
+            COS |
+            General Terms and Conditions of Purchase |            Home
+
+
+            Contact us: info@mobotix.com
+
+
+
+
+
+top
+
+
+
+
+
+
+
+MOBOTIX AG - Products, News and Contacts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Categories
+                    
+
+
+
+                        Company A-Z
+                    
+
+
+
+                        Latest
+                    
+
+
+
+
+                        Get Listed
+                    
+
+
+
+                        News
+                    
+
+
+
+                        Events
+                    
+
+
+
+
+                        Client Login
+                    
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I'm looking for...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home 
+         / 
+        
+Companies 
+         / 
+        
+MOBOTIX AG        
+
+
+
+MOBOTIX AG
+
+
+
+German System Manufacturer of Professional Video Management (VMS) and Smart IP CamerasMOBOTIX is a software company with own IP camera products, all made in Germany. Fields of application include high-security areas like prisons, airports or soccer stadiums because MOBOTIX systems have no restrictions in terms of number of users or cameras. The professional VMS and the video analysis are parts of the system offering and free of charge without any license fees. In addition, software updates are free via download and transform every MOBOTIX product into a future-proof investment with one of the highest returns on investment. Since 2015, all MOBOTIX cameras have used 6MP "Moonlight Sensor Technology", which is very light sensitive and produces brilliant videos even in difficult low-light conditions without any motion blur.
+
+
+
+
+
+
+MOBOTIX AG
+http://www.mobotix.com
+
+Email Us
+T: +49-6302 9816 0
+
+
+
+Kaiserstrasse
+D-67722
+Langmeil
+GERMANY
+
+
+
+Smart Building Alarm
+Security Cameras
+Video Surveillance Camera
+Smoke And Heat Detection
+Computer Software
+
+
+
+
+ 
+
+           Follow: 
+
+  
+
+  
+
+
+       	 SEND ENQUIRY
+    	
+
+
+
+
+IFSEC International 2017
+The leading security and fire event, 20-22 June, Excel London
+
+Register
+
+
+
+
+
+
+         Filter by ▼ 
+      
+
+
+
+Products & Services
+News
+
+
+
+
+
+
+
+
+
+
+Product
+M16 – Professional Outdoor Dual Lens Camera
+· High-Performance Dual Lens Camera For The Use Around the Clock  Automatic switchover from day to night sensor system
+
+
+· Modular System For Maximum Flexibility  Sensors and lenses can easily be customized with interchangeable sensor
+modules for self-assembly
+...
+View product page
+
+
+
+
+
+
+
+
+
+Product
+D16 – Professional Outdoor Dual Dome Camera
+· High-Performance Dual Lens Camera With Two Flexibly Adjustable Sensor
+Modules  Applicable as day and/or night system or as 180° camera with detailed
+12MP panoramic view
+
+
+
+· Modular System For Maximum Flexibility  Sensors and lenses can easily be customized with intercha...
+View product page
+
+
+
+
+
+
+
+
+
+Product
+S16 Flex – Professional Outdoor Dual Camera
+· High-Performance Dual Lens Camera For Hidden Installation  Simultaneous covering of two areas with up to 3 m long sensor cables
+
+
+· Maximum Flexibility Thanks To Modular System  Huge offer of compatible sensor modules (Day, Night, Night LPF, Thermal)
+
+
+·&nbs...
+View product page
+
+
+
+
+
+
+
+
+
+Product
+M26 – Professional Outdoor Allround Camera
+· High-Performance Dome Camera For Indoor And Outdoor Use  Applicable as day or night system with detailed 6MP color or B/W Sensor
+
+
+· Wide Lens Variety From 180° Fisheye To 8° Super Tele  The right lens and sensor combination for each application
+
+
+
+· I...
+View product page
+
+
+
+
+
+
+
+
+
+Product
+D26 – Professional Outdoor Dome Camera
+· High-Performance Dome Camera For Indoor And Outdoor Use  Applicable as day or night system with detailed 6MP color or B/W Sensor
+
+
+· Modular System For Maximum Flexibility  Easy-to-exchange lenses with horizontal image angles from 15° to 103°
+
+
+· Intell...
+View product page
+
+
+
+
+
+
+
+
+
+Product
+Q26 – Professional Outdoor Hemispheric Camera
+· High-Performance Hemispheric Camera For Indoor And Outdoor Use  Applicable as day or night System with detailed 6MP color or B/W sensor
+
+
+· HD Premium Fisheye Lens Enables Perfect Overview Images  Monitoring of an entire room (ceiling mounted) or building front (wall
+...
+View product page
+
+
+
+
+
+
+
+
+
+Product
+S26 Flex – Professional Outdoor Hemispheric Camera
+· High-Performance Covered Camera For Indoor And Outdoor Use  Applicable as day or night System with detailed 6MP color or B/W sensor
+
+
+· Dezentralized Complete System – Also Perfect For Vehicle Applications  Image processing and recording inside camera, 180° lens for ro...
+View product page
+
+
+
+
+
+
+
+
+
+Product
+M16 Thermal – Professional Dual Outdoor Thermal Camera
+· High-end thermografic camera with thermal sensor   Thermal sensitivity 50 mK, thermal radiometry, image overlay,
+temperature detection range -40 to 550°C· Dual Lens System: Thermografic And Detailed Optical Images At The Same
+Time  One factory-assembled thermal sensor, ...
+View product page
+
+
+
+
+
+
+
+
+
+Product
+S16 Thermal – The World’s First Flexible Dual Thermal Camera
+· High-Performance Dual Lens Camera For Hidden Installation  Simultaneous covering of two areas with up to 3 m long sensor cables
+
+
+· Maximum Flexibility Thanks To Modular System  Huge offer of compatible sensor modules (Day, Night, Night LPF, Thermal)
+
+
+·&nbs...
+View product page
+
+
+
+
+
+
+
+
+
+Service
+v26 - MiniDome Indoor Camera
+• Professional Protection
+
+Stainless steel with reinforced dome cover
+
+• Shock Detection
+
+Push or impact generates an alarm
+
+• Video Sensor
+
+MxActivitySensor reducing false alarms
+
+• Event Recording
+
+Onboard (SD card) & direct to NAS
+
+• MxAnalytics integrate...
+View product page
+
+
+
+
+
+
+
+
+
+Product
+c26 – Hemispheric Indoor Ceiling Camera
+· 6MP model   MOBOTIX smallest 6MP hemispheric camera equipped with the 6 Megapixel
+Moonlight sensor technology providing best low light performance to cope with every indoor situation. 
+
+
+· Standalone   Full functionality @ zero bandwidth
+
+
+· Video...
+View product page
+
+
+
+
+
+
+
+
+
+Product
+p26 – Allround Indoor Ceiling Camera
+· 6MP model   Equipped with the 6 Megapixel Moonlight sensor technology providing best
+low light performance to cope with every indoor situation.
+
+
+· Standalone   Full functionality @ zero bandwidth
+
+
+· Video Sensor  MxActivitySensor reducing fa...
+View product page
+
+
+
+
+
+
+
+
+
+Product
+i26 – Hemispheric Indoor Camera
+· 6MP model 
+  Hemispheric camera equipped with the 6 Megapixel Moonlight sensor technology providing best low light performance to cope with every indoor situation.
+
+· Dezentralized Complete System
+  Image processing and recording inside camera, 180° lens for room...
+View product page
+
+
+
+
+
+
+
+
+
+Product
+MOBOTIX Management Center MxMC – Intuitive and flexible VMS
+· Intuitive and flexible Video Management  Intuitive and user friendly VMS for any kind of project scale. Flexible
+arrangement of layout views and cameras, perfectly adapted to your individual
+screen. Ideal support of the new camera line Mx6.
+
+
+· Gesture Control  Touch...
+View product page
+
+
+
+
+
+
+
+
+
+Product
+MxActivitySensor - Camera-Integrated Motion Analysis
+MxActivitySensor is a revolutionary technology that only registers traveling movement of people and objects, while dismissing all redundant changes in the scene. This drastically reduces the number of false alarms. Through the development of the MxActivitySensor, MOBOTIX has reinvented video motion detection,...
+View product page
+
+
+
+
+
+
+
+
+
+Product
+T25 – IP Video Door Station
+· HiRes 180° Panorama View  No blind spots from wall to wall thanks to hemispheric technology
+
+
+· Mobile Remote Access  Worldwide two-way video communication and door opening
+
+
+· Keyless Entry  Door opening via PIN or transponder 
+
+
+
+...
+View product page
+
+
+
+
+
+
+
+
+
+Product
+MxDisplay+ - Smart Door Station Touch Control
+MxDisplay+ is a wall-mountable Building Automation Server with touchscreen display, incorporating WiFi and RFID functionality. From this central glass console, you can add and configure all MOBOTIX devices. It manages access to the T25 IP-Video Door Station and to all MOBOTIX cameras, configures time-based ac...
+View product page
+
+
+
+
+
+
+
+
+
+Product
+V16 – Armored High-Security Dual-Lens Camera
+· Designed For Monitoring Extreme Environmental Conditions  Bullet-resistant high-grade steel and special glass lens cover –
+optimally equipped for hardest attacks
+
+
+· Needs-Based Lens Alignment Forwards And Downwards To Avoid Blind Spots  Intelligent video complete sys...
+View product page
+
+
+
+
+
+
+
+
+
+
+
+Other News
+380 MOBOTIX outdoor cameras protect UNESCO World Heritage Site Pompeii
+Smart & Cost-Efficient IP Video Solutions Made In Germany Protect People And Premises
+Read more
+
+
+
+
+
+
+
+
+
+Case Study
+Ness Tec helps secure the Torridon Hotel with ultra-reliable yet flexible MOBOTIX video security
+High profile luxury hotel gets a security upgrade with discreet installation and thermal imaging
+Read more
+
+
+
+
+
+
+
+
+
+Product News
+MOBOTIX at IFSEC Global
+IFSEC International 2015  MOBOTIX AG  stand G500
+Read more
+
+
+
+
+
+
+
+
+
+Case Study
+Glencairn Museum
+https://www.mobotix.com/other/References/Glencairn-Museum
+Read more
+
+
+
+
+
+
+
+
+
+Case Study
+Lexington School
+www.mobotix.com/eng_US/References/Lexington-School
+Read more
+
+
+
+
+
+
+
+
+
+Case Study
+Disposables UK Group
+https://www.mobotix.com/eng_GB/References/Disposables-UK-Group
+Read more
+
+
+
+
+
+
+
+
+
+Product News
+Princess Elisabeth Antarctic Base
+https://www.mobotix.com/other/References/Antarctic-Base
+Read more
+
+
+
+
+
+
+
+
+
+Product News
+MOBOTIX Expands Its Thermal Camera Range With More World First Innovations
+https://www.mobotix.com/other/Company/News/News-2014/MOBOTIX-Expands-Its-Thermal-Camera-Range-With-More-World-First-Innovations2
+Read more
+
+
+
+
+
+
+
+
+
+Product News
+MOBOTIX Presents New IP Video Solutions At Security 2014
+https://www.mobotix.com/other/Company/News/News-2014/MOBOTIX-Presents-New-IP-Video-Solutions-At-Security-2014
+Read more
+
+
+
+
+
+
+
+
+
+Product News
+MOBOTIX Corp. Continues To Prevail In Patent Dispute: USPTO Cancels Three Patents
+https://www.mobotix.com/other/Company/News/News-2014/MOBOTIX-Corp.-Continues-To-Prevail-In-Patent-Dispute-USPTO-Cancels-Three-Patents
+Read more
+
+
+
+
+
+
+
+
+
+
+List your business for free
+Create a business listing on the UK's leading security and fire directory
+Get Listed
+
+
+Get the IFSEC Global newsletter
+The latest security and fire news, trends and insights
+Sign Up
+
+
+
+
+
+
+
+Close
+
+
+
+FOR MORE INFORMATION CONTACT MOBOTIX AG
+
+
+Your email address
+
+* Oops!
+
+
+Your company name
+
+* Oops!
+
+
+
+
+Full name
+
+* Oops!
+
+
+Telephone number
+
+* Oops!
+
+
+
+
+Message
+
+* Oops!
+
+
+
+
+ I have read, understood and consent to your Privacy Policy 
+
+
+
+
+* sorry this is a required field
+
+
+
+
+JavaScript is not enabled in your browser. Please enable JavaScript, or certain functions may not work properly.
+
+
+MESSAGE SENT!
+Thanks for using IFSEC Global Directory,
+Your enquiry has been sent to the selected companies, they will be in contact shortly.
+
+
+
+
+
+
+Website Survey
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mobotix AG - All the latest product information in one place
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mobotix AG
+Beside the professional VMS and video analysis software, MOBOTIX is known as an innovative producer of smart and autonomous IP cameras since the year 2000. From the beginning, cameras were equipped with CMOS sensors without any moving parts to improve backlight situations and longterm reliability. The camera itself runs the software for automatic event detection, alarm messaging, video analysis, direct NAS ring buﬀer storage and remote functions. Two-way audio with VoIP messaging and phone connectivity using the SIP standard is included in all MOBOTIX cameras. From the ﬁrst day, MOBOTIX cameras are produced weatherproof and IP66 protected with one of the highest quality standards. In 2015, a new range of competitive 6-megapixel indoor cameras for ﬂexible ceiling and wall-mount installations was launched. MOBOTIX is located near the highway A63 approx. 90 km south west of Frankfurt Airport in Germany. 
+
+ Contact
+                            
+
+
+
+Find us at:
+Mobotix AG
+
+
+
+
+
+https://www.mobotix.com/eng_GB/
+
+
+
+
+
+
+
+
+
+
+
+
+Mobotix AG products
+
+
+
+Categories: 
+Intruder-Detection Systems (14) -
+                                            Intercoms  (1) -
+                                    
+
+
+
+
+
+
+
+
+
+AllroundDual M15/M16
+Mobotix AG
+
+
+Compare
+
+ Save to project
+
+
+
+
+
+
+
+
+
+AllroundDual M15/M16 Thermal
+Mobotix AG
+
+
+Compare
+
+ Save to project
+
+
+
+
+
+
+
+
+
+DualDome D15/D16
+Mobotix AG
+
+
+Compare
+
+ Save to project
+
+
+
+
+
+
+
+
+
+DualFlex S15/S16
+Mobotix AG
+
+
+Compare
+
+ Save to project
+
+
+
+
+
+
+
+
+
+Vandalism V15/V16
+Mobotix AG
+
+
+Compare
+
+ Save to project
+
+
+
+
+
+
+
+
+
+Allround M25/M26
+Mobotix AG
+
+
+Compare
+
+ Save to project
+
+
+
+
+
+
+
+
+
+Dome D25/D26
+Mobotix AG
+
+
+Compare
+
+ Save to project
+
+
+
+
+
+
+
+
+
+Flex S15M/S26
+Mobotix AG
+
+
+Compare
+
+ Save to project
+
+
+
+
+
+
+
+
+
+Hemispheric Q25/Q26
+Mobotix AG
+
+
+Compare
+
+ Save to project
+
+
+
+
+
+
+
+
+
+IP Video Door Station T25
+Mobotix AG
+
+
+Compare
+
+ Save to project
+
+
+
+
+
+
+
+
+
+Hemispheric i25
+Mobotix AG
+
+
+Compare
+
+ Save to project
+
+
+
+
+
+
+
+
+
+Hemispheric c25
+Mobotix AG
+
+
+Compare
+
+ Save to project
+
+
+
+
+
+
+
+
+
+p25 6MP Indoor Ceiling Camera
+Mobotix AG
+
+
+Compare
+
+ Save to project
+
+
+
+
+
+
+
+
+
+Indoor Dome v25
+Mobotix AG
+
+
+Compare
+
+ Save to project
+
+
+
+
+
+
+
+
+
+FlexMount S15 Thermal
+Mobotix AG
+
+
+Compare
+
+ Save to project
+
+
+
+
+
+
+
+
+
+
+
+
+
+×Close
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+×Close
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+×Close
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SpecifiedBy
+
+About
+Contact
+Careers
+Terms & Conditions
+Privacy Policy
+Sitemap
+
+
+
+For Specifiers
+
+Signup
+Search Products
+Search Manufacturers
+Product Categories
+Log In
+Support
+
+
+
+For Manufacturers
+
+List your products
+Book a Demo
+Contact
+Specifier Insights Blog
+Log In
+Support
+
+
+
+Resources
+
+Building Regulations
+Knowledge Base
+CertBot
+BIM Dictionary
+BIM Stack
+
+
+
+
+
+Follow us on social media
+
+
+
+
+
+
+
+
+
+
+© SpecifiedBy 2017. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+MOBOTIX AG | Leader in High-Resolution and Network Video Security Solutions | Langmeil, Germany - SourceSecurity.com
+
+
+
+
+
+
+Home  |  Settings  |  Marketing Options  |  eNewsletters  |  About Us  |  FAQs    
+
+ProductsNew Product ShowcaseCCTVAccess ControlIntruder AlarmsIntegrated SystemsNetwork / IPBiometricsCompaniesAll CompaniesManufacturersDistributorsResellers / Dealers / RepsInstallersConsultantsSystems integratorsEvents, Training, ServicesManned guardingNewsIFSEC 2017 Coverage Product News Corporate News Applications News Events NewsInsights Expert Commentary Security Beat Security Bytes Round Table DiscussionsRound Table Expert PanelYear in Review 2016Year in Review 2015MarketsAirports & PortsBanking & FinanceEducationGovernment & Public ServicesHealthcareHotels, Leisure & EntertainmentIndustrial & CommercialRemote MonitoringRetail & EASTransportationEventsAll eventsInternational securityRegional securityVertical marketTechnology areasConferences / seminarsCompany sponsoredWhite PapersAccess ControlAsset ManagementIntegrated SystemsIntruder AlarmsPower Supply SystemsSecurity StandardsSecurity StorageSurveillance SoftwareVideo AnalyticsVideo CompressionVideo Management SystemsVideo SurveillanceResourcesVideosWebinarsProductsCorporateCase studiesTrade shows4k & Beyond WebinarBusiness Intelligence WebinarVideo Analytics WebinarREGISTERTerms 
+
+Navigation: Companies >> MOBOTIX AG >> About MOBOTIX AGMicrosite+49 (0) 630 298 160www.mobotix.comContact companyAbout MOBOTIX AGMOBOTIX - German system manufacturer of Professional Video Management (VMS) and Smart IP CamerasIn 2005, MOBOTIX launched its first professional video management system which has seen thousands of installations around the globe, including high-security applications like prisons, airports and football stadiums. MOBOTIX systems have no restrictions in terms of number of users or cameras. The professional VMS and the video analysis are parts of the system offering and free of charge without any license fees. In addition, software updates are free via download and transform every MOBOTIX product into a future-proof investment with one of the highest returns on investment.
+
+
+
+
+
+
+
+Since 2015, all MOBOTX cameras have used 6MP “Moonlight Sensor Technology“, which is very light sensitive and produces brilliant videos even in difficult low-light conditions without any motion blur.
+Decentralised architecture increases reliability and reduces system costsMOBOTIX IP cameras have been known for their high-quality video performance and low bandwidth consumption thanks to their “decentralised architecture”. The cameras themselves execute video analysis & event detection internally, and manage their video ring buffer on a NAS or server by themselves. This reduces the workload of the VMS workstation and network dramatically. Network fluctuations or longer interruptions are compensated by an onboard video buffer (SD card). As a result, MOBOTIX video systems are very reliable and need fewer servers, fewer workstations and less network infrastructure than other brands. This reduces the overall system costs as well as power consumption and the total energy bill. Encrypted recording by the camera itself guarantees data security and privacy.
+
+
+
+
+
+
+
+Decentralisation - a solution for the cloudMOBOTIX IP cameras have been optimised for remote applications and cloud-based technology. The cameras can reduce the bandwidth of the video by scaling the size and the frame rate. Image details are still available thanks to the onboard virtual PTZ functionality. The cameras store high-resolution video onboard and deliver on demand low- bandwidth live images and also low-bandwidth playback. Additionally MOBOTIX cameras can manage an event-driven video ring buffer via network or Internet. The live channel and the recorded video are highly secured because the video encryption is already done inside the camera.
+MOBOTIX - Innovative German IP camera manufacturer since 2000MOBOTIX is known as an innovative producer of smart and autonomous IP cameras since 2000. From the beginning, cameras were equipped with CMOS sensors without any moving parts to improve backlight situations and long term reliability. MOBOTIX cameras themselves run software for automatic event detection, alarm messaging, video analysis, direct NAS ring buffer storage and remote functions.
+
+
+
+
+
+
+
+Two-way audio with VoIP messaging and phone connectivity using the SIP standard is included in all MOBOTIX cameras. MOBOTIX cameras are weatherproof and IP66 protected with one of the highest quality standards. In 2015, a new range of competitive 6-megapixel indoor cameras for flexible ceiling and wall-mount installations was launched.MOBOTIX is located approximately 90 km south west of Frankfurt Airport in Germany.
+SaveLatest MOBOTIX security productsMOBOTIX p26: Flexibility indoorsA single lens indoor camera is the most commonly installed model...MOBOTIX IP cameras | MOBOTIX AGMOBOTIX S26: A universally deployable 6MP compact Flex...The MOBOTIX S26 compact Flex camera is a universally...MOBOTIX IP cameras | MOBOTIX AGThe MOBOTIX Mx6 product line goes indoorsIFSEC 2017 marked the launch of the latest in the MOBOTIX Mx6...MOBOTIX IP cameras | MOBOTIX AGSecuring inside threats with the MOBOTIX D26 cameraMonitoring indoor situations, from retail to schools and universities,...MOBOTIX IP Dome cameras | MOBOTIX AGMOBOTIX M26: Cutting cost not qualityExhibiting at IFSEC 2017: Stand D900
+The old saying, “You...MOBOTIX IP cameras | MOBOTIX AGMOBOTIX Vandalism: Protecting the protectorThe deterrent benefits of video surveillance technology are...MOBOTIX IP cameras | MOBOTIX AGMOBOTIX D16 video surveillance systems offer dual sensor...Dual sensor mounts
+There are many times when a single video...MOBOTIX IP Dome cameras | MOBOTIX AGNew MOBOTIX S16 offers an elegant video surveillance solutionThere is an old saying: Less is more—and in video...MOBOTIX IP cameras | MOBOTIX AG About MOBOTIX AGProductsNewsCase StudiesEvents and TradeshowsHemispheric TechnologyOffice locationsBrochures & DownloadsTraining & SeminarsContactsApplicationsRecent picturesVideo demosUpdates and ToolsWebinarsContact usMOBOTIX AGKaiserstraße67722 LangmeilGermany   +49 (0) 6 30 29 81 60 +49 (0) 6 30 29 81 61 90 http://www.mobotix.com MOBOTIX Corp (USA)80 Broad Street, Suite 702New YorkNY 10004USA   +1 (212) 385-6126  Toll free: +1-888 MOBOTIX +1 (212) 385-6129 us-info@mobotix.com  SaveLatest applicationsHealth with safety: MOBOTIX intelligent video systems solve challenges in healthcare facilitiesMOBOTIX IP camera solution secures Italian Ministry of Economy and FinanceWorking with an intelligent transport system: MOBOTIX instant video surveillance for buses in LASee MOBOTIX AG, Germany on SourceSecurity.com US EditionSecurity products | CCTV systems | Access Control | Intruder Alarms | Integrated Systems | Security companies | Markets | Security news | Security events | Security videos | Security White Papers | Security installations | About Us | Contact Us | Sitemap
+
+
+See privacy and cookie policyClose
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+MOBOTIX AG - Exhibitor catalogue / Transport & Logistics 2016, Rotterdam - Easyfairs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Language
+
+EnglishNederlands
+
+
+
+
+ My Easyfairs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The future of multimodal transport & logistic services
+
+
+Book a stand »
+
+
+											
+													Visit free »
+												
+
+										
+
+
+
+
+
+
+
+
+
+
+
+
+Transport & Logistics 20162015 Exhibitors & Products Exhibitor catalogue
+
+
+
+
+  
+
+
+
+
+back to catalogue
+back to floor plan
+
+MOBOTIX AG 
+
+
+
+
+
+Stand F114
+Contact details
+
+				67722 Langmeil
+				Germany
+				
+				www.mobotix.com
+
+
+
+
+
+
+
+
+
+ Contact MOBOTIX AG now!
+2 Products
+2 Product news
+
+
+In short, MOBOTIX is a software company with own IP camera products, all made in Germany. In 2005, MOBOTIX launched its ﬁrst professional video management system which is still being used in thousands of installations around the globe. These even include high-security applications like prisons, airports or soccer stadiums because MOBOTIX systems have no restrictions in terms of number of users or cameras. The professional VMS and the video analysis are parts of the system oﬀering and free of charge without any license fees. In addition, software updates are free via download and transform every MOBOTIX product into a future-proof investment with one of the highest returns on investment. Since 2015, all MOBOTIX cameras have used 6MP "Moonlight Sensor Technology", which is very light sensitive and produces brilliant videos even in difficult low-light conditions without any motion blur.
+
+
+
+
+Products
+
+
+
+
+
+
+
+
+
+
+MOBOTIX AllroundDual M15 Thermal Camera
+The MOBOTIX M15-Thermal is equipped with a pre-installed thermal image sensor that detects vehicles and people in total darkness with extremely high accuracy. A second optical sensor module can be fitted to provide positive object identification for complete lowlight security. Automatic temperature alarms can be generated automatically with thermal radiometry (TR), which is vital to detect potential fire or heat sources. MOBOTIX thermal dual camera systems offer also thermal overlay to localize hot spots in the visual image to prevent bigger damages and fire.
+Thermal: Detect Movement Around The Clock
+High thermal resolution allows moving object detection up to 400 m/437 yards in total darkness and in all conditions such as smoke, dust, fog. No lighting required.
+Optical: Identify Objects
+The M15-Thermal dual-lens design allows for a secondary optical lens to be fitted for clear identification of facial features, clothing, license plate numbers, vehicle color etc.
+Privacy Zone – Identification And Recognition On Event
+Combined with MxActivitySensor, the camera automatically switches from thermal sensor to optical sensor, when an object moves into the pre-defined privacy zone. This ensures the identification and recognition of moving objects only when MxActivitySensor triggers an alarm.
+Thermal Overlay
+Hotspots can be visualized very fast by overlaying the thermal image on the optical image which helps to identify dangerous heat or fire sources. This technology can be used very efficiently in fire protection to localize potential origins of danger.
+https://www.mobotix.com/other/Products/Thermograph...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX FlexMount S15
+With its unique fusion of dual sensor technology and flexmount design, the MOBOTIX S15 covers two areas at once and is virtually invisible. The S15 has been perfectly created for customized solutions or installations where standard camerassimply won’t fit.
+Flexible Installation
+The S15 core unit miniature size fits into tight spaces (ATMs, machinery, vehicles). The flexible 3 m/9.8 ft video cables make it a easy to create customized installations. 
+Double Hemispheric = 360˚ Full Spherical Capture
+This cost-effective solution can simultaneously capture and record two super-wide 360˚ fields of view, providing the same coverage as eight standard CCTV cameras.
+Virtually Invisible 
+With a diameter of only 50 mm/1.96 inch and available in both white and black, the S15 sensor modules blend in with any environment. Ideal for applications where standard-sized cameras are unsuitable.
+Secure Two Areas With One Device
+The two flexible video cables allow for coverage of two separate areas. Just one S15 can secure two separate rooms, an indoor and outdoor area and around corners.
+https://www.mobotix.com/other/Products/Outdoor-Cam...
+
+
+
+
+
+
+
+
+
+Product news
+
+
+
+
+
+
+
+
+
+
+Solutions With Added Value For The Retail, Transportation, Perimeter Protection And Industrial Sectors
+MOBOTIX, in collaboration with Konica Minolta, has developed a new security concept that offers the best possible perimeter protection. The concept combines video and thermal technology from MOBOTIX in conjunction with the 3D laser scanner (3D LiDAR) from Konica Minolta. This combination of technologies makes it possible to better automatically analyze data collected from events. This provides the possibility to optimally limit events and represent them in three dimensions not only through the movement in the frames but also through defining distances between objects, object sizes and temperature. MOBOTIX will demonstrate how their solution, which features Point of Sale (POS) integration and camera-supported image and data analysis, is suited specifically for the retail sector. This solution provides valuable additional information regarding cash transactions. 
+MOBOTIX also illustrates how the thermal radiometry and event logic technologies make it possible to reliably monitor temperature; with the ability to prevent possible dangers ahead of time by monitoring critical processes used in industrial applications and infrastructures. The security solution from MOBOTIX is excellent for mobile deployment thanks to its robust design, tried-and-tested hemispheric camera technology, decentralized recording system and event logic.
+https://www.mobotix.com/other/Company
+
+
+
+
+
+
+
+
+
+
+
+MOBOTIX Intelligent IP Video Solutions in Transportation and Mobility
+The use of hemispheric technology in the MOBOTIX S15 provides effective coverage of the complete vehicle interior with just one single camera. Installed with the surround mount in the middle of the bus, the entire passenger compartment is secured without any blind spot. An S15 covers the complete area of the driver including entrance and outside. In addition, an external camera at the rear or front increases safety in and around the school bus. The consequent absence of moving parts and thus the guarantee of robustness, results in video solutions including recordings which are known as nearly maintenance free. Instead of traditional hard drives, which are considered problematic and expensive in automotive environments, industry-standard SD-cards are integrated directly in the camera to provide reliable storage. Automatic video archiving and connection to IoT (Internet of Things) can be easily implemented upon arrival at the bus
+depot.
+In order to ensure absolute reliability in mobile applications, even under extreme environmental conditions, S15 models of MOBOTIX have successfully passed the toughest certification tests. Simple installation, low space requirements and the absence of expensive, fragile recording devices result in a cost-effective security solution for any type of vehicle. The S15 model of MOBOTIX, providing a protected mountable camera housing with integrated flash memory, is resistant against shock, vibration and temperature variations. The ability to exchange the sensor module has proven to be cost-effective and practical, without having to dismantle the whole camera during transportation all recordings are maintained.
+Smart and functional accessories enable the discrete operation to ensure passenger safety and protection against vandalism and
+damage in transport vehicles. The behavior of passengers and drivers can be documented at any time. It is important to know the status of the bus or truck; whether it is within the predefined operational area or does an incident require the support of the nearest Police station. Based on the transmission of the latest video and GPS data, emergency personnel can be directed quickly to the required location.
+https://www.mobotix.com/other/Products/Outdoor-Cam...
+
+
+
+
+
+
+
+
+
+You need to enable javascript to post message to this exhibitor.
+
+
+
+Contact MOBOTIX AG now!
+
+Name:
+
+
+
+
+
+Email:
+
+
+
+Your message:
+
+
+
+
+
+Send now
+
+
+Content is provided by exhibitors. If you consider any content inappropriate or misleading, please contact info@easyfairs.com 
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ About usWhy the easy in Easyfairs?Multi-format EventsThe “C Success Factors”
+ 
+ Our brandsEasyfairs Geo-cloningIndustry sectors served
+ 
+ Media Centre
+ 
+ Careers
+ 
+  Contacts 
+Google+
+Twitter
+LinkedIn
+Facebook
+
+
+
+ 
+ 
+ 
+ 
+ Organised by 
+ 
+ Part of 
+ 
+ 
+
+ 
+© Artexis Easyfairs Group 2015
+General terms & conditions
+Privacy statement
+Imprint
+
+
+
+
+
+
+
+
+
+
+
+It seems Javascript is not enabled
+This website won't work as it should without Javascript.Just turn it on and reload the page.
+
+
+
+
+
+
+
+	MOBOTIX AG - Product Suppliers | SecurityWorldMarket.com
+
+
+
+Lennart AlexandrieCybersecurity –a new buzzword for video surveillance providersTHURSDAY 3 AUG 2017
+
+
+
+Select marketGlobal North America Middle East United Kingdom Sweden Norway Denmark 
+
+Sign up to our newsletter
+Current Events27/09/2017 – 28/09/2017SecurityUser Expo 2017 – Copenhagen, Denmark09/10/2017 – 11/10/2017OFSEC Expo - Oman Fire, Safety and Security Exhibition. – Muscat, Oman29/10/2017 – 01/11/2017CPSE 2017 – Shenzhen, ChinaRead Detektor International online
+                No. 2 – 2017
+            
+                Previous issues »
+            Company InformationMOBOTIX AG
+						Kaiserstrasse
+D-67722						 Langmeil						Germany					
+Email: 							info-intl@mobotix.com 
+						Website: 							www.mobotix.com
+						Tel: +49 6302 9816-0						Fax: +49 6302 9816-190					About the companyInnovations - Made In GermanyMOBOTIX AG is a software company with in-house hardware development for digital, high-resolution and network-based video security solutions.Product CategoriesVideo Surveillance
+Digital Surveillance Solutions											
+Digital Video Recorder											
+Intelligent Camera and System											
+CCTV											
+Network Video Surveillance											Productsi25
+
+The i25’s extremely compact dimensions – with a width of only approx. 14 cm – make this new camera the smallest and lightest MOBOTIX video complete system ever. The PoE-powered camera is quickly installed via an in-wall socket using just two screws. Standard features include a light-sensitive 5-MP day or night sensor, SD memory card, microphone and the latest camera software including MxActivitySensor. Optional functions such as a speaker, radar sensor, IO and MxBus connections as well as a vandalism-proof protective housing can be retrofitted.
+
+
+	M15
+
+The M15 is the weatherproof, robust successor to MOBOTIX’ successful dual camera, which features interchangeable sensor modules as well as the latest MOBOTIX system technology. As a result, it remains totally unique in terms of performance, functionality and design. The M15 Core module comes with VarioFlex mount, connection cables for sensor modules and network, and the front element. The sensor modules, which need to be ordered separately, are pre-focused at the factory and can be supplied in any desired combination of day or night sensors with lens choices from telephoto to wide angle.
+
+
+	S15 ThermalThe flexible video cabling, weatherproof design and tiny footprint allows the two S15D thermal sensor modules to be installed into any location up to two meters away from a single S15D core unit. The advantage of using thermal sensor modules is that they can visualize heat radiating from vehicles and persons, for the purpose of accurate movement detection up to 400 meters away from the camera, even under the most challenging lighting and environmental conditions.MxActivitySensor
+
+MxActivitySensor is a completely new Camera-Integrated Motion Analysis technology. It only records video or triggers an alarm if an important event actually occurs. Interference caused, for instance, by trees moving in the wind, shadows, passing clouds or snowfall is consistently ignored. This means that the numbers of false alarms, which are the biggest problem with motion detection softwares today, are reduced with over 90 % 
+
+
+	T25M
+
+T25M is a camera module for the MOBOTIX T25 IP Video Door Station. Capturing a super-wide 180° field of view, the T25M camera module captures everything wall-to-wall for secure viewing and recording. The Hemispheric image correction is handled by the camera, no external PC required. The in-camera image correction saves bandwidth by up to 70%.
+
+
+	News21/07/2017
+													Mx6 camera line enhanced with greater performance
+												09/06/2017
+													Luxury hotel chain provides security with discretion
+												18/04/2017
+													Mobotix shows innovative application interfaces at ISC
+												13/04/2017
+													Flexible Mx6 series opens up new opportunities
+												08/02/2017
+													Mobotix enhances product versatility with Sesys
+												01/02/2017
+													Mobotix kicks off 2017 with intelligent 3D detection
+												27/12/2016
+													Mobotix wins awards at All-Over-IP
+												04/10/2016
+													Genetec & Mobotix enter new technology partnership
+												26/09/2016
+													Mobotix and Advantech collaborate on transport security
+												21/07/2016
+													Mobotix secures World Heritage Unesco site
+												12/07/2016
+													Mobotix wins corporate patent challenge
+												28/06/2016
+													New supervisory board member at Mobotix
+												31/05/2016
+													Prestige hotel upgrades with advanced thermal imaging
+												25/05/2016
+													Konica Minolta appoints director to Mobotix board
+												21/03/2016
+													Latest Mxmc software from Mobotix
+												04/03/2016
+													Latest platform release from Mobotix
+												10/02/2016
+													Mobotix CEO steps down
+												02/02/2016
+													Mobotix helps reduce theft at BMW dealerships
+												04/12/2015
+													Mobotix hits record sales levels
+												10/11/2015
+													London Underground secured with thermal imaging technology
+												29/10/2015
+													Mobotix unveils intelligent thermal camera technology
+												30/09/2015
+													Mobotix protects largest stadium in Premier League
+												23/07/2015
+													Mobotix latest 6MP ceiling camera
+												23/03/2015
+													Iconic cycle brand gears up security
+												MOBOTIX AGSecurity TwitterFetching latest tweet in EnglishWeb TV from AR Media
+
+Addsecure acquires Chiron  In this interview with Detektor TV Magazine, Addsecure’s CEO Stefan Albertsson and Chiron co-founder Ian Tredinnick discuss Addsecure's acquisition of Chiron.
+
+Mario Kahlert, Siemens, on the digitalisation of fire alarms  In an interview with Detektor TV Magazine, Mario Kahlert, Siemens Head of Fire & Safety, stresses that the fire alarm industry is still trying to figure out the best way to approach digitalisation.View more videos »
+Product SuppliersABUS Security-Center GmbH & Co.KGAcicAdvancis Software & Services GmbHAirLive (Ovislink Corp.)Altronix CorporationAR Media International AB Arecont Vision CorporationASIS InternationalASSA ABLOYAVer Information Inc.Avigilon CorporationAxis Communications ABBrickcom CorporationCastelCathexis Technologies (PTY) LTDccHDTV Alliance (c/o ITE)CDVI - France CEM Systems LtdChiron Security Communications AGCIVINTEC GlobalCNL SoftwareComelit Group UK Ltd Unit 4Confidence Security Sweden AB CSL Dualcom LimitedC-TECDahua TechnologyDallmeier Electronic GmbH & Co.KGDETEKTOR InternationalDETEKTOR ScandinaviaDualtecheneoEtherWAN Systems, Inc.EVVA Sicherheitstechnologie GmbHExpoGraf CardKeep InternationalEyevis GmbHFastcom Technology SAFERMAX Electronica S.A.E.Fibersystem ABFLIR SystemsForteza JSCFujifilm Europe GmbHGenetec Genie CCTV LtdGeoVision Inc.Geutebruck GmbHGJD Manufacturing Limited GKB Security CorporationGrundig Security (ASP AG)Hanwha Techwin Europe Ltd.Herta Security SLHikvisionhiQview CorporationHuper Laboratories Co., Ltd.IDISiLOQ OyIndusec ABIPS Intelligent Video Analytics (Securiton GmbH)ISIO - International Security Industry OrganizationJNT ABJR SECURITYKBC Networks Ltd.KEMAS GmbHKsenia Security S.r.lMatica Technologies AGMERIT LILIN ENT. CO., LTD.Mirasys OyMOBOTIX AGNedap Identification SystemsNedap Security Management NTUST  – National Taiwan University of Science and TechnologyNUUO INC.OncamOptex (Europe) LtdOT Systems Ltd.Paxton Access LtdPyronix LimitedQihan Technology Co., LtdQNAP SecurityQsan Technology, Inc.Salto SystemsSECTECHSecuritag Assembly Group Co., Ltd.SecurityUser ExpoSeeTec GmbHSICURIT Alarmitalia SpaSimonsVoss Technologies GmbHSpotCam Co.,LtdSuperior Electronics CorporationSuprema inc.Taipei Computer Association   TAKEX Europe Ltd.Teletek ElectronicsTheia TechnologiesTouchless Biometric Systems AGTriple Domain Vision Co., LtdTSSIA (Taiwan Safety and Security Industry Association)Unitechno CorporationVARIFO System Co., LtdVicon Industries Ltd. Videotec S.p.A.Videx Security LtdVivotek Inc.www.SecurityWorldHotel.comXtralis Pty. Ltd.ZAVIO Inc.Back to topRSS feeds Global North America Middle East United Kingdom Sweden Norway DenmarkPagesSubscribeAdvertisingSecurity MediaContact usCookiesSitemapNews tipFollow us!AR Media International AB
+                        Västberga Allé 32, 126 30 Hägersten, Sweden
+                        Tel +46 8 556 306 80, Fax +46 8 19 10 11info@armedia.se, 
+                        www.armedia.se
+

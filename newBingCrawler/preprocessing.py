@@ -20,7 +20,7 @@ def preprocessing(companyStr):
         i+=1
 
     #re_words = re.compile(u"[\u4e00-\u9fa5]+")  ##drop chinese 
-    re_words = re.compile(u"[\u3400-\u9FFF]+") ##drop chinese korean japanese
+    re_words = re.compile(u"[\u3400-\u9FFF]+?") ##drop chinese korean japanese
     dropStrs = re.findall(re_words, companyStr)
     if len(dropStrs) != 0:
         for ds in dropStrs:
@@ -41,9 +41,13 @@ def preprocessing(companyStr):
     for pun in string.punctuation+"©":
         companyStr = companyStr.replace(pun, "")
 
-    stops = set(stopwords.words('english'))
+    stops = list(set(stopwords.words('english')))
     lemmer = WordNetLemmatizer()
 
+    file = open('statesFilter/stateSimilars', 'r',encoding='utf8')
+    for line in file:
+        stops.append(line.replace("\n",""))
+    file.close()
 
     def isfilter(s):
         return any(not i.encode('utf-8').isalpha() for i in s)

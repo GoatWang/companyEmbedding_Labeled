@@ -1,0 +1,4254 @@
+
+
+
+無標題文件
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Method for manufacturing a SMD resistor - Ralec Electronic Corporation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+                    
+Sign up
+                    
+
+
+
+
+
+
+
+
+
+Search
+                            
+
+
+
+
+
+                                    Expert Search
+
+
+                                    Quick Search
+
+
+
+
+
+
+
+
+Patents/Apps
+                                
+
+
+
+
+                                    Non-Patent Literature
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+SEARCH
+
+
+                            RESEARCH
+
+
+
+                            MPEP 2.0
+
+
+
+                            TOOLS & RESOURCES
+                        
+
+
+
+                            ACCLAIM IP
+                        
+
+
+HELP
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Title:
+
+
+                    Method for manufacturing a SMD resistor                
+
+
+
+
+
+                European Patent Application EP2680279            
+
+                Kind
+                Code:
+            
+
+                A1            
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abstract:
+
+In a method of manufacturing a chip resistor (2), a semi-product (43) is formed by sandwiching an electric-insulating material layer (5) between an electric-conducting material layer (41) and a heat-dissipating material layer (42) . Resistor sections (46) arranged in an array on the semi-product (43) are formed by forming longitudinal first slots (44) and transverse second slots (45) through the semi-product (43). Slits (211) are formed on a first layer (411) of each resistor section to form a resistor main body (21) . A dividing slot (231) is formed on a second layer (421) of each resistor section (46) . Two electrodes (24) are formed to be electrically connected to opposite ends (214) of the resistor main body (21). The resistor sections (46) are trimmed from the semi-product (43) to obtain the chip resistors (2).Fig. 3
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inventors:
+
+                            Chen, Full (No. 31, Alley 2, Lane 57, Binhai 1st Rd., Gushan Dist., 804 Kaohsiung City, TW)                
+
+
+
+
+Application Number:
+
+            EP20130159913        
+
+
+
+Publication Date:
+
+            01/01/2014        
+
+
+
+Filing Date:
+
+            03/19/2013        
+
+
+
+Export Citation:
+
+ Click for automatic bibliography
+                generation 
+
+
+
+
+Assignee:
+
+                            Ralec Electronic Corporation (1, Central 2nd St., N.E.P.Z., 811 Kaohsiung, TW)                
+
+
+
+
+International Classes:
+
+H01C17/22 
+
+
+
+
+
+View Patent Images:
+
+Download PDF EP2680279A1                 
+                  PDF help
+
+
+
+
+Domestic Patent References:
+
+
+
+EP0336497N/AEP1662515N/A 
+
+
+
+
+
+
+
+
+
+Foreign References:
+
+
+
+20030227731JP2005286167AJP2000082604A 
+
+
+
+
+
+Other References:
+
+                            None                
+
+
+
+
+
+
+Attorney, Agent or Firm:
+
+                            Zimmermann, Tankred Klaus (Schoppe, Zimmermann, Stöckeler Zinkler & Partner P.O. Box 246, 82043 Pullach, DE)                
+
+
+
+
+
+Claims:
+
+            1. A method for manufacturing a chip resistor, said method characterized by the following steps of:
+a) sandwiching an electric-insulating material layer (5) between an electric-conducting material layer (41) and a heat-dissipating material layer (42) to form a semi-product (43);
+b) forming a plurality of resistor sections (46) arranged in an array on the semi-product (43) by
+forming a plurality of first slots (44) through the semi-product (43), the first slots (44) extending in a first direction (L) and being arranged in a plurality of rows, each row including a plurality of adj acent pairs of the first slots (44), and
+forming a plurality of second slots (45) through the semi-product (43), the second slots (45) extending in a second direction (T) perpendicular to the first direction (L) and being arranged in a plurality of columns, each adjacent pair of the second slots (45) cooperating with a corresponding adjacent pair of the first slots (44) to surround and define one of the resistor sections (46), each of the resistor sections (46) having a first layer (411) which is a segment of the electric-conducting material layer (41), a second layer (421) which is a segment of the heat-dissipating material layer (42), and a sandwiched layer (51) which is a segment of the electric-insulating material layer (5);
+c) for each resistor section (46), forming a plurality of slits (211) on the second layer (411) of the resistor section (46) to form a resistor main body (21), the slits (211) extending in the first direction (L) and being arranged and spaced apart from one another in the second direction (T), the resistor main body (21) having a pair of ends (214) opposite to each other in the second direction (T) and corresponding respectively to a pair of the first slots (44) that define the resistor section (46);
+d) for each resistor section (46), forming at least one dividing slot (231) on the third layer (421) of the resistor section (46), the dividing slot (231) projectively crossing at least one of the slits (211) of the resistor section (46) and dividing the third layer (421) of the resistor section (46) into at least two portions (233, 234) that are spaced apart from each other in the second direction (T);
+e) for each resistor section (46), forming two electrodes (24) that are electrically and respectively connected to the ends (214) of the resistor main body (21); and
+f) trimming each of the resistor sections (46) to obtain a chip resistor.                    
+                    2. The method as claimed in claim 1, characterized in that, in step d), the dividing slot (231) is formed to have two segments (232) which form an obtuse angle therebetween.                    
+                    3. The method as claimed in claim 1, characterized in that, in step d), the dividing slot (231) is formed to have a plurality of segments (232') in a zigzag arrangement, every adjacent two of the segments (232') forming an obtuse angle therebetween.                    
+                    4. The method as claimed in claim 1, characterized in that, in step c) and d), the slits (211) and the dividing slot (231) are formed by masking and etching the second layer (411) and the third layer(421) of each of the resistor sections (46).                    
+                    5. The method as claimed in claim 1, characterized in that, in stepe), the electrodes (24) are formed by masking and electroplating.                    
+                    6. The method as claimed in claim 1, characterized in that step a) includes the following sub-steps of:
+coating a heat-conductive polymer material on one of the electric-conducting material layer (41) and the heat-dissipating material layer (42);
+stacking the other one of the electric-conducting material layer (41) and the heat-dissipating material layer (42) on the heat-conductive polymer material; and
+heating the electric-conducting material layer (41) and the heat-dissipating material layer (42) under a vacuum condition to solidify the heat-conductive polymer material serving as the electric-insulating material layer (5), thereby forming the semi-product.                    
+                    7. The method as claimed in claim 6, further characterized in that the heat-conductive polymer material is polypropylene.                    
+                    8. The method as claimed in claim 1, characterized in that the electric-conducting material layer (41) is made of a material selected from the group consisting of copper, aluminum, copper alloy, aluminum alloy, and copper aluminum alloy.                    
+                    9. The method as claimed in claim 1, characterized in that the heat-dissipating material layer (42) is made of a material selected from the group consisting of copper, aluminum, copper alloy, aluminum alloy, and copper aluminum alloy.                    
+                    10. The method as claimed in claim 1, characterized in that, in step c), the resistor main body (21) further having a pair of lateral sides (212) parallelly extending in the second direction (T) and opposite to each other in the first direction (L), and every adjacent two of the slits (211) is formed to extend from and penetrate through the lateral sides (212, 213), respectively.                    
+
+
+
+
+Description:
+
+This invention relates to a method for manufacturing a passive component, more particularly to a method for manufacturing a chip resistor. Referring to FIGS. 1 and 2, a conventional method for manufacturing a conventional chip resistor 1 includes the following steps. First, a metal sheet is rolled and trimmed to obtain a plurality of metal strips. Two electrode strips are electroformed on opposite sides of each metal strip. Each metal strip is cut to obtain a plurality of resistor sections each having two electrodes 13. Then, a plurality of slits 111 are formed on each resistor section and extend in a longitudinal direction (L), thereby obtaining a resistor main body 11 having a pair of ends 112 that are opposite to each other in a transverse direction (T) perpendicular to the longitudinal direction (L) and that are electrically and respectively connected to the electrodes 13. Every adjacent two of the slits 111 extend from and penetrate lateral sides of the resistor main body 11, respectively, thereby forming a circuitous current path and achieving a desired resistance value of the conventional chip resistor 1. Finally, opposite surfaces of the resister main body 11 are coated respectively with two coating layers 12 to obtain the conventional chip resistor 1. The resistance value of a resistor is directly proportional to a product of an electrical resistivity of the material of the resistor and a length of current path, and is inversely proportional to a cross-sectional area of the resistor in thickness. Accordingly, in order to increase the resistance value of the conventional chip resistor 1, the thickness of the resistor main body 11 is decreased and/or a number of the slits 111 is increased for lengthening the length of a current path, resulting in a relatively weak structural strength of the conventional chip resistor 1. Moreover, since the coating layers 12 cover the opposite surfaces of the resistor main body 11, it is difficult to dissipate heat generated by the resistor main body 11 and temperature of the conventional chip resistor 1 is thus increased dramatically during use. As a consequence, the resistance value and the resister characteristic of the conventional chip resistor 1 is affected adversely due to the increased temperature. Additionally, the coating layers 12 have to be made of a heat-resistant material and thus manufacturing cost of the conventional chip resistor 1 is increased. The object of the present invention is to provide a method for manufacturing a chip resistor having relatively good structural strength and capable of dissipating heat effectively. According to this invention, the method comprises the following steps of:
+a) sandwiching an electric-insulating material layer between an electric-conducting material layer and a heat-dissipating material layer to form a semi-product;b) forming a plurality of resistor sections arranged in an array on the semi-product by
+forming a plurality of first slots through the semi-product, the first slots extending in a first direction and being arranged in a plurality of rows, each row including a plurality of adjacent pairs of the first slots, and
+forming a plurality of second slots through the semi-product, the second slots extending in a second direction perpendicular to the first direction and being arranged in a plurality of columns, each adjacent pair of the second slots cooperating with a corresponding adjacent pair of the first slots to surround and define one of the resistor sections, each of the resistor sections having a first layer which is a segment of the electric-conducting materiallayer, a second layer which is a segment of the heat-dissipating material layer, and a sandwiched layer which is a segment of the electric-insulating material layer;c) for each resistor section, forming a plurality of slits on the second layer of the resistor section to form a resistor main body, the slits extending in the first direction and being arranged and spaced apart from one another in the second direction, the resistor main body having a pair of ends opposite to each other in the second direction and corresponding respectively to a pair of the first slots that define the resistor section;d) for each resistor section, forming at least one dividing slot on the third layer of the resistor section, the dividing slot projectively crossing at least one of the slits of the resistor section and dividing the third layer of the resistor section into at least two portions that are spaced apart from each other in the second direction;e) for each resistor section, forming two electrodes that are electrically and respectively connected to the ends of the resistor main body; andf) trimming each of the resistor sections to obtain a chip resistor. Other features and advantages of the present invention will become apparent in the following detailed description of the preferred embodiment of the invention, with reference to the accompanying drawings, in which:
+FIG. 1 is a perspective view of a conventional chip resistor manufactured by a conventional method;FIG. 2 is a schematic top view of the conventional chip resistor;FIG. 3 is a flow chart illustrating a preferred embodiment of a method of manufacturing a chip resistor according to the present invention;FIG. 4 is a perspective view of a semi-product that is formed during manufacture of the chip resistor;FIG. 5 is a perspective view of the semi-product formed with a plurality of resistor sections arranged in an array;FIG. 6 is a fragmentary enlarged view of FIG. 5;FIG. 7 is a schematic bottom view of the semi-product, where each of the resistor sections is formed with a plurality of slits to form a resistor main body;FIG. 8 is a schematic top view of the semi-product, where each of the resistor sections is formed with a dividing slot;FIG. 9 is a schematic top view of the semi-product, where two electrodes are formed on opposite ends of each resistor main body;FIG. 10 is a perspective view of the chip resistor made by the method of the preferred embodiment;FIG. 11 is a schematic bottomview of the chip resistor;FIG. 12 is a schematic top view of the chip resistor for illustrating the dividing slot that has two segments forming an obtuse angle therebetween;FIG. 13 is a schematic top view of the chip resistor for illustrating a modification of the dividing slot that includes a plurality of segments in a zigzag arrangement; andFIG. 14 is a schematic top view of the chip resistor for illustrating a heat dissipating layer of the chip resistor formed with a plurality of dividing slots. Referring to FIG. 3, a preferred embodiment of a method of manufacturing a chip resistor is shown to include the following steps. As shown in FIG. 4, in step S01, an electric-insulating material layer 5 is sandwiched between an electric-conducting material layer 41 and a heat-dissipatingmaterial layer 42 to forma semi-product 43 by the following sub-steps. In sub-step S011, a heat-conductive polymer material is coated on one of the electric-conducting material layer 41 and the heat-dissipating material layer 42. In sub-step S012, the other one of the electric-conducting material layer 41 and the heat-dissipating material layer 42 is stacked on the heat-conductive polymer material. In sub-step S013, the electric-conducting material layer 41 and the heat-dissipating material layer 42 are heated under a vacuum condition to solidify the heat-conductive polymer material serving as the electric-insulating material layer 5, thereby forming the semi-product 43. Further referring to FIGS. 5 and 6, in step S02, a plurality of resistor sections 46 arranged in an array are formed on the semi-product 43 by the following sub-steps. In sub-step S021, a plurality of first slots 44 are formed through the semi-product 43. The first slots 44 extend in a longitudinal direction (L) and are arranged in a plurality of rows. Each row of the first slots 44 includes a plurality of adjacent pairs of the first slots 44. In sub-step S022, a plurality of second slots 45 are formed through the semi-product 43. The second slots 45 extend in a transverse direction (T) perpendicular to the longitudinal direction (L) and are arranged in a plurality of columns. Each adjacent pair of the second slots 45 cooperate with a corresponding adjacent pair of the first slots 44 to surround and define one of the resistor sections 46. Each of the resistor sections 46 has a first layer 411 which is a segment cut from the electric-conducting material layer 41, a second layer 421 which is a segment cut from the heat-dissipating material layer 42, and a sandwiched layer 51 which is a segment cut from the electric-insulating material layer 5. Referring to FIG. 7, in step S03, for each resistor section 46, a plurality of slits 211 are formed on the first layer 411 of the resistor section 46 by masking and etching to form a resistor main body 21. The slits 211 extend in the longitudinal direction (L) and are arranged and spaced apart from one another in the transverse direction (T). The resistor main body 21 has a pair of ends 214 and a pair of lateral sides 212, 213. The ends 214 are opposite to each other in the transverse direction (T) and correspond respectively to an adjacent pair of the first slots 44 in the row that define the resistor section 46. The lateral sides 212, 213 parallelly extend in the transverse direction (T) and opposite to each other in the longitudinal direction (L). Every adjacent two of the slits 211 extend from and penetrate through the lateral sides 212, 213, respectively. By this configuration, current flows through the resistor main body 21 along a serpentine current path (i.e., a zigzag current path), and a desired resistance value of the chip resistor made by the method of this embodiment can be achieved. Note that, although the resistor main body 21 is formed with three slits 211 in this embodiment, the number of the slits 211 can be varied according to a desired resistance value in other embodiments. Referring to FIG. 8, in step S04, for each resistor section 46, a dividing slot 231 is formed on the second layer 421 of the resistor section 46 by masking and etching to from a heat dissipating layer 23. The dividing slot 231 divides the second layer 421 of the resistor section 46 into two portions that are spaced apart from each other in the transverse direction (T) and is formed to have two segments 232 which form an obtuse angle therebetween and each of which extends inclinedly from one of the lateral sides 212, 213 toward the other one of the lateral sides 212, 213. Referring to FIG. 9, in step S05, for each resistor section 46, two electrodes 24 are formed to be electrically and respectively connected to the ends 214 of the resistor main body 21 by masking and electroplating. Finally, in step S06, each of the resistor sections 46 is trimmed from the semi-product 43 to obtain the chip resistor 2 illustrated in FIGS. 10 to 12. As shown in FIGS. 10 to 12, each chip resistor 2 includes the resistor main body 21 made of the first layer 411, the heat dissipating layer 23 made of the second layer 421, an insulating layer 22 made from the sandwiched layer 51, and the electrodes 24. The insulating layer 22 is electrically insulating the heat dissipating layer 23 from the resistor main body 21, the heat dissipating layer 23 is for dissipating heat generated by the resistor main body 21 during use of the chip resistor 2, and the electrodes 24 are electrically connected to an electronic device such as a circuit board (not shown). The electric-insulating material layer 5 has relatively great thermal conductivity and is made of a polymer material, such as polypropylene, so that the insulating layer 22 thus made facilitates conduction of the heat generated by the resistor main body 21 to the heat dissipating layer 23. The electric-conducting material layer 41 and the heat-dissipating material layer 42 are made of a material selected from the group consisting of copper, aluminum, copper alloy, aluminum alloy, and copper aluminum alloy. Since the heat dissipating layer 23 is formed with the dividing slot 231, current will not flow through the heat dissipating layer 23. In use, current flows from one of the electrodes 24 through the resistor main body 21 via the current path (see FIG. 10) toward the other one of the electrodes 24. The heat generated by the resistor main body 21 can be effectively transmitted through the insulating layer 22 to the heat dissipating layer 23, and then, is dissipated to the ambient. As a result, the temperature of the chip resistor 2 remains relatively low as compared to the conventional chip resistor 1, and the resistance value and resistance characteristic of the chip resistor 2 are not affected. Additionally, since the heat dissipation capability of the chip resistor 2 is relatively good, it is not necessary to select a heat-resistant material for manufacturing the chip resistor 2 thereby reducing manufacturing cost. The resistance value of the chip resistor 2 is determined by the material of the resistor main body 21, a cross-sectional area of the resistor main body 21, and a length of the current path. When the thickness of the resistor main body 21 is reduced and/or the number of slits 211 formed on the resistor main body 21 is increased in order to increase the resistance value of the chip resistor 2, the structural strength of the chip resistor 2 can be ensured by virtue of the heat dissipating layer 23 that is made of metallic material. Additionally, since the dividing slot 231 extends across one of the slits 211, there is no stress concentration on the resistor main body 21 and the heat dissipating layer 23. As a result, the chip resistor 2 of the present invention can be applied to a wider range of resistance values. Referring to FIGS. 13 and 14, two modifications of the dividing slot 231, 231' can be made by modifying a mask for etching in step S04. As shown in FIG. 13, the dividing slot 231' is formed to have a plurality of segments 232' in a zigzag arrangement, and every adjacent two of the segments 232' form an obtuse angle therebetween. As shown in FIG. 14, two dividing slots 231 are formed on the heat dissipating layer 23 by etching two dividing slots 231 on the second layer 421 of the resistor section 46 in step S04. The dividing slots 231 divide the heat dissipating layer 23 into three spaced-apart portions in the transverse direction (T), and two of them extend across two of the slits 211, respectively. To sum up, by virtue of the heat dissipating layer 23 that facilitates heat dissipation of the resistor main body 21 during use, the temperature of the chip resistor is relatively low as compared to the conventional chip resistor 1 illustrated in FIGS. 1 and 2. Thus the resistance value and the resistance characteristic of the chip resistor 2 remain stable, and the material for making the chip resistor 2 may not be a heat-resistant material, thereby reducing manufacturing cost. Additionally, heat dissipating layer 23 made of metallic material ensures the structural strength of the chip resistor 2 when the thickness of the resistor main body 21 is reduced and/or the number of slits 211 is increased. 
+
+
+
+
+
+<- Previous Patent (MOUNTING STRUCTURE F...)   |   Next Patent (Method of manufactur...) ->
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Search
+
+
+Services
+
+
+Communities
+
+
+Help
+
+
+Contact us
+
+Advertise on this Site
+
+
+
+
+
+
+
+
+
+
+            © 2004-2017 FreePatentsOnline.com. All rights reserved.
+            Privacy Policy
+                & Terms of Use.
+A SumoBrain Solutions Company
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+:: ASJ HOLDINGS LIMITED :: Manufacturer and Distributor of Quality Resistors and Other Essential Electronic Components
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					» Home   » Contact Us   » Site Map
+
+
+
+
+Home
+
+
+Corporate Information
+
+
+
+About ASJ
+Announcements
+Mission
+Subsidiaries
+Milestones
+Distribution Business Unit
+
+
+
+
+Products
+
+
+
+Chip Resistors
+Distribution Line Card
+
+
+
+
+Support
+
+
+
+Product Specifications
+Certifications
+Company Policies
+Corporate Social Responsibility
+Approach on Environment
+Sample Kits
+
+
+
+
+Sales Channel
+
+
+
+Global Presence
+
+
+
+
+Corporate Relation
+
+
+
+Financial Results Announcements
+Annual Reports
+
+
+
+
+Contact Us
+
+
+
+Headquarters
+Manufacturing Plant
+Product Inquiry
+
+
+
+
+CRL
+
+
+
+About CRL
+Product Lineup
+Sales Channels
+Product Inquiry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LATEST NEWS  01 Jun 13 - ASJ has appointed KOE as PRC Exclusive Distributor.
+            
+
+LATEST NEWS  30 Oct 12 - Visit ASJ Resistors at Electronica 2012 in Messe Munchen from 13 - 16 November 2012.
+            
+
+LATEST NEWS  01 Mar 12 - ASJ has developed an enhanced product of standard resistor commodity... Click Here.
+            
+
+LATEST NEWS  30 Oct 12 - Visit ASJ Resistors at Electronica 2012 in Messe Munchen from 13 - 16 November 2012.
+            
+
+LATEST NEWS  01 Mar 12 - ASJ has developed an enhanced product of standard resistor commodity... Click Here.
+            
+
+
+
+
+News
+
+
+
+13 Apr 17 - Event Photos: ASJ joined "Distribution Art Car 2017", project organized by Rutronik Europe.
+ 
+15 Nov 16 - Event Photos: ASJ @ Electronica 2016 exhibition in Munich, Germany
+ 
+07 Nov 16 - Event Photos: ASJ Groundbreaking ceremony held on Nov 5, 2016
+ 
+05 Nov 16 - ASJ holds groundbreaking ceremony for 2nd manufacturing facility in Senai, Malaysia<
+ 
+30 Aug 16 - Visit us at Electronica 2016  – Hall A5, Booth 262 from 8 - 11 November 2016 in Munich, Germany
+ 
+19 Apr 16 - Event Photos: ASJ hosted Rutronik Asia Tour in Malaysia & Singapore
+ 
+15 Apr 16 - Event Photos: ASJ partakes “Distribution Art Car”, project organized by Rutronik Europe
+ 
+01 May 15 - ASJ has launched the new Product Catalogue. For your free copy, please contact our Sales or email us at asjsales@asj.com.sg
+ 
+25 Mar 15 - Revamped Product Specification page has been launched. Click here for immediate access to ASJ datasheets
+ 
+
+
+
+
+
+
+
+
+Corporate Information
+
+About ASJ
+Announcements
+Mission
+Subsidiaries
+Milestones
+Distribution Business Unit
+
+
+
+Corporate Profile
+Founded in 1980, ASJ has evolved to become one of the world’s leading manufacturers of resistors.
+Headquartered in Singapore, ASJ offers a comprehensive portfolio of resistors manufactured to meet the highest quality and technical standards. Equipped with an excellent global logistics network, ASJ delivers to a wide range of customers in various market segments.
+In 2014, ASJ has formally merged with Ralec Electronic Corporation, a Taiwanese based resistor manufacturer. The union of the manufacturing facilities in Malaysia, China & Taiwan, logistics and customer network propel the corporation to even greater heights.
+ABOUT RALEC
+
+Since its establishment in 1994, Ralec continues to be one of the world’s top Chip Resistor and R-Array manufacturers with two owned factories in Taiwan and China. Besides strengthening the development of higher precision products, Ralec adheres and devotes itself to the goal of making high quality products & provide competitive edge to its customers.
+Ralec has already obtained various quality certifications, including ISO14001, ISO 9001, OHSAS 18001, TS 16949, QC080000, SONY GP and Samsung ECO-Partner certification. All products correspond with RoHS regulation requirement and are widely accepted by global customers.
+In August 2014, Ralec acquired ASJ as its wholly-owned subsidiary.
+
+
+Manufacturing Business Unit
+With a history of more than thirty years in the manufacturing and distribution of quality resistors together with advance manufacturing equipment and proprietary production process, ASJ is poised for global growth and gears to be a world player in resistor technology. Our facility in Malaysia produces resistors that are essential components used for electrical and electronic circuitry. We develop and continuously improve our process technologies to manufacture our resistors efficiently meeting stringent quality standards and within a competitive cost structure framework. Our reliability test program ensures our resistors meet the highest international standards (MIL, JIS, EIA).
+The Group's competitive edge is derived from its ability to provide customers with quality products in 'quickturn' services through automated manufacturing facilities and a computerized distribution system. We achieve our goals of continuous improvement in efficiency and quality through our consistent on-going investment in the latest technology, manufacturing equipment, and human resource development.
+Today, we continue to innovate through plant and product development, reflecting our focus on innovation, service and quality.
+ASJ's manufacturing facility in Malaysia consists of a two-storey factory located in Johor, Senai and has a built-in area of 9,500 sq m. The factory has close proximity to Singapore Port and Tanjong Pelapas Port (PTP) that enable easier logistics handling issues.
+Headquartered in Singapore, our sales coverage extended beyond Singapore with the establishment of direct and representative offices in Malaysia, Europe, South Korea, Thailand, India, PRC and the United States of America.
+With the projection of growth in this industry, we are committed to position ASJ as one of the largest Chip Resistors manufacturer in South Asia.
+
+
+
+
+
+
+
+
+» Home   » Contact Us   » Site Map
+
+
+Copyright © ASJ Holdings Limited. All Rights Reserved - 2017
+
+
+
+Top
+Bottom
+
+
+
+
+
+	Anpec Electronics Corporation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anpec
+
+
+
+SearchAdvanced
+
+HomeSitemap中文
+
+
+
+
+
+
+
+
+Previous
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Next
+
+
+
+
+
+Company Profile
+Corporate Mission
+Corporate Culture
+Quality Policy
+Environment Policy 
+
+
+
+
+Switching RegulatorLighting and Display ProductLinear RegulatorSwitchPMICAudio ProductsAnalog to Digital ConverterBattery ManagementVoltage SupervisorMotor Driver
+
+
+
+
+MotherboardVGA CardNotebookMobilePND SystemLCD TVLCD PanelFanInverterWLAN CardATX Power Supply
+
+
+
+
+Company News Central
+New Products
+
+
+
+
+Profile
+
+Profile Company
+Material Information/Investor Conference
+
+
+Financials
+
+Monthly Revenue
+Financial Reports
+
+
+Corporate Governance
+Shareholders Zone
+
+Shareholders
+Dividend History & Stock Quotes
+
+
+Stakeholder Engagement
+Contact Information
+
+
+
+
+Compensation & Benefits
+Learning & Development
+Human Quality
+Join ANPEC
+
+
+
+
+About ANPEC
+Products
+
+            Applications
+News & Events
+Investor Relations
+Careers
+Contact Us
+
+
+
+
+
+
+
+
+
+
+產品資訊
+
+Switching RegulatorLighting and Display ProductLinear RegulatorSwitchPMICAudio ProductsAnalog to Digital ConverterBattery ManagementVoltage SupervisorMotor Driver
+
+
+MOSFET
+
+
+
+
+新產品訊息
+
+APW7513 : 24V 3A 1.4MHz Synchronous Buck Converter With Adj. Soft Start APW7340A : High Efficiency 16V, 1400kHz Synchronous Step-Down ConverterAPW7341A : High Efficiency 16V, 1400kHz Synchronous Step-Down ConverterAPW7400 : High Efficiency 16V, 2A, 650kHz Synchronous Step-Down ConverterAPW7401 : High Efficiency 16V, 3A, 650kHz Synchronous Step-Down ConvertAPW7430 : High Efficiency 16V, 650kHz Synchronous Step-Down ConverterAPW7431 : High Efficiency 16V, 650kHz Synchronous Step-Down ConverterAPW7703 : 2.4MHz PMIC for Battery Powered System with I2C ControllerAPW8869A : DDR2 AND DDR3/DDR3L SYNCHRONOUS BUCK CONTROLLER WITH 1.5A LDO SUPPORT LOW IQ & DROOPAPW8714E : High Input Voltage 6A PWM Converter With Low IqMORE
+
+
+
+
+
+    © 2008, Anpec Electronics Corporation. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RALEC ELECTRONIC CORPORATION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Service
+Service Overview
+Customized Sourcing
+
+
+台灣經貿網
+English
+正體中文
+日本語
+简体中文
+Русский
+Español
+Português
+العربية
+Indonesia
+Tiếng Việt Nam
+ภาษาไทย
+
+
+Favorites(0)
+Sign In
+Register
+guest no cache from cms-cm:172.17.0.7
+
+
+
+
+
+
+
+
+Product
+Product
+Supplier
+Sample
+
+
+
+
+Advanced
+
+
+
+
+
+Home
+
+Company
+
+RALEC ELECTRONIC CORPORATION
+
+
+
+
+
+
+
+
+
+
+RALEC ELECTRONIC CORPORATION
+                                 Add to favorites
+
+
+
+
+
+
+
+
+Company Name:RALEC ELECTRONIC CORPORATION
+Business Type:Exporter
+																			,
+																		Manufacturer
+																			,
+																		OEM
+Year Established:1994
+Tel (1):+886-2-26989977 EXT 202
+Zip Code:高雄市
+Address:.
+Brand:Ralec Electronic Corp.
+Main Product:Chip Resistor
+Main Export Market:United States of America
+																			,
+																		Hong Kong
+																			,
+																		Korea, South Korea
+																			,
+																		United Kingdom
+																			,
+																		Italy
+
+
+
+Products
+
+
+
+
+
+Chip Resistor, Res..
+
+
+
+
+
+thick film chip re..
+
+
+
+
+
+chip resistor
+
+
+
+
+Contact Information
+
+Owner:Mr.C.Y.Liao
+Contact Person:Mr.Jeff Lin
+																		(
+																		Manager
+																		)
+																	
+Contact Supplier
+Office Address:811 .
+Company Site:http://www.ralec.com
+
+Last Update:
+													2009-01-20
+N/A
+N/A
+N/A
+
+Contact Supplier
+
+
+
+To:
+
+Mr.Jeff Lin
+																	,
+																	RALEC ELECTRONIC CORPORATION
+
+
+
+
+CC:
+Use ; or , to separate multiple recipients
+
+
+
+
+
+
+
+
+From:
+
+
+Sign in to have your contact details filled in for youSign In
+
+
+
+ 
+
+*Email
+Send a Copy to Myself
+
+
+
+ 
+
+*Re-enter Email
+Verified
+
+
+
+ 
+
+*Subject
+
+
+
+
+ 
+
+*Message
+
+
+
+
+ 
+
+
+Upload file formats
+																		:
+																		htm、html、doc、docx、pdf、txt、jpg、gif、png
+
+
+
+ 
+
+Estimated Purchase Amount USD
+
+
+
+
+ 
+
+
+Continue
+
+
+
+
+
+
+
+Contact Supplier
+
+
+
+ 
+
+
+																		<
+																		Back to previous step
+
+
+
+ 
+
+*Full Name
+
+
+Mrs.
+Ms.
+Mr.
+
+
+
+ 
+
+*Company Name
+
+
+
+
+ 
+
+*Location
+
+Please Select a Country
+Czech Republic
+Finland
+Gibraltar
+Other
+Montenegro
+Serbia
+Niue
+Equatorial Guinea
+Guinea Bissau
+Kenya
+Federal Islamic Republic of the Comoros
+Liberia
+Lesotho
+Libyan Arab Jamahiriya
+Monaco
+Madagascar
+Mali
+Mauritania
+Mauritius
+Malawi
+Mozambique
+Namibia
+Niger
+Nigeria
+Reunion
+Rwanda
+Seychelles
+Sudan
+Sierra Leone
+Senegal
+Somalia
+Swaziland
+Chad
+Togo
+Tunisia
+Uganda
+South Africa
+Zambia
+Zimbabwe
+Greenland
+Guadeloupe
+St. Pierre and Miquelon
+St. Helena
+United States of America
+Anguilla
+Netherlands Antilles
+Barbados
+Bermuda
+Belize
+Costa Rica
+Dominica
+Dominican Republic
+Guatemala
+Honduras
+Haiti
+Jamaica
+Saint Christopher (St. Kitts) and Nevis
+Cayman Islands
+Saint Lucia
+Montserrat
+Mexico
+Nicaragua
+Panama
+El Salvador
+Trinidad And Tobago
+St Vincent
+Virgin Islands (British)
+Virgin Islands (U.S.)
+Nevis
+F T/C C A
+BR T/C C A
+Argentina
+Aruba
+Bolivia
+Chile
+Colombia
+Falkland Islands (Malvinas)
+French Guiana
+S. Georgia And The S. Sandwich Islands
+Guyana
+Peru
+Paraguay
+Uruguay
+Venezuela
+American Samoa
+Australia
+Cocos (Keeling) Islands
+Christmas Island
+Fiji
+Guam
+Kiribati
+Marshall Islands
+Northern Mariana Islands
+Maldives
+New Caledonia
+Norfolk Island
+Nauru
+New Zealand
+French Polynesia
+Papua New Guinea
+Palau
+Solomon Islands
+Tokelau
+Tonga
+East Timor
+Tuvalu
+Vanuatu
+Wallis And Futuna Islands
+Samoa
+Tahiti
+Other Oceania
+US T/P P A
+Antarctica
+Bougainville Island
+British Indian Ocean Territory
+Neutral Zone
+Pitcairn
+Svalbard And Jan Mayen Islands
+French Southern Territories
+Mayotte
+Gambia
+Guinea
+Bangladesh
+Brunei Darussalam
+Mainland China
+Hong Kong
+Indonesia
+India
+Japan
+Cambodia
+Korea, North Korea
+Korea, South Korea
+Lao People's Democratic Republic
+Myanmar
+Mongolia
+Macau
+Malaysia
+Nepal
+Pakistan
+Singapore
+Thailand
+Taiwan, ROC
+Viet Nam
+Ryukyu
+United Arab Emirates
+Afghanistan
+Bahrain
+Israel
+Iraq
+Iran
+Jordan
+Kuwait
+Lebanon
+Oman
+Qatar
+Syrian Arab Republic
+Turkey
+Yemen
+Andorra
+Armenia
+Austria
+Bosnia and Herzegovina
+Belgium
+Bulgaria
+Belarus
+Switzerland
+Germany
+Denmark
+Estonia
+Spain
+Faroe Islands
+France
+France, Metropolitan
+United Kingdom
+Georgia
+Greece
+Croatia
+Hungary
+Ireland
+Iceland
+Kyrgyzstan
+Kazakhstan
+Liechtenstein
+Luxembourg
+Latvia
+Morocco
+Republic of Moldova
+Malta
+Netherlands
+Norway
+Poland
+Portugal
+Romania
+Russian Federation
+Sweden
+Slovenia
+Slovakia (Slovak Republic)
+San Marino
+Tajikistan
+Turkmenistan
+Ukraine
+Uzbekistan
+Vatican City
+Angola
+Burkina Faso
+Burundi
+Benin
+Botswana
+Central African Republic
+Congo
+Cote D'Ivoire
+Cameroon
+Cape Verde
+Djibouti
+Algeria
+Egypt
+Western Sahara
+Eritrea
+Ethiopia
+Gabon
+Ghana
+Sao Tome and Principe
+Tanzania, United Republic Of
+Canada
+Heard and Mc Donald Island
+Antigua And Barbuda
+Bahamas
+Cuba
+Grenada
+Martinique
+Puerto Rico
+Turks And Caicos Islands
+Brazil
+Ecuador
+Suriname
+Cook Islands
+Micronesia, Federated States Of
+United States Minor Outlying Islands
+Bhutan
+Sri Lanka
+Philippines
+Cyprus
+Saudi Arabia
+Albania
+Azerbaijan
+Italy
+Lithuania
+Macedonia
+Democratic Republic of Congo
+Republic of Somaliland
+Republic of South Sudan
+State of Palestine
+
+
+
+ 
+
+*Company Site
+Not Available
+
+
+
+ 
+
+Business PhoneExt.
++#
+
+
+
+ 
+
+
+Submit
+
+
+
+
+
+
+
+
+
+
+
+
+Loading ...
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Submit
+
+
+
+
+
+    Ralec Electronic Corporation - Company Profile and Financial Analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Login -
+  My basket -
+  
+
+
+
+
+EUR GBP 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ralec Electronic Corporation - Company Profile and Financial Analysis
+
+June 2015
+27 pages
+GlobalData
+        
+
+Report ID: 3078070
+
+
+
+Summary
+Table of contents
+
+
+SummaryICD Research's "Ralec Electronic Corporation - Company Profile and Financial Analysis" contains in depth information and data about the company and its operations. The profile contains a company overview, key facts, major products and services, financial ratios, financial analysis, company locations and subsidiaries.Key FindingsThis report is a crucial resource for industry executives and anyone looking to access key information about "Ralec Electronic Corporation"The report utilizes a wide range of primary and secondary sources, which are analyzed and presented in a consistent and easily accessible format. ICD Research strictly follows a standardized research methodology to ensure high levels of data quality and these characteristics guarantee a unique report.Synopsis- Identifies crucial company information about "Ralec Electronic Corporation" along with major products and services for business intelligence requirements.- Provides key ratios on company's financial performance.- Identifies key employees to assist with key business decisions.- Provides annual and interim financial ratios.Reasons To Buy- Enhance your understanding of "Ralec Electronic Corporation"- Increase business/sales activities by understanding customers' businesses better.- Recognize potential partnerships and suppliers.- Qualify prospective partners, affiliates or suppliers.- Acquire up-to-date company information and an understanding of the company's financial health.Key HighlightsRalec Electronic Corporation (Ralec) is a manufacturer and distributor of resistors. The Company offers chip resistors, chip resistor arrays and metal plates. It also offers current sensing products such as metal alloys, and precision thick film low Ohmic and high power thick film low Ohmic chip resistors; and array resistors including anti-sulfurated, concave, convex and flat type thick film arrays. Ralec's products are used in home appliance, electrical appliance, information equipment and communication equipment, among others. The company operates through its offices and factories located in Taipei and Kaohsiung, Taiwan and Kunshan and Shenzhen, China. It distributes its products in domestic and international markets. Ralec is headquartered in Tailei, Taiwan.
+	
+
+		Table of Contents1 Ralec Electronic Corporation - Major Products and Services2 Ralec Electronic Corporation - Key Events3 Ralec Electronic Corporation - Locations and Subsidiaries3.1 Ralec Electronic Corporation - Head Office4 Ralec Electronic Corporation - Business Analysis4.1 Ralec Electronic Corporation - Company Overview5 Ralec Electronic Corporation - Company Financial Analysis5.1 Ralec Electronic Corporation - Five Year Snapshot: Overview of Financial and Operational Performance Indicators6 Ralec Electronic Corporation - Interim ratios6.1.1 Ralec Electronic Corporation - Financial ratios: Capital Market Ratios6.2 Ralec Electronic Corporation - Financial Performance and Ratio Charts6.2.1 Ralec Electronic Corporation - Revenue and Operating margin6.2.2 Ralec Electronic Corporation - Net Debt vs. Gearing Ratio6.2.3 Ralec Electronic Corporation - Operational Efficiency6.2.4 Ralec Electronic Corporation - Solvency6.2.5 Ralec Electronic Corporation - Valuation6.3 Ralec Electronic Corporation - Competitive Benchmarking6.3.1 Ralec Electronic Corporation - Efficiency6.3.2 Ralec Electronic Corporation - Turnover: Inventory and Asset6.3.3 Ralec Electronic Corporation - Liquidity7 Appendix7.1 Methodology7.2 Ralec Electronic Corporation - Ratio Definitions7.3 DisclaimerList of TablesTable 1: Ralec Electronic Corporation - Major Products and ServicesTable 2: Ralec Electronic Corporation - Key EventsTable 3: Ralec Electronic Corporation - Annual ratiosTable 4: Ralec Electronic Corporation - Interim ratiosTable 5: Ralec Electronic Corporation - Capital Market RatiosList of FiguresFigure 1: Ralec Electronic Corporation - Revenue and Operating ProfitFigure 2: Ralec Electronic Corporation - Net Debt vs. Gearing RatioFigure 3: Ralec Electronic Corporation - Operational EfficiencyFigure 4: Ralec Electronic Corporation - SolvencyFigure 5: Ralec Electronic Corporation - ValuationFigure 6: Ralec Electronic Corporation - EfficiencyFigure 7: Ralec Electronic Corporation - Turnover: Inventory and AssetFigure 8: Ralec Electronic Corporation - Liquidity
+	
+
+
+
+
+
+
+Immediate delivery
+
+
+
+
+
+
+              $ 99 - 1 User License
+              
+
+              $ 198 - Site License
+              
+
+              $ 297 - Corporate License
+              
+
+
+
+
+Get Report
+Pay by invoice
+Get a quote
+
+
+
+ Veronica helps you find the right report:
+
++1 718 213 4904
+Contact by email
+
+
+
+
+FAQ
+
+Delivery time
+User license
+Payment options
+
+
+
+Testimonials
+
+
+
+
+
+
+
+The market research advisor answered my questions quickly and professionally. ReportBuyer's team did their best to ensure that I felt comfortable before making the investment to purchase the report.
+
+
+Cristian Nunez
+          Director of Corporate Development Chugach Alaska Corporation
+        
+
+
+
+My overall experience with ReportBuyer today has been very positive, and I must thank you for your patience (...). Also, the sample you sent me and the explanations provided were very helpful.
+
+
+D. Lescuyer
+          Executive Vice President Oral Business at Skyepharma
+        
+
+
+
+The research specialist was very helpful, and proposed the best content for my needs.
+ReportBuyer also offered a great follow-up, thanks for everything !
+
+
+P. Thompson
+          EMEA Managing Director
+        
+
+
+
+We were satisfied with the support that ReportBuyer's team provided. Thanks to their recommendations, the report we purchased provided exactly what we want.
+
+
+Y. Wang
+          Business Analyst
+        
+
+
+
+We didn't have time to do the research internally, and thanks to ReportBuyer's team we were able to find the appropriate data.
+
+
+S. Chen
+          Research Coordinator
+        
+
+
+
+I was impressed by the customer service: it was fast, responsive, and 100% professional !
+
+
+D. Krivan
+          Market Research Analyst
+        
+
+
+
+The research specialist provided prompt and helpful service. He also followed up to ensure I had all the information to deliver my business development plan.
+
+
+C. Adams
+          Senior Business Development Manager
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Our reports have been used by over 10K customers, including:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related reports and data
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Goldsun Building Materials Co Ltd
+                
+
+ 90
+ 99
+ 77
+
+                                    68 pages •
+                                By Wright Investors' Service 
+                •     Aug 2017
+
+            
+
+
+                                                    A textual analysis of the financial results for Goldsun Building Materials Co Ltd  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company, including...
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Kwong Fong Industries Corp
+                
+
+ 90
+ 99
+ 77
+
+                                    69 pages •
+                                By Wright Investors' Service 
+                •     Aug 2017
+
+            
+
+
+                                                    A textual analysis of the financial results for Kwong Fong Industries Corp  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company, including...
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Hiyes International Company Limited
+                
+
+ 90
+ 99
+ 77
+
+                                    68 pages •
+                                By Wright Investors' Service 
+                •     Aug 2017
+
+            
+
+
+                                                    A textual analysis of the financial results for Hiyes International Company Limited  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company, including...
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Nan Ya Plastics Corporation
+                
+
+ 90
+ 99
+ 77
+
+                                    69 pages •
+                                By Wright Investors' Service 
+                •     Aug 2017
+
+            
+
+
+                                                    A textual analysis of the financial results for Nan Ya Plastics Corporation  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company, including...
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Tonlin Department Store Company Limited
+                
+
+ 90
+ 99
+ 77
+
+                                    68 pages •
+                                By Wright Investors' Service 
+                •     Aug 2017
+
+            
+
+
+                                                    A textual analysis of the financial results for Tonlin Department Store Company Limited  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company,...
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Soonest Express Co Ltd
+                
+
+ 90
+ 99
+ 77
+
+                                    65 pages •
+                                By Wright Investors' Service 
+                •     Aug 2017
+
+            
+
+
+                                                    A textual analysis of the financial results for Soonest Express Co Ltd  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company, including contact...
+                                            
+
+
+
+
+
+More…
+
+
+
+
+
+        Country=Taiwan Date=201506 Topic=FinancialAnalysis Publisher=GlobalData Price=1000
+    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Ralec Electronic Corp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Plans
+
+
+
+
+Limited
+
+
+
+
+Plus
+
+
+
+
+Premium
+
+
+
+
+
+
+
+
+            LimitedMonitor Your Competitors
+
+
+
+Data
+
+Access data on U.S. ocean freight imports from the last 3 months for all companies
+You'll have access to data from the previous 6-months from the date of your search. We use a rolling date range, so you can always look back 6 months from the current date.
+
+
+
+
+            LimitedMonitor Your Competitors
+
+
+
+Data
+
+Access data on U.S. ocean freight imports from the last 3 months for all companies
+Access data on U.S. ocean freight imports from the last 3 months for all companies
+You'll have access to data from the previous 3-months from the date of your search. We use a rolling date range, so you can always look back 3-months from the current date.
+
+
+
+
+            PlusSmall & Medium Business
+
+
+
+Data
+
+Access data on U.S. ocean freight imports from the last 12 months for all companies
+You'll have access to data from the previous 12-months from the date of your search. We use a rolling date range, so you can always look back 12-months from the current date.
+U.S. ocean freight exports from January 1, 2014 to present for all companies
+
+
+
+
+            Premium            Empire Builder
+
+
+
+Data
+
+Access data on U.S. ocean freight imports from November 2006 to the present for all companies
+You'll have access to our entire database of shipping manifests of U.S. Ocean freight imports going back to November 2006.
+U.S. ocean freight exports from January 1, 2014 to present for all companies
+
+
+
+
+
+            LimitedMonitor Your Competitors
+
+
+
+Usage
+
+Track the shipping activities of your 3 chosen companies
+Our Limited Plan lets you monitor the shipping activities of any three companies across all our databases. Be the first to know when your target company clears a shipment through customs in one of the countries we track.
+3 Contact Info Requests Per Month
+Our team of account managers and research assistants will help you find contact information for up to 3 companies in our database each month.
+Download (CSV and XLS) 5k Records Per Month
+If you're planning to do more in-depth research on the companies in our database, you should upgrade to the Plus or Premium plans, which allow more downloads.
+Email Alerts for up to 3 Searches
+If you need to track more than 3 companies, product segments, or trade lanes, you should upgrade to the Plus or Premium plan, which allow more email alerts.
+
+
+
+
+            LimitedMonitor Your Competitors
+
+
+
+Usage
+
+10 Company Searches Per Day
+10 searches per day may be enough if you are just monitoring a few competitors or researching suppliers in a single industry. If you're looking to connect with sales leads or do more in-depth research, you should upgrade to the Plus or Premium plan which allows more searches.
+3 Contact Info Requests Per Month
+Our team of account managers and research assistants will help you find contact information for up to 3 companies in our database each month.
+Download (CSV and XLS) 1k Records Per Month
+If you're planning to do more in-depth research on the companies in our database, you should upgrade to the Plus or Premium plan, which allow more downloads.
+Email Alerts for up to 3 Company Searches
+If you need to track more than 3 companies, product segments, or trade lanes, you should upgrade to the Plus or Premium plan, which allow more email alerts.
+
+
+
+
+            Plus            Small & Medium Business
+
+
+
+Usage
+
+25 Searches Per Day
+25 searches per day may be enough if you are just monitoring a few competitors or researching suppliers in a single industry. If you're looking to connect with sales leads or do more in-depth research, you should upgrade to the Premium plan which allows more searches.
+25 Contact Info Requests Per Month
+Our team of account managers and research assistants will help you find contact information for up to 25 companies in our database each month.
+Download (CSV and XLS) 10k Records Per Month
+If you're planning to do more in-depth research on the companies in our database, you should upgrade to the Premium plan, which allow more downloads.
+Email Alerts for up to 5 Searches
+If you need to track more than 5 companies, product segments, or trade lanes, you should upgrade to the Premium plan, which allow more email alerts.
+
+
+
+
+            Premium            Empire Builder
+
+
+
+Usage
+
+50 Searches Per Day
+ 
+50 Contact Info Requests Per Month
+Our team of account managers and research assistants will help you find contact information for up to 50 companies in our database each month
+Download (CSV and XLS) 25k Records Per Month
+If you're planning to do more in-depth research on the companies in our database, contact the Sales Department to purchase more credits and export additional shipping records.
+Email Alerts for up to 10 Searches
+
+
+
+
+
+             Plus             Small & Medium Business
+
+
+
+Features
+
+Visual Mapping
+Our Visual Mapping technology provides an instant snapshot of any company's trade connections. Navigate the global web of trading partners with the click of a mouse and visualize the relationships between companies many degrees apart.
+
+
+
+
+
+
+
+            Premium            Empire Builder
+
+
+
+Features
+
+Visual Mapping
+Our Visual Mapping technology provides an instant snapshot of any company's trade connections. Navigate the global web of trading partners with the click of a mouse and visualize the relationships between companies many degrees apart.
+
+
+
+
+
+
+
+            Limited            Monitor Your Competitors
+
+
+
+Support
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+Call or e-mail our Customer Service Agents. They will get back to as soon as possible to assist you with your data needs.
+
+
+
+
+            Plus            Small & Medium Business
+
+
+
+Support
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+Call or e-mail our Customer Service Agents. They will get back to as soon as possible to assist you with your data needs.
+
+
+
+
+            Premium            Empire Builder
+
+
+
+Support
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+Call or e-mail our Customer Service Agents. They will get back to as soon as possible to assist you with your data needs.
+Dedicated Research Assistant
+An experienced trade data specialist will serve as your dedicated account manager to locate hard-to-reach data, perform searches and compile reports on your behalf.
+
+
+
+
+            Limited            Monitor Your Competitors
+
+
+
+Data
+
+Access data on U.S. ocean freight imports from the last 3 months for all companies
+You'll have access to data from the previous 6-months from the date of your search. We use a rolling date range, so you can always look back 6 months from the current date.
+
+
+
+
+
+
+
+X
+
+
+
+
+
+
+
+
+
+
+
+
+                   Home                
+
+
+
+
+
+                        How It Works                    
+
+
+
+                            U.S. Data                        
+
+                            Additional Countries                        
+
+                            Our Datasets                        
+
+                            Our Clients                        
+
+                            IG Reviews                        
+
+                            Videos                        
+
+                            Pictures                        
+
+                            Presentation                        
+
+
+
+                   Plans & Pricing                
+
+                    Search                
+
+                  Contact Us                
+Live Chat				
+
+                    Free Demo                
+
+                    Sign In                
+
+                    Join Now                
+
+
+
+
+
+
+
+
+
+
+
+English
+中文
+French
+
+
+
+
+
+
+
+
+
+
+English
+
+
+
+中文
+
+
+
+French
+
+
+
+ 
+
+Get global shipment alerts for Ralec Electronic Corp, $9.95 /month
+
+Processing, please wait ...
+
+
+
+
+
+
+
+Cardholder's Name
+
+
+Tell us your Full Name
+
+
+
+Credit Card No. 
+
+
+
+
+
+
+
+
+Enter a valid Card No.
+
+
+
+Exp. Date
+
+1 January
+2 February
+3 March
+4 April
+5 May
+6 June
+7 July
+8 August
+9 September
+10 October
+11 November
+12 December
+
+
+
+
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+
+
+
+Postal Code / Zip
+
+
+(or Postal Code if not in the USA)
+
+
+
+
+  Terms of Service
+
+
+
+
+Submit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			                                                Service: 855-573-9976 
+                        Sales: +1-855-573-9976
+
+ Live Chat
+
+Choose Language
+ English
+ 中文
+ French
+
+
+
+
+ 
+
+
+
+Hi, may I help you with something?
+
+An ImportGenius.com sales agent is available to answer your question.
+
+
+							Chat Live Now						
+
+						No, thanks.					
+
+
+
+
+
+
+
+Sign Up
+
+
+
+
+
+
+Home
+How It Works
+Plans & Pricing
+Search
+Contact Us
+
+
+Live Chat
+
+2
+  
+
+
+
+ 
+
+
+
+Ralec Electronic Corp
+
+Ralec Electronic Corp exports to Meritek Electronics Corp through the port of Los Angeles, California        
+
+
+
+
+
+ Call +1 (480) 744 2559
+
+
+
+
+Import Genius
+
+
+
+
+
+
+                                Our bill of lading data reveals the trading activities of Ralec Electronic Corp and millions of other manufacturers.                            
+
+
+Learn More
+Join Now
+
+
+
+
+Request a Demo
+
+
+
+
+
+Would you like to schedule a free demo?
+We'd love to show you international trade data relevant to your own business.
+
+
+
+
+
+
+
+
+
+
+Name
+
+
+
+
+Email
+
+
+
+
+
+Phone
+
+
+
+
+
+
+Schedule A Free Demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Play muted
+
+
+International Trade Starts With Our Data
+
+
+
+
+
+
+
+
+
+Other companies in our database
+
+ ADIDAS INDUSTRIAL
+ INTEL TECHNOLOGY SDN BHD
+ FRITO LAY DOMINICANA, S.A.         
+ JC PENNEY
+ TEXAS INSTRUMENTS CENTER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View Sample Shipment Records
+Shipment Alert Subscription
+Contact This Company
+
+
+
+Sign Up
+
+ 
+
+
+
+
+
+Sample shipment record for Ralec Electronic Corp
+Ralec Electronic Corp exports to Meritek Electronics Corp through the port of Los Angeles, California
+
+
+                                Bill of Lading                            
+
+
+
+
+
+Manufacturer / Shipper
+Consignee
+
+
+
+RALEC ELECTRONIC CORP
+NO.1 CENTRAL 2ND STREET, N.E.P.Z. KAOHSIUNG, TAIWAN KAOHSIUNG, TAIWAN 811 TW
+
+
+MERITEK ELECTRONICS CORPORATION
+11824 HAMDEN PLACE, SANTA FE SPRINGS, 90670, CA, U.S.A. LOS ANGELES, CA CA 90670 US
+
+
+
+Notify Party
+Marks and Numbers
+
+
+
+-NOT AVAILABLE
+
+
+
+
+MERITEK IN DIA SANTA FE SPRINGS P O P
+NO 1 MADE IN TAIWAN
+MERITEK IN DIA SANTA FE SPRINGS P O P
+NO 1 MADE IN TAIWAN
+
+
+
+
+
+Master Bill of Lading Number
+Container Number
+
+
+
+KKLUTW0359902
+
+
+KKFU7660750
+KKFU7660750
+
+
+Product Description
+
+
+
+
+CHIP RESISTOR CHIP ARRAY RESISTOR            .
+CHIP RESISTOR CHIP ARRAY RESISTOR            .
+
+
+
+
+
+
+
+
+
+Bill of LadingSCNL3US1504202Arrival Date2015-05-05Weight (LB)574Weight (KG)261UnitsXQuantity24 CTNContainer Count1Voyage No.12EPort of LoadingCHI LUNGPort of DischargeLOS ANGELES, CALIFORNIAVessel NameYM MODESTYCarrier CodeSCNLCountry Of OriginChina TaiwanPlace Of ReceiptKAOHSIUNG, TAIWAN 
+
+
+
+
+
+Subscribe to access the complete shipping history for Ralec Electronic Corp. Join Now 
+
+
+
+
+
+
+
+How will your business use our trade data?
+If you're involved in international trade, our database of shipping manifests will help you find opportunities to grow your business.
+
+Find Trading Partners You Can Trust
+Monitor Competitors' Shipping Activities
+Connect With Sales Prospects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            "Very informative and great site and so quick. Pretty slick."
+                        
+
+
+
+
+
+
+
+Betty Fatzie
+
+                                                                    President,                                 
+                                                                    Lab Products, Inc.                                
+                            
+
+
+
+
+
+
+                            "The service was great, with a reasonable price and great results. We have now started using another supplier from China. We just ordered our first container from the new supplier and with the savings it more than paid for the ImportGenius.com service on the first container load."
+                        
+
+
+
+
+
+
+
+Cleve Kurz
+
+                                
+                                                                    Gifford Monument Works                                
+                            
+
+
+
+
+
+
+                            "Import Genius is not merely an investment for our organization, it’s a vital instrument to effectively manage our time. It has afforded us the ability to quickly segment, target and position ourselves in front of prospective clients. Thank you, Import Genius!"
+                        
+
+
+
+
+
+
+
+David Bryant
+
+                                                                    Director of Business Development,                                 
+                                                                    John S. James Co.                                
+                            
+
+
+
+
+
+
+                            "Import Genius data is fantastic for evaluating component manufacturers in China."
+                        
+
+
+
+
+
+
+
+Sanjay Dastoor
+
+                                
+                                                                    BoostedBoards.com                                
+                            
+
+
+
+
+
+
+                            "We have confidence that we're working with the best manufacturers in part because Import Genius showed us that they already supply some of the world's top brands"
+                        
+
+
+
+
+
+
+
+Yaniv Masjedi
+
+                                                                    Vice President,                                 
+                                                                    Nextiva.com                                
+                            
+
+
+
+
+
+
+                            "Import Genius is a highly informative tool for monitoring public companies' operating activities. It is an invaluable part of our research."
+                        
+
+
+
+
+
+
+
+Eric DeLamarter
+
+                                                                    Managing Partner,                                 
+                                                                    Half Moon Capital                                
+                            
+
+
+
+
+
+
+                            "We find new clients for our customs brokerage in the ImportGenius database almost every day"
+                        
+
+
+
+
+
+
+
+Jayson Gispan
+
+                                                                    Customs Brokerage Operations Manager,                                 
+                                                                    Flexport.com                                
+                            
+
+
+
+
+
+
+                            "ImportGenius is a great research tool. We use it to evaluate manufacturers to make sure we are working with only the highest quality, most reliable suppliers"
+                        
+
+
+
+
+
+
+
+Chris Friedland
+
+                                                                    Founder / CEO,                                 
+                                                                    Build.com                                
+                            
+
+
+
+
+
+
+                            "ImportGenius gave us visibility into the actual shipping histories of the manufacturers we were evaluating and helped us feel comfortable we were working with the best suppliers in China."
+                        
+
+
+
+
+
+
+
+Morena Simitic
+
+                                                                    COO,                                 
+                                                                    BellaBeat.com                                
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shipment Alert Subscription
+
+
+
+                        Get e-mail alerts when Ralec Electronic Corp has new shipments.                        
+
+Processing, please wait ...
+
+
+
+
+
+
+
+
+
+Submit
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Ralec Electronic Corp
+
+
+
+
+
+
+
+ 
+
+
+
+Name
+
+
+
+Business
+
+
+
+Email
+
+
+
+Phone
+
+
+
+
+Submit
+
+
+
+
+Processing, please wait ...
+
+ 
+
+ 
+
+
+
+
+
+Features
+
+
+
+Save and Share Reports
+Easily get your searches out of Import Genius and into your team’s hands for further analysis. Export your findings to XLS or CSV, or send reports via email. It’s the simple things that make our trade data even more valuable to you.
+
+
+
+See the Supply Chain
+Visual Mapping shows you exactly how your target companies and their trading partners connect. Search by shipper and see everyone they’ve shipped to. Or search by consignee and see all their suppliers. Zoom in on any company to see their own trading network. Dive deep into international trade and discover the links in anyone’s supply chain.
+
+
+
+Get Real-time Shipment Alerts
+Stay on top of your competitors, suppliers, and customers with real-time alerts. Just set up a search and get an email whenever a new shipment matches your terms. Import Genius lets you know the moment they bring in a rival product or start shipping to a new partner.
+
+
+
+
+
+
+
+
+Ralec Electronic Corp
+You've viewed 20 profile pages on Import Genius, which is the most we allow for free. Sign up for ImportGenius to get more details on over 3 million importers and exporters. It only takes seconds.
+
+
+
+
+
+
+Sign Up for Import Genius! 
+
+
+
+
+
+
+
+
+Plans
+
+
+
+
+Limited
+Monitor Your Competitors
+
+
+
+
+Recommended Plan
+Plus
+Small & Medium Business
+
+
+
+
+Premium
+Empire Builder
+
+
+
+
+
+
+Price
+
+
+
+
+
+$
+99
+594
+/month
+for 6 months
+
+
+
+                        Sign Up                    
+
+
+
+
+
+
+$
+199
+1,194
+/month
+for 6 months
+
+
+
+                        Sign Up                    
+
+
+
+
+
+
+$
+399
+2,394
+/month
+for 6 months
+
+
+
+                        Sign Up                    
+
+
+
+
+
+
+
+Data
+
+
+
+
+Access data on U.S. ocean freight imports from the last 3 months for all companies
+View Details
+
+
+
+
+Access data on U.S. ocean freight imports from the last 12 months for all companies
+U.S. ocean freight exports from January 1, 2014 to present for all companies
+View Details
+
+
+
+
+Access data on U.S. ocean freight imports from November 2006 to the present for all companies
+U.S. ocean freight exports from January 1, 2014 to present for all companies
+View Details
+
+
+
+
+
+
+Usage
+
+
+
+
+
+Track the shipping activities of your 3 chosen companies
+3 Contact Info Requests Per Month
+Download (CSV and XLS) 5k Records Per Month
+Email Alerts for up to 3 Searches
+
+View Details
+
+
+
+
+
+25 Searches Per Day
+25 Contact Info Requests Per Month
+Download (CSV and XLS) 10k Records Per Month
+Email Alerts for up to 5 Searches
+
+View Details
+
+
+
+
+
+50 Searches Per Day
+50 Contact Info Requests Per Month
+Download (CSV and XLS) 25k Records Per Month
+Email Alerts for up to 10 Searches
+
+View Details
+
+
+
+
+
+
+Features
+
+
+ 
+
+
+Visual Mapping
+View Details
+
+
+
+
+Visual Mapping
+View Details
+
+
+
+
+
+
+Support
+
+
+
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+View Details
+
+
+
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+View Details
+
+
+
+
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+Dedicated Research Assistant
+
+View Details
+
+
+
+
+
+
+  
+
+
+
+
+
+
+View All U.S. Imports
+Instantly search 109,970,574 ocean freight records to monitor U.S. importers, research suppliers, generate sales leads and more.
+
+
+As Featured In
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is Import Genius
+
+
+
+
+
+Who Uses Import Genius
+
+
+
+
+
+Available Data Fields
+
+
+
+
+
+
+
+What is Import Genius
+
+
+												Import Genius reveals the trading activities of importers and exporters around the world.								
+
+												We give you hard data about your overseas suppliers and domestic competitors. Using shipping databases from Customs agencies in the United States, Latin America, and India, Import Genius can help you find reliable new trading partners, monitor your competitors’ shipments, and keep an eye on your current suppliers and customers.								
+
+												Our team of seasoned import-export veterans, cutting-edge software developers, and customer service professionals has worked for years to build the world's most powerful and accessible database of international trade intelligence.								
+
+
+
+												We do this for a diverse client base that requires keen insight into international trade.								
+
+												Our customers include some of the world's top importers, exporters, freight forwarders, logistics companies, manufacturers, investment banks, financial analysts, intellectual property attorneys, and more. They use our tools to:								
+
+Research the trade activity of importers and suppliers
+Identify and vet new sources for any kind of product
+Monitor the competition and their trade connections
+Generate sales leads for transportation and logistics companies
+Track the activity of publicly-traded companies
+Investigate and enforce intellectual property infringement
+Ensure exclusive agent compliance
+
+
+
+
+Who Uses Import Genius
+
+Sourcing Professionals...
+
+			Use our service to view shipping histories for suppliers.		
+
+			We provide access to detailed customs records, letting you verify suppliers' true shipping volumes and U.S. customer lists. You can also look up your competing import firms to find where they buy their goods.		
++ Learn More
+Competitive Intelligence Analysts...
+
+			Use our service to learn where rivals source products.		
+
+			We give clear insights into the importing volumes, new product releases, and broader competitive dynamics of your industry.		
++ Learn More
+
+
+Sales & Marketing Teams...
+
+			Use our service to generate sales prospects.		
+
+			We give you the tools to target importers based on product type, location, shipping volumes, and more.		
++ Learn More
+Financial Analysts...
+
+			Use our service to monitor public companies' imports.		
+
+			We offer rare data on the success or failure of new product launches, shipping trends and other operating data for companies in any industry.		
++ Learn More
+
+
+
+Available Data Fields
+
+Import Genius Data Fields
+
+												By collecting the ocean freight bill of lading for all U.S. imports in our database, Import Genius provides unprecedented access to near real-time information on virtually every industry and company importing goods into the country.								
+
+												For each shipment entering the U.S. by ocean, we provide access to the following information.								
+Additional Fields Available for Some Shipments:
+
+Phone Number
+Fax Number
+Email
+Contact Person
+
+
+
+List of Data Fields
+
+
+
+ConsigneeThe company importing the shipment into the U.S.Consignee AddressThe address of the company importing the shipment into the U.S.ShipperThe overseas company exporting the shipment to the U.S.Shipper AddressThe address of the overseas company exporting the shipment to the U.S.Product DescriptionThe exporter's description of the shipment as it appears on the bill of lading or shipping manifestGross WeightThe gross weight of the shipment, excluding the weight of the actual container. This can appear in either pounds or kilograms at the discretion of the exporterNumber Of UnitsThe quantity of boxes customs would find if they were to open the shipment for inspection.VolumeThe volume of the shipment, generally defined in cubic meters or container base measurements (CBM)Arrival DateThe date the shipment arrives within the customs territory of the U.S.Foreign PortThe last port the shipment passes through before arriving in the U.S.Country Of OriginThe country of the last foreign port the shipment passes through before arriving in the U.S.U.S. PortThe U.S. port where the shipment enters the customs territory of the U.S.Carrier CodeThe four digit Standard Carrier Alpha Code of the ocean carrier or freight forwarder managing the transit of the shipmentVoyage NumberA unique code assigned to that particular sailing of the ship between two portsVessel NameThe name of the ship transporting the shipmentShip Registered InThe country where the ship is officially registeredBill Of Lading NumberThe unique number assigned to this particular shipment by the ocean carrier or freight forwarderContainer NumberThe unique number assigned to the ocean shipping container carrying the shipment in questionMarks & NumbersAny text or numbers appearing on the cartons 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Import Genius
+
+How It Works
+Plans & Pricing
+Our Trade Data Blog
+Search
+Latin Trade Data
+
+Import Genius Reviews & Press Coverage
+Who Uses Import Genius
+Contact Us
+
+
+
+Latest Posts
+
+
+
+
+                                    Trump Properties Have…                                
+
+
+
+
+                                    India, US palm oil imports…                                
+
+
+
+
+                                    Chilean salmon exports…                                
+
+
+
+
+                                    Limited Plan Now Available                                
+
+
+
+
+                                    Solar panels: imports…                                
+
+
+
+
+Company Profiles
+
+
+
+                                    Zao Shops,llc                                
+
+
+
+                                    Tvp Dental B Corporation                                
+
+
+
+                                    Woodytent C/o Koenders                                
+
+
+
+                                    Thomas Ferney & Co. Llc                                
+
+
+
+                                    Hiayang Libenli Body Building Appar                                
+
+
+
+
+
+
+
+
+
+
+
+                     
+                                            109,970,574  Records in our database and counting
+
+
+
+
+
+Customer Support Team: 
+
+                    Tel:  855-573-9976
+                    International: +1 480-745-3396
+                    Fax: +1 602-428-9400
+info@importgenius.com
+
+                    8901 E Pima Center Pkwy, 
+		    Suite 105 
+                    Scottsdale, AZ 85258
+
+
+Shanghai, China:
+
+                    Tel: +86-21-63806036
+
+
+                    Mobile No.: +86-13671737628
+                    Fax Number: +86-21-63806036
+
+
+Shenzhen, China
+                    
+                            Tel: +86-755-89517585
+                            Mob: +86-13925258002
+                            Fax: +86-755-89517585                
+
+
+
+Have questions? We'll reply quickly!
+
+
+
+
+
+									         		Type your info below								         		
+
+
+
+
+
+
+
+
+
+
+
+Message
+
+
+
+Submit
+
+Processing, please wait ...
+
+ 
+
+ 
+
+                Trainings, Demos, and General Contact All Available            
+Or Call Us:
+Service:
+
+                    +1-855-573-9976                
+Sales:
+
+                    +1-855-573-9976                
+Back to top
+
+ 
+
+
+
+
+
+All Rights Reserved. Copyright © 2017. Trade Data Services, Inc. 0.4035
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+We're Offline
+Please leave us a message
+
+
+
+To chat with a representative of Import Genius, your browser needs to be Internet Explorer 9 or higher. Please fill out the form below and a representative will contact you as soon as possible.
+
+
+
+Name
+
+
+
+Email
+
+
+
+Phone
+
+
+
+Message
+
+
+
+Send
+
+
+
+
+X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RALEC ELECTRONIC CORPORATION - Manufacturer of rchip resistor in Taiwan | Business Directory by D&B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Dun and Bradstreet 
+Business Directory
+
+
+LOGIN
+
+REGISTER
+
+
+
+
+
+
+
+
+
+ HOME 
+
+D-U-N-S NUMBER
+GET DUNS REGISTERED
+
+My ACCOUNT
+
+
+MY DASHBOARD
+
+
+
+
+
+ 
+
+
+
+
+ Dun and Bradstreet 
+Business Directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UNSPSC/Products
+Company Name
+D-U-N-S
+Industry/SIC
+Country
+
+
+
+
+Search
+
+Click on the HOME tab to access the Search bar.
+
+
+
+Advanced Search
+
+
+
+
+UNSPSC/Products
+
+
+Lookup UNSPSC
+
+
+Revenue
+
+Select
+< $1 million
+$1 - $5 million
+$5 - $10 million
+$10 - $50 million
+$50 - $500 million
+$500 - $1000 million
+$1000 - $10000 million
+> $10000 million
+
+
+
+Country
+
+Select
+China
+India
+US
+
+Number of Employees
+
+Select
+< 4
+5-10
+11-49
+50-99
+100-499
+500-999
+1000-4999
+More than 5000
+
+
+
+Basic Search  
+									Clear
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RALEC ELECTRONIC CORPORATION
+
+中文 
+
+
+
+
+
+
+
+
+Dun & Bradstreet Verified Information
+
+
+Company Provided Information
+
+
+
+
+
+
+
+
+
+
+
+
+                                            Verified by Dun & Bradstreet 
+                                            
+
+Overview
+
+
+
+
+ Corporate Information 
+
+
+
+
+Company Name:
+RALEC ELECTRONIC CORPORATION
+
+
+Address:
+
+	                                                                            1, Central 2nd St., Nantze Export Processing Zone,
+	                                                                            
+	                                                                            
+	                                                                            
+	                                                                            
+	                                                                            
+	                                                                            Kaohsiung City,
+	                                                                            
+	                                                                            81170   
+	                                                                            Taiwan                                                                          
+                                                                            
+
+
+
+Telephone:
+
+
+		                                                                     	  
+	                                                                        		+886 73661067
+	                                                                        
+
+
+
+Fax:
+
+
+                                                                        		+886 73622258
+	                                                                        
+
+
+
+Main Website:
+
+
+http://www.ralec.com
+
+
+
+Email Address:
+jeff.lin@ralec.com
+
+
+Employees:
+200~499
+
+
+Export:
+
+                                                                                Yes
+                                                                        
+
+
+Import:
+
+                                                                                Yes
+                                                                        
+
+
+
+
+
+
+ D-U-N-S Number 
+
+
+
+
+D-U-N-S Number:
+657210225
+
+
+Credit Report Availability:
+
+                                                                                On Demand
+                                                                        
+
+
+
+
+
+
+
+
+ Registration Information 
+
+
+
+
+Line Of Business:
+
+                                                                             Manufacturer of rchip resistor
+                                                                        
+
+
+SIC:
+
+                                                                                3625 - Mfg relays/industrial controls
+
+
+
+Business Type:
+Public Company Limited by Shares (TW)
+
+
+Registration date:
+1994
+
+
+Registration #:
+
+                                                                               	 22101050
+                                                                        
+
+
+Registered Capital:
+TWD 2,000,000,000
+
+
+Member Since Date:
+
+                                                                            2011/12/05
+                                                                        
+
+
+
+
+
+
+ Key Employee 
+
+
+
+
+
+                                                                            	President:
+                                                                            
+
+	                                                                             
+	                                                                            Liao, 
+	                                                                            Chen Yi, Cy
+                                                                            
+
+
+
+                                                                            	General Manager:
+                                                                            
+
+	                                                                             
+	                                                                            Hsu, 
+	                                                                            Yu Ming, Amos
+                                                                            
+
+
+
+                                                                            	Senior Vice President:
+                                                                            
+
+	                                                                             
+	                                                                            Yang, 
+	                                                                            Wen Chuan, Owen
+                                                                            
+
+
+
+
+
+
+ Products & Brands 
+
+
+                                                                32121600 - Resistors 
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+ 
+Click to purchase a business report for this company
+
+
+
+Related Tags
+ 
+
+
+
+
+Kaohsiung City 
+
+
+Taiwan 
+
+
+Export
+
+
+Import
+
+
+Manufacturer of rchip resistor 
+
+
+Mfg relays/industrial controls 
+
+
+Resistors 
+
+ 
+
+
+
+
+
+
+
+
+
+This information is not verified by D&B
+Executives
+
+
+
+
+
+Name:
+
+		                                                        		 
+		                                                        		Liao 
+		                                                        		Chen Yi, Cy
+	                                                        	
+
+Title: President
+
+ 
+ 
+
+
+
+
+
+Name:
+
+		                                                        		 
+		                                                        		Hsu 
+		                                                        		Yu Ming, Amos
+	                                                        	
+
+Title: General Manager
+
+ 
+ 
+
+
+
+
+
+Name:
+
+		                                                        		 
+		                                                        		Yang 
+		                                                        		Wen Chuan, Owen
+	                                                        	
+
+Title: Senior Vice President
+
+ 
+ 
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thank You
+
+
+ Thanks for claiming the profile. 
+ Your request will be reviewed shortly. 
+
+
+OK
+
+
+
+
+
+
+
+
+Thank You
+
+
+ Message Successfully delivered to recipient. 
+
+
+OK
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Warning
+
+
+
+
+
+OK
+
+
+
+
+
+
+
+
+
+
+
+
+
+Product Highlights
+The D&B Business Directory is a Business Directory of businesses that enables people anywhere in the world to find and connect with a company they want to do business with.
+ 
+How does it work?
+
+
+Search
+											the D&B Business Directory to gain the insight and confidence you need 
+											to find the best company to do business with, whether it is a supplier, customer or partner.
+											Register Now  to see more search results.
+Found your own business?  
+			   								Claim   it here and update your company profile details.
+
+			 									Found a company that you would like to do business with?   
+			 									
+			   									Connect     with them using our 1-click Connect feature. 
+            								
+
+            								Click on a company name in the search results to see the company profile. 
+            								DUNS Registered business profiles can contain corporate information, registration information, 
+            								key employee details, certifications, on-site audit details, product images and more.
+
+								            To find out more about becoming DUNS Registered
+											click here. 
+
+
+Click Here
+Register Now!
+ 
+Already registered? Login to Search, Claim your company profile, and Connect.
+
+
+
+
+
+Downloads & Offers
+Do you have an offer code? Click on the link below to download a Whitepaper or Self Evaluation Report.
+
+Click here to download a Self Evaluation Report using an Offer Code
+
+
+Login to claim your offer code.
+Not registered yet? Register for free now!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+About
+
+FAQs
+
+Contact
+
+
+
+
+
+
+Facebook
+Twitter
+YouTube
+LinkedIn
+
+
+
+
+
+
+
+
+
+Dun & Bradstreet (NYSE: DNB) grows the most valuable relationships in business. By uncovering truth and meaning from data, we connect customers with the prospects, suppliers, clients and partners that matter most, and have since 1841. Nearly ninety percent of the Fortune 500, and companies of every size around the world, rely on our data, insights and analytics.
+
+© Dun & Bradstreet, Inc. 2000-2015. All rights reserved.
+
+Privacy Policy
+Terms of Use
+Feedback
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

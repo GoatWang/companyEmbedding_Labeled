@@ -1,0 +1,6612 @@
+
+
+
+
+
+
+
+
+
+
+Products - CA Technologies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{item.title}}
+
+
+
+                        North America (English)
+                    
+
+{{account.inactiveText}}
+
+{{account.activeText}}
+
+
+                    {{search ? 'Close':'Search'}}
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{item.title}}
+
+
+
+
+
+{{section.promo.title}}
+{{section.promo.description}}
+{{section.promo.cta}}
+
+
+
+
+
+
+
+
+{{section.promo.title}}
+{{section.promo.description}}
+{{section.promo.cta}}
+
+
+
+
+
+
+
+
+
+
+                        North America (English)
+
+
+
+
+{{account.inactiveText}}
+
+                        {{account.activeText}}
+
+
+
+
+
+
+
+
+{{item.title}}
+
+
+
+
+                  {{search ? 'Close':'Search'}}
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+                        
+
+
+
+
+
+Products
+                        
+
+
+
+
+
+Resources
+                        
+
+
+
+
+
+
+{{ solutionResults.length + productResults.length +
+                            resourceResults.length > 0 ? 'See all Search Results' :
+                            'Full site search'}} >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+                
+We’ve got what you need to go from idea to innovation faster.
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related Videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Search products by name 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Or browse products by solution 
+
+
+
+
+
+
+
+
+
+Plan
+                
+Get the agility you need to drive change—from the boardroom to development.
+                
+Explore >
+
+
+
+
+Build
+                
+Ignite innovation through the continuous development of quality applications.
+                
+Explore >
+
+
+
+
+Test
+                
+Your key to better software is through continuous testing.
+                
+Explore >
+
+
+
+
+Release
+                
+Continuously release high-quality apps at scale.
+                
+Explore >
+
+
+
+
+Operate
+                
+Maximize visibility from mobile to mainframe with application and infrastructure monitoring.
+                
+Explore >
+
+
+
+
+Secure
+                
+Secure your digital enterprise to win in the app economy with identity and access management.
+                
+Explore >
+
+
+
+
+
+
+
+
+
+Plan
+                
+Get the agility you need to drive change—from the boardroom to development.
+                
+Explore >
+
+
+
+
+Build
+                
+Ignite innovation through the continuous development of quality applications.
+                
+Explore >
+
+
+
+
+Test
+                
+Your key to better software is through continuous testing.
+                
+Explore >
+
+
+
+
+
+
+Release
+                
+Continuously release high-quality apps at scale.
+                
+Explore >
+
+
+
+
+Operate
+                
+Maximize visibility from mobile to mainframe with application and infrastructure monitoring.
+                
+Explore >
+
+
+
+
+Secure
+                
+Secure your digital enterprise to win in the app economy with identity and access management.
+                
+Explore >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Free Trials 
+
+
+
+
+
+Try some of our most popular products.
+
+
+
+
+
+
+                
+                    Explore Free Trials
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ROI and Business Value Assessments 
+
+
+
+
+
+Learn how much CA can save you with our ROI calculators and business value estimators.
+
+
+
+
+
+
+                
+                    Calculate Savings
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Still not sure what you’re looking for? 
+
+
+
+
+
+Tell us your business challenges and we’ll give you solutions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{selectedFilteredItems[$index].heroTitle}}
+
+                        {{learnmore}} >
+                    
+
+
+{{selectedFilteredItems[$index+1].heroTitle}}
+
+                        {{learnmore}} >
+                    
+
+
+{{selectedFilteredItems[$index+2].heroTitle}}
+
+                        {{learnmore}} >
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get in touch with CA.
+
+
+
+
+
+
+                
+                    Email Us
+                
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        {{link.title}}
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            {{link.title}}
+                        
+
+
+
+
+Copyright © 2017 CA. All
+                    rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+Chat
+
+
+What would you like to chat about?
+Support
+
+Product, Sales, or General Inquiries
+Product, Sales, or General Inquiries
+
+Product, Sales, or General Inquiries
+
+
+
+
+
+
+
+Contact
+
+
+
+
+Call us at 1-800-225-5224
+
+
+Call us at 1-800-225-5224
+                    
+Contact Us
+
+
+
+
+
+
+
+Email
+
+
+Get in touch with CA
+Email Us
+
+
+
+
+
+
+
+
+
+Chat with CA
+
+
+
+
+
+
+Just give us some brief information and we'll connect you to the right CA ExpertCA sales representative.
+Our hours of availability are 8AM - 5PM CST.
+
+All Fields Required
+
+First Name
+                    
+
+
+Last Name
+                    
+
+
+Email Address
+
+
+How can we help you?
+            
+
+
+
+
+We're matching your request.
+
+
+
+Unfortunately, we can't connect you to an agent. If you are not automatically redirected please click here.
+
+
+
+
+{{message.agentProfile.name}} will be helping you today.
+View Profile
+
+
+
+
+
+
+
+
+
+Transfered to {{message.agentProfile.name}}
+{{message.agentProfile.name}} joined the
+                    conversation
+{{message.agentProfile.name}} left the conversation
+
+
+
+
+Your chat with {{$storage.chatSession.messages[$index - 1].agentProfile.name}} has
+                    ended.
+                    Thank you for your interest in CA.
+
+
+ Rate Your Chat Experience. 
+{{chat.statusMsg}}
+
+
+
+
+
+
+agent is typing
+
+
+
+
+
+
+Request Chat
+
+
+
+Cancel
+                    Chat
+
+
+
+Send
+End Chat
+
+
+
+Close Chat
+
+
+
+
+
+
+
+
+
+
+
+
+MFS201N-19-Z Copal Electronics Inc. | 開關 | DigiKey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+臺灣
+
+0080-185-4023
+
+
+更改國家
+
+繁體中文
+
+TWD
+
+
+ 您的品項 查看購物車 登入或註冊 登入註冊為什麼要註冊
+
+
+
+
+
+所有產品所有內容音訊產品電池產品盒、外殼、支架纜線組件纜線、電線 - 管理纜線、電線電容電路防護電腦、辦公室 - 零件、配件連接器、互連元件晶體和振盪器編程器、開發系統離散半導體產品嵌入式電腦風扇、熱管理濾波器五金、扣件、配件電感、線圈、扼流圈工業控制、儀表積體電路 (IC)隔離器套件線路防護、配電、備援磁性 - 變壓器、電感元件創客／DIY、教育記憶卡、模組馬達、螺線管、驅動板／模組網路解決方案光學檢驗設備光電電位計、可變電阻電源供應器 - 板式安裝電源供應器 - 外接／內置（板外）原型開發產品繼電器電阻RF/IF 和 RFID感測器、傳感器焊接、拆焊、重工產品靜電控制、ESD、無塵室產品開關膠帶、黏著劑測試與量測工具變壓器
+
+
+
+
+
+產品 製造商 資源參考文章資料庫內容資料庫
+工程資源工業自動化IoT 產品選擇表最新產品
+產品培訓單元感測器產品選擇表
+視訊資料庫設計線上轉換計算器開發工具EDA 和設計工具公版設計
+Scheme-it® 設計工具TechZones℠搜索/排序BOM Manager瀏覽器資源線上產品目錄訂單狀態購物車
+ 
+
+
+
+
+
+產品索引 > 開關  > 滑動開關 > Copal Electronics Inc. MFS201N-19-Z
+            
+
+
+
+               分享 
+
+
+
+
+
+
+分享至：
+
+
+
+
+
+
+
+或複製以下連結：
+
+
+
+此功能暫時無法使用。 我們正努力修復中。 感謝您的耐心等候。
+
+
+
+
+
+
+
+
+
+
+
+                    加到我的最愛
+                
+
+
+                            此功能僅限已註冊用戶使用。 請登入或註冊。
+                        
+
+
+此功能暫時無法使用。 我們正努力修復中。 感謝您的耐心等候。
+
+
+
+
+ 
+
+
+
+
+當零件存貨耗盡後，該零件將成為非庫存貨；此時將採用最低訂購數量方法。 訂購數量應為可供數量或者可供數量加上最低訂購數量的倍數。
+非庫存貨 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+                                產品概述
+                            
+
+
+Digi-Key零件編號
+
+
+                                        563-1559-ND
+                                    
+
+
+現有數量
+
+
+
+
+2,940
+
+可立即發貨
+                
+
+工廠存貨 : 200                
+
+
+
+製造商
+
+
+
+Copal Electronics Inc.
+
+
+
+
+
+製造商零件編號
+
+
+
+                                            MFS201N-19-Z
+                                        
+
+
+
+說明
+
+                                            SWITCH SLIDE DPDT 300MA 30V
+                                        
+
+
+
+                                            無鉛狀態 / RoHS 指令狀態
+                                        
+
+                                            無鉛 / 符合 RoHS 指令
+                                        
+
+
+濕度敏感等級 (MSL)
+1 (無限)
+
+
+製造商的標準前置時間
+
+
+                                                14 週
+                                            
+
+
+
+完整說明
+
+
+                                                Slide Switch DPDT Through Hole
+
+                                            
+
+
+
+
+
+
+
+
+                            文件與媒體
+                        
+
+
+規格書
+
+MFS Series
+
+
+
+
+
+
+
+產品培訓模組
+
+Slide Switch
+
+
+
+
+
+
+
+特色產品
+
+Ultra-Miniature Slide Switches
+
+
+
+
+
+
+
+
+
+
+
+
+
+                產品屬性
+            
+選取所有項目
+
+
+
+類別
+
+開關
+
+
+
+
+
+
+
+滑動開關
+
+
+
+
+
+
+製造商
+Copal Electronics Inc.
+
+
+
+系列
+
+MFS
+
+
+
+
+
+                        包裝
+ 
+
+散裝 
+
+
+
+
+
+                        零件狀態
+                    
+
+
+
+有效
+
+                        
+
+
+
+
+                        電路
+                    
+
+
+
+DPDT
+
+                        
+
+
+
+
+                        接觸時間
+                    
+
+
+
+先接後斷 (MBB)
+
+                        
+
+
+
+
+                        開關功能
+                    
+
+
+
+開-開
+
+                        
+
+
+
+
+                        額定電流
+                    
+
+
+
+300 mA (DC)
+
+                        
+
+
+
+
+                        電壓額定值 - AC
+                    
+
+
+
+-
+
+                        
+
+
+
+
+                        電壓額定值 - DC
+                    
+
+
+
+30 V
+
+                        
+
+
+
+
+                        致動器類型
+                    
+
+
+
+標準
+
+                        
+
+
+
+
+                        致動器長度
+                    
+
+
+
+2.50 mm
+
+                        
+
+
+
+
+                        觸點材質
+                    
+
+
+
+-
+
+                        
+
+
+
+
+                        觸點塗層
+                    
+
+
+
+-
+
+                        
+
+
+
+
+                        安裝類型
+                    
+
+
+
+通孔
+
+                        
+
+
+
+
+                        端接樣式
+                    
+
+
+
+PC 針腳
+
+                        
+
+
+
+
+                        特點
+                    
+
+
+
+-
+
+                        
+
+
+
+
+                        致動器材質
+                    
+
+
+
+-
+
+                        
+
+
+
+
+                        開關行程
+                    
+
+
+
+2.00 mm
+
+                        
+
+
+
+
+                        工作溫度
+                    
+
+
+
+-10°C ~ 70°C
+
+                        
+
+
+
+
+                        機械壽命
+                    
+
+
+
+-
+
+                        
+
+
+
+
+                        電氣壽命
+                    
+
+
+
+5、000 次循環
+
+                        
+
+
+
+
+                        操作力
+                    
+
+
+
+250 gf
+
+                        
+
+
+
+
+ 
+
+
+
+回報錯誤
+
+
+
+
+
+                                                    其他資源
+                                                
+
+
+標準包裝 
+ 100
+
+
+
+                                                                其他名稱
+                                                            
+
+563-1559 
+
+
+
+
+12:01:34 8/3/2017
+
+
+
+
+                                                    價格與採購
+                                                
+
+ 
+
+
+
+
+
+
+數量
+
+
+
+
+ 
+
+
+
+563-1559-ND
+MFS201N-19-Z ‎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                        所有價格皆為 TWD。
+                                                    
+
+
+價格分段
+單價
+總價
+
+
+1
+
+ 34.00000
+34.00
+
+
+10
+32.30000
+323.00
+
+
+25
+31.60000
+790.00
+
+
+50
+28.24000
+1,412.00
+
+
+100
+26.90000
+2,690.00
+
+
+250
+26.22400
+6,556.00
+
+
+500
+22.19000
+11,095.00
+
+
+1,000
+21.51700
+21,517.00
+
+
+
+                                                            送出報價請求，瞭解超過顯示數量時的價格。
+
+
+
+
+
+
+
+ 傳送意見回饋
+
+
+
+
+
+
+
+
+
+
+
+
+資訊
+條款和條件關於 Digi-Key聯絡我們新聞室網站導航支援的瀏覽器隱私權聲明
+
+臺灣
+taiwan.support@digikey.com
+免費電話: 0080-185-4023傳真: +852-3104-0686
+
+
+
+
+國際
+非洲亞洲澳洲歐洲中東北美洲南美洲
+
+
+
+
+版權所有 © 1995-2017, Digi-Key Electronics.保留所有權利。701 Brooks Avenue South,Thief River Falls, MN 56701 USA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ZAK Products | No. 1 Professional Maintenance Fluid of NASCAR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fuel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Brake
+
+
+
+
+
+
+
+
+
+
+
+
+
+Diesel
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oil
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transmission
+
+
+
+
+
+
+
+
+
+
+
+
+
+Power Steering
+
+
+
+
+
+
+
+
+
+
+
+
+
+HVAC
+
+
+
+
+
+
+
+
+
+
+
+
+
+Battery
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cooling
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu Kits
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shop
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+4th Consecutive Year!
+For the fourth consecutive year, ZAK Products has been named to the prestigious Inc. 5000 list as one of the nation's fastest-growing private companies.
+Read More » 
+
+
+
+
+
+
+
+ 
+
+ZAK Gives Back
+Members of the ZAK team had the privilege to serve at The Gatehouse, a supportive community for women and their children to seek refuge in times of crisis.
+Read More » 
+
+
+
+
+
+
+
+ 
+
+A New Look for ZAK
+Same fantastic products, awesome new look! After months at the drawing board and careful consideration we have completely redesigned our product branding.
+Read More » 
+
+
+
+ 
+
+
+
+
+
+Featured Product
+
+
+
+
+
+
+
+
+
+ 
+
+Diesel
+
+
+
+
+
+
+
+
+Reduces Emissions and Improves Fuel Economy
+Protects Fuel Degradation
+Boosts Cetane Levels
+
+ZAK Diesel 8-in-1 Total Clean is specifically designed for today’s sophisticated diesel engines which are extremely sensitive to deposits.  Diesels are the work horse of the industry, and owners can’t afford lengthy down time or costly repairs.  Utilizing ZAK Products 8-in-1 Total Clean with every oil change will ensure maximum performance and durability.
+
+
+SKU: DF 801
+Category: Diesel
+
+
+
+To Order: 
+
+ 
+
+
+
+
+Description
+
+
+
+Product Description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ZEBEX Industries Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                About ZEBEX
+
+History & Vision
+Core Competence
+Design Award
+Upcoming Exhibition
+Location
+
+
+Product & Technology
+                
+
+Product
+
+Mobility Product
+Scanning Product
+2017 Product Catalogue
+
+
+Decoding Capability
+
+Mobility Product
+Scanning Product
+
+
+OEM/ODM Expertise
+
+
+Support & Service
+                
+
+Technical Download
+Documentation Download
+
+Mobility Product
+Scanning Product
+Product Certificate
+
+
+RMA Service
+FAQ
+
+Mobility Product
+Scanning Product
+
+
+
+
+News & Notes
+                
+
+Breaking News
+Application Notes
+
+Mobility Product
+Scanning Product
+
+
+
+
+Contact ZEBEX 
+
+Business Development
+Technical Support
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Product
+
+
+
+
+Mobility Product 
+
+
+
+
+
+
+Scanning Product
+
+
+
+
+
+ 
+By Product Category
+
+
+ 
+．In-Counter Scanner
+
+
+
+
+
+
+ 
+．Hands-Free Scanner
+
+
+
+
+
+
+ 
+
+
+．Handheld Scanner
+
+
+
+
+
+ Z-3392BT
+
+
+ Z-3272
+
+
+ Z-3392
+
+
+
+ Z-3060
+
+
+Z-3192BT Series
+
+
+Z-3192 Series
+
+
+Z-3152 Series
+
+
+Z-3191BT
+
+
+Z-3251
+
+
+Z-3191LE
+
+
+Z-3151HS
+
+
+Z-3101
+
+
+Z-3190BT
+
+
+Z-3250
+
+
+Z-3190
+
+
+Z-3100
+
+
+Z-3220
+
+
+
+
+
+
+
+
+ 
+．Scan Module
+
+
+
+
+
+
+ 
+．Scan Engine
+
+
+
+
+
+
+ 
+．Accessory
+
+
+
+
+
+
+ 
+．Magnetic Stripe Reader
+
+
+
+
+
+
+ 
+By Optical Type
+
+
+ 
+
+．Omnidirectional Scanner
+
+
+
+
+ Z-6910 
+
+
+ Z-6182
+
+
+Z-6082
+
+
+Z-6170
+
+
+Z-6070
+
+
+Z-6010
+
+
+Z-3060
+
+
+A-50M
+
+
+
+
+
+
+
+
+
+
+ 
+
+．2D Image Reader
+
+
+
+
+Z-6172 Series 
+
+
+ Z-6112 Series
+
+
+Z-3192BT Series
+
+
+ Z-3192 Series
+
+
+Z-3152 Series
+
+
+Z-5252 Series
+
+
+Z-5152 Series
+
+
+
+
+
+
+
+
+
+
+ 
+
+．1D Laser Scanner
+
+
+
+
+ Z-3191BT
+
+
+Z-3251
+
+
+Z-3191LE
+
+
+ Z-3151HS
+
+
+ Z-3101
+
+
+Z-5151
+
+
+
+
+
+
+
+
+
+
+ 
+
+．1D CCD / C-MOS Scanner
+
+
+
+
+ Z-3190BT
+
+
+Z-3250
+
+
+ Z-3190
+
+
+Z-3100
+
+
+Z-3220
+
+
+Z-5130
+
+
+Z-5160
+
+
+ Z-5210 
+
+
+Z-5111
+
+
+
+
+
+
+
+
+
+
+ 
+
+．Others
+
+
+
+
+ DG-5X 
+
+
+ ZM-800 Series
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Decoding Capability
+
+
+
+
+Mobility Product 
+
+
+
+
+
+
+Scanning Product 
+
+
+
+
+
+
+
+
+
+ OEM/ODM Expertise
+
+
+ 
+
+
+
+
+
+
+Product & Technology Product Scanning  Product  Handheld Scanner
+
+
+
+
+
+
+
+
+
+
+
+
+Z-3152 Series
+
+
+ Handheld 2D Image Scanner 
+
+
+
+
+
+The Z-3152 Series, advanced handheld barcode scanners for decoding one- and two-dimensional barcode symbologies, the perfect devices for fast-moving working environment, such as for shipping industry to ensure parcels are delivered to right destinations, for government administration to manage heavy and complex citizen services, for custom control to accurately and efficiently process custom investigations. The Z-3152 Series scanners come with 2 different versions, each designed with your needs in mind.
+                                    • Powerful image sensor yields  advanced scanning performance
+                                    • Ergonomic,  rugged design
+                                    • Support multiple code formats
+                                    Z-3152SR: Standard working range 
+Z-3152HD: High density decoding 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Specifications
+Documents
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+OPERATIONAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Aiming  Element
+650  nm visible laser diode (VLD)
+
+
+
+
+
+Illumination  Element
+625±5  nm
+
+
+
+
+
+Optical  System
+752H  × 480V pixels (wide VGA)
+
+
+
+
+
+Field  of View
+Z-3152SR:39.6° horizontal; 25.7°  vertical; Z-3152HD:38.4° horizontal; 24.9°  vertical
+
+
+
+
+
+Focusing  Distance
+Z-3152SR: 20.3 cm / 8 inch; Z-3152HD: 7.4 cm / 2.9 inch
+
+
+
+
+
+Sensitivity
+360°  (omnidirectional rotational sensitivity)
+
+
+
+
+
+Depth of Field
+Z-3152SR:
+Code 39 (5 mil): 40 – 190 mm
+                                                      
+                                                      Code 39 (13 mil): 40 – 400 mm
+                                                      
+                                                      PDF 417 (10 mil): 30 – 280 mm
+                                                      
+                                                      DataMatrix (10 mil): 60 – 150 mm 
+Z-3152HD:
+PDF 417 (4.33 mil): 40 – 90 mm
+                                                      
+                                                      Code 39 (5 mil): 20 – 140 mm
+                                                      
+                                                      Code 39 (13 mil): 40 – 190 mm
+                                                      
+                                                      PDF 417 (10 mil): 20 – 130 mm
+                                                      
+                                                      DataMatrix (10 mil): 30 – 120 mm 
+
+
+Note: DOF may vary depending on environment condition and barcode quality.
+
+
+
+
+
+Print  Contrast
+30%  @ UPC/EAN 100%
+
+
+
+
+
+Indicator
+Two-color  LED (green & red)
+
+
+
+
+
+Programmable  Operation
+Power  mode,  beeper tone,  focus control,  image control & trigger mode
+
+
+
+
+
+Image  Format
+BMP(*.bmp),   TIFF(*.tif),  JPEG(*.jpg)
+
+
+
+
+
+System  Interface
+RS-232,   USB1.1
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+PHYSICAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Dimension
+107.8 × 58.3 × 155.2  mm  (device only)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weight
+112 g (stand excluded)
+
+
+
+
+
+Cable
+Standard  2M straight
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+POWER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Input  Voltage
+5  VDC ±5%
+
+
+
+
+
+
+
+
+
+
+
+
+
+Power  Consumption
+1.4  watts
+
+
+
+
+
+Operating  Current
+280  mA typical
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+REGULATORY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+EMC
+CE  & FCC DOC compliant
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ENVIRONMENTAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Operating  Temperature
+0°C – 40°C  (32°F – 104°F)
+
+
+
+
+
+Storage  Temperature
+-20°C – 60°C  (-4°F – 140°F)
+
+
+
+
+
+Humidity
+5%  – 95% RH (non-condensing)
+
+
+
+
+
+Light  Level
+Max.  96,900 Lux (fluorescence)
+
+
+
+
+
+Drop  Durability
+Designed  to withstand 1M drops
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+DECODING CAPABILITY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+1D Barcode
+UPC/EAN/JAN, UPC-A & UPC-E, EAN-8 & EAN-13, JAN-8 & JAN-13, ISBN/ISSN, Code 39, Codabar, Code 128 & EAN 128, Code 93, ITF 2 of 5, IATA Code, MSI, China Postal Code, Code 32, Industrial 2 of 5, Standard 2 of 5, JAP, Code 11, GS1 DataBar, GS1 DataBar Limited, GS1 DataBar Expanded
+
+
+
+
+
+2D Barcode
+PDF 417, MicroPDF 417, MaxiCode, DataMatrix, DataMatrix Inverse, QR Code, QR Inverse, MicroQR Code, Aztec Code, Aztec Inverse, Postal Code
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Data Sheet
+．Release Date : 2013-06-11
+                                                      ．Download 
+
+
+Buyer's Guide
+．Release Date : 2017-02-23
+                                                      ．Download 
+
+
+Dimension 
+．Release Date : 2011-10-05
+                                                      ．Download 
+
+
+Programming Guide
+．Release Date : 2013-08-27
+                                                      ．Download 
+
+
+Quick Guide
+．Release Date : 2011-07-18
+                                                      ．Download 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best viewed at a minimum resolution of 1024×768 with IE 8.0 or better.
+Copyright @ 2015 ZEBEX INDUSTRIES INC.  All rights reserved.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ZEBEX Industries Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 　　 　 關於巨豪
+
+回顧與展望
+核心技術
+獎項與榮耀
+近期展訊
+公司位置
+目前職缺
+
+
+ 　　 　 產品與技術
+
+產品項目
+
+資料終端產品
+條碼掃描產品
+
+
+解碼性能總覽
+
+資料終端產品
+條碼掃描產品
+
+
+客製技術
+
+
+ 　　 　 支援與服務
+
+程式下載
+文件下載
+
+資料終端產品
+條碼掃描產品
+產品證書
+
+
+返修服務
+常見問題
+
+資料終端產品
+條碼掃描產品
+
+
+
+
+ 　　 　 新聞與應用
+
+最新消息
+應用實例分享
+
+資料終端產品
+條碼掃描產品
+
+
+
+
+　　 　 聯絡我們
+
+業務發展
+技術支援
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+產品項目
+
+
+
+
+資料終端產品
+
+
+
+
+
+ 
+固定式多功能電腦終端
+
+
+
+
+
+
+ 
+行動資料處理器 
+
+
+
+
+
+
+ 
+
+
+ 輕便型資料收集器
+
+
+
+
+
+ Z-900x 系列
+
+
+ Z-2121 系列
+
+
+ Z-2130
+
+
+ Z-1170 系列
+
+
+ Z-1160
+
+
+ ZAC
+
+
+ WinTaskGen.NET 5.0
+
+
+
+
+
+
+
+
+
+條碼掃描產品
+
+
+
+
+
+
+
+
+
+
+解碼性能總覽
+
+
+
+
+資料終端產品
+
+
+
+
+
+
+條碼掃描產品
+
+
+
+
+
+
+
+
+
+ 客製技術
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+產品與技術 產品項目 資料終端產品  輕便型資料收集器
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Z-900x 系列
+
+
+輕便型資料收集器
+
+
+
+
+
+Z-900x系列以更簡潔的功能特色、更精簡的介面選項，將使用者對「簡單」的訴求發揮極致。Z-900x採用ZEBEX最新開發、操作極為簡易的ZAC（ZEBEX Application Creator）程式，使用者僅需以直覺式的設定與人性化的使用介面，就能輕鬆達到最大的使用效能。此外，Z-900x系列特別設計了簡潔光滑且堅固耐用的外形，只需要一隻手，所有強大功能盡在彈指之間精準掌握。為完美符合來自各種應用環境的不同使用需求，Z-900x系列可搭配多種掃描引擎：可視需要選擇內建一維CCD、雷射或二維條碼掃描引擎。其他進階功能還包括配備有32位元的的中央處理器、無線傳輸功能、LED狀態指示燈，以及耐用可靠的IP54 防護等級…等等。
+                              • 簡單易懂的操作介面
+                              
+                              • 傳輸反射型液晶顯示器，室內外各種場合均可廣泛使用
+                              
+                              • 不需任何程式背景都能輕鬆上手
+Z-9000: 內建一維條碼CCD掃描引擎 
+Z-9001: 內建一維條碼雷射掃描引擎
+Z-9002: 內建二維條碼掃描引擎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+產品規格
+文件資料
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+系統配備
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+中央處理器
+32位元RISC ARM Cortex-M4 100MHz微型處理器
+
+
+
+
+
+記憶容量
+8 MB Flash ROM、4 MB RAM（可選配8 MB）
+
+
+
+
+
+顯示螢幕
+Mono FSTN，128 × 128點陣式圖像液晶顯示器，含背光
+
+
+
+
+
+操作按鍵
+共21鍵，含全英數輸入及系統控制按鍵及LED背光
+
+
+
+
+
+指示信號
+綠、紅雙色LED燈
+
+
+
+
+
+提示音效
+可調整蜂鳴器聲調、頻率及音量
+
+
+
+
+
+傳輸介面
+USB 2.0 full-speed device compliance
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+電力需求
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+主要電源
+1,150 mAH，3.7V鋰離蓄電池
+
+
+
+
+
+備用電池
+15 mAH，3.0V可蓄電鋰電池
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+裝置外觀
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+尺寸
+132.0 × 59.0 × 29.0 mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+重量
+157克（含電池）
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+環境條件
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+操作溫度
+攝氏 0～50度（華氏 32～122度）
+
+
+
+
+
+
+
+
+
+
+
+
+
+儲存溫度
+攝氏 -20～60度（華氏 -4～140度）
+
+
+
+
+
+ 環境濕度
+相對濕度5～95％（無凝結）
+
+
+
+
+
+落摔強度
+通過1.2米落摔測試（至混凝土地面）
+
+
+
+
+
+抗震強度
+完成0.5米來回翻滾1000次測試
+
+
+
+
+
+防護等級
+IP54（防落塵等級5、防水滴等級3）
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+安規認證
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+安全規範
+FCC、CE、VCCI、BSMI
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+附屬配件
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+標準配件
+線材組、鋰離電池、USB線、變壓器、手持背帶
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+軟體及開發
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+(a) 支援ZAC軟體（ZEBEX  Application Creator）；
+                                                  (b) 軟體開發工具支援C-Language  compatible complier
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+產品單頁
+．發行日期 : 2015-01-20
+                                                ．檔案大小 : 1,315KB
+                                                ．文件下載 
+
+
+操作手冊
+．發行日期 : 2013-06-21
+                                                ．檔案大小 :989KB
+                                                ．文件下載 
+
+
+軟體手冊 (ZAC)
+．發行日期 : 2013-08-02
+                                                ．檔案大小 :838KB
+                                                ．文件下載 
+
+
+尺寸 
+．發行日期 : 2013-07-08
+                                                ．檔案大小 :272KB
+                                                ．文件下載 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+最佳瀏覽解析度1024×768以上、使用IE8.0或更新版本之瀏覽器。
+2015年巨豪實業股份有限公司版權所有、盜用必究。
+
+　Web Mail｜員工專區
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ZEBEX Industries Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 　　 　 關於巨豪
+
+回顧與展望
+核心技術
+獎項與榮耀
+近期展訊
+公司位置
+目前職缺
+
+
+ 　　 　 產品與技術
+
+產品項目
+
+資料終端產品
+條碼掃描產品
+
+
+解碼性能總覽
+
+資料終端產品
+條碼掃描產品
+
+
+客製技術
+
+
+ 　　 　 支援與服務
+
+程式下載
+文件下載
+
+資料終端產品
+條碼掃描產品
+產品證書
+
+
+返修服務
+常見問題
+
+資料終端產品
+條碼掃描產品
+
+
+
+
+ 　　 　 新聞與應用
+
+最新消息
+應用實例分享
+
+資料終端產品
+條碼掃描產品
+
+
+
+
+　　 　 聯絡我們
+
+業務發展
+技術支援
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+產品項目
+
+
+
+資料終端產品 
+
+
+
+
+
+條碼掃描產品
+
+
+
+
+
+
+以應用類別區分
+
+
+
+
+．嵌入式條碼掃描平台
+
+
+
+
+
+Z-6182
+
+
+ Z-6082
+
+
+
+
+
+
+
+．桌上型條碼掃描器
+
+
+
+
+
+．手持式條碼掃描槍
+
+
+
+
+
+．條碼掃描模組
+
+
+
+
+
+．條碼掃描引擎
+
+
+
+
+
+．磁條卡讀取機
+
+
+
+
+
+以引擎種類區分
+
+
+
+．多線式條碼掃描機種
+
+
+
+
+ Z-6182
+
+
+Z-6082
+
+
+Z-6170
+
+
+Z-6070
+
+
+Z-6010
+
+
+Z-3060
+
+
+A-50M
+
+
+
+
+
+
+
+
+
+
+．二維條碼掃描機種
+
+
+
+
+ Z-6112 系列
+
+
+ Z-3192BT 
+
+
+ Z-3192 系列
+
+
+Z-3152 系列
+
+
+ Z-5252 系列
+
+
+Z-5152 系列
+
+
+
+
+
+
+
+
+
+
+．一維條碼雷射掃描機種種
+
+
+
+
+ Z-3191BT
+
+
+ Z-3251 
+
+
+ Z-3191LE 
+
+
+ Z-3151HS
+
+
+ Z-3101
+
+
+Z-5151
+
+
+
+
+
+
+
+
+
+
+．一維條碼CCD/C-MOS掃描機
+
+
+
+
+ Z-3190BT
+
+
+ Z-3250 
+
+
+ Z-3190
+
+
+Z-3100
+
+
+Z-3220
+
+
+Z-5130
+
+
+Z-5160
+
+
+ Z-5111
+
+
+
+
+
+
+
+
+
+
+．其他
+
+
+
+
+ ZM-800 系列
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+解碼性能總覽
+
+
+
+
+資料終端產品 
+
+
+
+
+
+
+條碼掃描產品 
+
+
+
+
+
+
+
+
+
+ 客製技術
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+產品與技術  產品項目  條碼掃描產品  嵌入式條碼掃描平台
+
+
+
+
+
+
+
+
+Z-6180
+
+
+進階版雙雷射多線式條碼掃描平台
+
+
+
+
+
+作為ZEBEX全系列條碼掃描器當中最高階的產品，Z-6180以旗艦級的姿態，同時支援直立與平面兩種平台式應用。Z-6180具備優越的雙雷射科技，以10個方向、40條掃描線構成綿密的掃描網，提供每秒達3,600次的高速掃描。搭配ZEBEX獨家專利的Z-SCAN+即時硬體解碼技術，Z-6180為繁忙的高流量零售環境提供了超凡的掃描效能。
+                              • 獨家雙雷射科技與破損條碼修復功能
+                                
+                                • 可輕鬆拆卸直接就地更換的防刮鏡面
+                                
+                                • 當條碼自左右任一方向掃過時，立即由省電模式自動喚醒
+                                
+                                • 榮獲2010年德國紅點設計獎（red dot）：產品設計類及2009年台北國際電腦展－創新設計獎（d&i）的雙重肯定 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+產品規格
+文件資料
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+系統配備
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+掃描光源
+兩組650 nm可見光雷射二極體（VLD）
+
+
+
+
+
+掃描景深（DOF） 
+6 mil: 0 – 50 mm
+                                                  
+                                                  7.5 mil: 0 – 100 mm
+                                                  
+                                                  10 mil: 0 – 130 mm
+                                                  
+                                                  13 mil: 0 – 180 mm
+                                                  
+                                                  20 mil: 0 – 250 mm 
+
+
+
+
+
+掃描線數目
+40 條
+
+
+
+
+
+掃描速度
+每秒掃描3,600次
+
+
+
+
+
+掃描型式
+由10個方向掃描線組成的掃描區域
+
+
+
+
+
+印刷對比辨識度
+40％（UPC/EAN為100％）
+
+
+
+
+
+指示信號
+藍、紅雙色LED燈
+
+
+
+
+
+提示音效
+可調整蜂鳴器聲調、頻率及音量
+
+
+
+
+
+系統介面
+IBM 46xx、鍵盤、OEM (IBM) USB、RS-232、HID USB、USB Virtual COM
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+裝置外觀
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+尺寸
+285.0  × 242.0 × 101.2 mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+重量
+3, 000 克
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+電力需求
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+電源電壓
+100  – 240 VAC,  50/60 Hz
+
+
+
+
+
+
+
+
+
+
+
+
+
+直流輸入
++12V,   -12V,  +5V
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+安規認證
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+雷射等級
+CDRH  Class IIa; IEC 60825-1: Class 1
+
+
+
+
+
+電磁相容性（EMC）
+CE  & FCC DOC compliance
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+環境條件
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+操作溫度
+攝氏0～40度（華氏32～104度）
+
+
+
+
+
+儲存溫度
+攝氏 -20～60度（華氏 -4～140度）
+
+
+
+
+
+環境濕度
+相對濕度5～95％（無凝結）
+
+
+
+
+
+光照度
+最高4,500 Lux（螢光燈）
+
+
+
+
+
+落摔強度
+通過1米落摔測試（至混凝土地面）
+
+
+
+
+
+相容性
+與EAS電子商品防竊系統相容
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+解碼類型
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+一維條碼
+UPC/EAN/JAN、UPC-A及UPC-E、EAN-8及EAN-13、JAN-8及JAN-13、ISBN/ISSN、Code 39、Codabar、Code 128及EAN 128、Code 93、ITF、Addendum 2 of 5、IATA Code、MSI、中國郵政編碼、Code 32、Industrial 2 of 5、Standard 2 of 5、DTF、JAP、Code 11、GS1 DataBar, GS1 DataBar Limited, GS1 DataBar Expanded
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+產品單頁
+．發行日期 : 2012-06-13
+                                                ．檔案大小 : 320KB
+                                                ．文件下載 
+
+
+操作手冊
+．發行日期 : 2012-03-28
+                                                ．檔案大小 : 2, 085KB
+                                                ．文件下載 
+
+
+買主指南
+．發行日期 : 2011-03-28
+．檔案大小 : 589KB
+．文件下載 
+
+
+設定手冊
+．發行日期 : 2011-03-23
+．檔案大小 : 938KB
+．文件下載 
+
+
+尺寸 
+．發行日期 : 2010-05-27
+                                                ．檔案大小 :173KB
+                                                ．文件下載 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+最佳瀏覽解析度1024×768以上、使用IE8.0或更新版本之瀏覽器。
+2015年巨豪實業股份有限公司版權所有、盜用必究。
+
+　Web Mail｜員工專區
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ZEBEX Industries Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                About ZEBEX
+
+History & Vision
+Core Competence
+Design Award
+Upcoming Exhibition
+Location
+
+
+Product & Technology
+                
+
+Product
+
+Mobility Product
+Scanning Product
+2017 Product Catalogue
+
+
+Decoding Capability
+
+Mobility Product
+Scanning Product
+
+
+OEM/ODM Expertise
+
+
+Support & Service
+                
+
+Technical Download
+Documentation Download
+
+Mobility Product
+Scanning Product
+Product Certificate
+
+
+RMA Service
+FAQ
+
+Mobility Product
+Scanning Product
+
+
+
+
+News & Notes
+                
+
+Breaking News
+Application Notes
+
+Mobility Product
+Scanning Product
+
+
+
+
+Contact ZEBEX 
+
+Business Development
+Technical Support
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Product
+
+
+
+
+Mobility Product
+
+
+
+
+
+
+Scanning Product
+
+
+
+
+
+ 
+By Product Category
+
+
+ 
+．In-Counter Scanner
+
+
+
+
+
+
+ 
+
+
+．Hands-Free Scanner
+
+
+
+
+
+Z-8082 Series 
+
+
+Z-8062 Series 
+
+
+Z-8072 Series 
+
+
+Z-6172 Series 
+
+
+ Z-6170
+
+
+Z-6070
+
+
+Z-6010
+
+
+
+Z-6112 Series
+
+
+
+
+
+
+
+
+ 
+．Handheld Scanner
+
+
+
+
+
+
+ 
+．Scan Module
+
+
+
+
+
+
+ 
+．Scan Engine
+
+
+
+
+
+
+ 
+．Accessory
+
+
+
+
+
+
+ 
+．Magnetic Stripe Reader
+
+
+
+
+
+
+ 
+By Optical Type
+
+
+ 
+
+．Omnidirectional Scanner
+
+
+
+
+ Z-6910 
+
+
+ Z-6182
+
+
+Z-6082
+
+
+Z-6170
+
+
+Z-6070
+
+
+Z-6010
+
+
+Z-3060
+
+
+A-50M
+
+
+
+
+
+
+
+
+
+
+ 
+
+．2D Image Reader
+
+
+
+
+Z-6172 Series 
+
+
+ Z-6112 Series
+
+
+ Z-3192BT Series
+
+
+ Z-3192 Series
+
+
+Z-3172 Plus Series 
+
+
+Z-3152 Series
+
+
+Z-5252 Series
+
+
+Z-5152 Series
+
+
+
+
+
+
+
+
+
+
+ 
+
+．1D Laser Scanner
+
+
+
+
+ Z-3191BT
+
+
+Z-3251
+
+
+Z-3191LE
+
+
+ Z-3151HS
+
+
+ Z-3101
+
+
+Z-5151
+
+
+
+
+
+
+
+
+
+
+ 
+
+．1D CCD / C-MOS Scanner
+
+
+
+
+ Z-3190BT
+
+
+Z-3250
+
+
+ Z-3190
+
+
+Z-3100
+
+
+Z-3220
+
+
+Z-5130
+
+
+Z-5160
+
+
+ Z-5210 
+
+
+Z-5111
+
+
+
+
+
+
+
+
+
+
+ 
+
+．Others
+
+
+
+
+ DG-5X 
+
+
+ ZM-800 Series
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Decoding Capability
+
+
+
+
+Mobility Product 
+
+
+
+
+
+
+Scanning Product 
+
+
+
+
+
+
+
+
+
+ OEM/ODM Expertise
+
+
+ 
+
+
+
+
+
+
+Product & Technology  Product  Scanning  Product  Hands-Free Scanner
+
+
+
+
+
+
+
+
+Z-6170
+
+
+Hands-Free Single-Laser Omnidirectional Scanner
+
+
+
+
+
+Elegant and functional, the Z-6170 leads the trend to the next aesthetical level. Its distinctive white/black color fits perfectly into places like bookstore, boutique and anywhere delicacy is a must. With uniquely designed single-laser scan engine, the scanner has 20-line omnidirectional laser beams reading at 1,400 scans per second, and upgraded CPU for decoding most popular 1D barcodes at an unbeatable performance.
+                              • Single-line trigger button
+                                
+                                • Tiltable stand with hinge shaft design
+                                
+                                • Advance decoding design for fast and accurate scanning
+                                
+                                • Unique plastic suction cup for easy field installation
+                                
+                                • Honored by Taiwan Excellence 2010 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Specifications
+Documents
+360º View
+
+
+
+
+
+
+ 
+Application Notes
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+OPERATIONAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Light  Source
+650 nm visible laser diode (VLD)
+
+
+
+
+
+Depth of Field
+4 mil: 10 – 50 mm
+                                                  5 mil: 0 – 90 mm
+                                                  7.5 mil: 0 – 170 mm
+                                                  10 mil: 0 – 220 mm
+                                                  13 mil: 0 – 240 mm
+                                                  20 mil: 0 – 300 mm
+
+
+
+Note: DOF may vary  depending on environment condition and barcode quality.
+
+
+
+
+
+Scan  Pattern
+5  directions of scan field
+
+
+
+
+
+Scan  Rate
+1, 400  scans per second (omnidirectional); 70 scans per second (single-line)
+
+
+
+
+
+Scan Line
+20
+
+
+
+
+
+Print  Contrast
+30%  @ UPC/EAN 100%
+
+
+
+
+
+Indicator
+Two-color  LED (blue,  red)
+
+
+
+
+
+Beeper  Operation
+Programmable  tone & volume
+
+
+
+
+
+System  Interface
+Keyboard,   RS-232,  HID USB,  USB Virtual COM,  OPOS,  JPOS
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+PHYSICAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Dimension
+118.0  × 100.0 × 165.1 mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weight
+400 g (without cable)
+
+
+
+
+
+Cable
+Standard  2M straight
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+POWER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Input  Voltage
+5  VDC ±10%
+
+
+
+
+
+
+
+
+
+
+
+
+
+Power  Consumption
+1.35  watts
+
+
+
+
+
+Operating  Current
+270  mA (typical); 350 mA (peak)
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+REGULATORY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Laser  Class
+CDRH  Class IIa; IEC 60825-1: Class 1
+
+
+
+
+
+EMC
+CE  EN55022 B,  FCC Part 15 Class B,  VCCI,  BSMI
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ENVIRONMENTAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Operating  Temperature
+0°C – 40°C (32°F – 104°F)
+
+
+
+
+
+Storage  Temperature
+-20°C – 60°C  (-4°F – 140°F)
+
+
+
+
+
+Humidity
+5%  – 90% RH (no dewing allowed)
+
+
+
+
+
+Light  Level
+Up  to 4, 500 Lux (fluorescence)
+
+
+
+
+
+Drop  Durability
+Designed  to withstand 1M drops
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+DECODING CAPABILITY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+1D Barcode
+UPC/EAN/JAN, UPC-A & UPC-E, EAN-8 & EAN-13, JAN-8 & JAN-13, ISBN/ISSN, Code 39, Codabar, Code 128 & EAN 128, Code 93, ITF 2 of 5, IATA Code, MSI, China Postal Code, Code 32, Industrial 2 of 5, Standard 2 of 5, JAP, Code 11, GS1 DataBar, GS1 DataBar Limited, GS1 DataBar Expanded
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Data Sheet
+．Release Date : 2014-06-27
+                                                ．Download 
+
+
+Buyer's Guide
+．Release Date : 2017-03-01
+                                                ．Download 
+
+
+Dimension 
+．Release Date : 2012-06-25
+                                                ．Download 
+
+
+Programming Guide
+．Release Date : 2012-11-15
+                                                ．Download 
+
+
+User's Manual
+．Release Date : 2010-12-07
+                                                ．Download 
+
+
+Quick Guide
+．Release Date : 2012-01-10
+                                                ．Download 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+這個頁面上的內容需要較新版本的 Adobe Flash Player。
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Best viewed at a minimum resolution of 1024×768 with IE 8.0 or better.
+Copyright @ 2015 ZEBEX INDUSTRIES INC.  All rights reserved.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Air Products and Chemicals, Inc. - Manufacturer of industrial gases
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MyAirProductsContact UsCustomer Support
+
+
+
+
+
+
+
+
+
+
+
+
+					Air Products Worldwide
+				
+
+
+
+Argentina
+
+
+Belgium-Be
+
+
+Belgium-Fr
+
+
+Brazil
+
+
+Canada
+
+
+Chile
+
+
+China
+
+
+Colombia
+
+
+Czech Rep
+
+
+Ecuador
+
+
+France
+
+
+Germany
+
+
+Hong Kong
+
+
+Hungary
+
+
+India
+
+
+Indonesia
+
+
+Ireland
+
+
+Israel
+
+
+Italy
+
+
+Japan
+
+
+Korea
+
+
+Malaysia
+
+
+Mexico
+
+
+Netherlands
+
+
+Norway
+
+
+Peru
+
+
+Poland
+
+
+Portugal
+
+
+Russia
+
+
+Singapore
+
+
+Slovakia
+
+
+South Africa
+
+
+Spain
+
+
+Taiwan
+
+
+Thailand
+
+
+UAE
+
+
+UK
+
+
+USA
+
+
+
+
+
+
+
+
+
+
+Open Mobile Menu
+Open Global Sites Menu
+
+
+
+
+Company
+
+
+
+
+
+Company OverviewAbout UsNews CenterGovernanceSustainabilitySupplier InformationTechnology Partnerships
+
+
+2016 Annual Report
+
+2017 Sustainability Report
+
+
+
+
+
+
+Products
+
+
+
+
+
+Products OverviewGasesEquipmentServices and Solutions
+
+
+Air Products offers fully-integrated hydrogen fueling stations
+
+Air ProductsMobile Applications
+
+
+
+
+
+
+Industries
+
+
+
+
+Industries Overview
+
+Select An Industry:
+
+Agriculture
+
+
+Analytical Laboratories
+
+
+Chemical Processing
+
+
+Fine/Specialty Chemicals
+
+
+Petrochemicals
+
+
+
+
+Construction
+
+
+Electronics, Packaging, Assembly and Test
+
+
+Energy
+
+
+Bioenergy
+
+
+SmartFuel® Hydrogen Energy
+
+
+Liquefied Natural Gas (LNG)
+
+
+Oil/Gas Production
+
+
+Petroleum Refining
+
+
+Power
+
+
+
+
+
+
+Food / Beverage
+
+
+Glass / Minerals
+
+
+Leisure / Recreation
+
+
+Medical
+
+
+Metals
+
+
+Iron/Steel Production
+
+
+Metal Fabrication
+
+
+Metals Processing
+
+
+Non-ferrous Production
+
+
+
+
+
+
+Mining
+
+
+Pharmaceuticals / Biotechnology
+
+
+Rubber / Plastics
+
+
+Transportation
+
+
+Aerospace
+
+
+Automotive
+
+
+Marine
+
+
+Mass Transit
+
+
+Material Handling
+
+
+Shipbuilding
+
+
+
+
+Water and Wastewater
+
+
+
+
+
+
+
+
+
+
+Investors
+
+
+
+
+
+Investors OverviewStock InformationEarnings and PresentationsFinancial InformationAnnual ReportsSEC FilingsShareholder ServicesTeleconference Information
+
+
+2016 Annual Report
+
+Earnings Releases
+
+
+
+
+
+
+Careers
+
+
+
+
+
+Careers OverviewWhy Air ProductsCareer PathsWorking TogetherDiversity and InclusionOur Application ProcessSearch Job OpeningsStudents and Recent University GraduatesCareers FAQs
+
+
+View Our Career Center
+
+Working for Air Products
+
+
+
+
+
+
+
+
+
+
+
+ A Prescription for Aging Regenerators Air Products’ Cleanfire® ThruPorte™ Burner can help glass manufacturers restore furnaces to full production and extend furnace life. tell me more   Air Products Publishes Sustainability ReportCommitment remains unchanged with focus on core businesstell me more  Air Products Chairman Receives Prestigious Industry AwardThe Société de Chimie Industrielle honors Seifi Ghasemi for his distinguished contributions to the chemical industry
+ tell me more   We're putting our hydrogen experience to work for you!Learn how we're helping customers solve a wide range of issues with their own hydrogen plants.tell me more 
+
+
+
+
+
+		From Our News Center
+	
+Air Products Reports Fiscal 2017 Third Quarter GAAP EPS of $.47 and Strong Growt...Air Products Wins Contract for Coral South Floating LNG ProjectAir Products’ Three World-scale Air Separation Units in Inner Mongolia On-stream...
+
+
+
+APD - NYSE $147.16 -0.95 03 August 2017 12:08 PM
+
+
+
+
+
+Air Products Commits to Coalition for Diversity and Inclusion
+Chairman Ghasemi joins CEOAction.com to help drive D&I progress and change.
+Optimize Aluminum Production and Economics
+Light Metal Age magazine delivers valuable technical insight through interview with Air Products.
+Keep your pipeline operation online and productive . . .
+with our new mobile nitrogen pumpers for safe, fast and reliable temporary or emergency gas supply.
+FY 2017 Q3 Earnings
+
+We're spreading our wings with Boeing!
+Air Products supplies nitrogen for the world's largest autoclave.
+Laser-focused on customers
+Americas president talks to gasworld about how company's transformation is helping customers
+Introducing the first smart burner for the glass industry
+
+
+
+
+
+
+
+FacebookTwitterYouTubeLinkedInLegal Notice Copyright © 1996 – 2017 Air Products and Chemicals, Inc.
+
+
+
+For CustomersMyAirProductsSDS LibrarySafetygramsGas FactsPipeline SafetyCustomer Support OverviewDistributor Services Gases U.S.Technology PartnershipsWorldwide Locations & ContactsQuality and CertificationsAir Products Mobile Applications
+
+
+For the PressNews CenterExecutive BiosPhoto Library
+For InvestorsStock InformationEarnings ReleasesCompany History
+
+
+For SuppliersMyAccountPaymenteConnectionsFAQsGeneral Conditions of PurchaseWhat We BuyTo Verify an Order is LegitimateWorldwide Locations & ContactsSustainability Expectations
+
+
+For Potential EmployeesSearch Job OpeningsCompany HistoryCorporate CitizenshipWhy Air ProductsDiversity and Inclusion
+
+
+
+
+
+
+X
+This site uses cookies to store information on your computer. Some are essential to make our site work; others help us to better understand our users. By using the site, you consent to the placement of these cookies. Read our Legal Notice to learn more. Close
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Products A-Z - Polycom, Inc.
+   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products A-Z
+
+
+
+
+
+Explore
+the following alphabetical list to find Polycom video communication,
+audio conferencing and telepresence products that suit your needs.
+ Index
+
+A
+Accessories
+Advantage Plus
+Advantage Service
+Applications
+Audio Accessories
+B
+Business Application Solutions
+C
+CX100 Speakerphone
+CX300 R2 USB Desktop Phone
+CX5000 HD Unified Conference Station
+CX5100 Unified Conference Station
+CX5500 Unified Conference Station
+CX8000 for Skype for Business
+Ceiling Microphone Array
+Ceiling Microphone Array
+Client Service Manager
+Collaboration Servers
+Communicator C100
+Communicator C100S
+Computer Calling Kit
+Conference Phones
+Conferencing Solutions
+ContentConnect
+ContentConnect
+Customer Support
+Back To Top
+D
+Deployment
+Desktop Connector
+Desktop Solutions
+E
+EagleEye Cameras
+EagleEye Digital Extender
+EagleEye Director
+EagleEye Director II
+EagleEye Producer
+EduCart 500
+Elite Service
+Envisioning Service
+Expansion Microphone
+Back To Top
+F
+Firewall Traversal & Security
+H
+HD Telepresence & Video
+HD Telepresence & Video Conferencing
+HDX Network Modules
+HDX Series
+HDX Transport Cases
+Headset Interface Adapter
+I
+ImmersiveCare
+Installed Audio
+Interoperable Voice
+M
+Management Applications
+Microphone Array
+Microsoft Content
+Microsoft Integration Services
+Microsoft Lync Optimized
+Mobile Device Cable
+Back To Top
+N
+Neoprene Carrying Case
+Network Monitoring and Remote Consultancy
+Network Monitoring and Remote Consultancy
+O
+Operational Services
+Optimization Services
+P
+PC Speakerphones
+Packaged Solutions
+Pano
+Pano App
+Partner Enablement Services
+Partner Services
+People+Content IP
+Pilot Services for Office 365 – Cloud PBX and PSTN Conferencing
+Polycom Assured Design
+Polycom ISDN Gateway
+Polycom MSR Series
+Polycom RealConnect for Skype for Business
+Polycom University
+Premier & Premier Software Only
+Products for Microsoft
+Professional Services
+Back To Top
+R
+RealAccess Analytics Service
+RealAccess Asset Management Service
+RealAccess Services Delivery Platform
+RealConnect for Skype for Business
+RealPresence Access Director
+RealPresence Accessories
+RealPresence Centro
+RealPresence Clariti
+RealPresence Clariti Deployment Services
+RealPresence Content Sharing Suite
+RealPresence Debut
+RealPresence Desktop
+RealPresence Desktop
+RealPresence Desktop
+RealPresence Distributed Media Application (DMA)
+RealPresence Group Convene
+RealPresence Group Series
+RealPresence Group Series Media Center
+RealPresence Group Series Transport Cases
+RealPresence Immersive
+RealPresence Immersive Implementation
+RealPresence Immersive Studio Flex
+RealPresence Media Suite
+RealPresence Medialign
+RealPresence Mobile
+RealPresence Mobile for Android
+RealPresence Mobile for Apple iOS
+RealPresence OTX Studio
+RealPresence Packaged Solutions
+RealPresence Platform
+RealPresence Platform Implementation
+RealPresence Platform Migration
+RealPresence Platform Optimization
+RealPresence Platform Optimization
+RealPresence Resource Manager
+RealPresence Room
+RealPresence Touch
+RealPresence Trio
+RealPresence Web Suite
+RealPresence Web Suite
+Realpresence Cloud
+Recording, Streaming and Content Management
+Remote Controls and Other Accessories
+Resident Technical Services
+Resources
+Room Video Solutions for Skype for Business
+Back To Top
+S
+Secure Video Conferencing
+Service Specializations & Service Specialized Partners
+Services
+Software Licenses
+Solution Design Service
+SoundPoint 335c (APAC-CHINA only)
+SoundPoint IP Series
+SoundStation Duo
+SoundStation IP 5000
+SoundStation IP 6000
+SoundStation IP 7000
+SoundStation IP 7000 Multi-Interface Module
+SoundStation2
+SoundStation2W
+SoundStation2W Rechargable Battery
+SoundStructure C-Series
+SoundStructure SR-12
+SoundStructure Standard Installation Service
+Stereo Speaker Kit
+Strategy & Planning Services
+Support Services
+Back To Top
+T
+Touch Control
+U
+UC Network Monitoring and Remote Consultancy
+UC Network Monitoring and Remote Consultancy
+Universal Video Collaboration
+User Adoption Services
+User Adoption Services
+Using Video
+Utility Cart 500
+V
+VTX 1000 Subwoofer
+VVX 101
+VVX 1500
+VVX 1500 D
+VVX 201
+VVX 300 Series
+VVX 400 Series
+VVX 500 Series
+VVX 600 Series
+VVX Business Media Phones
+VVX Camera
+VVX Color Expansion Module
+VVX D60 Wireless Handset
+VVX Expansion Module
+Video Border Proxy (VBP) Plus
+Video Content Management (VCM) SmartStart Solutions
+Video Content Management (VCM) SmartStart Solutions
+Video Network Readiness
+VideoProtect 500
+Visio Stencils
+Voice
+Voice Quality Monitoring
+Voice Services for Open SIP
+Voice Services for Skype for Business
+VoiceStation 300
+Back To Top
+W
+Wireless Lapel Microphone
+Workspace Design Service
+Z
+Zero Touch Provisioning Solution
+
+
+
+Printer friendly
+|
+Back to top
+
+
+
+
+
+
+
+
+
+
+
+
+ Contact Us
+ Get Pricing
+Request Demo
+
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

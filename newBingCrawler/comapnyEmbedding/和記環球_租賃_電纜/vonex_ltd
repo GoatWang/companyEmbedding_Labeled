@@ -1,0 +1,5806 @@
+ 
+
+
+
+
+Research - InvestSMART
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Home
+    
+
+
+
+        Research
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Research
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alerts
+
+
+
+
+
+
+
+
+Markets Today
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top Performing
+
+
+
+
+
+
+
+
+
+
+
+Market Indices
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Please check the following:
+
+{{x.value}}
+
+
+
+
+
+×
+                                {{ successMessage}}
+                            
+
+
+
+
+{{content.question}}
+
+
+
+
+
+
+{{ twilioFailed ? 'SMS Code Failed to Send…' : 'An SMS verification code has been sent ...' }}
+
+
+
+Log in to get started
+
+Eureka Report
+InvestSMART
+Intelligent Investor
+
+
+
+Hi {{ user.FirstName }}
+Looks like you have already taken a free trial 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            Email is required.
+                                        
+
+                                            Email must be a valid email.
+                                        
+
+
+
+
+
+
+                                            Password is required.
+                                        
+
+
+
+
+
+
+                                            First name is required.
+                                        
+
+
+
+
+
+
+                                            Last name is required.
+                                        
+
+
+
+
+
+
+                                            Mobile phone number is required.
+                                        
+
+
+
+
+
+
+ I have read InvestSMART's Financial Services Guide and Privacy Policy, and agree to the Terms & Conditions.
+                                        
+
+                                            You must accept the terms and conditions.
+                                        
+
+
+
+What emails do members receive?
+
+
+
+
+
+
+×
+Email Communications
+
+
+
+By default members will receive the following communications via email. At any time, once logged in, you can choose which emails your wish to receive (or not) via the My Details section:
+Research & Wealth Insights
+Mid-week update - Lists all the research and recommendations from the week.
+Weekend Briefing - An overview of the week gone and what to expect in the week to come.
+Portfolio Updates
+If you add your investments to the portfolio manager you will also receive regular updates including; recommendations, alerts, market pricing, dividends, profit & loss and your overall net wealth.
+Exclusive Opportunities
+Featured reports, invites to investor seminars and events, plus exclusive offers.
+Operational communications
+As an InvestSMART group member, you will occasionally receive operational updates. These could be about new features, changes to your membership, security information, or general business updates.
+
+
+
+
+ 
+
+
+
+ {{content.mainButtonText}} 
+
+OR
+
+
+
+
+
+
+
+Already a member? Login
+
+
+
+
+
+
+
+
+We have sent you a code via SMS to {{user.DayPhone}}
+please enter this code below to complete your SMS verification
+
+
+We cannot send you a code via SMS to {{user.DayPhone}}
+
+
+
+
+
+
+
+
+
+
+Complete verification
+
+If you didn't receive SMS code please 
+
+
+
+SMS code cannot be sent due to: {{ twilioStatus }}
+
+Please select one of the options below: 
+
+Resend Code
+Change number
+
+
+
+
+ Looks you are already a member. Please enter your password to proceed 
+
+
+
+You have entered an incorrect email or password
+
+
+
+
+
+                                            Email is required.
+                                        
+
+                                            Email must be a valid email.
+                                        
+
+
+
+
+
+
+                                            Password is required.
+                                        
+
+
+
+
+
+
+Remember me
+
+
+Please untick this box when using a public or shared device
+
+
+
+
+Login
+
+OR
+
+
+
+Not a member?
+
+
+
+
+
+Forgotten password? Click here
+
+
+
+
+
+
+Verify your mobile number to proceed...
+Please check your mobile number below and press the Send Verification Code button. This will be used to complete your verification in the next step.
+
+
+
+
+
+
+
+
+SEND VERIFICATION CODE
+
+
+
+
+
+Please sign up for full access 
+
+
+Sign up now
+
+
+
+
+
+
+
+ Updating information 
+Please wait ...  
+
+
+
+
+
+
+
+Trial
+
+
+
+
+
+
+                    {{ productPrice }} / day
+
+
+( GST included )
+
+
+
+
+
+
+ 
+{{ applyText }}
+
+
+
+
+
+
+
+Price
+$0
+
+
+Discount
+-{{productDiscount}}
+
+
+GST
+{{productGST}}
+
+
+TOTAL     (inc. GST)
+{{productPrice}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+
+
+
+
+
+
+
+
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make payment
+Proceed
+
+
+
+
+
+
+Maybe later
+
+
+
+
+
+
+
+Please click on the ACTIVATE button to finalise your membership
+
+
+
+Activate
+
+
+
+
+
+
+
+
+The email address you entered is registered with InvestSMART.
+Login or to reset your password, select Forgotten password
+
+
+
+
+
+You have entered an incorrect email or password
+
+
+
+
+
+                                            Email is required.
+                                        
+
+                                            Email must be a valid email.
+                                        
+
+
+
+
+
+
+                                            Password is required.
+                                        
+
+
+
+
+
+
+Remember me
+
+
+Please untick this box when using a public or shared device
+
+
+
+
+Login
+
+OR
+
+
+
+Not a member?
+
+
+
+
+
+Forgotten password? Click here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eureka Report
+InvestSMART
+Intelligent Investor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Soccer Accessories, Sports, Agility and Speed Training Equipment, Meerut, India
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome: Guest User
+
+Register | Sign In 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Your Enquiry Cart
+
+Your Enquiry Cart is Empty.
+
+Call Us Now: 91-121-2441479
+
+
+
+
+
+
+
+ACHIEVEMENTS
+PHOTO GALLERY
+CAREER
+CONTACT US
+SITE MAP
+
+
+
+
+
+
+
+
+
+
+HOME
+ABOUT VINEX
+PRODUCT RANGE
+CERTIFIED PRODUCTS
+ENQUIRY
+FEEDBACK
+
+WHAT'S NEW
+LATEST NEWS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			PRODUCT CATEGORY	
+		
+
+
+Athletics Equipment
+
+Badminton / Tennis Equipment
+
+Basketball Equipment
+
+Board Games
+
+Boxing Equipment
+
+Carrom Game
+
+Carrying / Storage Accessories
+
+Coaching Clipboards
+
+Cone Markers & Flags
+
+Cricket Equipment
+
+Fitness
+
+Flying Disks
+
+Goal Posts
+
+Gym / Crash Mats
+
+Gymnastic Equipment
+
+Junior Sports
+
+Miscellaneous Sports
+
+Outdoor Gym / Fitness Equipment
+
+Pool And Soccer Table
+
+Primary Education
+
+Primary Sports
+
+Referee Accessories
+
+Rhythmic Gymnastic
+
+School / Canteen Furniture
+
+Shapes Mats
+
+Soccer Accessories
+
+Sports Balls
+
+Sports Bottles / Bottle Carriers
+
+Sports Facility Equipment
+
+Sports Nets
+
+Sports Training Equipment
+
+Table Tennis Equipment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Soccer Accessories & Training Equipment
+
+
+
+
+
+
+
+
+
+
+
+
+Cone Markers & Flags
+
+
+
+
+
+
+
+
+
+
+
+
+Sports Training Equipment
+
+
+
+
+
+
+
+
+
+
+
+
+Vinex Agility / Speed Training Kit
+
+
+
+
+
+
+
+
+
+
+
+
+Coaching Clipboards
+
+
+
+
+
+
+
+
+
+
+
+
+Referee Accessories
+
+
+
+
+
+
+
+
+
+
+Fitness Equipment & Accessories
+
+
+
+
+
+
+
+
+
+
+
+
+Dumbbell And Weights
+
+
+
+
+
+
+
+
+
+
+
+
+Medicine Balls
+
+
+
+
+
+
+
+
+
+
+
+
+Skipping Rope
+
+
+
+
+
+
+
+
+
+
+
+
+Fitness Accessories
+
+
+
+
+
+
+
+
+
+
+
+
+Outdoor Gym / Fitness Equipment
+
+
+
+
+
+
+
+
+
+
+Badminton & Tennis Equipment
+
+
+
+
+
+
+
+
+
+
+
+
+Badminton Rackets
+
+
+
+
+
+
+
+
+
+
+
+
+Shuttlecock
+
+
+
+
+
+
+
+
+
+
+
+
+Tennis Rackets
+
+
+
+
+
+
+
+
+
+
+
+
+Table Tennis Tables
+
+
+
+
+
+
+
+
+
+
+
+
+TT Bats
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEW ARRIVALS
+
+
+
+
+Vinex Waist Twister
+
+
+
+
+
+Vinex Tummy Trimmer - Double Spring
+
+
+
+
+
+Push Up Bar - Super (Folding)
+
+
+
+
+
+Vinex Soccer Table - Superia
+
+
+
+
+
+
+
+1
+2
+3
+4
+
+
+
+
+
+ 
+CERTIFIED PRODUCTS
+
+
+
+
+
+
+
+
+
+IAAF Approved Athletics Equipment
+
+
+
+
+
+
+
+TTFI Approved Table Tennis Table
+
+
+
+
+
+
+
+FITB Approved Tchoukball Frame
+
+
+
+
+
+
+
+IABF Approved Boxing Ring
+
+
+
+
+
+
+
+VFI Approved Vollyball
+
+
+
+
+ 
+
+
+
+
+
+
+
+Subscribe to Our
+
+NEWSLETTER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VINEX IMPLEMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VINEX NEWS
+
+
+
+
+
+		VINEX: Largest Company of India to Supply Sport Goods in CWG		more ...
+
+
+		We are Exhibiting at FSB Cologne-Germany 22 Oct to 25 Oct, 2013		more ...
+
+
+		We are Exhibiting at ISPO Winter (Munich, Germany) - January 24 to 27, 2016		more ...
+
+
+		We are participating at the toy fair Kids India (Mumbai) from 15-17 Sep, 2016		more ...
+
+
+		Bhalla International - Vinex bags Prestigious Treasure of Rio Olympics - 2016		more ...
+
+
+		We are proud to announce Vinex as the Official Supplier of Track & Field and Fitness Equipment in 22nd Asian Athletics Championships (Odisha 2017).		more ...
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+VINEX Enterprises Pvt. Ltd. (ISO 9001:2008 certified company as quality assurance products) is India’s largest Manufacturer and Supplier of diverse range of sporting goods since 1957. We manufactures more than 2500+ products under the category
+Athletics Equipment, 
+Basketball Equipment, 
+Gymnastic Equipment, 
+Primary Education, 
+Primary Sports, 
+Sports Facility Equipment, 
+Sports Training Equipment, 
+Table Tennis Equipment, 
+	 and more with brand VINEX. We have 1250 EN 71 certified products.Our products are also approved by IAAF, AFI, TTFI, SAI, IABF, and VFI. The company is honors as an Exclusive Official Equipment Supplier of Athletics Federation of India and regularly awarded as Number -1 Exporter of Athletics Equipment from India by SGEPC (Sports Goods Export Promotion Council of India).We produce and serves best quality products with reasonable price to our customers with the use of latest and advance technology. 
+
+
+
+
+
+
+
+
+About Us | Achievements | Feedback | Product Range | News | What's New | Career | Contact Us | Site Index
+Our Other Sports Resources:
+Athletics Track & Field Equipment || 
+Online Sporting Goods Store / Shop in India
+Buy TT Tables & Accessories Online || 
+Outdoor Gym & Fitness Equipment || 
+Sports Equipment Manufacturer & Supplier
+
+
+
+
+This site is developed and designed by VINEX TECHNOLOGIES 
+|| Copyright © 2017 VINEX ENTERPRISES PVT. LTD.
+
+
+Follow Us On
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More Information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Home                
+
+
+
+
+
+                                        Residential                
+
+
+
+
+
+
+
+
+                                        Net Phone                
+
+
+
+
+
+                                        Home Phone                
+
+
+
+
+
+                                        Internet                
+
+
+
+
+
+                                        Mobile                
+
+
+
+
+
+                                        Sign up                
+
+
+
+
+
+
+
+
+
+                                        Business                
+
+
+
+
+
+
+
+
+                                        Net Phones                
+
+
+
+
+
+                                        Business Phone                
+
+
+
+
+
+                                        Mobile                
+
+
+
+
+
+                                        iPBX Features                
+
+
+
+
+
+                                        Build Your Own Demo PBX                
+
+
+
+
+
+                                        Internet                
+
+
+
+
+
+                                        1300/1800                
+
+
+
+
+
+
+
+
+
+                                        Enterprise                
+
+
+
+
+
+
+
+
+                                        Contact Us                
+
+
+
+
+
+
+
+
+
+                                        Partners                
+
+
+
+
+
+
+
+
+                                        Become a Partner                
+
+
+
+
+
+
+
+
+
+                                        Login                
+
+
+
+
+
+
+
+
+                                        View My Bill                
+
+
+
+
+
+                                        Portal Login                
+
+
+
+
+
+                                        Wholesale Login                
+
+
+
+
+
+                                        Customer Support                
+
+
+
+
+
+                                        AMPT Login                
+
+
+
+
+
+
+
+
+
+                                        News/Media                
+
+
+ 
+
+
+
+
+
+
+
+Are you a shareholder? Click here to go to our investor portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					What You Need to Know			
+
+
+What you need to know about our services, click here for an overall summary 
+
+
+
+					CRITICAL INFORMATION SUMMARIES			
+
+
+PSTNIPVOICEADSLMOBILEINBOUND 
+
+
+
+					PRODUCT DESCRIPTION			
+
+
+IP HANDSETSMODEMS 
+
+
+
+					BILLING & PAYMENTS			
+
+
+A PDF version of the customer’s bill is emailed on the issue date. It is also available to view online on the View My Bill section of the Vonex website.With the online billing you canDownload a detailed pdf of your billView your details on lineView a list of your servicesAccess your itemised servicesThroughout the month see your current usageAccess your complete history of all accountsMake payment via bpay or credit cardPaper Billing is provided as an option for business customers who require a paper bill to be sent. This may incur a $1.95 paper bill fee.Billing CyclesVonex has four billing cycles each month dedicated to our IP Voice customers. These accounts are set up on electronic billing and direct debit (either credit card or bank account), with the payment being transacted four days after the issue date.An IP Voice customer’s bill cycle is determined by the time of month they were connected to our service. An initial bill is generally emailed within a week of connection.A fifth bill cycle is dedicated to our standard PSTN customers, which is issued at the beginning of each month. This provides 14 days payment option. Business customers who require a posted bill are included in this bill cycle. Payment options include, Cheque (post to PO Box 1448 Milton 4064), Direct Deposit, BPay, Credit Card over the phone by calling 1800 828 668.Surcharges: There is no surcharge for Visa or Mastercard payments. There is a 3% surcharge for all American Express payments
+
+
+
+					MOBILE COVERAGE			
+
+
+Optus 3G Coverage Map for our plans using the Optus 3G NetworkCoverage Map for new Vonex mobile plans that uses part of the Telstra 3G Mobile Network
+
+
+
+					MOBILE INTERNATIONAL ROAMING			
+
+
+Activation of Global RoamingTips on Global Roaming 
+
+
+
+					PRINCIPAL CARRIER INFORMATION			
+
+
+VONEX AS A RESELLERIP Voice and Data Pty Ltd, trading as Vonex Telecom acts as a reseller of Principal Carriers when providing the Telecommunications Services listed below.Vonex is responsible to the end user for the Service whilst acting as a reseller.Vonex ServicePrincipal CarrierIP TelephonySymbio Networks, Vocus, ISPhone, EnginRebill PSTNTelstraMobileOptus (Vonex uses Telstra GSM for a small number of legacy accounts)iTelecom (using part of Telstra's 3G mobile networkADSLWCG, Wireline, Vocus  Vonex is not affiliated with or related to any of the principal carriers listed.
+
+
+
+					CONSUMERS WITH DISABILITIES			
+
+
+			Vonex is currently unable to offer specific services for people with disabilities.		
+
+
+
+					CUSTOMER CONTRACTS			
+
+
+Vonex standard applications and agreements are available for download belowVonex standard application form for services.Vonex Standard Form of Agreement PSTNVonex Standard Form of Agreement IPVOICE
+
+
+
+					APPOINTING AN AUTHORISED REPRESENTATIVE			
+
+
+Nominating a person as an Authorised Representative means you authorise them to inquire about, accept and create charges on your account, as well as providing them with access to your personal information.Please remember that The original legal lessee will still remain legally responsible for all charges on the account.Authorised Representative holders can make a variety of account request types, with the exception of the following:Connect a new stand-alone service / product in the account holder's nameRequest access to 1900 numbersAdd / remove additional Third Party AuthoritiesAgree to re-contract/agree to a new contractRestart/reopen an account holder's service after a full disconnect or after the account is disconnected due to financial reasonsChange the account holder's security details such as date of birth, internet username, PIN, address, password or driver's licence numberProcess a Change of Account Holder/Change of OwnershipArrange service relocation (unless the account holder specifically advises Vonex in advance of a relocation that an Authroised Representative will be calling to organise)Change a phone numberComplete a long distance transfer (churn) form (unless authorised by account holder).Convert a service from residential to business or vice versaUpdate the billing addressRequest a copy of the customer care notesTo add a person as an authorised representative on your account please contact us on 1800 828 668 or email us at This email address is being protected from spambots. You need JavaScript enabled to view it.
+
+
+
+					SPEND MANAGEMENT TOOLS			
+
+
+Vonex offers an online customer portal that provides up to date billing information.  This is available for all customers at not cost and is accessed by clicking on the View My Bill link at the top of our website. By entering your account number and password you can access the following information that can assist in your current spend.View Your Statements- this provides the complete billing history from the very first account, either as downloadable PDFs, or summary informationUnbilled Usage Summary- this shows any call  information that has been received since the last bill was issued, this can be downloaded as a PDF or excel spreadsheet. The typical delay in call information is 24-48 hours, however for some calls to mobile and any roaming charges this could be up to three months due to delays in overseas supplier information.Customers can contact Vonex on 1800 828 668 or email This email address is being protected from spambots. You need JavaScript enabled to view it. to request details on current spend.How to estimate your internet usage- this helpful guide will assist in determining what size plan you should choose click hereVonex now offers a number of plans for mobile, PSTN, IPVoice and ADSL that provide all inclusive pricing to help limit total telecommunications expenditure. 
+
+
+
+					SECURITY TOOLS			
+
+
+Vonex offers call control facilities to limit access to calls being made from PSTN and IP Services services. PSTN (STANDARD LANDLINE TELEPHONY)PABX HACKING Click here for brochure detailing how to protect your business PABX from being hacked Call Control is a feature that gives you security and lets you bar certain types of outgoing calls (e.g. STD, international etc ) so that you can control your call costs. There are a number of different barring levels for you to choose from.Adds security to your service by restricting calls..Control the numbers that are dialled.Resticts the unauthorised use of the phone.Allows you to take control of your telehone billCall Control Setup Costs - $7 per monthThis feature is available to all PSTN(Landline) services.Activating the ServicePlease call Vonex on 1300487464. Call Control Activation can take up to 48 hours.Call Control User GuideTo turn Call Control onWait for dial tone.Press * 33 PIN #.Hang up.To turn Call Control offWait for dial tone.Press # 33 PIN #.Hang up.To check if Call Control is on or offWait for dial tone.Press * # 33 #.Listen to the announcement confirming status.Hang up.Changing your PINWait for dial tone.Press * 30.Enter the default PIN.Press *, enter new PIN.Press *, re enter new PIN, #.Listen to the announcement confirming PIN has successfully changed.Hang up.IP  Voice In the Hosted PBX enviroment it is possible to control/restrict the outgoing capabilities of an IP Handset by simply defining the Dial Plans that are used for the IP customer. Dialling rules can be setup by Vonex in the following classes:1) Unrestricted2) Restrict all International Calls/ 1900 numbers3) Restrict all International/National/ 1900 numbers4) Restrict all International/National/1900/Local Calls - Emergency OnlyThe advantage of using a specific dial plan on the PBX allows the customer to define what numbers any of the IP handsets dial.To activate one of these features please contact Vonex on 1800 828 668 or email This email address is being protected from spambots. You need JavaScript enabled to view it.. Call Control Activation can take up to 24 hours.There are no costs for setting up Dial Plans in the PBX for specific Call Control.
+
+ 
+
+
+
+1
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our News
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Home                
+
+
+
+
+
+                                        Residential                
+
+
+
+
+
+
+
+
+                                        Net Phone                
+
+
+
+
+
+                                        Home Phone                
+
+
+
+
+
+                                        Internet                
+
+
+
+
+
+                                        Mobile                
+
+
+
+
+
+                                        Sign up                
+
+
+
+
+
+
+
+
+
+                                        Business                
+
+
+
+
+
+
+
+
+                                        Net Phones                
+
+
+
+
+
+                                        Business Phone                
+
+
+
+
+
+                                        Mobile                
+
+
+
+
+
+                                        iPBX Features                
+
+
+
+
+
+                                        Build Your Own Demo PBX                
+
+
+
+
+
+                                        Internet                
+
+
+
+
+
+                                        1300/1800                
+
+
+
+
+
+
+
+
+
+                                        Enterprise                
+
+
+
+
+
+
+
+
+                                        Contact Us                
+
+
+
+
+
+
+
+
+
+                                        Partners                
+
+
+
+
+
+
+
+
+                                        Become a Partner                
+
+
+
+
+
+
+
+
+
+                                        Login                
+
+
+
+
+
+
+
+
+                                        View My Bill                
+
+
+
+
+
+                                        Portal Login                
+
+
+
+
+
+                                        Wholesale Login                
+
+
+
+
+
+                                        Customer Support                
+
+
+
+
+
+                                        AMPT Login                
+
+
+
+
+
+
+
+
+
+                                        News/Media                
+
+
+ 
+
+
+
+
+
+
+
+Are you a shareholder? Click here to go to our investor portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Our News	
+
+
+
+
+			Vonex targets 50,000 users with Inabox licensing deal
+
+
+Details
+
+
+				Created: 22 February 2017			
+
+
+Perth-based telecommunications provider Vonex has struck a partnership with Inabox that will see Vonex on target to exceed 50,000 users within 36 months.
+Read more.
+
+
+
+
+
+			The next evolution for Vonex is Mobile app development
+
+
+Details
+
+
+				Created: 17 November 2015			
+
+
+
+
+
+Last years' CRN Fast50 winner ready to take on the world.
+Last year’s CRN Fast50 No.1 spent the majority of 2015 negotiating through red tape in a bid to reverse list on the ASX. Now that due diligence is complete and a float planned for November, Perth-based Vonex is ready to lift the lid on its latest product.
+
+
+					Read more ...
+
+
+
+
+
+
+			CRN has just announced the 50 fastest-growing companies at our annual CRN Fast50 ceremony in Sydney.
+
+
+Details
+
+
+				Created: 5 November 2014			
+
+
+
+
+
+I was delighted to celebrate our first-ever No.1 from Western Australia. With year-on-year growth hitting a startling 232.24 percent in the 2014 financial year to reach revenues of $3.7 million, Vonex was a worthy first-placer.
+
+
+					Read more ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Angus Parker - Chief Executive Officer & Director at Vonex Ltd.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      NEWS HOME
+                    
+
+Advertising
+Board and Executive Moves
+Energy
+Health Care
+Hedge Funds
+M & A
+Private Equity
+Technology
+
+
+
+
+
+
+
+
+            You have  
+            
+9 free profiles
+
+              left this month   
+			      
+
+                Start Your Free Trial ➤
+              
+
+
+
+
+
+
+
+
+            Hey, we noticed you're a RelSci Pro subscriber! Would you like to view the page there?
+            
+
+                View on RelSci Pro ➤
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+Google+
+
+
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+
+Reddit
+
+
+
+
+
+Permalink
+
+
+
+
+
+Angus Parker
+Chief Executive Officer & Director at Vonex Ltd.
+
+
+
+Overview
+Relationships Paths
+Career History Boards & Committees 
+
+
+Angus Parker
+Chief Executive Officer & Director at Vonex Ltd.
+
+
+
+ Overview
+
+
+
+Notable Companies
+
+
+Vonex Ltd.
+
+
+
+
+Board Seats
+
+
+
+1
+
+
+
+
+
+Number of Relationships
+
+
+
+                This person is connected to 5 people.
+              
+
+
+
+
+
+
+ Relationships
+              See Details
+
+
+
+
+Mark Rowbottam
+
+Executive Director at Allegra Capital Pty Ltd.
+
+
+
+
+Daniel Smith
+
+Secretary at Global Gold Holdings Ltd.
+
+
+
+
+
+Brydie McKee
+
+Former Chief Executive Officer at Vonex Ltd.
+
+
+
+
+Ranko Matic
+
+Chief Financial Officer, Secretary & Independent Director at Antilles Oil & Gas NL
+
+
+
+
+
+Wal Muir
+
+Former Chief Executive Officer & Director at Aleator Energy Ltd.
+
+
+
+
+
+
+ Paths to Angus Parker
+
+
+
+            Angus Parker          
+
+
+
+
+ You
+
+
+
+ Connections via Relationship Science
+
+
+
+ Angus Parker
+
+
+
+
+
+
+Sync your contacts to see how you can connect with Angus Parker.
+
+Start My Free Trial ➤
+
+
+
+
+
+
+
+
+See  More 
+
+
+ 
+
+
+ Career History
+
+
+
+Chief Executive Officer & Director
+
+                                    Current                
+
+
+Vonex Ltd.
+
+
+                  Vonex Ltd. Provides wired and wireless communications services. The company was founded on February 11, 1944 and is headquartered in  Claremont, Australia.                
+
+
+
+
+Chief Technology Officer
+
+                                    2016 - Prior                
+
+
+Aleator Energy Ltd.
+
+
+                  Aleator Energy Ltd. is an oil and gas exploration company. The principal activity of the company is the exploration for oil and gas. Its projects include Povorotnoye Gas & Condensate Field and Golden Eagle Gas Field. Aleator Energy was founded by Garry O'Hara Patrick on February 11, 1994 and is headquartered in Perth, Australia.                
+
+
+
+
+
+ Boards & Committees
+
+
+
+Corporate Boards ▾
+
+
+
+
+Chief Executive Officer & Director
+
+                    Current                  
+
+
+Vonex Ltd.
+
+                    Vonex Ltd. Provides wired and wireless communications services. The company was founded on February 11, 1944 and is headquartered in  Claremont, Australia.                  
+
+
+
+
+
+ Other Affiliations
+
+
+
+
+              Angus Parker is affiliated with
+                            Vonex Ltd., Aleator Energy Ltd., Vonex Ltd..
+            
+
+
+
+
+You've reached your 10 free profiles limit this month.
+Upgrade to RelSci Pro today to enjoy unlimited article views and much more!
+
+Start My Free Trial  ➤
+
+Still not convinced? Check out our full listing of features here.
+
+
+
+
+
+
+
+
+
+
+
+
+Are you a RelSci Pro Subscriber?
+
+Login to RelSci Pro 
+                        ➤
+
+
+Not a Pro Subscriber? Log in here to manage your alerts
+
+
+
+
+
+
+
+
+
+ Keep me signed in.
+        
+
+Login  ➤
+
+
+
+        Forgot your Password?
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I have read the LexisNexis terms & conditions
+
+
+
+
+Sign Me Up  ➤
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+VNX - Australian Stock Market - InvestSMART
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Research
+
+
+Shares
+
+
+Vonex Limited
+
+
+ 
+
+
+
+
+
+
+
+
+Delisted
+
+
+
+
+
+                            Vonex Limited (VNX)
+
+
+
+
+
+
+
+
+Current Price
+
+                                n/a
+                            
+
+
+
+
+Are you using our Portfolio Manager?
+Track, improve and optimise your portfolio - for free.
+
+                            Get Started
+                        
+
+
+
+
+
+
+
+
+Overview
+
+
+Company Financials
+
+
+Company Announcements
+
+
+Dividends
+
+
+Change in Directors' Interest
+
+
+Research
+
+
+
+
+
+
+
+
+
+General Information
+
+
+
+
+Name
+--
+
+
+Stock Code
+VNX
+
+
+GICS Sub-Industry
+Oil & Gas Exploration & Production
+
+
+Market Cap ($M)
+18
+
+
+Equiv. Shares (M)
+234
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Directors
+
+
+
+
+Name
+Position
+Start Date
+
+
+
+
+Ms Brydie Mckee
+Chief Executive Officer, Executive Director
+5 Feb 2016
+
+
+Mr Angus Adrian Parker
+CTO, Executive Director
+5 Feb 2016
+
+
+Mr Lewis George Cross
+Non-Executive Director, Non-Executive Chairman
+22 May 2006
+
+
+
+
+
+
+
+
+Management
+
+
+
+
+Name
+Position
+
+
+
+
+Wal Muir
+Chief Financial Officer
+
+
+Ranko  Matic
+Company Secretary
+
+
+
+
+
+
+
+
+
+        © 2017 Morningstar. All rights reserved. Neither any Morningstar company nor any of their content providers guarantee the data or content contained herein to be accurate,
+        complete or timely nor will they have any liability for its use or distribution. Any general advice has been prepared by Morningstar Australasia Pty Ltd (ABN: 95 090 665 544, AFSL: 240892)
+        and/or Morningstar Research Limited, subsidiaries of Morningstar, Inc, without reference to your objectives, financial situation or needs. You should consider the advice in light of these matters and,
+        if applicable, the relevant Product Disclosure Statement (in respect of Australian products) or Investment Statement (in respect of New Zealand products) before making any decision to invest.
+        No Morningstar-affiliated company or any of their employees is providing you with personalised financial advice. To obtain advice tailored to your particular circumstances, please contact a professional financial adviser.
+        Some material is copyright and published under licence from ASX Operations Pty Limited ACN 004 523 782 ("ASXO"). Data and content is provided for personal use only. DISCLOSURE: InvestSMART Group Limited
+         employees may have an interest in the securities and managed funds displayed via this service. Please refer to our Financial Services Guide for more information.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Please check the following:
+
+{{x.value}}
+
+
+
+
+
+×
+                                {{ successMessage}}
+                            
+
+
+
+
+{{content.question}}
+
+
+
+
+
+
+{{ twilioFailed ? 'SMS Code Failed to Send…' : 'An SMS verification code has been sent ...' }}
+
+
+
+Log in to get started
+
+Eureka Report
+InvestSMART
+Intelligent Investor
+
+
+
+Hi {{ user.FirstName }}
+Looks like you have already taken a free trial 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            Email is required.
+                                        
+
+                                            Email must be a valid email.
+                                        
+
+
+
+
+
+
+                                            Password is required.
+                                        
+
+
+
+
+
+
+                                            First name is required.
+                                        
+
+
+
+
+
+
+                                            Last name is required.
+                                        
+
+
+
+
+
+
+                                            Mobile phone number is required.
+                                        
+
+
+
+
+
+
+ I have read InvestSMART's Financial Services Guide and Privacy Policy, and agree to the Terms & Conditions.
+                                        
+
+                                            You must accept the terms and conditions.
+                                        
+
+
+
+What emails do members receive?
+
+
+
+
+
+
+×
+Email Communications
+
+
+
+By default members will receive the following communications via email. At any time, once logged in, you can choose which emails your wish to receive (or not) via the My Details section:
+Research & Wealth Insights
+Mid-week update - Lists all the research and recommendations from the week.
+Weekend Briefing - An overview of the week gone and what to expect in the week to come.
+Portfolio Updates
+If you add your investments to the portfolio manager you will also receive regular updates including; recommendations, alerts, market pricing, dividends, profit & loss and your overall net wealth.
+Exclusive Opportunities
+Featured reports, invites to investor seminars and events, plus exclusive offers.
+Operational communications
+As an InvestSMART group member, you will occasionally receive operational updates. These could be about new features, changes to your membership, security information, or general business updates.
+
+
+
+
+ 
+
+
+
+ {{content.mainButtonText}} 
+
+OR
+
+
+
+
+
+
+
+Already a member? Login
+
+
+
+
+
+
+
+
+We have sent you a code via SMS to {{user.DayPhone}}
+please enter this code below to complete your SMS verification
+
+
+We cannot send you a code via SMS to {{user.DayPhone}}
+
+
+
+
+
+
+
+
+
+
+Complete verification
+
+If you didn't receive SMS code please 
+
+
+
+SMS code cannot be sent due to: {{ twilioStatus }}
+
+Please select one of the options below: 
+
+Resend Code
+Change number
+
+
+
+
+ Looks you are already a member. Please enter your password to proceed 
+
+
+
+You have entered an incorrect email or password
+
+
+
+
+
+                                            Email is required.
+                                        
+
+                                            Email must be a valid email.
+                                        
+
+
+
+
+
+
+                                            Password is required.
+                                        
+
+
+
+
+
+
+Remember me
+
+
+Please untick this box when using a public or shared device
+
+
+
+
+Login
+
+OR
+
+
+
+Not a member?
+
+
+
+
+
+Forgotten password? Click here
+
+
+
+
+
+
+Verify your mobile number to proceed...
+Please check your mobile number below and press the Send Verification Code button. This will be used to complete your verification in the next step.
+
+
+
+
+
+
+
+
+SEND VERIFICATION CODE
+
+
+
+
+
+Please sign up for full access 
+
+
+Sign up now
+
+
+
+
+
+
+
+ Updating information 
+Please wait ...  
+
+
+
+
+
+
+
+Trial
+
+
+
+
+
+
+                    {{ productPrice }} / day
+
+
+( GST included )
+
+
+
+
+
+
+ 
+{{ applyText }}
+
+
+
+
+
+
+
+Price
+$0
+
+
+Discount
+-{{productDiscount}}
+
+
+GST
+{{productGST}}
+
+
+TOTAL     (inc. GST)
+{{productPrice}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+
+
+
+
+
+
+
+
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make payment
+Proceed
+
+
+
+
+
+
+Maybe later
+
+
+
+
+
+
+
+Please click on the ACTIVATE button to finalise your membership
+
+
+
+Activate
+
+
+
+
+
+
+
+
+The email address you entered is registered with InvestSMART.
+Login or to reset your password, select Forgotten password
+
+
+
+
+
+You have entered an incorrect email or password
+
+
+
+
+
+                                            Email is required.
+                                        
+
+                                            Email must be a valid email.
+                                        
+
+
+
+
+
+
+                                            Password is required.
+                                        
+
+
+
+
+
+
+Remember me
+
+
+Please untick this box when using a public or shared device
+
+
+
+
+Login
+
+OR
+
+
+
+Not a member?
+
+
+
+
+
+Forgotten password? Click here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eureka Report
+InvestSMART
+Intelligent Investor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VonExpy | Microsoft Silver Partner | Application & Product Development, Cloud Solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    info@vonexpy.com 
+
+	    	  +1 469 646 4656, +44 7754 305 104, +91 040-64574405	    
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us Careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+											IT Consulting
+										
+
+											Software Development
+										
+
+											Systems Integration
+										
+
+
+
+											We enable businesses   
+											
+												of all sizes to 
+												
+													create
+												
+
+
+											and sustain growth
+										
+
+
+
+											Click Here
+										
+
+
+												Find out more
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+								Be a part of a team that challenges you to be   
+								
+									your best!
+								
+
+
+
+
+								Team VonExpy
+							
+
+
+							Join Us
+						
+
+							For a work that's an experience
+						
+
+
+
+
+
+
+
+
+
+
+
+
+								A richer  experience for you and   
+								
+									your clients!
+								
+
+
+
+
+								VonExpy Business Solutions
+							
+
+
+							Read more
+						
+
+							For ideas to energise your business
+						
+
+
+
+
+
+
+
+
+
+
+
+
+								Engineer quality – integrate success into
+								
+									your business!
+								
+
+
+
+
+								VonExpy Consulting
+							
+
+
+							Read more
+						
+
+							For strategies to build stability
+						
+
+
+
+
+
+
+
+
+
+
+
+
+								Extend your team and strengthen
+								
+									your resources!
+								
+
+
+
+
+								VonExpy Partners
+							
+
+
+							Contact Us
+						
+
+							Partnership and value
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Reduce uncertainty. Inspire confidence.
+IT Consulting
+Today's vast array of tech makes getting it right for your business a risky venture. We will give you absolute confidence by formulating a strategy for design, development and implementation that fits your needs with precision, and ensures you out-perform.
+
+
+
+
+Control input. Dominate output
+Software development
+Efficiency of a business process or an activity depends on how much control you can exercise on it. Like an instrument for the hands of a virtuoso we develop systems to enable you to reach your full potential.
+
+
+
+
+Unify resources. Amplify strength
+Systems Integration
+Growth of a business depends on results from every function. We synchronise your business systems to concentrate your efforts towards growth.
+
+
+
+
+
+
+
+
+
+
+
+
+
+			-
+
+
+
+
+
+						Business Solutions to simplify your processes and generate momentum
+					
+
+
+
+
+
+
+
+							Content
+							
+							management
+						
+
+
+
+
+
+
+							Social
+						
+
+
+
+
+
+
+							Sales
+						
+
+
+
+
+
+
+							Marketing
+						
+
+
+
+
+
+
+							Database
+							
+							management
+						
+
+
+
+
+
+
+							Hosting
+						
+
+
+
+
+
+
+							Cloud
+							
+							computing
+						
+
+
+
+
+
+
+							Enterprise resource 
+							
+							planning
+						
+
+
+
+
+
+
+							Human resource 
+							
+							management
+						
+
+
+
+
+
+
+							Vendor
+							
+							management
+						
+
+
+
+
+
+
+							Appraisal management
+						
+
+
+
+
+
+
+							Asset management
+						
+
+
+
+
+
+
+							Learning Management
+						
+
+
+
+
+
+
+							eCommerce
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who do we work with?
+Enterprises of all sizes.
+Whether it is a tough technical challenge or idea generation, we are here to make your job easier. Bring your big ideas and we will deliver high performance technology solutions that will help you propel through various levels of enterprise transformation.
+In-house or external IT departments.
+And yes! We have made friends with a lot of agencies and companies looking for subcontractors. With all this exposure, we know what it takes to be one killer development partner who will make you look great every single time.
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why Us?
+Because we make IT easy.
+At VonExpy we do technology right. It’s not just about what we do, it is also how we do. With highly evolved processes we build systems that stimulate growth automatically. The result is inspired customers, inspired teams and inspired communities that will grow your positive brand reputation throughout the market.
+
+Read More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Client Stories Systems, Processes & Experiences – Why talk when we can show?
+While development of custom applications involves solving new challenges every time, we believe the consistent VonExpy core process is the power source that brings new ideas to life. Read our case studies to see how we created solutions for different industries, systems and processes.
+
+
+
+
+
+Digital
+
+
+ Digital 
+NCI is a hotel development, construction, and management firm- Hospitality industry
+Read more 
+
+
+
+
+ Financial 
+
+
+ Financial 
+AppraiserDash caters to the requirements of appraisal management- Mortgage Lending industry
+Read more 
+
+
+
+
+ Education 
+
+
+ Education 
+My Language Lounge is an eLearning platform- Online Learning
+Read more 
+
+
+
+
+ Manufacturing 
+
+
+ Manufacturing 
+HM United is an alliance of composite engineering & construction management companies
+Read more 
+
+
+
+
+
+
+
+
+
+
+450
+Meetings
+
+
+900
+Proposals
+
+
+80
+Team
+
+
+350
+Deliveries
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scroll
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electric Hoist, AC Winch, DC Winch, Self Recovery Winch, Winch and Hoist Manufacturer, Car Winch Manufacturer, Winch Accessories Manufacturer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+ Chi Zong Machine Co., Ltd. was established in 1979, we have been the leading manufacturer of compact electric hoist and winch in Taiwan. 
+DUKE is the brand we are selling worldwide, while STRONG is our domestic brand in Taiwan. 
+ 
+Our product range as follows: 
+AC Power: Electric Wire Rope Winch, Electric Chain Hoist 
+DC Power: Off-Road Winch..ATV & UTV winch 
+Battery Type: Battery Wire Rope Winch, Battery Chain Hoist 
+We also provide OEM/ODM solutions for customizations.. 
+ 
+With strict quality control, e...
+more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																	ELECTRIC MINI WIRE WINCH
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	ELECTROMAGNETISM
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	ELECTRIC MINI CHAIN HOIST
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	ELECTRIC INVERSION CHAIN HOIST
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	BATTERY BABY WINCH
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	BATTERY BABY CHAIN HOIST
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	COMPACT WINCH
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	ELECTRIC CHAIN HOIST
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+more
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+2014 INTERNATIONALE 
+We sincerely invite you to vist us at BOOTH No.G-070
+
+
+Ex... 
+
+
+NEW PRODUCTS   
+"NEW PRODUCTS"
+ BATTERY BABY WINCH
+MODEL:DCW-250... 
+
+more 
+
+
+
+
+
+
+
+
+			
+TEL：+886-2-2267-7370   |   FAX：+886-2-2267-7380   |   E-MAIL：sales@duke-winch.com    |   SKYPE：dukewinch
+Web： www.duke-winch.com   |  ADD： 6, TATUNG ST., TUCHENG DIST., NEW TAIPEI CITY 23679, TAIWAN   
+    Copyright © 2009 CHI ZONG MACHINE CO., LTD.  |  The website requires the at least IE7 or below IE7
+			
+Web Design 
+
+
+
+
+
+
+
+
+
+Electric Hoist, AC Winch, DC Winch, Self Recovery Winch, Winch and Hoist Manufacturer, Car Winch Manufacturer, Winch Accessories Manufacturer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+ Chi Zong Machine Co., Ltd. was established in 1979, we have been the leading manufacturer of compact electric hoist and winch in Taiwan. 
+DUKE is the brand we are selling worldwide, while STRONG is our domestic brand in Taiwan. 
+ 
+Our product range as follows: 
+AC Power: Electric Wire Rope Winch, Electric Chain Hoist 
+DC Power: Off-Road Winch..ATV & UTV winch 
+Battery Type: Battery Wire Rope Winch, Battery Chain Hoist 
+We also provide OEM/ODM solutions for customizations.. 
+ 
+With strict quality control, e...
+more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																	ELECTRIC MINI WIRE WINCH
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	ELECTROMAGNETISM
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	ELECTRIC MINI CHAIN HOIST
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	ELECTRIC INVERSION CHAIN HOIST
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	BATTERY BABY WINCH
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	BATTERY BABY CHAIN HOIST
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	COMPACT WINCH
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	ELECTRIC CHAIN HOIST
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+more
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+2014 INTERNATIONALE 
+We sincerely invite you to vist us at BOOTH No.G-070
+
+
+Ex... 
+
+
+NEW PRODUCTS   
+"NEW PRODUCTS"
+ BATTERY BABY WINCH
+MODEL:DCW-250... 
+
+more 
+
+
+
+
+
+
+
+
+			
+TEL：+886-2-2267-7370   |   FAX：+886-2-2267-7380   |   E-MAIL：sales@duke-winch.com    |   SKYPE：dukewinch
+Web： www.duke-winch.com   |  ADD： 6, TATUNG ST., TUCHENG DIST., NEW TAIPEI CITY 23679, TAIWAN   
+    Copyright © 2009 CHI ZONG MACHINE CO., LTD.  |  The website requires the at least IE7 or below IE7
+			
+Web Design 
+
+
+
+
+
+
+
+ 
+
+
+
+
+Shares - Australian Stock Market - InvestSMART
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Home
+    
+
+
+
+        Research
+    
+
+
+
+        Shares
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shares
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company Announcements
+More announcements
+
+
+
+
+
+Date/time
+Company
+
+Headline
+
+
+
+
+3 Aug 2017 7:19PM
+
+iSelect Limited (ISU)
+                    
+
+
+
+
+Becoming a substantial holder
+
+
+
+
+3 Aug 2017 7:18PM
+
+Virtus Health Limited (VRT)
+                    
+
+
+
+
+Becoming a substantial holder
+
+
+
+
+3 Aug 2017 7:17PM
+
+Cabral Resources Limited (CBS)
+                    
+
+
+
+
+Prospectus
+
+
+
+
+3 Aug 2017 7:17PM
+
+Prima BioMed Limited (PRR)
+                    
+
+
+
+
+Investor Update
+
+
+
+
+3 Aug 2017 7:14PM
+
+iSentia Group Limited (ISD)
+                    
+
+
+
+
+Ceasing to be a substantial holder
+
+
+
+
+
+
+
+
+
+Upcoming Dividends
+More dividends
+
+
+
+
+
+Company
+Dividend
+Franking
+Ex-dividend date
+
+
+
+
+
+
+                        BKI
+                    
+
+
+3.7¢
+            
+100%
+4 Aug 2017
+
+
+
+
+                        DJW
+                    
+
+
+10¢
+            
+100%
+4 Aug 2017
+
+
+
+
+                        AMH
+                    
+
+
+3.5¢
+            
+100%
+7 Aug 2017
+
+
+
+
+                        OZG
+                    
+
+
+0.25¢
+            
+100%
+7 Aug 2017
+
+
+
+
+                        WIC
+                    
+
+
+3¢
+            
+100%
+7 Aug 2017
+
+
+
+
+                        AFI
+                    
+
+
+14¢
+            
+100%
+8 Aug 2017
+
+
+
+
+                        AYJ
+                    
+
+
+48¢
+            
+5%
+10 Aug 2017
+
+
+
+
+                        AYK
+                    
+
+
+34¢
+            
+90%
+10 Aug 2017
+
+
+
+
+                        AYZ
+                    
+
+
+69¢
+            
+60%
+10 Aug 2017
+
+
+
+
+                        MLT
+                    
+
+
+10¢
+            
+100%
+10 Aug 2017
+
+
+
+
+
+
+
+Change of Directors' Interest
+More changes
+
+
+
+
+
+
+
+
+
+
+Current Recommendations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Please check the following:
+
+{{x.value}}
+
+
+
+
+
+×
+                                {{ successMessage}}
+                            
+
+
+
+
+{{content.question}}
+
+
+
+
+
+
+{{ twilioFailed ? 'SMS Code Failed to Send…' : 'An SMS verification code has been sent ...' }}
+
+
+
+Log in to get started
+
+Eureka Report
+InvestSMART
+Intelligent Investor
+
+
+
+Hi {{ user.FirstName }}
+Looks like you have already taken a free trial 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            Email is required.
+                                        
+
+                                            Email must be a valid email.
+                                        
+
+
+
+
+
+
+                                            Password is required.
+                                        
+
+
+
+
+
+
+                                            First name is required.
+                                        
+
+
+
+
+
+
+                                            Last name is required.
+                                        
+
+
+
+
+
+
+                                            Mobile phone number is required.
+                                        
+
+
+
+
+
+
+ I have read InvestSMART's Financial Services Guide and Privacy Policy, and agree to the Terms & Conditions.
+                                        
+
+                                            You must accept the terms and conditions.
+                                        
+
+
+
+What emails do members receive?
+
+
+
+
+
+
+×
+Email Communications
+
+
+
+By default members will receive the following communications via email. At any time, once logged in, you can choose which emails your wish to receive (or not) via the My Details section:
+Research & Wealth Insights
+Mid-week update - Lists all the research and recommendations from the week.
+Weekend Briefing - An overview of the week gone and what to expect in the week to come.
+Portfolio Updates
+If you add your investments to the portfolio manager you will also receive regular updates including; recommendations, alerts, market pricing, dividends, profit & loss and your overall net wealth.
+Exclusive Opportunities
+Featured reports, invites to investor seminars and events, plus exclusive offers.
+Operational communications
+As an InvestSMART group member, you will occasionally receive operational updates. These could be about new features, changes to your membership, security information, or general business updates.
+
+
+
+
+ 
+
+
+
+ {{content.mainButtonText}} 
+
+OR
+
+
+
+
+
+
+
+Already a member? Login
+
+
+
+
+
+
+
+
+We have sent you a code via SMS to {{user.DayPhone}}
+please enter this code below to complete your SMS verification
+
+
+We cannot send you a code via SMS to {{user.DayPhone}}
+
+
+
+
+
+
+
+
+
+
+Complete verification
+
+If you didn't receive SMS code please 
+
+
+
+SMS code cannot be sent due to: {{ twilioStatus }}
+
+Please select one of the options below: 
+
+Resend Code
+Change number
+
+
+
+
+ Looks you are already a member. Please enter your password to proceed 
+
+
+
+You have entered an incorrect email or password
+
+
+
+
+
+                                            Email is required.
+                                        
+
+                                            Email must be a valid email.
+                                        
+
+
+
+
+
+
+                                            Password is required.
+                                        
+
+
+
+
+
+
+Remember me
+
+
+Please untick this box when using a public or shared device
+
+
+
+
+Login
+
+OR
+
+
+
+Not a member?
+
+
+
+
+
+Forgotten password? Click here
+
+
+
+
+
+
+Verify your mobile number to proceed...
+Please check your mobile number below and press the Send Verification Code button. This will be used to complete your verification in the next step.
+
+
+
+
+
+
+
+
+SEND VERIFICATION CODE
+
+
+
+
+
+Please sign up for full access 
+
+
+Sign up now
+
+
+
+
+
+
+
+ Updating information 
+Please wait ...  
+
+
+
+
+
+
+
+Trial
+
+
+
+
+
+
+                    {{ productPrice }} / day
+
+
+( GST included )
+
+
+
+
+
+
+ 
+{{ applyText }}
+
+
+
+
+
+
+
+Price
+$0
+
+
+Discount
+-{{productDiscount}}
+
+
+GST
+{{productGST}}
+
+
+TOTAL     (inc. GST)
+{{productPrice}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+
+
+
+
+
+
+
+
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make payment
+Proceed
+
+
+
+
+
+
+Maybe later
+
+
+
+
+
+
+
+Please click on the ACTIVATE button to finalise your membership
+
+
+
+Activate
+
+
+
+
+
+
+
+
+The email address you entered is registered with InvestSMART.
+Login or to reset your password, select Forgotten password
+
+
+
+
+
+You have entered an incorrect email or password
+
+
+
+
+
+                                            Email is required.
+                                        
+
+                                            Email must be a valid email.
+                                        
+
+
+
+
+
+
+                                            Password is required.
+                                        
+
+
+
+
+
+
+Remember me
+
+
+Please untick this box when using a public or shared device
+
+
+
+
+Login
+
+OR
+
+
+
+Not a member?
+
+
+
+
+
+Forgotten password? Click here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eureka Report
+InvestSMART
+Intelligent Investor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2686 @@
+ 
+
+
+
+
+
+
+Automation Solutions – Avanceon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+Home
+Solutions
+
+Automation
+MES
+Support
+IIoT Solutions
+Electrical Design
+Batch – S88
+Serialization
+Validation
+Standards & Tools
+Project Management
+Consulting
+Project Execution
+
+
+Expertise
+
+Food & Beverage
+Life Sciences
+Consumer Packaged Goods
+Specialty Chemical
+Water
+Metals
+Oil / Gas
+Discrete Industries
+Other Industries
+
+
+Partners
+Insights
+
+Blogs
+Case Studies
+Videos
+Tech Tips
+
+
+About Us
+
+Our Promise
+History
+Contact Us
+Top Workplace Award for 2017
+Culture
+News & Events
+CSIA Certification
+International Offices
+
+
+Careers
+
+
+
+
+
+
+
+
+Automation Solutions
+Home / Automation Solutions 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Automation Solutions
+Avanceon has a long standing history of providing automation solutions that help our customers improve operational efficiency and quality, in their product, processes, and packaging systems.
+ 
+Our automation experience spans from the Device layer (I/O Panels, Instrumentation, and Motor Control), PLC Automation and Process Control, HMI and Operator Interface, annunciation, and SCADA.
+ 
+While the technology is a key component of every project, process knowledge is what allows a project to transform from just “completed” to a true success.  Avanceon has extensive process knowledge in many of the major vertical markets including:
+ 
+
+ << Food & Beverage 
+ << Consumer Packaged Goods 
+ << Water 
+ << Oil / Gas 
+
+ << Life Sciences 
+ << Specialty Chemical 
+ << Metals 
+ << Discrete  Industries 
+ 
+We align process experts with every project to ensure that the needs of the customer are met regardless of the technology deployed.  With our experience in many application environments, along with our understanding of technology trends and industry standards, we design creative solutions that make you more competitive.
+ 
+
+ 
+Automation Standards Development & Programs
+Because of our depth of experience, Avanceon has developed a set of pre-designed and pre-tested process standards, drawings, software code, and supporting documentation specifically designed to address the technical requirements of the customer through process specific customization. This library of Electrical Drawing Templates, PLC modules, and HMI screens / objects allow Avanceon (and by extension, our customers) to develop a significant amount of automation deliverables without recreating the wheel every time. These automation standard templates and tools are instrumental in insuring the development of a system is executed in the most efficient manner with the most possible reuse. In addition to reuse, the resultant application is consistent from line to line and system to system to insure the deepest understanding among the factory and plant technical resources in support of the system.
+ 
+Go to top
+ 
+High Performance HMI
+The evolution of HMI development has been driven by the speed and power of PC processors. In the early days of HMI’s there was limited ability to clearly and cleanly display all that the operator needed to effectively operate. In the 1990’s and 2000’s the PC’s evolution allowed for more to be displayed on the screen. As a result the development approach evolved to overstimulate and effectively lull an operator to a point where they are less likely to notice the details of the operations. Since the early 2010s the philosophy of High Performance HMI has become more prevalent. Avanceon has integrated this philosophy into our HMI approach. This philosophy highlights the most efficient display of information for the operators to allow them to clearly convey the status of the system, the actions needed, and the areas to focus on and address. This approach and philosophy is a basis for Avanceon’s approach to HMI development.
+ 
+
+ 
+Batch Engineering
+One of the main issues cited by batch manufacturers is the production of consistent product. Consistent product can only be produced when control of all aspects of the batch process is established and continuously managed. In the interest of solving this issue Avanceon has developed a consistent batch solution and philosophy based upon common software standards, terminology, and control models. The ISA Batch Control Standard S88.01 provides a template for a “Best Practice” but some additional structure is needed to address the realities of the dynamics of the plant environment. Through our practical application of standard models and terminologies, batch recipe execution and reporting can be clearly managed. Standard models allow for configurable batch components to be assembled achieving consistent product every time. The implementation of S88.01 requires training to consistently interpret the standards to achieve the best value in practice. Avanceon can assist you in applying the S88.01 standards based on your own process. We can also deliver pre-defined templates which we have already proven to work at many Fortune 100 manufacturers.
+ 
+Go to top
+ 
+Process Information from Automation
+Information technology plays a vital role in the success of any enterprise today and that is particularly true in manufacturing. Avanceon helps companies close the technology gap that exists between the manufacturing floor and the Enterprise Resource Planning systems (ERP). The success of Manufacturing Information System (MES) and a connected ERP often hinges on the quality and reliability of the data provided from the automation layer. Avanceon specializes in developing solutions that funnel, standardize, and concentrate the process information from manufacturing systems to the MES or ERP layer.
+ 
+
+
+ 
+Avanceon Supports Many Automation Platforms Including
+PLC Platforms:
+ Allen Bradley / Rockwell Logix Platform – PLC 5, & SLC500
+ 
+ Schneider / Modicon – M80, Quantum and legacy 984
+ 
+ Siemens – S7 and S1500 Family
+ 
+ Automation Direct
+ 
+ GE and assorted others.
+ 
+ 
+ 
+HMI Platforms:
+ Wonderware (Endorsed System Integrator) - InTouch with System Platform
+ 
+ Rockwell Software – Panelview and RSView
+ 
+ CItech
+ 
+ GE – Proficy and Cimplicity
+ 
+ Inductive Automation – Ignition
+ 
+ Siemens – WinCC, and assorted others
+ 
+ 
+ 
+More on Automation
+:  Automating Automation
+:  Your Ticket off ‘Automation Island’
+:  Calibration Services
+:  Auto, Data, Help: Manufacturing’s “Puppy, Monkey, Baby?”
+
+ 
+Go to top
+000 
+
+
+
+
+
+
+
+
+
+
+
+
+		
+			180 Sheree Blvd | Suite 1400 | Exton, PA 19341 |
+			 
+				© 2017 Avanceon
+			 |
+			 
+				All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+Scroll
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AVANCEON LTD
+
+
+
+
+
+
+
+
+
+
+
+
+
++852 81912766
+
++86-28-86289170
+
+
+
+Live Chat
+
+Subscribe
+
+
+
+
+
+
+
+
+
+HOME
+PRODUCTS
+ABOUT US
+CONTACT US
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AVANCEON LTD
+
+
+
+Sign In 
+
+Register 
+
+
+This is a trade record of importer  AVANCEON LTD  and exporter  WEG EQUIPAMENTOS ELETRICOS SA  , including the detailed information of shipping, product description, quantity, etc.
+View complete data of  AVANCEON LTD    
+
+
+
+
+
+
+
+
+Pakistan Import Data
+
+
+
+
+
+
+
+ Importer: 
+
+
+
+
+Name:
+AVANCEON LTD 
+
+
+Address:
+MAIN MULTAN ROAD KM 19 LAHORE 
+
+
+
+
+Name:
+WEG EQUIPAMENTOS ELETRICOS SA 
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+ Product Info: 
+
+
+
+
+Import manifest No:
+5069 
+
+
+Unit:
+PACKAGE 
+
+
+Gross weight:
+1.043
+
+
+Package No:
+1.0
+
+
+Fare:
+0.0
+
+
+Goods type:
+G
+
+
+
+
+Date:
+2009-02-23
+
+
+20-foot container:
+0.0
+
+
+40-foot container:
+0.0
+
+
+45-foot container:
+0.0
+
+
+other container:
+0.0
+
+
+container No:
+0.0
+
+
+
+
+
+
+
+ Shipping Info: 
+
+
+
+
+Bill of lading No:
+JOI-FEM09/01/0012
+
+
+Country of origin:
+SINGAPORE
+
+
+country of origin location:
+FAR EAST
+
+
+Port od departure:
+Singapore
+
+
+Port of destination:
+KAPR
+
+
+
+
+Date:
+2/19/2009 
+
+
+vessel:
+Sinar Bintan
+
+
+voyage:
+267
+
+
+Ship route:
+GLOBELINK EXPRESS LINE, GLOBEL
+
+
+Shipping agency:
+GLOBE LINK PAKISTAN (PVT) LTD.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Product detailed description:
+1 PACKAGES STC 1 UN AC THREE PHASE ELECTRIC MOTOR
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Content
+
+
+
+
+
+
+
+
+
+RELATION LINKS:
+
+HS CODE AND TARIFF, 
+  CHINA IMPORT DATA, 
+  CHINA EXPORT DATA, 
+  CHINA TRADE REPORTS
+Home, 
+	  Products, 
+	  About Us, 
+	  Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Avanceon | Projects in the Middle East and South Asia  –  Projects Listing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   +971 488 60 277    support@avanceon.ae    US Site    ACE Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+Projects
+
+Engineering
+Project Management
+Projects Listing
+
+
+Partners
+Investors
+
+Financial Information
+Financial Reports
+
+
+Company
+
+About
+Contact
+
+Regional Operations
+UAE
+KSA
+Qatar
+Pakistan
+
+
+News
+Events
+
+Digital Sugar Mill 2016
+Middle East Rail 2016
+Automation Symposium 2015
+Process Safety Seminar 2015
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+
+
+    Projects Listing
+
+
+You are here: Home / Engineering / Projects Listing 
+
+
+
+
+
+
+
+
+
+
+
+Latest news
+
+
+
+Leading Global System Integrator Strengthens Middle East Operations with Official Launch of Avanceon Qatar
+
+
+Analyst Report: Taurus Securities Limited state that Avanceon is submerged in a plethora of contracts
+
+
+Analyst Report: Alfalah Securities say Avanceon stock likely to rise due to strong 2017 pipeline and refreshed approach to business
+
+
+Analyst Report: Cedar Capita predict a less volatile future for Avanceon
+
+
+Avanceon Selected To Implement Critical Infrastructure Systems For Leading Qatari Mega Project
+
+
+Leading Global System Integrator Strengthens Middle East Operations By Opening Avanceon Qatar
+
+
+Avanceon certified with ISO 9001:2008, ISO 14001:2004 and OHSAS 18001:2007
+
+
+Avanceon Certified With ISO 9001:2008, ISO 14001:2004 and OHSAS 18001:2007
+
+
+UAE’s Leading Property Developer Selects Avanceon For Prime Residential Project
+
+
+Standing Alongside The System Integrator Giants Of 2016
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Projects Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bespoke Engineering
+Avanceon has been delivering solutions that are bridging global engineering experience with local project requirements across multiple industries for the past 30 years. The technical skillset and expertise of our project managers ensure safe and cost-effective execution of your development. Our customer-centric approach has ensured that each project is customized and implemented to adapt to your management style, thus to ensure agile and seamless integration. To date, the company has developed and integrated over a thousand medium to large scale projects across 16 different verticals including Oil & Gas, Water & Wastewater, FMCG as well as Power in the MEA and SEA.
+
+ 
+
+Recent Projects 
+
+
+
+
+
+The following listings encompass recent medium to large scale projects across the Middle East and South Asia. For more details please feel free to contact our local office network directly.
+
+ 
+
+
+Middle East ProjectsSouth Asia Projects
+
+
+
+
+
+
+End User InformationLocationIndustry Markets Control PlatformBrief Description
+
+
+
+
+EmpowerUAEDistrict CoolingRockwellConstruction of the command and control center and supply, installation, configuration, testing and integration of PLC, local SCADA, and CCC SCADA systems.
+
+
+ Saudi Aramco   KSA  O&GSchneiderUpgrade of Gas Turbine at Co-Gen Facility and Up gradation of Islanding & Load shedding Safety System with RTU systems  
+
+
+ ACT Bulk Terminals   KSA  O&GRockwell PLC Control System & ESD Systems for the Bulk terminal Storage facility  
+
+
+ Kahramaa   Qatar  Water Waste WaterRockwell Redundant Pumping Statrions project at RPS and NWCC systems  
+
+
+ Asghal   Qatar  Water Waste WaterRockwell CP6C Redundant Pump Station Control systems and SCADA at STPS, SW and IR stations  
+
+
+ Maaden GOLD   KSA  InfrastructureRockwellSCADA and Integration of Pump Stations and Pipeline Systems at 4 remote locations based on Control Logix Redundant and RS FT SCADA  
+
+
+ Riyadh Military Hospital   KSA  InfrastructureRockwellPower Plant Control System based on Control Logix Redundant and RS FT SCADA on new power turbines systems, Brown field expansion Project  
+
+
+ Saudi Aramco   KSA  O&GSchneider Shedgum Plant Islanding and Load shedding Expansion / Upgrade Project on Quantumand Emerson based Systems  
+
+
+ Saudi Aramco   KSA  O&GSchneider Uthmaniya Plant Islanding and Load shedding Expansion / Upgrade Project on Quantum and Emerson based Systems 
+
+
+ Qatar Fertilizer   Qatar  FertilizerRockwell Jetty Product Movement Management Project on Redundant Control Logix based PLC systems and Integration with SCADA and ABB Switchgear Systems for fertilizer Urea products  
+
+
+ Qatar Petroleum   Qatar  O&GRockwell NGL-3 Brown Field Control Logix Redundant Upgrade and replacement of the obsolete system, annunciators and Integration with DCS and SCDA  
+
+
+ Qatar Fertilizer   Qatar  FertilizerRockwell Control Logix System Upgrade at Bagging Areas and at new Switchyards  
+
+
+Qatar PetroleumQatar O&GRockwellIntegration services for Allen Bradley, Schneider, GE and other third party systems in Khuff Dukhan.
+
+
+Ministry of Water and Electricity KSAWater Waste WaterRockwellRTU and MTU solutions based on Allen Bradley for  various sites of Al-Baha, FIFA and Janabeen.
+
+
+Lusail City Development - Utility TunnelQatar InfrastructureRockwellTunnel Ventilation Controls for Utility tunnel at Lusail Development based on 27 redundant Rockwell Controllogix systems to control a total of 21,000 Physical I/Os. Project is to design, procure, engineer, install and commission 40 redundant PLCs for the 20 zones (1 for dry and 1 for wet) and 7 redundant PLCs for substation catering to 350K+ tags. Avanceon’s SCADA system (in multiple control rooms) shall connect to these PLCs over a Cisco based fiber optic star topology network. Temperature sensing Tunnel field instrumentation and Fans controls for air velocity measurements and safety applications are part of the scope. Tags 100k+.
+
+
+Cleveland clinic/ Johnson ControlAbu DhabiInfrastructureRockwellPLC controls for Grey Water system based on Allen Bradley’s SLC 500 platform.
+
+
+PAL TechnologyAbu DhabiDistrict CoolingSchneider1 ETS Station:Energy Transfer Station Control, Instrumentation & I&C services projects for  Reem Island Ocean Scape ETS on Schneider Twido.
+
+
+PAL TechnologyAbu DhabiDistrict CoolingSchneider4 ETS Stations: Tamouh - Main Contractors Two Fold Engineering and Mega Gas Oil (MGO): Energy Transfer Station Control, Instrumentation & I&C services projects for  Tamouh 4 ETS stations on Schneider Twido.
+
+
+PAL TechnologyAbu DhabiDistrict CoolingSchneider2 ETS Stations: Saraya - Main Contractors Two Fold Engineering: Energy Transfer Station Control, Instrumentation & I&C services projects for Saraya 2 ETS stations on Schneider Twido.
+
+
+EmpowerDubaiDistrict CoolingRockwell4 ETS Stations: Energy Transfer Station Control for TECOM C.
+
+
+ APC/Sicon   Abu Dhabi  O&GRockwell PLC for flow monitoring of 12” pipeline from Takreer to APC based on Rockwell Automation’s SLC 500 solution 
+
+
+ PAL Reem Islands   Abu Dhabi  District CoolingSchneider Turnkey I&C PLC based ETS Projects for 6 locations through various contractors  
+
+
+ Ministry of Water   KSA  Water Waste WaterRockwellWater pumping stations - 33 RTU and SCADA turnkey project  
+
+
+ Saudi Aramco –JNGLF Plant   KSA  O&GSchneider Redundant Islanding Control System at two substations monitoring SEC, Co-Gen Plantof 250MW and JNGLF Plant, Safety System  
+
+
+PAL TechnologyAbu DhabiDistrict CoolingRockwell1 ETS Station: Energy Transfer Station Control, Instrumentation & I&C services projects; Sheikh Al-Haza ETS station based on Rockwell Micrologix system.
+
+
+EmicoolDubaiDistrict CoolingRockwell22 ETS Stations: Turnkey Automation & Instrumentation of ETS Stations for Dubai Motor City.
+
+
+Dubai AluminiumDubaiAluminiumRockwellSCADA & Integration services for Potline 6B Phase -2 area / RS Bizware Historian & Plant Metrics, MES Project.
+
+
+Qatar Petroleum QatarO&GRockwellIntegration services & up gradation of PLC-5 with exisisting Honeywell DCS system.
+
+
+FertilAbu DhabiFertilizerSiemensSiemens’ SIL-2 certified S7-300 processor for Ruwais Fertilizer Plant.
+
+
+PAL TechnologyAbu DhabiDistrict CoolingSchneider18 ETS Stations: Energy Transfer Station Control, Instrumentation & I&C services projects for 18 Reem Island ETS’s on Schneider Twido.
+
+
+Qatar Fertilizer Company QatarFertilizerRockwellAllen Bradley’s redundant Controllogix solution for MCC controls for  Bagging system at QAFCO.
+
+
+Johnson Controls/ PAL TechnologyAbu DhabiDistrict CoolingSchneider1 ETS Station: 
+Energy Transfer Station Control, Instrumentation & I&C services projects for Danet ETS’s on Schneider Twido.
+
+
+PAL TechnologyAbu DhabiDistrict CoolingSchneider2 ETS Stations:
+Energy Transfer Station Control, Instrumentation & I&C services projects for 2 Danet ETS’s on Schneider Twido.
+
+
+Abu Dhabi Golf ResortAbu DhabiInfrastructureRockwellPLC controls for Swimming pools based on Allen Bradley’s Micrologix.
+
+
+NestlePakistanF&BWonderwareCurrently in commissioning phase at Nestle Pakistan. The biggest of its kind as an MES system in Nestle; Wonderware platform. 
+
+
+Technics Offshore EngineeringSingaporeO&GRockwellRockwell Automation SLC 500 based Control System for Gas Lift Compressor Train A/B and Vapor Recovery Compressor Skid – offshore New Zealand project.
+
+
+Qatar PetroleumQatarO&GSchneiderRedundant Citect HMI for Rockwell Automation PLC 5 based Control System for Dealkalizer skid.
+
+
+Emerson Process  Management.DubaiO&GRockwellVibration Monitoring System based on CSI4500 systems for SNGPL.
+
+
+DanwayDubaiWater Waste WaterRockwellPLC based SCADA system for potline 6 load light recorder. In this project we installed and commissioned AB Control Logix,  Remote IO Panels, Device Net, Control Net, Modbus, Fiber Optics and Motor Managers(S&I/GE).
+
+
+EmicoolDubaiDistrict CoolingRockwell1 ETS Station:
+Turnkey Automation & Instrumentation of ETS Stations for Dubai Investment Park.
+
+
+GECODubaiInfrastructureRockwellVariable Frequency Drive Panels for Dubai Towers.
+
+
+TakreerAbu DhabiO&GRockwellUpgrading of  350 Protection Relays based on GE Multilin  in Ruwais Refinery.
+
+
+Pan Ocean Oil CorporationNigeriaO&GRockwell Upgrade of PCS, ESD and F&G system for Ovade-Oghafere Field based on Rockwell Automation’s SIL-2 certified Contollogix Processor.
+
+
+Dubai MetroDubaiInfrastructureRockwellon’s SIL-2 certified Controllogix Processor. Tags 100k+
+
+
+Saudi AramcoSaudi ArabiaO&GSchneiderPLC and DCS upgrade for Substation based on Schneider’s Quantum PLC and Honeywell DCS.
+
+
+Cleveland Clinic/Berg EngineeringAbu DhabiO&GRockwellPLC for Oil Storage tanks based on Rokwell Automation’s solution. 
+
+
+Al-Futtaim GroupDubaiDistrict CoolingRockwell18 ETS Stations:
+Project done based on Allen Bradley FlexLogix based system at Dubai Festival City.
+
+
+Al-Futtaim GroupDubaiDistrict CoolingRockwellPLC-SCADA system and instrumentation for Refrigeration Plant at Dubai Festival City (Phase 1).
+
+
+Al Ittefaq Steel Products Co.KSASteelRockwellJeddah: Redundant AB based ControlLogix and Flex I/O based PLC-SCADA system, motor control and instrumentation for R3 Mill Expansion, Jeddah Project.
+
+
+Al Ittefaq Steel Products Co.KSASteelRockwellDammam: Redundant AB based ControlLogix, FlexLogix and CompactBlock LDX I/O based PLC-SCADA system, motor control and instrumentation Prague Mill, Dammam project.
+
+
+SAFER (SEPOC)YemenO&GRockwellRockwell Automation Redundant-ControlLogix and Flex I/O based PLC system for Raydan Final Expansion project.
+
+
+Modern Steel OmanSteelRockwellPLC based reporting and SCADA applications systems.
+
+
+SAFER (SEPOC)YemenO&GRockwellRockwell Automation Redundant-ControlLogix and Flex I/O based PLC system for Alif  CPU Gas Facilities.
+
+
+Dubai MetroDubaiInfrastructureRockwellRed Line: Tunnel Ventilation System based on Rockwell Automation’s SIL-2 certified Controllogix Processor. Tags 100k+
+
+
+EmpowerDubaiDistrict CoolingRockwell12 ETS Stations:
+Energy Transfer Station Control for Business Bay Executive Towers.
+
+
+DanwayDubaiInfrastructureRockwellSCADA for potline 43 load light recorder. In this project we installed and commissioned Rsview SE Servers (IO/HMI Servers) , Thin Clients, AB Control Logix,  Remote IO Panels, Device Net, Control Net, Modbus, Fiber Optics and Motor Managers (S&I/GE).
+
+
+Takreer/ TopazAbu DhabiO&GRockwellUpgrade of 9 Compressors and Air Dryers based on Rockwell’s Controllogix platform.
+
+
+PAL TechnologyAbu DhabiDistrict CoolingSchneider3 ETS Stations:
+Energy Transfer Station Control, Instrumentation & I&C services projects for 3 Danet ETS’s on Schneider Twido.
+
+
+Al Tuwairqi Holding - Arab Steel MillsSaudi ArabiaWater Waste WaterSiemensDesign, Engineering, installation and commissioning of Arab Steel’s Water Treatment plant based on Siemens S7 400.
+
+
+Al-Swiss EngineeringAbu DhabiDistrict CoolingSchneider3 ETS Stations:
+Energy Transfer Station Control, Instrumentation & I&C services projects for 3 Reem Island ETS’s on Schneider Twido.
+
+
+NestlePakistanF&BRockwellEnergy Conservation and Process Optimization project at Nestle on water based utilities using Avanceon proprietary iWater solution and Allen Bradley control system resulted in proven savings of 30%+.
+
+
+Petrofac / GPSMalaysiaO&GRockwellRockwell Automation Redundant Control Logix based PCS and Combined ESD/FGS (Redundant) for Cendor Mobile Oil Platform Unit – Offshore project. The proposed radio telemetry SCADA system is based on Rockwell PLC/RTU and ProSoft Technology’s RadioLinx serial modem operating at 2.4GHz.
+
+
+Palm WaterDubaiWater Waste WaterRockwellAutomation & SCADA system of Jebel Ali STP Plant project for 1000 m3/hr and 8000m3/hr STP plants.
+
+
+DubalDubaiAluminiumRockwellPotline 6B automation Project based on AB PLC systems.
+
+
+Dubai AluminiumDubaiAluminiumRockwellSCADA & Integration services for Potline 5B Phase -1 area using RS Bizware Historian & Plant Metrics, MES Project.
+
+
+Jordan AirportJordanInfrastructureRockwellHanger Control System using VFD systems.
+
+
+Palm District CoolingDubaiDistrict CoolingRockwell5 ETS Stations:
+Rockwell Automation’s Micrologix processor for ETS control at Palm Jumeirah Island and Jumeirah Village.
+
+
+ Kuwait National Petroleum CompanyKuwaitO&GRockwellSIL-2 Certified Controllogix Processors for Compressor Control.
+
+
+Al-Futtaim GroupDubaiDistrict CoolingRockwellDubai Festival City: DCP project done based on Allen Bradley redundant ControlLogix system, main contractor was Drake & Scull. 
+
+
+Zayed UniversityDubaiDistrict CoolingRockwellZayed University: DCP project done based on Allen Bradley ControlLogix system, main contractor was Drake & Scull. 
+
+
+Al-Futtaim GroupDubaiDistrict CoolingRockwellDubai Festival City: SCADA for DCP project done based on Allen Bradley RSView32 platform, main contractor was Drake & Scull. 
+
+
+Zayed UniversityDubaiDistrict CoolingRockwellZayed University: SCADA for DCP project done based on Allen Bradley RSView32 platform, main contractor was Drake & Scull. 
+
+
+Zayed UniversityDubaiDistrict CoolingRockwell19 ETS Stations:
+ETS Project done based on Allen Bradley Micrologix 1100 system system at Zayed University.
+
+
+Occidental Petroleum CorporationYemenO&GRockwellPLC based automation of Block 20 Early Production Facility.
+
+
+Fred Olsen (Norway)NigeriaO&GHoneywellHoneywell Redundant PKS & FSC based PCS and Combined Redundant ESD/FGS for Fred Olsen’s Antan FPSO – offshore project.
+
+
+Greater Nile Petroleum Operating Company Limited (GNPOC)SudanO&GHoneywellFail Safe Controller based ESD & F&G systems for Neem FPF.
+
+
+Dubai MunicipalityDubaiWater Waste WaterRockwellRockwell Automation Redundant ControlLogix based SCADA system and instrumentation for Refrigeration Plant at Zayed University.
+
+
+DNOYemenO&GRockwellRockwell Automation MicroLogix 1500 and Compact I/O based PLC system for Godah 2 Early Production Facility.
+
+
+TOTAL Oil FieldYemenO&GRockwellTotal Company's Oil Field, LPG plant Automation.
+
+
+International Power (UK)KSAPowerRockwellOperator shift logging system based on OSI soft PI applications on top exisisting plant DCS system for Shedgum, Uthmaniyah, Johanna & Rastanura IP Power plants for Saudi Aramco.
+
+
+Saudi Aramco - Ras Tanura Refinery - Shedgum Gas Plant - Uthmaniyah gas PlantKSAO&GSchneiderIslanding & Load shedding SCADA, Control and Power meting Systems for Ras Tanura Refinery, Shedgum Gas Processing Plant & Uthmaniyah Gas Processing Plant.
+
+
+EmpowerDubaiDistrict CoolingKampstrup106 ETS Rooms Billing System:
+IMPZ Metering system & Billing software application based on Kamstrup Mbus based BTU meters.
+
+
+Oxy OmanOmanO&GRockwellSCADA based communication Network  for Substations based on Allen Bradley’s solution.
+
+
+British PetroleumPakistanO&GRockwellSCADA system for British Petroleum at two remote sites namely Duphri and Jabo using state of the art Allen Bradley Control Logix redundant PLC with RsView32 HMI over Ethernet, ControlNet, DH485 & Modbus controller communication Platform.
+
+
+Life Sciences FacilityUSALife SciencesWonderwareOur biggest Wonderware implementation; was also one in which we worked as a subcontractor to the architectural and engineering firm. In all, this project used over 45 different resources along its 3 year duration. The project had over a dozen process areas along with a number of systems that were connected to the SCADA system. During the development and commissioning phases, the resources were then aligned around technologies (such as PLC, InTouch, Application Server, InBatch, Electrical Design, etc.) in order to maximize efficiency between the common parts among the process areas. Tags 100k+
+
+
+Al Ittefaq Steel Products Co.KSASteelRockwellRockwell Automation ControlLogix based SCADA system, motor control & Instrumentation for R1 (DAMMAM) and R2 (JEDDAH) Mills.
+
+
+CNPC International Ltd.SudanO&GHoneywellFail Safe Controller based ESD & F&G systems for Muga FPF.
+
+
+Florin ComtechDubaiO&GRockwellTurnkey automation, MCC and instrumentation for Hydrogenation Plant.
+
+
+Shell Oil FieldSingaporeO&GRockwellSLC based automation system for Compressor Skid in Off shore Plant – Offshore project.
+
+
+Prosafe (TUI FPSO)SingaporeO&GRockwellPLC based Automation system for Gas Lift Booster, the supply include completely wired PLC enclosure, engineering, HMI development in Panel View Plus.
+
+
+Dubai AluminiumDubaiAluminiumRockwellRockwell Automation RSView SE, factory talk, SQL server, RS Links and Classics based MES execution project for the pot lines and plant utilities.
+
+
+KAPCOPakistanPowerRockwellOSIsoft PI System deployment at KAPCO. Pakistan largest IPP of 1600 MW, has selected Avanceon’s proposed solution based on OSIsoft PI system for the replacement of Siemens Teleperm MADAMS information system aimed at delivering real-time operational performance metrics.
+
+
+Triumph PetrogasYemenO&GRockwellPLC based automation of Heater Treatment skid, LP production skid & HP production skid.
+
+
+Santos Maleo (Australia)IndonesiaO&GHoneywellRedundant Honeywell Experion PKS and FSC based PCS and Combined Redundant ESD/FGS for Santos Maleo – offshore project.
+
+
+OMVNew ZealandO&GHoneywellRedundant Honeywell Experion PKS and FSC based PCS and Combined Redundant ESD/FGS for Maari Oil Field Development FPSO and Wellhead Platform – offshore project. The proposed SIL-3 Process Control System (PCS) and Combined Safety Instrumented System (SIS) / Fire & Gas System (FGS) are based on Honeywell C-200 DCS System with redundant I/O “PMIO”.
+
+
+Dubai AluminumDubaiAluminiumRockwellRockwell Automation RSView SE and RSBizware based SCADA and reporting system for Potline 5B, using Historian and Plant Metrics applications.
+
+
+Canadian Nexen Petroleum CoYemenO&GRockwellPLC based automation of East Al Hajr (Block 51) Early Production Facility.
+
+
+Petrodar Operating Company LtdSudanO&GRockwellPLC based automation of Crude Oil Treatment Skid for Adar/Agordeed FPF.
+
+
+Petrodar Operating Company LtdSudanO&GRockwellFail Safe Controller based ESD & F&G systems for Adar/Agordeed FPF.
+
+
+Crystal Fountain (Canada)DubaiInfrastructureGEGE Fanuc based PLC project at Burjman Center.
+
+
+Florin ComtechDubaiO&GSchneiderSchneider’s M340 along with instruments for a Oil tank Farm. 
+
+
+Schneider ElectricDubaiInfrastructureRockwellPower Monitoring system for Substations at Lusail Development’s utility tunnel.
+
+
+
+
+
+
+
+
+
+
+ISO 14001:2004
+ISO 14000 family addresses various aspects of environmental management. It provides practical tools for companies and organizations looking to identify and control their environmental impact and constantly improve their environmental performance.
+ISO 14001:2004 focus on environmental management systems. The other standards in the family focus on specific environmental aspects such as life cycle analysis, communication and auditing.
+
+ ISO website
+
+
+
+
+
+ 
+
+The Experts 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Imran Ashraf
+                                                                                                                                                                Manager Softwares                                                                                                                                                        
+
+
+
+
+
+
+
+
+
+
+ 
+
+Junaid ul Islam
+                                                                                                                                                                Project Manager                                                                                                                                                        
+
+
+
+
+
+
+
+
+
+
+ 
+
+Hassan Goraya
+                                                                                                                                                                Project Manager                                                                                                                                                        
+
+
+
+
+
+
+
+
+
+
+ 
+
+Sohaib Naveed
+                                                                                                                                                                Project Manager                                                                                                                                                        
+
+
+
+
+
+
+
+
+
+
+ 
+
+Muhammad Saad
+                                                                                                                                                                Project Manager                                                                                                                                                        
+
+
+
+
+
+
+
+
+
+
+ 
+
+Salahuddin Munis
+                                                                                                                                                                Project Manager                                                                                                                                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact us 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your Name  *
+
+
+
+Your Email  *
+
+
+
+
+Your Message
+
+
+
+
+
+
+
+To use CAPTCHA, you need the Really Simple CAPTCHA plugin installed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABOUT AVANCEON
+Avanceon is the leading provider of automation, control systems integration, proprietary energy management solutions and support services. It has a strong market footprint through its offices in Dubai - UAE (covering Middle East), Lahore - Pakistan (covering South Asia) and Exton, Pennsylvania - United States of America (covering North America). Avanceon is also among the select group of ‘certified members’ of Control System Integrators Association (‘CSIA’) and is also listed on the Control Engineering Magazine’s System Integrator Hall of Fame.
+
+
+
+
+
+
+CONTACT INFORMATION
+
+ 
+
+ 
+
+
+
+
+Avanceon Building
+19KM Main Multan Road
+Lahore, Pakistan 
+
+
+
+
+
+ 
+
+
+
+
++92 42 111 940 940
+
+
+
+
+
+ 
+
+
+
+
+support.sea@avanceon.ae
+
+
+
+
+
+ 
+
+
+
+
+sales@avanceon.ae
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+Avanceon Limited
+FZS 1BD04. Jebel Ali
+Free Zone.Dubai, UAE
+
+
+
+
+
+ 
+
+
+
+
++971 488 60 277
+
+
+
+
+
+ 
+
+
+
+
+support.mea@avanceon.ae
+
+
+
+
+
+ 
+
+
+
+
+sales@avanceon.ae
+
+
+
+
+
+
+
+
+
+© Copyright 2015 Avanceon | Site Map | Privacy Statement | Terms & Conditions | Contact |   
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Top
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Partners – Avanceon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+Home
+Solutions
+
+Automation
+MES
+Support
+IIoT Solutions
+Electrical Design
+Batch – S88
+Serialization
+Validation
+Standards & Tools
+Project Management
+Consulting
+Project Execution
+
+
+Expertise
+
+Food & Beverage
+Life Sciences
+Consumer Packaged Goods
+Specialty Chemical
+Water
+Metals
+Oil / Gas
+Discrete Industries
+Other Industries
+
+
+Partners
+Insights
+
+Blogs
+Case Studies
+Videos
+Tech Tips
+
+
+About Us
+
+Our Promise
+History
+Contact Us
+Top Workplace Award for 2017
+Culture
+News & Events
+CSIA Certification
+International Offices
+
+
+Careers
+
+
+
+
+
+
+
+
+Partners
+Home / Partners 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Avanceon maintains a philosophy of identifying the best technologies, hardware, and software available in the market. We then partner with multiple vendors in order to offer only the “Best In Class” solution for each client. We won’t try to steer you in one direction or another, but we will still bring a vast level of expertise and technical support that allows us to deliver quality solutions in a rapid time frame.
+ 
+Based on our extensive and longstanding experience in the industry, Avanceon has developed key partnership with a number of the top software and hardware providers in the industry.  Listed below are our key partner relationships:
+ 
+Wonderware – Endorsed System Integrator
+Avanceon is honored to be included in the highest tier of system integrators in the Wonderware community. Wonderware takes exhaustive steps to ensure that their Endorsed System Integrators are comprehensively trained and certified in multiple areas, providing end-users with an objective quantitative means for measuring the skills of a solution provider. Only those SI’s with proven technical excellence, customer service and integrity participate in the Endorsed SI program. Avanceon and Wonderware maintain a strong and proactive relationship so Avanceon is knowledgeable about upcoming product releases, support updates and other information critical to the success of our customer’s projects.
+
+
+
+
+ 
+
+ 
+Schneider Electric
+Avanceon is a Schneider Electric Automation Partner, partnering with this global energy management and industrial automation leader to enrich and extend Schneider Electric’s market offerings. When Schneider Electric implements an automation project or solution, they collaborate with Avanceon to develop innovative approaches and technologies, respond quickly customers, and provide any “missing pieces” of the automation solutions puzzle. Avanceon values this partnership and opportunity to work closely with Schneider Electric.
+ 
+
+ 
+
+ 
+Rockwell Automation
+Avanceon delivers a majority of our solution built on Rockwell technology.  As such we have developed a strong and deep Rockwell practice in our organization.  This practice is chartered with the responsibility to drive technical understanding, training, and business coordination with all levels of the Rockwell organization.
+ 
+
+ 
+Go to top
+ 
+exida
+Exida provides Avanceon with a breadth of expanded offerings that allows a complete and holistic answer to the needs of the automated manufacturer. At Avanceon we take seriously our responsibility to help ensure that the safety and wellbeing of our customer’s people and process and have found that Exida’s certification and experience to be an excellent add on to our solutions offering. Their safety expertise, coupled with their cyber security and alarm rationalization offerings, made an Exida and Avanceon partnership a perfect fit.
+ 
+
+ 
+Learn More >>>>
+ 
+
+ 
+Plant iT & brewmaxx – ProLeit Partner
+Avanceon is proud to be a partner of ProLeiT as the exclusive, United States Partner focused on the brewery and dairy vertical market.  ProLeiT’s products, brewmaxx (focused on the brewing industry) and Plant iT (flexible for any application), leverage PLC and IT technology to address all levels of automation and information needs in manufacturing plants.  The system is a unique blend of embedded process automation objects coupled with full featured MES functionality that is tailored to the brewery and dairy process industries.  As a North American partner, Avanceon supports and deploys Plant iT and brewmaxx systems in this region.
+ 
+ 
+ 
+
+ 
+Microsoft
+Gold Certified Partners represent the highest level of competence and expertise with Microsoft technologies, and have the closest working relationship with Microsoft.
+ 
+
+ 
+Go to top
+ 
+011 
+
+
+
+
+
+
+
+
+
+
+
+
+		
+			180 Sheree Blvd | Suite 1400 | Exton, PA 19341 |
+			 
+				© 2017 Avanceon
+			 |
+			 
+				All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+Scroll
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Avanceon Limited Sales Engineer-Products | SmartRecruiters
+
+Sales Engineer-ProductsLahore, PakistanCompany DescriptionWith the international capability to deliver engineering services in electrical, controls, machine design, information technology, and manufacturing business strategy, Avanceon creates integrated solutions that enable clients to control, improve, and optimize their manufacturing processes.  Avanceon's experience in engineering services, software solutions, energy optimization, TVS and support services enable our clients the opportunity to achieve powerful business results and financial returns.Job DescriptionMajorly to visit customers sites to develop business relationship with existing customers and add new customers.Perform market studies, collect customer and competitor's market information of Industrial Automation Business.Identify new sales opportunities, discover new businessesFind out the customer requirements and provide assistance to design application base solutions. Present new technologies and products to the customersCoordinate with engineering department to select suitable solutions and productsWork out commercial and technical proposals, negotiations with the customer on commercial and technical aspects of a project.Meeting annual sales target and planning customer base business Plan.QualificationsEngineering graduate in any one of following:Electrical/Electronics/Mechatronics from Recognized institute.Additional InformationSkills:Additional skills in MS Office / Power Point, MS Project Server, Visio and ERP systems. Outstanding interpersonal skills;Excellent interpersonal, verbal communication with English speaking skills and the ability to generate strong and lasting relationships with customers.Basic knowledge of Automation / SCADA Systems, PLC/DCS system, Industrial Automation Topologies /Architectures, Motor Design, Operation of Variable Frequency Drive, Instrumentation and Electrical. Aggressive strategist with proven ability to close the deals via strong and persuasive closing skills;Strong attention to detail and accuracy;Ability to work efficiently on simultaneous assignments under tight deadlines with minimum supervision;Professional self-starter, high level of motivation, customer empathy and ethics;Strong analytical and reasoning abilities;Demonstrated success in building trust and maintaining long-term relationshipsCompetencies:Minimize Costs.Ensuring adherence to tech supp SOP.Managing customer requirements and deliver project/task based assignment on time within budget and quality.Attending to and resolving customer issues in a timely manner.Work Environment:Adaptability to work flexible hours for special events (i.e. evening and weekends)Travel to Avanceon’s subsidiaries and prospects’ locations is required.Sorry, this job has expiredSorry, this job has expiredPosted bySana Tariqshare this jobPowered by
+
+Electric Hoist, AC Winch, DC Winch, Self Recovery Winch, Winch and Hoist Manufacturer, Car Winch Manufacturer, Winch Accessories Manufacturer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+ Chi Zong Machine Co., Ltd. was established in 1979, we have been the leading manufacturer of compact electric hoist and winch in Taiwan. 
+DUKE is the brand we are selling worldwide, while STRONG is our domestic brand in Taiwan. 
+ 
+Our product range as follows: 
+AC Power: Electric Wire Rope Winch, Electric Chain Hoist 
+DC Power: Off-Road Winch..ATV & UTV winch 
+Battery Type: Battery Wire Rope Winch, Battery Chain Hoist 
+We also provide OEM/ODM solutions for customizations.. 
+ 
+With strict quality control, e...
+more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																	ELECTRIC MINI WIRE WINCH
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	ELECTROMAGNETISM
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	ELECTRIC MINI CHAIN HOIST
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	ELECTRIC INVERSION CHAIN HOIST
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	BATTERY BABY WINCH
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	BATTERY BABY CHAIN HOIST
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	COMPACT WINCH
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	ELECTRIC CHAIN HOIST
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+more
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+2014 INTERNATIONALE 
+We sincerely invite you to vist us at BOOTH No.G-070
+
+
+Ex... 
+
+
+NEW PRODUCTS   
+"NEW PRODUCTS"
+ BATTERY BABY WINCH
+MODEL:DCW-250... 
+
+more 
+
+
+
+
+
+
+
+
+			
+TEL：+886-2-2267-7370   |   FAX：+886-2-2267-7380   |   E-MAIL：sales@duke-winch.com    |   SKYPE：dukewinch
+Web： www.duke-winch.com   |  ADD： 6, TATUNG ST., TUCHENG DIST., NEW TAIPEI CITY 23679, TAIWAN   
+    Copyright © 2009 CHI ZONG MACHINE CO., LTD.  |  The website requires the at least IE7 or below IE7
+			
+Web Design 
+
+
+
+
+
+
+
+
+
+Electric Hoist, AC Winch, DC Winch, Self Recovery Winch, Winch and Hoist Manufacturer, Car Winch Manufacturer, Winch Accessories Manufacturer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+ Chi Zong Machine Co., Ltd. was established in 1979, we have been the leading manufacturer of compact electric hoist and winch in Taiwan. 
+DUKE is the brand we are selling worldwide, while STRONG is our domestic brand in Taiwan. 
+ 
+Our product range as follows: 
+AC Power: Electric Wire Rope Winch, Electric Chain Hoist 
+DC Power: Off-Road Winch..ATV & UTV winch 
+Battery Type: Battery Wire Rope Winch, Battery Chain Hoist 
+We also provide OEM/ODM solutions for customizations.. 
+ 
+With strict quality control, e...
+more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																	ELECTRIC MINI WIRE WINCH
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	ELECTROMAGNETISM
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	ELECTRIC MINI CHAIN HOIST
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	ELECTRIC INVERSION CHAIN HOIST
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	BATTERY BABY WINCH
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	BATTERY BABY CHAIN HOIST
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	COMPACT WINCH
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+																	ELECTRIC CHAIN HOIST
+																
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+more
+
+
+
+
+
+
+
+
+
+search
+
+
+
+
+
+
+
+2014 INTERNATIONALE 
+We sincerely invite you to vist us at BOOTH No.G-070
+
+
+Ex... 
+
+
+NEW PRODUCTS   
+"NEW PRODUCTS"
+ BATTERY BABY WINCH
+MODEL:DCW-250... 
+
+more 
+
+
+
+
+
+
+
+
+			
+TEL：+886-2-2267-7370   |   FAX：+886-2-2267-7380   |   E-MAIL：sales@duke-winch.com    |   SKYPE：dukewinch
+Web： www.duke-winch.com   |  ADD： 6, TATUNG ST., TUCHENG DIST., NEW TAIPEI CITY 23679, TAIWAN   
+    Copyright © 2009 CHI ZONG MACHINE CO., LTD.  |  The website requires the at least IE7 or below IE7
+			
+Web Design 
+
+
+
+
+
+
+
+
+ 
+        Please turn on your javascript
+        
+
+
+
+
+
+
+
+
+Avanceon Ltd Jobs, Jobs in Avanceon Ltd - ROZEE.PK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+Download App
+
+
+The ROZEE  Jobs App.
+A world of opportunity in your palm
+
+
+
+
+
+
+
+
+POST A JOB
+Post a Job
+Employers
+Employers
+Login
+Sign Up
+اردو‎
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Avanceon Ltd
+ 
+
+
+ Avanceon Ltd 
+
+
+
+
+
+Follow Us 
+21 Followers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Please enable JavaScript to use file uploader.
+Note:Microsoft Internet Explorer restricts the images to be uploaded one by one. To upload multiple images at the same time please use other browser.
+
+ 
+
+
+ 
+ About 
+ Jobs  
+ Followers  (21) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Avanceon Ltd
+Since 1984 Avanceon has helped customers with complex needs to improve operational efficiency and quality in both product and process. We use a structured, best practice approach to design, develop and deliver automation and information systems, ensu...
+Read More 
+
+Followers (21) View All
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+Similar Companies
+
+Karsaz Pvt Ltd
+Corporate Research and Investigations Pvt Limited
+Current Business Centre
+Megatech Trackers
+Falcon-i Pvt Limited
+
+
+
+
+
+
+Latest Jobs
+
+No current openings available
+
+
+
+
+
+
+
+
+
+
+
+News Feed
+This company has not posted anything yet!
+
+
+
+
+
+
+
+
+
+
+Poll Result
+
+
+
+Close
+
+
+
+
+
+
+Location
+
+
+
+
+
+Close
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

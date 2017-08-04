@@ -1,0 +1,12219 @@
+
+
+
+Cirrus Logic - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Cirrus Logic
+
+From Wikipedia, the free encyclopedia
+  (Redirected from Cirrus Logic, Inc.)
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2014) (Learn how and when to remove this template message)
+
+
+
+Cirrus Logic Inc.
+
+
+Cirrus Logic logo
+
+
+
+Traded as
+NASDAQ: CRUS
+S&P 400 Component
+
+
+Industry
+Semiconductor industry
+
+
+Founded
+1981
+
+
+Founder
+Dr. Suhas Patil
+
+
+Headquarters
+Austin, Texas, United States
+
+
+
+Key people
+
+Jason Rhode, Michael L. Hackworth
+
+
+Revenue
+$714m (2014)
+
+
+
+Operating income
+
+$155m (2014)
+
+
+
+Net income
+
+$108m (2014)
+
+
+
+Number of employees
+
+1104[1]
+
+
+Website
+www.cirrus.com
+
+
+Cirrus Logic Inc. is a fabless semiconductor supplier that specializes in analog, mixed-signal, and audio DSP integrated circuits (ICs).[2] As of 2015[update] Cirrus Logic has its headquarters in Austin, Texas.[2][3] The company's audio processors and audio converters feature in many professional audio and consumer entertainment products, including smartphones, tablets, portable media players, automotive entertainment systems, home-theater receivers, televisions and docking stations. Cirrus Logic's analog mixed-signal converter chips are also used in a wide variety of energy-related applications, including its new line of LED controllers for the incandescent light-bulb replacement market, as well as energy-measurement chips for applications such as digital utility meters.
+Dr. Suhas Patil founded the company as "Patil Systems, Inc." in Salt Lake City in 1981; it adopted the name "Cirrus Logic" when it moved to Silicon Valley in 1984.
+Cirrus Logic has more than 1,000 patents and more than 600 products serving more than 2,500 end-customers globally.
+
+
+
+Contents
+
+
+1 History
+
+1.1 Timeline of key events
+
+
+2 Graphics history
+
+2.1 Graphics chipsets
+2.2 Desktop
+2.3 Mobile
+
+
+3 See also
+4 References
+5 External links
+
+
+
+History[edit]
+Patil Systems, Inc., was founded in Salt Lake City in 1981 by Dr. Suhas Patil, in 1983 the company was reorganized by Dr. Patil, Kamran Elahian, and venture capitalist Fred Nazem, whose firm, Nazem and Company provided the company's first/start-up round of financing. Later the company was renamed as Cirrus Logic when it moved to Silicon Valley in 1984 to focus on solutions for the growing PC components market. Michael Hackworth was named president and chief executive officer in January 1985, and served as CEO until February 1999. It joined the Nasdaq market listing in 1989 (symbol: CRUS). Cirrus Logic acquired Crystal Semiconductor, a supplier of analog and mixed-signal converter ICs, in 1991. In the early 1990s, Cirrus Logic became a supplier of PC graphics chips, audio converters and chips for magnetic storage products. David D. French joined Cirrus Logic, Inc., as president and chief operating officer in June 1998 and was named chief executive officer in February 1999. Soon after joining the company, through an acquisition strategy Mr. French repositioned the company into a premier supplier of high-performance analog and digital processing chip solutions for consumer entertainment electronics and soon afterwards, Mr. M. Yousuf Palla joined as Vice President of Operations and Manufacturing, contributing further to its success. The company announced in April 2000 that it had completed moving its headquarters to Austin, Texas.[4] In June 2005, Cirrus Logic sold its video products operation to an investment firm, creating privately owned Magnum Semiconductor. After French resigned in March 2007, Jason Rhode, formerly the vice president and general manager of Cirrus Logic's Mixed Signal Audio Division, was named president and CEO in May 2007. Today, Cirrus Logic is focused on its high-precision technologies for digital signal processing components for audio and energy markets. In 2014 Cirrus Logic bought Wolfson Microelectronics for £291 million.
+Timeline of key events[edit]
+
+1981 – Patil Systems Inc. is founded in Salt Lake City by Dr. Suhas Patil. Company focuses on IC solutions for the growing PC components market.
+1984 – Patil Systems Inc. renamed Cirrus Logic and moves headquarters to Silicon Valley
+1989 – Company goes public and is listed on the Nasdaq exchange under the ticker symbol CRUS.
+1991 – Cirrus Logic acquires Crystal Semiconductor, a supplier of analog and mixed-signal converter ICs.
+1992 - Cirrus Logic Completes Deal for Acumos Inc.
+1998 – Cirrus Logic exits from the PC graphics card business
+1998 – David D. French joins company as president and chief operating officer in June and becomes chief executive officer in February 1999. In the fall, company spins out its communication business unit.
+2000 - Cirrus Logic moves its headquarters to Austin, Texas.
+2001 – Cirrus Logic announces plan to begin exit from magnetic storage chip business.
+2001 – Cirrus Logic acquires several start-up companies with technologies in video decoding, video encoding, wireless networking, and networked digital audio.
+2003 – Cirrus Logic closes wireless networking operations.
+2005 – Cirrus Logic sells video product assets to investment firm, creating Magnum Semiconductor (company maintains minority equity position).
+2007 – Jason Rhode, formerly vice president and general manager of Cirrus' Mixed-Signal Audio division, is named president and chief executive officer, replacing French who resigned in March. In July, Cirrus Logic acquires Apex Microtechnology, a provider of high-power products for industrial and aerospace markets. Cirrus Logic acquires audio chip company Tripath after they went bankrupt.
+2011 – Cirrus Logic is named to the Great Place to Work Institute's list of top small and medium-sized companies to work for in America, placing at #24. The company is also named by the Austin American-Statesman as the top Central Texas employer.
+2012 – Cirrus Logic appears at #9 on the Great Place to Work Institute's list of top small and medium-sized companies to work for in America, jumping 16 places compared to the 2011 listing. Cirrus Logic co-founder and chairman of the Board Michael Hackworth passes away in April. Company sells its hybrid product line in Tucson, Ariz., to a group of investors, creating Apex Microtechnology as a stand-alone company once again. In November, the company announces that it is moving its remaining product line team in Tucson to its Austin headquarters.
+
+Graphics history[edit]
+In the early 1990s, Cirrus Logic was a supplier of low-cost PC graphics chips. Cirrus' Microsoft Windows 2D GUI accelerators (GDI) were among the fastest in the low-end market-segment, outperforming competing VGA-chips from Oak Technologies, Trident Microsystems, and Paradise (Western Digital). For example, the Cirrus GD5422 (1992) supported hardware acceleration for both 8-bit color and 16-bit color. It was one of the lowest-priced SVGA controllers to support both.
+By the mid-1990s, when PC's had migrated to the PCI bus, Cirrus had fallen behind S3 and Trident Microsystems. When the announced release date of the GD5470 "Mondello" came and went, Cirrus's reputation in desktop PC-graphics suffered. Mondello development took a back seat to the GD5464 which was near completion and proved to be a much faster design with the use of Rambus. (Because of this Mondello never got off the ground)
+The company's final graphics chips, the GD546x "Laguna" series of PCI/AGP 3D-accelerators, were novel in that they were one of the few video cards to use Rambus RDRAM. The patented use of tiled memory used by the GD546x chips is still used by nearly all graphics processors today. However, like many other 2D/3D chips at the time were gate limited by the process technology available at the time, the feature set of perspective-correct texture mapping, bilinear filtering, single-pass lighting, gouraud shading, and alpha blending, was incomplete compared to the next generation of 3D chips. The GD546x family was limited by CPU processing at the time, CPU's could not feed it enough triangles which was the real performance block. The raw processing power of the GD546x was nearly 2.5 million 25 pixel triangles per second, much faster than competitors.
+When Intel announced they were entering the 3D market with the i740 Cirrus Logic exited the market, which at the time for Cirrus Logic was worth 500 million dollars annually. (Intel didn't catch up in performance for many years, the i740 was not widely accepted and did not win any major designs).
+Emulated Cirrus Logic graphic cards are used in emulators. QEMU emulate the Cirrus CLGD 5446 PCI VGA-card, which is also emulated by Bochs (which in addition also emulates the CL-GD5430 ISA card).
+Graphics chipsets[edit]
+
+
+
+
+CL-GD5464 "Laguna 3D"
+
+
+Desktop[edit]
+
+CL-GD410 + 420 – ISA SVGA chipset, Video 7 VEGA VGA (1987)
+CL-GD510 + 520 – ISA SVGA "Eagle II" chipset, known for 100% CGA emulation. (1988)
+CL-GD5320 – ISA SVGA chipset. (1990)
+CL-GD5401 – ISA SVGA chipset, also known as Acumos VGA (AVGA1)
+CL-GD5402 – ISA SVGA chipset, also known as Acumos VGA (AVGA2)
+CL-GD5410 – ISA SVGA chipset, Low-to-mid-end DRAM-based cards (accelerated), some laptop chipsets. Known for integrating graphics card components into one chip (built-in RAMDAC and clock generators) at an early point. (1991) [5]
+CL-GD5420 – ISA SVGA chipset, highly integrated (15 bit RAMDAC + PLL), 1 MB.
+CL-GD5421 – ISA SVGA chipset, highly integrated (15/16 bit RAMDAC + PLL), 1 MB.
+CL-GD5422 – Enhanced version of the 5420 (32-bit internal memory interface, 15/16/24 bit RAMDAC. An ISA video card carrying this chipset offered 1280×1024 interlaced max resolution[6]
+CL-GD5424 – VLB version of the 5422, but resembles the 5426 in some respects.
+CL-GD5425 – True color VGA controller w/ TV out.
+CL-GD5426 – Hardware BitBLT engine. ISA bus and VLB up to 2 MB of memory.
+CL-GD5428 – Enhanced version of the 5426. Faster BITBLT engine.
+CL-GD5429 – Enhanced version of the 5428; supports higher memory clock and has memory-mapped I/O.
+CL-GD5430 – Similar to 5429, but with 543x core (32-bit host interface).
+CL-GD5434 – Alpine family chip with 64-bit internal memory interface. Only supports 64-bit mode if equipped with 2 MB of video memory; commonly equipped with 1 MB, extendable to 2 MB.
+CL-GD5436 – An optimized 5434.
+CL-GD5440 – 5430 with motion-video acceleration. (CL-GD54M40 has integrated filters.)
+CL-GD5446 – 64-bit Alpine VisualMedia accelerator. 2D-only; adds motion-video acceleration to the CL-GD5436.
+CL-GD546X – The Laguna VisualMedia family of 2D, 3D, and video accelerators. '64 and '65 include 3D acceleration. (PCI, AGP). These chips use a single channel of RDRAM memory, providing up to 600 MB/s bandwidth. The '62 lacks 3D acceleration. All include a BitBLT engine, video windows, and 64×64 hardware cursor.
+CL-GD5480 – 64-bit Alpine accelerator with 100 MHz SGRAM[7]
+
+Mobile[edit]
+
+
+
+
+CL-GD6235
+
+
+
+CL-GD610 + 620 – (1989)[8]
+CL-GD6420/6440 Used in some laptops, similar to older Cirrus chipsets (5410/AVGA2).
+CL-GD6205/6215/6225/6235 – Compatible with the 5420.
+CL-GD7541/7542/7543/7548 – Compatible with the 5428/3x.
+
+See also[edit]
+
+Graphics card
+Graphics processing unit
+
+References[edit]
+
+
+
+^ "CRUS Profile - Cirrus Logic, Inc. Stock". Yahoo! Finance. Retrieved 2015-07-14. 
+^ a b "Technology Briefing | Hardware: Cirrus Shares Surge On Sales News". New York Times. October 2, 2003. Retrieved January 14, 2015. 
+^ Christopher Calnan (October 30, 2014). "Cirrus Logic posts lower Q2 profits, higher revenue". Austin Business Journal. Retrieved January 14, 2015. 
+^ "Cirrus Logic Moves Corporate Headquarters to Austin, Texas; Robert W. Fay Named Vice President/CFO.". Business Wire (archived at the Free Library). April 2000. 
+^ http://findarticles.com/p/articles/mi_hb4804/is_199110/ai_n17488875/?tag=content;col1
+^ http://fccid.net/number.php?id=76031&fcc=J6QGD5422DM2
+^ http://www.thefreelibrary.com/Cirrus+Logic%27s+New+Video+Graphics+Accelerator+Offers+Industry%27s...-a018832209
+^ https://books.google.com/books?id=XToEAAAAMBAJ&pg=PT25&dq=vga+cirrus&lr=&as_drrb_is=b&as_minm_is=0&as_miny_is=&as_maxm_is=12&as_maxy_is=1989&as_brr=1&as_pt=MAGAZINES&cd=3#v=onepage&q=vga%20cirrus&f=false
+
+
+
+External links[edit]
+
+Official website
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Cirrus_Logic&oldid=789699376"					
+Categories: Fabless semiconductor companiesGraphics hardware companiesCompanies established in 1981Companies based in Austin, TexasCompanies listed on NASDAQHidden categories: Articles needing additional references from September 2014All articles needing additional referencesPages using infobox company with unsupported parametersArticles containing potentially dated statements from 2015All articles containing potentially dated statements 
+
+
+
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+DeutschEspañolFrançais한국어Italiano日本語Українська 
+Edit links 
+
+
+
+
+
+ This page was last edited on 9 July 2017, at 00:39.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+Cirrus Logic Inc (CRUS.O)  Company Profile | Reuters.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X
+
+
+
+Edition:
+
+United States
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Africa
+América Latina
+
+
+عربي
+Argentina
+
+
+Brasil
+Canada
+
+
+中国
+Deutschland
+
+
+España
+France
+
+
+India
+Italia
+
+
+日本
+México
+
+
+РОССИЯ
+United Kingdom
+
+United States
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Profile: Cirrus Logic Inc (CRUS.O)
+
+
+
+
+
+Related Topics: 
+StocksStock ScreenerTechnologySemiconductors
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                        Overview
+                    
+
+
+
+                
+                        News
+                    
+
+
+
+                
+                        Key Developments
+                    
+
+
+
+                
+                        People
+                    
+
+
+
+                
+                        Charts
+                    
+
+
+
+                
+                        Financials
+                    
+
+
+
+                
+                        Analysts
+                    
+
+
+
+                    
+                            Research
+                        
+
+
+
+                    
+                            Pulse
+                        
+
+
+
+
+
+
+
+
+
+
+				CRUS.O on Nasdaq
+
+
+				59.83USD
+12:43pm EDT
+
+
+
+
+
+				    Change	(% chg)
+
+
+		    
+						    $-3.54
+
+
+					            (-5.59%)
+					        
+
+
+
+
+
+
+Prev Close
+
+$63.37
+
+
+Open
+
+$62.25
+
+
+
+
+Day's High
+
+$64.28
+
+
+Day's Low
+
+$59.11
+
+
+
+
+Volume
+
+1,525,468
+
+
+Avg. Vol
+
+1,069,582
+
+
+
+
+52-wk High
+
+$71.97
+
+
+52-wk Low
+
+$47.01
+
+
+
+
+
+
+
+
+
+
+
+
+					Full Description
+
+
+
+Cirrus Logic, Inc., incorporated on August 26, 1998, is engaged in providing integrated circuits (ICs) for audio and voice signal processing applications. The Company develops analog and mixed-signal ICs for a range of customers. The Company offers two product lines: Portable Audio, and Non-Portable Audio and Other. The Company's products span the entire audio signal chain, from capture to playback, providing products for a range of smartphones, tablets, digital headsets, wearables and smart home applications. The Company's primary facility housing engineering, sales and marketing, and administration functions is located in Austin, Texas. The Company offers products through both direct and indirect sales channels across the world.Portable Audio ProductsThe Company is a provider of analog and mixed-signal audio converter and digital signal processing products in a range of mobile applications. The Company offers a portfolio of products that target mid-tier devices, including codecs-chips that integrate analog-to-digital converters (ADCs) and digital-to-analog converters (DACs) into a single IC, smart codecs, which are the codecs with digital signal processing integrated, amplifiers, micro-electromechanical systems (MEMS) microphones, as well as standalone digital signal processors (DSPs). Additionally, the Company's SoundClear technology consists of a portfolio of tools, software and algorithms. The Company's products are designed for use in an array of mobile applications, including smartphones, tablets, portable media players, wearables and smart accessories, such as digital headsets and headphones.Non-Portable Audio and Other ProductsThe Company provides analog and mixed-signal ICs for a range of products in consumer applications, including the smart home market, automotive, industrial and energy. The Company supplies digital interface and amplifiers. Within the consumer market, its products are utilized in laptops, audio/video receivers (AVRs), home theater systems, set-up boxes, portable speakers, digital camcorders, musical instruments and professional audio products. Applications for products in the automotive market include satellite radio systems, telematics and multi-speaker car-audio systems. The Company's products are also used in an array of industrial and energy-related applications, including digital utility meters, power supplies, energy control, energy measurement and energy exploration applications.The Company competes with AAC Technologies, AKM Semiconductor Inc., Analog Devices Inc., Austriamicrosystems AG, DSP Group, ESS Technology, Inc., GoerTek Inc., InvenSense, Inc., Knowles Corporation, Maxim Integrated Products Inc., NXP Semiconductors N.V., Qualcomm Incorporated, Realtek Semiconductor Corporation, ST Microelectronics N.V. and Texas Instruments, Inc.
+
+» Full Overview of CRUS.O
+
+
+
+
+
+
+
+					Company Address
+
+
+
+Cirrus Logic Inc
+800 W 6th StAUSTIN   TX   78701-2722
+P: +1512.8514000F: +1302.6555049
+
+
+
+
+
+
+
+					Company Web Links
+
+
+
+Home Page
+
+
+
+
+
+
+
+
+					Officers & Directors
+
+
+
+
+
+
+Name
+Compensation
+
+
+
+
+							 Alan Schuele
+
+266,644
+
+
+
+
+							 Jason Rhode
+
+7,331,930
+
+
+
+
+							 Thurman Case
+
+1,625,270
+
+
+
+
+							 Scott Anderson
+
+1,636,670
+
+
+
+
+							 Gregory Thomas
+
+1,636,410
+
+
+
+
+» More Officers & Directors
+
+
+
+
+
+					Cirrus Logic Inc News
+
+
+
+
+BRIEF-Cirrus Logic Q1 GAAP earnings per share $0.64
+
+Aug 02 2017 
+BRIEF-Cirrus Logic reports Q4 revenue of $327.9 million
+
+May 03 2017 
+
+» More CRUS.O  News
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related Topics: 
+StocksStock ScreenerTechnologySemiconductors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CS8416-CZZ Cirrus Logic Inc. | Integrated Circuits (ICs) | DigiKey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+United States
+
+1-800-344-4539
+
+
+Change Country
+
+English
+
+USD
+
+
+ Your item(s) View Cart Login orREGISTER LoginRegisterWhy Register
+
+
+
+
+
+All ProductsAll ContentAudio ProductsBattery ProductsBoxes Enclosures RacksCable AssembliesCables Wires ManagementCables WiresCapacitorsCircuit ProtectionComputers Office Components AccessoriesConnectors InterconnectsCrystals and OscillatorsDevelopment Boards, Kits, ProgrammersDiscrete Semiconductor ProductsEmbedded ComputersFans Thermal ManagementFiltersHardware Fasteners AccessoriesInductors Coils ChokesIndustrial Controls MetersIntegrated CircuitsIsolatersKitsLine Protection Distribution BackupsMagnetics Transformer Inductor ComponentsMaker/DIY, EducationalMemory Cards ModulesMotors Solenoids Driver Boards ModulesNetworking SolutionsOptical Inspection EquipmentOptoelectronics Potentiometers Variable ResistorsPower Supplies Board MountPower Supplies External Internal Off-BoardPrototyping ProductsRelaysResistorsRF IF and RFIDSensors TransducersSoldering Desoldering Rework ProductsStatic Control ESD Clean Room ProductsSwitchesTape AdhesivesTest and MeasurementToolsTransformers
+
+
+
+
+
+PRODUCTS MANUFACTURERS RESOURCESResearchAcademic ProgramArticlesBlog - TheCircuitContent LibraryEngineering ResourcesIndustrial AutomationIoT Product SelectorNewest ProductsProduct Training ModulesSensors Product SelectorTechForumVideo LibraryDesignConversion CalculatorsDevelopment ToolsEDA & Design ToolsMaker.ioReference Designs Scheme-it® Design ToolTechZones℠Search / OrderingBOM ManagerBrowser ResourcesOnline CatalogOrder StatusShopping Cart 
+
+
+
+
+
+Product Index > Integrated Circuits (ICs)  > Audio Special Purpose > Cirrus Logic Inc. CS8416-CZZ
+            
+
+
+
+               Share 
+
+
+
+
+
+
+Share this on:
+
+
+
+
+
+
+
+Or copy the link below:
+
+
+
+This feature is temporarily unavailable. We are working diligently to get this fixed. Thank you for your patience.
+
+
+
+
+
+
+
+
+
+
+
+                    Add To Favorites
+                
+
+
+                            This feature is only available for registered users. Please Login or Register.
+                        
+
+
+This feature is temporarily unavailable. We are working diligently to get this fixed. Thank you for your patience.
+
+
+
+
+ 
+
+
+
+
+Not Recommended for New Design, minimums may apply.  See Alternate Package or Substitute options.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+                                Product Overview
+                            
+
+
+Digi-Key Part Number
+
+
+                                        598-1124-5-ND
+                                    
+
+
+Quantity Available
+
+
+
+
+364
+
+Can ship immediately                
+
+
+
+Manufacturer
+
+
+
+Cirrus Logic Inc.
+
+
+
+
+
+Manufacturer Part Number
+
+
+
+                                            CS8416-CZZ
+                                        
+
+
+
+Description
+
+                                            IC RCVR DGTL 192KHZ 28TSSOP COMM
+                                        
+
+
+
+                                            Lead Free Status / RoHS Status
+                                        
+
+                                            Lead free / RoHS Compliant
+                                        
+
+
+Moisture Sensitivity Level (MSL)
+3  (168 Hours)
+
+
+Detailed Description
+
+
+                                                Audio Audio Receiver  Channel 28-TSSOP
+
+                                            
+
+
+
+
+
+
+
+
+                            Documents & Media
+                        
+
+
+Datasheets
+
+CS8416
+
+
+
+
+
+
+
+EDA / CAD Models 
+
+Download from Ultra Librarian
+
+
+ Online Catalog 
+
+
+                Audio Special Purpose
+            
+
+
+
+
+
+
+
+
+
+
+                Product Attributes
+            
+Select All
+
+
+
+Categories
+
+Integrated Circuits (ICs)
+
+
+
+
+
+
+
+Audio Special Purpose
+
+
+
+
+
+
+Manufacturer
+Cirrus Logic Inc.
+
+
+
+Series
+
+
+
+-
+            
+
+
+
+
+                        Packaging
+ 
+
+Tube 
+
+
+
+
+
+                        Part Status
+                    
+
+
+
+Not For New Designs
+
+                        
+
+
+
+
+                        Function
+                    
+
+
+
+Audio Receiver
+
+                        
+
+
+
+
+                        Applications
+                    
+
+
+
+Digital Audio Interfacing
+
+                        
+
+
+
+
+                        Number of Channels
+                    
+
+
+
+8
+
+                        
+
+
+
+
+                        Interface
+                    
+
+
+
+I²C, SPI
+
+                        
+
+
+
+
+                        Voltage - Supply
+                    
+
+
+
+3.3 V ~ 5 V
+
+                        
+
+
+
+
+                        Operating Temperature
+                    
+
+
+
+-10°C ~ 70°C (TA)
+
+                        
+
+
+
+
+                        Specifications
+                    
+
+
+
+32kHz ~ 192kHz
+
+                        
+
+
+
+
+                        Package / Case
+                    
+
+
+
+28-TSSOP (0.173", 4.40mm Width)
+
+                        
+
+
+
+
+                        Supplier Device Package
+                    
+
+
+
+28-TSSOP
+
+                        
+
+
+
+
+ 
+
+
+
+Report an Error
+
+
+
+
+                For Use With
+            
+
+
+
+
+
+
+
+
+
+CDB8416
+
+Cirrus Logic Inc.
+
+BOARD EVAL FOR CS8416 RCVR
+
+Unit Price
+550.80000
+                                        
+598-1017-ND
+
+
+
+
+
+
+
+
+ You May Also Be Interested In 
+
+
+
+
+
+
+
+CS8406-CZZ
+
+Cirrus Logic Inc.
+
+IC XMITTER DGTL 192KHZ 28TSSOP
+ Unit Price 
+6.40000
+                
+598-1121-5-ND
+
+
+
+
+
+
+
+CS4344-CZZ
+
+Cirrus Logic Inc.
+
+IC DAC STER 24BIT 192KHZ 10TSSOP
+ Unit Price 
+3.02000
+                
+598-1051-5-ND
+
+
+
+
+
+
+
+PLR135/T9
+
+Everlight Electronics Co Ltd
+
+RECEIVER FIBER OPT IR PHOTOLINK
+ Unit Price 
+2.00000
+                
+1080-1432-ND
+
+
+
+
+
+
+
+CS4398-CZZ
+
+Cirrus Logic Inc.
+
+IC DAC 120DB 192KHZ W/VC 28TSSOP
+ Unit Price 
+11.09000
+                
+598-1067-5-ND
+
+
+
+
+
+
+
+XHRA-2HPA-TQ64-C
+
+XMOS
+
+IC AUDIO PROCESSOR 2CH 64TQFP
+ Unit Price 
+14.30000
+                
+880-1114-ND
+
+
+
+
+
+
+
+
+
+                                                    Additional Resources
+                                                
+
+
+Standard Package 
+ 50
+
+
+
+                                                                Other Names
+                                                            
+
+598-1124-5 
+CS8416CZZ 
+
+
+
+
+11:47:06 8/3/2017
+
+
+
+
+                                                    Price & Procurement
+                                                
+
+ 
+
+
+
+
+
+
+Quantity
+
+
+
+
+ 
+
+
+
+598-1124-5-ND
+CS8416-CZZ ‎
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                        All prices are in USD.
+                                                    
+
+
+Price Break
+Unit Price
+Extended Price
+
+
+1
+
+ 8.78000
+8.78
+
+
+10
+7.89800
+78.98
+
+
+25
+7.19560
+179.89
+
+
+100
+6.49350
+649.35
+
+
+250
+5.96700
+1,491.75
+
+
+500
+5.44050
+2,720.25
+
+
+1,000
+4.73850
+4,738.50
+
+
+
+                                                            Submit a request for quotation on quantities greater than those displayed.
+
+
+
+
+ Alternate Package | This part is also available in the following packaging: 
+
+
+
+
+Tape & Reel (TR) 
+:
+                                                                    CS8416-CZZR-ND
+
+
+                                                                    Minimum Quantity:
+2,000
+
+     Non-Stock 
+
+
+                                                                    Quantity Available:
+            0
+
+
+                                                                    Unit Price:
+4.56300
+                                                                
+
+
+
+
+
+
+
+
+ Send Feedback
+
+
+
+
+
+
+
+
+
+
+
+
+Information
+Terms & ConditionsBlog - TheCircuitTechForumAbout Digi-KeyContact UsNewsroomSite MapSupported BrowsersPrivacy StatementCareers
+
+United States
+sales@digikey.com
+Toll Free: 1-800-344-4539Phone: 218-681-6674Fax: 218-681-3380
+
+
+
+
+International
+AfricaAsiaAustraliaEuropeMiddle EastNorth AmericaSouth America
+
+
+
+
+Copyright © 1995-2017, Digi-Key Electronics.All Rights Reserved.701 Brooks Avenue South,Thief River Falls, MN 56701 USA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cirrus Logic Inc. Distributor | Electronic Components Distributor | Components-Center.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to Components-center.com
+English
+
+Select Language
+EnglishDeutschItaliaSlovenskáFrançaisSvenskačeštinaDanskMagyarországTürk diliespañolPortuguês한국의GaeilgeSuomiSlovenijaNederlandHrvatskaБългарски езикromânescภาษาไทย日本語Kongerikettiếng Việt 
+
+Cancel
+
+
+
+RFQs/Order | Contact Us |
+
+
+
+
+
+
+Please enter a full or partial manufacturer part number with a minimum of 3 letters or numbers
+
+
+RFQs / Order
+
+
+
+Part No.
+Manufacturer
+Qty
+ 
+
+
+Submit Inquiry
+
+
+
+
+
+Home > Line Card > Cirrus Logic Inc.
+
+
+
+
+Cirrus Logic Inc.
+		- Cirrus Logic develops high-precision, analog and mixed-signal integrated circuits for a broad range of consumer and industrial markets. Building on its diverse analog and signal-processing patent portfolio, Cirrus Logic delivers highly optimized products for consumer and commercial audio, automotive entertainment, industrial and aerospace applications. Request Quote Form
+
+
+Product Category
+
+
+Integrated Circuits (ICs)(1,056 products)PMIC - Voltage Regulators - Linear + Switching(2 products)PMIC - Power Management - Specialized(8 products)PMIC - PFC (Power Factor Correction)(8 products)PMIC - LED Drivers(39 products)PMIC - Energy Metering(23 products)Linear - Amplifiers - Special Purpose(1 products)Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps(36 products)Linear - Amplifiers - Audio(18 products)Interface - Telecom(18 products)Interface - Specialized(4 products)Interface - Sensor and Detector Interfaces(2 products)Interface - Filters - Active(3 products)Interface - Encoders, Decoders, Converters(6 products)Interface - Drivers, Receivers, Transceivers(6 products)Interface - Controllers(8 products)Interface - CODECs(231 products)Embedded - Microprocessors(50 products)Embedded - DSP (Digital Signal Processors)(73 products)Data Acquisition - Digital to Analog Converters (DAC)(12 products)Data Acquisition - Analog to Digital Converters (ADC)(88 products)Data Acquisition - Analog Front End (AFE)(32 products)Data Acquisition - ADCs/DACs - Special Purpose(247 products)Clock/Timing - Clock Generators, PLLs, Frequency Synthesizers(71 products)Audio Special Purpose(70 products)Development Boards, Kits, Programmers(382 products)Programmers, Emulators, and Debuggers(1 products)Evaluation Boards - Op Amps(1 products)Evaluation Boards - LED Drivers(16 products)Evaluation Boards - Embedded - MCU, DSP(6 products)Evaluation Boards - Digital to Analog Converters (DACs)(20 products)Evaluation Boards - Audio Amplifiers(14 products)Evaluation Boards - Analog to Digital Converters (ADCs)(34 products)Evaluation and Demonstration Boards and Kits(284 products)Accessories(6 products)Audio Products(13 products)Microphones(13 products)RF/IF and RFID(1 products)RF Evaluation and Development Kits, Boards(1 products) 
+
+Related news
+
+PCIM: Old ferrites get new life for GaN switching2017-05-19
+PCIM 2017 – The Power Conversion and Intelligent Motion news roundup2017-05-18
+PCIM: Maxim power converter aims for safe power levels2017-05-18
+PCIM: 1700V IGBT driver delivers 8A2017-05-18
+PCIM: All-SiC 1,200V 600A power modules from Rohm2017-05-18
+PCIM: SiC mosfet driver reference from ADI and Microsemi2017-05-18
+PCIM: UK-based Amantys develops next generation IGBT gate drive2017-05-17
+PCIM: Dynex names new CEO2017-05-17
+Product List
+
+
+
+
+Part#:CDB496122-EV2
+Manufacturers:Cirrus Logic Inc.
+Description:EVAL BOARD CS496122 COBRANET
+In Stock:23
+
+$950.4/pcsRFQ
+
+
+
+
+Part#:CDB42518
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS42518 CODEC
+In Stock:126
+
+$155.52/pcsRFQ
+
+
+
+
+Part#:CDB42L51
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS42L51 CODEC
+In Stock:82
+
+$285.12/pcsRFQ
+
+
+
+
+Part#:CDB2000-PC-LCO
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL GEN PURPOSE PLL DC
+In Stock:2042
+
+$11.252/pcsRFQ
+
+
+
+
+Part#:CDB5466U
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL & SOFTWARE CS5466 ADC
+In Stock:215
+
+$112.5/pcsRFQ
+
+
+
+
+Part#:CDB4272
+Manufacturers:Cirrus Logic Inc.
+Description:EVAL BOARD CS4272 STEREO CODEC
+In Stock:130
+
+$155.52/pcsRFQ
+
+
+
+
+Part#:CDB5340
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS5340 STEREO ADC
+In Stock:161
+
+$155.52/pcsRFQ
+
+
+
+
+Part#:CRD44600-PH-FB
+Manufacturers:Cirrus Logic Inc.
+Description:EVAL BOARD FOR CS44600
+In Stock:72
+
+$301.968/pcsRFQ
+
+
+
+
+Part#:CDBWM7236-M-2
+Manufacturers:Cirrus Logic Inc.
+Description:EVAL BOARD WM7236
+In Stock:760
+
+$25/pcsRFQ
+
+
+
+
+Part#:CDB5366
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS5366 192KHZ ADC
+In Stock:120
+
+$181.44/pcsRFQ
+
+
+
+
+Part#:CDB5464U
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS5464 ADC
+In Stock:202
+
+$112.5/pcsRFQ
+
+
+
+
+Part#:CRD5463PM-Z
+Manufacturers:Cirrus Logic Inc.
+Description:REFERENCE DESIGN FOR POWER METER
+In Stock:145
+
+$123.192/pcsRFQ
+
+
+
+
+Part#:CDB5361
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS5361 STEREO ADC
+In Stock:108
+
+$181.44/pcsRFQ
+
+
+
+
+Part#:CDB5463U-Z
+Manufacturers:Cirrus Logic Inc.
+Description:EVAL BOARD USB FOR CS5463
+In Stock:219
+
+$112.5/pcsRFQ
+
+
+
+
+Part#:CDB5532U
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS5532U ADC
+In Stock:161
+
+$122.4/pcsRFQ
+
+
+
+
+Part#:CDB48500-USB
+Manufacturers:Cirrus Logic Inc.
+Description:KIT USB EVALUATION FOR CDB48500
+In Stock:201
+
+$100/pcsRFQ
+
+
+
+
+Part#:CDBWM7132-M-1
+Manufacturers:Cirrus Logic Inc.
+Description:EVAL BOARD WM7132 2PC
+In Stock:1198
+
+$15/pcsRFQ
+
+
+
+
+Part#:CDB5467U
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS5467 ADC
+In Stock:165
+
+$112.5/pcsRFQ
+
+
+
+
+Part#:CRD-HDMI-DC
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD REF HDMI DAUGHTER CARD
+In Stock:435
+
+$53/pcsRFQ
+
+
+
+
+Part#:CDB42528
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS42528/CS49300
+In Stock:124
+
+$155.52/pcsRFQ
+
+
+
+
+Part#:CDB6158-1
+Manufacturers:Cirrus Logic Inc.
+Description:EVAL BD - BASE BRD WM8960
+In Stock:191
+
+$127.2/pcsRFQ
+
+
+
+
+Part#:CDB5490U-Z
+Manufacturers:Cirrus Logic Inc.
+Description:EVAL BRD FOR CS5490 2-CH IC
+In Stock:212
+
+$112.5/pcsRFQ
+
+
+
+
+Part#:CDBWM8960-M-1
+Manufacturers:Cirrus Logic Inc.
+Description:EVAL BD - WM8960 MINI EVAL BOARD
+In Stock:339
+
+$52.5/pcsRFQ
+
+
+
+
+Part#:CDB5343
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS5343 STEREO ADC
+In Stock:126
+
+$155.52/pcsRFQ
+
+
+
+
+Part#:CDB8421
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS8421
+In Stock:97
+
+$207.36/pcsRFQ
+
+
+
+
+Part#:CDBWM7121-M-1
+Manufacturers:Cirrus Logic Inc.
+Description:EVAL BOARD WM7121 2PC
+In Stock:1650
+
+$15/pcsRFQ
+
+
+
+
+Part#:CDB6201-1
+Manufacturers:Cirrus Logic Inc.
+Description:EVAL BASE WM8904/8903/8918/8912
+In Stock:182
+
+$127.2/pcsRFQ
+
+
+
+
+Part#:CDBWM8904-M-1
+Manufacturers:Cirrus Logic Inc.
+Description:EVAL BOARD WM8904
+In Stock:422
+
+$50/pcsRFQ
+
+
+
+
+Part#:CDB8416
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS8416 RCVR
+In Stock:84
+
+$220.32/pcsRFQ
+
+
+
+
+Part#:CDB2300-DC-LCO-CP
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL GEN PURPOSE PLL
+In Stock:1851
+
+$11.252/pcsRFQ
+
+
+
+
+Part#:CDB5381
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS5381 192KHZ ADC
+In Stock:112
+
+$155.52/pcsRFQ
+
+
+
+
+Part#:CDB42L73
+Manufacturers:Cirrus Logic Inc.
+Description:EVAL BD PORTABLE SMARTPHON CODEC
+In Stock:45
+
+$463.2/pcsRFQ
+
+
+
+
+Part#:CDB470XD-DC48
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL 4CH ADC/8CH DAC DSP
+In Stock:104
+
+$168/pcsRFQ
+
+
+
+
+Part#:CDB4270
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS4270 CODEC
+In Stock:127
+
+$155.52/pcsRFQ
+
+
+
+
+Part#:CDB4207
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVALUATION FOR CS4207
+In Stock:152
+
+$144/pcsRFQ
+
+
+
+
+Part#:CDB2000-PC-CLK
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL GEN PURPOSE PLL DC
+In Stock:1947
+
+$11.252/pcsRFQ
+
+
+
+
+Part#:CRD5381
+Manufacturers:Cirrus Logic Inc.
+Description:REFERENCE DESIGN CS5381 AUD ADC
+In Stock:142
+
+$172.8/pcsRFQ
+
+
+
+
+Part#:CDBWM7132-M-2
+Manufacturers:Cirrus Logic Inc.
+Description:EVAL BOARD WM7132P 2PC
+In Stock:715
+
+$25/pcsRFQ
+
+
+
+
+Part#:CDB5346
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS5346
+In Stock:155
+
+$155.52/pcsRFQ
+
+
+
+
+Part#:CDBWM7216-M-2
+Manufacturers:Cirrus Logic Inc.
+Description:EVAL BOARD WM7216 2PC
+In Stock:759
+
+$25/pcsRFQ
+
+
+
+
+Part#:CDB42L52
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS42L52 CODEC
+In Stock:77
+
+$256.8/pcsRFQ
+
+
+
+
+Part#:CDBWM8805-1
+Manufacturers:Cirrus Logic Inc.
+Description:EVAL BOARD WM8805-6152-DS28
+In Stock:162
+
+$122.5/pcsRFQ
+
+
+
+
+Part#:CDB2000-DCCLKCP
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL GEN PURPOSE PLL
+In Stock:1928
+
+$11.252/pcsRFQ
+
+
+
+
+Part#:CDB4385
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS4385 DAC
+In Stock:106
+
+$181.44/pcsRFQ
+
+
+
+
+Part#:CDB4398
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS4398 DAC
+In Stock:93
+
+$181.44/pcsRFQ
+
+
+
+
+Part#:CDB4384
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS4384 DAC
+In Stock:130
+
+$181.44/pcsRFQ
+
+
+
+
+Part#:CDB4334
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS4334 CODEC
+In Stock:101
+
+$181.44/pcsRFQ
+
+
+
+
+Part#:CDB4351
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS4351 DAC
+In Stock:157
+
+$155.52/pcsRFQ
+
+
+
+
+Part#:CDB4362A
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS4362A DAC
+In Stock:137
+
+$181.44/pcsRFQ
+
+
+
+
+Part#:CDB43L21
+Manufacturers:Cirrus Logic Inc.
+Description:BOARD EVAL FOR CS43L21 DAC
+In Stock:90
+
+$223.2/pcsRFQ
+
+current 1 page / total page 30<123456789101112131415>
+
+
+
+
+
+
+
+Components-Center.comAbout UsProduct CategoriesManufacturerApplicationsPoliciesShipmentInvoice StatementTerms of UsePrivacy PolicyResourcesQualityNewest ProductsIndustry NewsSite mapServicesRequest a QuotationMy OrderContact Us 
+Reliable Stocking Distributor of Electronic Components © 2003-2017 Components-Center.com  All Rights Reserved.E-mail: info@Components-Center.com
+
+
+
+
+
+
+
+
+CS6422-CSZ Cirrus Logic Inc. | 積體電路 (IC) | DigiKey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+臺灣
+
+0080-185-4023
+
+
+更改國家
+
+繁體中文
+
+TWD
+
+
+ 您的品項 查看購物車 登入或註冊 登入註冊為什麼要註冊
+
+
+
+
+
+所有產品所有內容音訊產品電池產品盒、外殼、支架纜線組件纜線、電線 - 管理纜線、電線電容電路防護電腦、辦公室 - 零件、配件連接器、互連元件晶體和振盪器編程器、開發系統離散半導體產品嵌入式電腦風扇、熱管理濾波器五金、扣件、配件電感、線圈、扼流圈工業控制、儀表積體電路 (IC)隔離器套件線路防護、配電、備援磁性 - 變壓器、電感元件創客／DIY、教育記憶卡、模組馬達、螺線管、驅動板／模組網路解決方案光學檢驗設備光電電位計、可變電阻電源供應器 - 板式安裝電源供應器 - 外接／內置（板外）原型開發產品繼電器電阻RF/IF 和 RFID感測器、傳感器焊接、拆焊、重工產品靜電控制、ESD、無塵室產品開關膠帶、黏著劑測試與量測工具變壓器
+
+
+
+
+
+產品 製造商 資源參考文章資料庫內容資料庫
+工程資源工業自動化IoT 產品選擇表最新產品
+產品培訓單元感測器產品選擇表
+視訊資料庫設計線上轉換計算器開發工具EDA 和設計工具公版設計
+Scheme-it® 設計工具TechZones℠搜索/排序BOM Manager瀏覽器資源線上產品目錄訂單狀態購物車
+ 
+
+
+
+
+
+產品索引 > 積體電路 (IC)  > 音訊特殊用途 > Cirrus Logic Inc. CS6422-CSZ
+            
+
+
+
+ 
+
+
+
+
+產品已停產。
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+                                產品概述
+                            
+
+
+Digi-Key零件編號
+
+
+                                        598-1200-5-ND
+                                    
+
+
+現有數量
+
+0
+
+
+
+
+製造商
+
+
+
+Cirrus Logic Inc.
+
+
+
+
+
+製造商零件編號
+
+
+
+                                            CS6422-CSZ
+                                        
+
+
+
+說明
+
+                                            IC SPEAKERPHONE ENHANCED 20SOIC
+                                        
+
+
+
+                                            無鉛狀態 / RoHS 指令狀態
+                                        
+
+                                            無鉛 / 符合 RoHS 指令
+                                        
+
+
+濕度敏感等級 (MSL)
+3 (168 小時)
+
+
+完整說明
+
+
+                                                Audio Audio Signal Processor  Channel 20-SOIC
+
+                                            
+
+
+
+
+
+
+
+
+                            文件與媒體
+                        
+
+
+規格書
+
+CS6422
+
+
+
+
+
+
+
+EDA / CAD 模型 
+從 Ultra Librarian 下載
+
+
+ 產品目錄頁面 
+
+787 (TW2011-ZH PDF)
+
+
+
+
+
+
+
+
+
+                產品屬性
+            
+選取所有項目
+
+
+
+類別
+
+積體電路 (IC)
+
+
+
+
+
+
+
+音訊特殊用途
+
+
+
+
+
+
+製造商
+Cirrus Logic Inc.
+
+
+
+系列
+
+
+
+-
+            
+
+
+
+
+                        包裝
+ 
+
+管裝 
+
+
+
+
+
+                        零件狀態
+                    
+
+
+
+停產
+
+                        
+
+
+
+
+                        功能
+                    
+
+
+
+音訊訊號處理器
+
+                        
+
+
+
+
+                        應用
+                    
+
+
+
+通訊系統
+
+                        
+
+
+
+
+                        Number of Channels
+                    
+
+
+
+2
+
+                        
+
+
+
+
+                        介面
+                    
+
+
+
+串行
+
+                        
+
+
+
+
+                        電壓 - 電源
+                    
+
+
+
+4.5 V ~ 5.5 V
+
+                        
+
+
+
+
+                        工作溫度
+                    
+
+
+
+0°C ~ 70°C (TA)
+
+                        
+
+
+
+
+                        規格
+                    
+
+
+
+全雙向
+
+                        
+
+
+
+
+                        封裝／外殼
+                    
+
+
+
+20-SOIC (0.295"、7.50 mm 寬)
+
+                        
+
+
+
+
+                        供應商元件封裝
+                    
+
+
+
+20-SOIC
+
+                        
+
+
+
+
+ 
+
+
+
+回報錯誤
+
+
+
+
+
+                                                    其他資源
+                                                
+
+
+標準包裝 
+ 37
+
+
+
+                                                                其他名稱
+                                                            
+
+598-1200-5 
+CS6422CSZ 
+
+
+
+
+11:47:06 8/3/2017
+
+
+
+
+
+
+ 傳送意見回饋
+
+
+
+
+
+
+
+
+
+
+
+
+資訊
+條款和條件關於 Digi-Key聯絡我們新聞室網站導航支援的瀏覽器隱私權聲明
+
+臺灣
+taiwan.support@digikey.com
+免費電話: 0080-185-4023傳真: +852-3104-0686
+
+
+
+
+國際
+非洲亞洲澳洲歐洲中東北美洲南美洲
+
+
+
+
+版權所有 © 1995-2017, Digi-Key Electronics.保留所有權利。701 Brooks Avenue South,Thief River Falls, MN 56701 USA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products | Cirrus Logic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+Products Home
+Product Filter
+
+
+Applications
+
+
+
+
+
+Mobile Audio Devices
+
+
+Smartphones
+Tablets
+
+
+
+
+
+
+
+
+Smart Home
+
+
+Wireless Cameras
+Smart Thermostats
+Smart Remotes
+Digital Assistant
+
+
+
+
+
+
+
+
+Speakers
+
+
+Smart Speakers
+Speakers
+
+
+
+
+
+
+
+
+Wearables
+
+
+Smart Watches
+Action Cameras
+VR Headsets
+Smart Bands
+
+
+
+
+
+
+
+
+Headsets
+
+
+Wireless Headsets
+Wired Headsets
+
+
+
+
+
+
+
+Technologies
+
+
+
+
+
+Audio Amplifiers
+
+
+CS35L32
+CS35L33
+WM9010
+WM9081
+WM9094
+
+
+
+
+
+
+
+
+Audio A/D Converters
+
+
+CS5340
+CS5341
+CS5342
+CS5343
+CS5344
+CS5346
+CS5351
+CS5361
+CS5364
+CS5366
+CS5368
+CS5381
+CS53L21
+CS53L30
+WM8737
+WM8775
+WM8782
+
+
+
+
+
+
+
+
+Audio D/A Converters
+
+
+CS43130
+CS4334
+CS4335
+CS4338
+CS4339
+CS4344
+CS4345
+CS4348
+CS4349
+CS4350
+CS4354
+CS4361
+CS4362A
+CS4364
+CS4365
+CS4382A
+CS4384
+CS4385
+CS4385A
+CS4392
+CS4398
+CS4399
+CS43L21
+CS43L22
+CS43L36
+WM1824
+WM8501
+WM8521
+WM8523
+WM8524
+WM8533
+WM8711BL
+WM8711L
+WM8716
+WM8740
+WM8741
+WM8742
+WM8761
+WM8766
+WM8768
+WM8912
+WM8918
+WM8956
+
+
+
+
+
+
+
+
+Audio Codecs
+
+
+
+
+
+Smart Codecs
+
+
+CS42L42
+CS47024
+CS47028
+CS47048
+CS47L15
+CS47L24
+CS47L35
+CS47L90
+WM5102
+WM5102S
+WM8281
+
+
+
+
+
+
+
+
+Portable Codecs
+
+
+CS42L42
+CS42L51
+CS42L52
+CS42L73
+WM1811
+WM8731
+WM8750
+WM8904
+WM8958
+WM8962
+WM8962B
+WM8963
+WM8988
+WM8993
+WM8998
+
+
+
+
+
+
+
+
+Mono/Stereo Codecs
+
+
+CS4245
+CS4265
+CS4270
+CS4271
+CS4272
+WM8510
+WM8734
+WM8758
+WM8776
+WM8778
+WM8940
+WM8960
+WM8974
+WM8976
+WM8978
+WM8983
+WM8985
+
+
+
+
+
+
+
+
+Multi-channel Codecs
+
+
+CS42432
+CS42435
+CS42436
+CS42438
+CS4244
+CS42448
+CS42516
+CS42518
+CS42526
+CS42528
+CS42888
+WM8580
+WM8581
+WM8994
+
+
+
+
+
+
+
+
+AC'97/HD Audio Codecs
+
+
+CS4207
+CS4299
+WM8850
+WM8860
+WM9714
+
+
+
+
+
+
+
+
+Codecs w/ Touchscreen
+
+
+WM9712
+WM9713
+WM9715
+
+
+
+
+
+
+
+
+Codecs w/ Video
+
+
+WM8944
+WM8946
+
+
+
+
+
+
+
+
+Noise Cancelation
+
+
+WM2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+Audio Clock Generation and Jitter Reduction
+
+
+CS2000
+CS2100
+CS2200
+CS2300
+
+
+
+
+
+
+
+
+Audio DSPs
+
+
+CS42L42
+CS47024
+CS47028
+CS47048
+CS47L15
+CS47L24
+CS47L35
+CS47L90
+CS48L10
+CS48L11
+CS48520
+CS48540
+CS48560
+CS495314
+CS497014
+CS497024
+CS49834
+CS49844
+WM5102
+WM5102S
+WM8281
+
+
+
+
+
+
+
+
+Interfaces and Sample Rate Converters
+
+
+CS8406
+CS8416
+CS8420
+CS8421
+CS8422
+CS8427
+WM8804
+WM8805
+
+
+
+
+
+
+
+
+Volume Controls
+
+
+CS3310
+CS4220-21
+CS4223-24
+
+
+
+
+
+
+
+
+MEMS Microphones
+
+
+
+
+
+Analog
+
+
+CS7331
+WM7121
+WM7132
+WM7331
+
+
+
+
+
+
+
+
+Digital
+
+
+CS7250B
+CS7257B
+WM7216
+WM7236
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other
+
+
+
+
+
+Ethernet Controllers
+
+
+CS8900A
+CS8952
+
+
+
+
+
+
+
+
+CobraNet Silicon Series
+
+
+CS1810xx
+CS4961xx
+
+
+
+
+
+
+
+
+CobraNet System Modules
+
+
+CM-1
+CM-2
+CobraCom
+EV-2
+
+
+
+
+
+
+
+
+CobraNet Software Tools
+
+
+DSP Conductor
+
+
+
+
+
+
+
+
+Operational Amplifiers
+
+
+CS3002
+
+
+
+
+
+
+
+
+Imaging A/D Converters
+
+
+WM8152
+WM8196
+WM8199
+WM8213
+WM8214
+WM8215
+WM8224
+WM8232
+WM8233
+WM8234
+WM8235
+WM8253
+WM8255
+WM8259
+
+
+
+
+
+
+
+
+Power Management
+
+
+WM8310
+WM8321
+WM8325
+WM8326
+
+
+
+
+
+
+
+
+Energy Measurement
+
+
+CS5451A
+CS5463
+CS5464
+CS5467
+CS5480
+CS5484
+CS5490
+
+
+
+
+
+
+
+
+Seismic Single-S (Single Channel)
+
+
+CS3301A
+CS3302A
+CS5373A
+
+
+
+
+
+
+
+
+Seismic Total-S (Multi-channel)
+
+
+CS3301A
+CS3302A
+CS4373A
+CS5371A
+CS5372A
+CS5376A
+
+
+
+
+
+
+
+
+Delta Sigma A/D Converters
+
+
+CS5505
+CS5506
+CS5507
+CS5508
+CS5509
+CS5510
+CS5511
+CS5512
+CS5513
+CS5529
+
+
+
+
+
+
+
+
+Delta Sigma AD Converters with Integrated Amplifiers
+
+
+CS5521
+CS5522
+CS5523
+CS5524
+CS5525
+CS5526
+CS5528
+CS5530
+CS5531
+CS5532
+CS5533
+CS5534
+CS5550
+
+
+
+
+
+
+
+
+ARM9 Embedded Processors
+
+
+EP9301
+EP9302
+EP9307
+EP9312
+EP9315
+
+
+
+
+
+
+
+
+
+
+
+
+Discontinued Products
+
+
+
+Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+From 'always-on' voice wake to high-quality audio playback
+
+Experts across the audio signal chain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parametric Search
+Explore our product technologies.
+Or find a specific product.
+
+
+
+Select a Technology
+A/D Converters
+AC '97 and HD Audio Codecs
+ARM9 Embedded Processors
+Amplifiers
+Analog MEMS Microphones
+Audio D/A Converters
+Audio DSPs
+Clock Generation and Jitter Reduction
+CobraNet Silicon Series
+CobraNet Software Tools
+CobraNet System Modules
+Codecs
+Delta Sigma AD Converters
+Delta Sigma AD Converters with Integrated Amplifiers
+Digital MEMS Microphones
+Energy Measurement
+Ethernet Controllers
+Imaging A/D Converters
+Interfaces & Sample Rate Converters
+Low Power Codecs with Integrated Video Buffer
+MEMS Microphones
+Mono/Stereo Codecs
+Multi-channel Codecs
+Noise Cancelation Codecs
+Operational Amplifiers
+Portable Codecs
+Power Management
+Seismic
+Seismic Single-S (Single Channel)
+Seismic Total-S (Multi-channel)
+Smart Codecs
+Stereo Low Power Codec with Touchscreen Controller
+Volume Controls
+
+Go
+
+
+
+
+
+
+Cirrus Logic provides complete audio and voice IC products, from flagship to mid-tier, that value audio quality, low power, small size, and superior performance.
+
+
+
+
+
+
+
+
+
+
+Mobile Audio Devices
+Proven, scalable and customizable audio and voice ICs from the audio leader in mobile devices.
+
+
+
+
+
+
+
+
+Headsets
+Canceling the noise around you to preserve the conversations you want to hear the most.
+
+
+
+
+
+
+
+
+Speakers
+ICs and software unite to deliver an unsurpassed hi-fi audio experience where you can hear the difference.
+
+
+
+
+
+
+
+
+Smart Home
+Extending voice command leadership to allow consumers to interact with devices throughout the home.
+
+
+
+
+
+
+
+
+Wearables
+Seamless and reliable voice control from the experts in low power, high-quality audio.
+
+
+
+
+
+
+                            Not finding a part? It may have reached end of life [EOL] and is no longer available. Find a replacement part and
+                        
+view all of our discontinued products
+
+
+
+
+
+
+
+
+
+
+
+
+More
+
+
+
+Comprehensive Solutions
+
+
+
+
+
+Enhance your users' audio experience through Cirrus Logic's hardware and software solutions: Voice, Record, Control, and Playback
+
+
+
+
+
+
+
+Product Technologies
+Audio Amplifiers
+Audio A/D Converters
+Audio D/A Converters
+Audio CodecsSmart CodecsPortable CodecsMono/Stereo CodecsMulti-channel CodecsAC'97/HD Audio CodecsCodecs w/ TouchscreenCodecs w/ VideoNoise Cancelation
+Audio Clock Generation and Jitter Reduction
+Audio DSPs
+Interfaces and Sample Rate Converters
+Volume Controls
+MEMS MicrophonesAnalogDigital
+Other
+
+Ethernet Controllers
+CobraNet Silicon Series
+CobraNet System Modules
+CobraNet Software Tools
+Operational Amplifiers
+Imaging A/D Converters
+Power Management
+Energy Measurement
+Seismic Single-S (Single Channel)
+Seismic Total-S (Multi-channel)
+Delta Sigma A/D Converters
+Delta Sigma AD Converters with Integrated Amplifiers
+ARM9 Embedded Processors
+
+
+
+
+Application Categories
+Mobile Audio Devices
+Smart Home
+Speakers
+Wearables
+Headsets
+
+
+Solutions
+Voice
+Playback
+Record
+Control
+
+
+
+Support
+Codecs
+MEMS Microphones
+Amplifiers
+Voice Solutions
+Playback Solutions
+Record Solutions
+Control Solutions
+Professional Service Partners
+Software Partners
+Software and Tools
+
+Audio DSP Tools
+FlexGUI Mixed Signal Audio Software
+WISCE Development Tools Suite
+
+Sample Center
+
+
+
+Company
+About Us
+Investor Relations
+Quality and Reliability
+Media Center
+
+
+Careers
+Search All Jobs
+Hardware Engineering Opportunities
+Software Engineering Opportunities
+Corporate Opportunities
+New Careers & Internships
+Benefits and Perks
+Culture of Innovation
+Locations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Cirrus Logic Distributor | DigiKey Electronics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+United States
+
+1-800-344-4539
+
+
+Change Country
+
+English
+
+USD
+
+
+ Your item(s) View Cart Login orREGISTER LoginRegisterWhy Register
+
+
+
+
+
+All ProductsAll ContentAudio ProductsBattery ProductsBoxes Enclosures RacksCable AssembliesCables Wires ManagementCables WiresCapacitorsCircuit ProtectionComputers Office Components AccessoriesConnectors InterconnectsCrystals and OscillatorsDevelopment Boards, Kits, ProgrammersDiscrete Semiconductor ProductsEmbedded ComputersFans Thermal ManagementFiltersHardware Fasteners AccessoriesInductors Coils ChokesIndustrial Controls MetersIntegrated CircuitsIsolatersKitsLine Protection Distribution BackupsMagnetics Transformer Inductor ComponentsMaker/DIY, EducationalMemory Cards ModulesMotors Solenoids Driver Boards ModulesNetworking SolutionsOptical Inspection EquipmentOptoelectronics Potentiometers Variable ResistorsPower Supplies Board MountPower Supplies External Internal Off-BoardPrototyping ProductsRelaysResistorsRF IF and RFIDSensors TransducersSoldering Desoldering Rework ProductsStatic Control ESD Clean Room ProductsSwitchesTape AdhesivesTest and MeasurementToolsTransformers
+
+
+
+
+
+PRODUCTS MANUFACTURERS RESOURCESResearchAcademic ProgramArticlesBlog - TheCircuitContent LibraryEngineering ResourcesIndustrial AutomationIoT Product SelectorNewest ProductsProduct Training ModulesSensors Product SelectorTechForumVideo LibraryDesignConversion CalculatorsDevelopment ToolsEDA & Design ToolsMaker.ioReference Designs Scheme-it® Design ToolTechZones℠Search / OrderingBOM ManagerBrowser ResourcesOnline CatalogOrder StatusShopping Cart 
+
+
+
+
+
+
+Manufacturer Linecard
+            
+        >
+            
+            Cirrus Logic
+        
+
+
+
+
+
+
+
+
+Cirrus Logic
+ - Cirrus Logic develops high-precision, analog and mixed-signal integrated circuits for a broad range of consumer and industrial markets. Building on its diverse analog and signal-processing patent portfolio, Cirrus Logic delivers highly optimized products for consumer and commercial audio, automotive entertainment, industrial and aerospace applications.
+
+
+
+
+
+
+
+PARTS
+CONTENT
+
+
+
+
+
+
+
+
+
+
+Product Listing
+View All
+
+
+
+
+
+
+
+Audio Products (38)
+
+
+
+
+
+Microphones (38)
+
+
+
+
+
+Maker/DIY, Educational (1)
+
+
+
+
+
+Educational Kits (1)
+
+
+
+
+
+
+
+
+Development Boards, Kits, Programmers (385)
+
+
+
+
+
+Accessories (6)
+
+
+Evaluation and Demonstration Boards and Kits (287)
+
+
+Evaluation Boards - Analog to Digital Converters (ADCs) (34)
+
+
+Evaluation Boards - Audio Amplifiers (14)
+
+
+Evaluation Boards - Digital to Analog Converters (DACs) (20)
+
+
+Evaluation Boards - Embedded - MCU, DSP (6)
+
+
+Evaluation Boards - LED Drivers (16)
+
+
+Evaluation Boards - Op Amps (1)
+
+
+Programmers, Emulators, and Debuggers (1)
+
+
+
+
+
+RF/IF and RFID (1)
+
+
+
+
+
+RF Evaluation and Development Kits, Boards (1)
+
+
+
+
+
+
+
+
+Integrated Circuits (ICs) (1209)
+
+
+
+
+
+Audio Special Purpose (76)
+
+
+Clock/Timing - Clock Generators, PLLs, Frequency Synthesizers (73)
+
+
+Data Acquisition - ADCs/DACs - Special Purpose (278)
+
+
+Data Acquisition - Analog Front End (AFE) (34)
+
+
+Data Acquisition - Analog to Digital Converters (ADC) (90)
+
+
+Data Acquisition - Digital to Analog Converters (DAC) (27)
+
+
+Embedded - DSP (Digital Signal Processors) (83)
+
+
+Embedded - Microprocessors (50)
+
+
+Interface - CODECs (291)
+
+
+Interface - Controllers (8)
+
+
+Interface - Drivers, Receivers, Transceivers (6)
+
+
+Interface - Encoders, Decoders, Converters (6)
+
+
+Interface - Filters - Active (3)
+
+
+Interface - Sensor and Detector Interfaces (2)
+
+
+Interface - Specialized (4)
+
+
+Interface - Telecom (18)
+
+
+Linear - Amplifiers - Audio (28)
+
+
+Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps (48)
+
+
+Linear - Amplifiers - Special Purpose (2)
+
+
+PMIC - Energy Metering (23)
+
+
+PMIC - LED Drivers (41)
+
+
+PMIC - PFC (Power Factor Correction) (8)
+
+
+PMIC - Power Management - Specialized (8)
+
+
+PMIC - Voltage Regulators - Linear + Switching (2)
+
+
+
+
+
+
+
+
+
+
+
+Newest Products
+View All (7)
+
+
+
+
+
+
+
+
+
+
+Cirrus Logic Voice Capture Development Kit for AVS
+Cirrus Logic's 598-2471-KIT-ND is a complete solution for developing products with Amazon’s Alexa Voice Service.
+Learn More
+
+
+
+
+
+
+
+
+CS47L90-CWZR, Hi-Fi Smart Audio Codec with Integrated Sensor Hub
+With seven programmable DSP cores, the CS47L90, from Cirrus Logic, can support multiple voice applications and audio features in parallel.
+Learn More
+
+
+
+
+
+
+
+
+
+
+MEMS Microphones
+A look at the wide variety of MEMS Microphones from Cirrus Logic and how the MEMS Advantage allows you to embed quality and flexibility into your designs. 
+Learn More
+
+
+
+
+
+
+
+
+CS53L30 A/D Converters
+A highly integrated ADC designed to enhance voice processing features such as noise suppression, acoustic echo cancellation, and multi-channel beam forming.
+Learn More
+
+
+
+
+
+
+
+
+
+
+CS4354 Stereo Converter
+5V stereo digital-to-analog system with 2VRMS ground-centered output from Cirrus Logic.
+Learn More
+
+
+
+
+
+
+
+
+CS42L73 Low Power Mobile Stereo Codec
+Cirrus Logic's highly integrated, low-power, mobile audio distribution network.
+Learn More
+
+
+
+
+
+
+
+
+Product Training Modules
+View All (1)
+
+
+
+
+
+
+
+CS35L0x Audio Amplifiers Overview
+Duration: 5 minutes
+The theory and benefits of CS35L0X family’s patent pending Hybrid Class-D amplifier technology.
+
+
+
+
+
+
+
+
+
+
+
+
+Featured Videos
+View All (1)
+
+
+
+
+
+
+
+Cirrus Logic - CS42L73 and CS35L00/01/03
+Smartphone Solutions: CS42L73 Audio Codec and the CS35L00/01/03 Class-D Amp
+
+
+
+
+
+
+
+
+
+
+
+
+Additional Content
+
+
+
+
+Product Information
+
+Audio Solutions Brochure
+Product Summary Guide
+The Digital Imperative: The Rising Wave in Power Factor Correction (PFC) Techniques
+
+Audio Products
+
+A/D and D/A Converters
+Class-D
+Codecs
+Interface and Sample-Rate Converters
+Audio DSPs
+
+Energy Products
+
+Geophysical
+Energy Measurement
+
+
+
+Resources - View All
+
+End of Life Notifications
+CDB150x
+CK53211, CK5322
+CRD5376
+
+
+Process Change Notifications
+CS4226, CS4227
+Sn/Pb Plating Assembly Process
+CS3308, CS3318
+
+
+Part Number Change Notifications
+CRD1600
+CDB1600
+
+
+
+
+
+
+
+Manufacturer Web site
+
+
+
+
+
+
+Visit Cirrus Logic, Inc.'s Web Site
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information
+Terms & ConditionsBlog - TheCircuitTechForumAbout Digi-KeyContact UsNewsroomSite MapSupported BrowsersPrivacy StatementCareers
+
+United States
+sales@digikey.com
+Toll Free: 1-800-344-4539Phone: 218-681-6674Fax: 218-681-3380
+
+
+
+
+International
+AfricaAsiaAustraliaEuropeMiddle EastNorth AmericaSouth America
+
+
+
+
+Copyright © 1995-2017, Digi-Key Electronics.All Rights Reserved.701 Brooks Avenue South,Thief River Falls, MN 56701 USA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cirrus Logic, Inc. | Cirrus Logic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Audio experts in a voice connected world
+
+
+
+
+Explore the full audio signal chain
+
+
+
+The hi-fi audio experience
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Audio experts
+
+
+
+
+
+
+
+Audio experts in a voice connected world
+
+
+
+
+
+
+
+
+
+
+Audio solutions
+
+
+
+
+
+
+
+Explore the full audio signal chain
+
+
+
+
+
+
+
+
+
+
+Hi-fi audio
+
+
+
+
+
+
+
+The hi-fi audio experience
+
+
+
+
+
+
+
+
+
+
+News
+Cirrus Logic Reports Q1 FY18 Revenue of $320.7 Million
+                      Read more
+
+
+
+
+
+
+
+
+
+Innovative Solutions
+
+
+Noise never sounded so quiet
+From world-class Acoustic Noise Cancelation (ANC) technology to hi-fidelity playback, Cirrus Logic's hardware and software solutions elevate the consumer experience. Let’s build something new together.
+
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+
+
+
+Careers and Culture at Cirrus Logic
+
+
+
+
+Bang on the drum all day
+
+
+Work Here
+
+
+
+
+
+The culture, absolutely, makes it a great place to work.
+—Current employee, Great Place to Work survey
+
+
+Management that truly cares about the individual.
+—Current employee, Great Place to Work survey
+
+
+Engineers are made to feel like rock stars.
+—Current employee, Great Place to Work survey
+
+
+
+
+
+
+
+
+
+
+
+
+Who We Are
+
+
+
+Audio is in everything we do
+
+
+
+
+
+
+
+
+
+2450
+More than 2,450 Issued and Pending Patents Worldwide and Counting
+
+
+Founded in 
+30+ Years of Audio Leadership
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Play Video
+
+
+
+That's Cirrus Logic!
+
+
+
+
+
+Check out the hilarity of what really takes place “behind the scenes" when an off-beat director tries to impart his quirky vision to the ubiquitous "corporate video."
+Check out the hilarity of what really takes place “behind the scenes" when an off-beat director tries to impart his quirky vision to the ubiquitous "corporate video."
+
+
+
+
+
+
+
+Product Technologies
+Audio Amplifiers
+Audio A/D Converters
+Audio D/A Converters
+Audio CodecsSmart CodecsPortable CodecsMono/Stereo CodecsMulti-channel CodecsAC'97/HD Audio CodecsCodecs w/ TouchscreenCodecs w/ VideoNoise Cancelation
+Audio Clock Generation and Jitter Reduction
+Audio DSPs
+Interfaces and Sample Rate Converters
+Volume Controls
+MEMS MicrophonesAnalogDigital
+Other
+
+Ethernet Controllers
+CobraNet Silicon Series
+CobraNet System Modules
+CobraNet Software Tools
+Operational Amplifiers
+Imaging A/D Converters
+Power Management
+Energy Measurement
+Seismic Single-S (Single Channel)
+Seismic Total-S (Multi-channel)
+Delta Sigma A/D Converters
+Delta Sigma AD Converters with Integrated Amplifiers
+ARM9 Embedded Processors
+
+
+
+
+Application Categories
+Mobile Audio Devices
+Smart Home
+Speakers
+Wearables
+Headsets
+
+
+Solutions
+Voice
+Playback
+Record
+Control
+
+
+
+Support
+Codecs
+MEMS Microphones
+Amplifiers
+Voice Solutions
+Playback Solutions
+Record Solutions
+Control Solutions
+Professional Service Partners
+Software Partners
+Software and Tools
+
+Audio DSP Tools
+FlexGUI Mixed Signal Audio Software
+WISCE Development Tools Suite
+
+Sample Center
+
+
+
+Company
+About Us
+Investor Relations
+Quality and Reliability
+Media Center
+
+
+Careers
+Search All Jobs
+Hardware Engineering Opportunities
+Software Engineering Opportunities
+Corporate Opportunities
+New Careers & Internships
+Benefits and Perks
+Culture of Innovation
+Locations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Support | Cirrus Logic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Support
+
+
+Support Home
+Featured Support
+
+
+Codecs
+MEMS Microphones
+Amplifiers
+
+
+
+
+
+Technologies
+
+
+Audio A/D Converters
+Audio Amplifiers
+Audio Clock Generation and Jitter Reduction
+
+
+
+Audio Codecs
+
+
+AC '97 and HD Audio Codecs
+Low Power Codecs with Integrated Video Buffer
+Mono/Stereo Codecs
+Multi-channel Codecs
+Portable Codecs
+Smart Codecs
+Stereo Low Power Codecs with Touchscreen Controller
+
+
+
+
+
+Audio D/A Converters
+Audio DSPs
+Interfaces and Sample Rate Converters
+Volume Controls
+
+
+
+MEMS Microphones
+
+
+Analog Silicon MEMS Microphones
+Digital Silicon MEMS Microphones
+
+
+
+
+
+
+
+
+Other
+
+
+Ethernet Controllers
+
+
+
+CobraNet
+
+
+CobraNet Silicon Series
+CobraNet Software Tools
+CobraNet System Modules
+
+
+
+
+
+Operational Amplifiers
+Imaging A/D Converters
+Power Management
+Energy Measurement
+
+
+
+Seismic
+
+
+Single-S (Single Channel)
+Total-S (Multi-channel)
+
+
+
+
+
+
+
+
+Delta Sigma A/D Converters
+
+
+Delta Sigma A/D Converters with Integrated Amplifiers
+
+
+
+
+
+ARM9 Embedded Processors
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+Voice
+Playback
+Record
+Control
+
+
+Professional Service Partners
+Software Partners
+
+
+
+Software and Tools
+
+
+Audio DSP Tools
+FlexGUI Mixed Signal Audio Software
+WISCE Development Tools Suite
+
+
+
+
+
+Sample Center
+
+
+
+Support
+
+
+
+Support
+
+
+
+
+
+
+Featured Technologies
+
+
+
+
+
+
+
+MEMS Microphones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amplifiers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Codecs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MEMS Microphones
+
+
+
+
+
+
+
+
+
+Amplifiers
+
+
+
+
+
+
+
+
+
+Codecs
+
+
+
+
+
+
+
+
+
+
+All Technologies
+
+
+
+Select a Technology...
+AC '97 and HD Audio Codecs
+ARM9 Embedded Processors
+Analog Silicon MEMS Microphones
+Audio A/D Converters
+Audio Amplifiers
+Audio Clock Generation and Jitter Reduction
+Audio Codecs
+Audio D/A Converters
+Audio DSPs
+CobraNet Silicon Series
+CobraNet Software Tools
+CobraNet System Modules
+Delta Sigma A/D Converters
+Delta Sigma A/D Converters with Integrated Amplifiers
+Digital Silicon MEMS Microphones
+Energy Measurement
+Ethernet Controllers
+Imaging A/D Converters
+Interfaces and Sample Rate Converters
+Low Power Codecs with Integrated Video Buffer
+MEMS Microphones
+Mono/Stereo Codecs
+Multi-channel Codecs
+Operational Amplifiers
+Portable Codecs
+Power Management
+Seismic
+Single-S (Single Channel)
+Smart Codecs
+Stereo Low Power Codecs with Touchscreen Controller
+Total-S (Multi-channel)
+Volume Controls
+Technologies
+
+
+
+
+
+
+
+
+
+Contact Support
+Connect with us or our authorized third-party sales representatives, services partners, and our distributors for design questions or pricing requests.
+
+
+
+
+Next->
+
+
+
+
+
+Contact Support
+Connect with us or our authorized third-party sales representatives, services partners, and our distributors for design questions or pricing requests.
+
+
+
+
+Next->
+
+
+
+
+
+
+Solutions Support:
+
+Voice
+Playback
+Record
+Control
+
+Software and Development Tools Support:
+
+Professional Service Partners
+Software Partners
+Audio DSP Tools
+FlexGUI Mixed Signal Audio Software
+WISCE Development Tools Suite
+Sample Center
+
+
+
+Professional Services
+Implementing a combined hardware and software audio solution can be a challenging task. Our services partners can assist with many pivotal elements of the audio signal chain:
+
+
+Audio Solution Architecture
+Mechanical and Acoustic Product Design
+Hardware and PCB Design
+Software Porting and Optimization
+Software Development and Integration
+Tuning Services
+Test, Validation and Certification
+
+
+More
+
+
+
+
+
+
+
+
+
+
+
+
+Support
+
+Email
+
+
+
+Follow Us
+
+Twitter
+Facebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More
+
+
+
+Comprehensive Solutions
+
+
+
+
+
+Enhance your users' audio experience through Cirrus Logic's hardware and software solutions: Voice, Record, Control, and Playback
+
+
+
+
+
+
+
+
+Product Technologies
+Audio Amplifiers
+Audio A/D Converters
+Audio D/A Converters
+Audio CodecsSmart CodecsPortable CodecsMono/Stereo CodecsMulti-channel CodecsAC'97/HD Audio CodecsCodecs w/ TouchscreenCodecs w/ VideoNoise Cancelation
+Audio Clock Generation and Jitter Reduction
+Audio DSPs
+Interfaces and Sample Rate Converters
+Volume Controls
+MEMS MicrophonesAnalogDigital
+Other
+
+Ethernet Controllers
+CobraNet Silicon Series
+CobraNet System Modules
+CobraNet Software Tools
+Operational Amplifiers
+Imaging A/D Converters
+Power Management
+Energy Measurement
+Seismic Single-S (Single Channel)
+Seismic Total-S (Multi-channel)
+Delta Sigma A/D Converters
+Delta Sigma AD Converters with Integrated Amplifiers
+ARM9 Embedded Processors
+
+
+
+
+Application Categories
+Mobile Audio Devices
+Smart Home
+Speakers
+Wearables
+Headsets
+
+
+Solutions
+Voice
+Playback
+Record
+Control
+
+
+
+Support
+Codecs
+MEMS Microphones
+Amplifiers
+Voice Solutions
+Playback Solutions
+Record Solutions
+Control Solutions
+Professional Service Partners
+Software Partners
+Software and Tools
+
+Audio DSP Tools
+FlexGUI Mixed Signal Audio Software
+WISCE Development Tools Suite
+
+Sample Center
+
+
+
+Company
+About Us
+Investor Relations
+Quality and Reliability
+Media Center
+
+
+Careers
+Search All Jobs
+Hardware Engineering Opportunities
+Software Engineering Opportunities
+Corporate Opportunities
+New Careers & Internships
+Benefits and Perks
+Culture of Innovation
+Locations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Support | Cirrus Logic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Support
+
+
+Support Home
+Featured Support
+
+
+Codecs
+MEMS Microphones
+Amplifiers
+
+
+
+
+
+Technologies
+
+
+Audio A/D Converters
+Audio Amplifiers
+Audio Clock Generation and Jitter Reduction
+
+
+
+Audio Codecs
+
+
+AC '97 and HD Audio Codecs
+Low Power Codecs with Integrated Video Buffer
+Mono/Stereo Codecs
+Multi-channel Codecs
+Portable Codecs
+Smart Codecs
+Stereo Low Power Codecs with Touchscreen Controller
+
+
+
+
+
+Audio D/A Converters
+Audio DSPs
+Interfaces and Sample Rate Converters
+Volume Controls
+
+
+
+MEMS Microphones
+
+
+Analog Silicon MEMS Microphones
+Digital Silicon MEMS Microphones
+
+
+
+
+
+
+
+
+Other
+
+
+Ethernet Controllers
+
+
+
+CobraNet
+
+
+CobraNet Silicon Series
+CobraNet Software Tools
+CobraNet System Modules
+
+
+
+
+
+Operational Amplifiers
+Imaging A/D Converters
+Power Management
+Energy Measurement
+
+
+
+Seismic
+
+
+Single-S (Single Channel)
+Total-S (Multi-channel)
+
+
+
+
+
+
+
+
+Delta Sigma A/D Converters
+
+
+Delta Sigma A/D Converters with Integrated Amplifiers
+
+
+
+
+
+ARM9 Embedded Processors
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+Voice
+Playback
+Record
+Control
+
+
+Professional Service Partners
+Software Partners
+
+
+
+Software and Tools
+
+
+Audio DSP Tools
+FlexGUI Mixed Signal Audio Software
+WISCE Development Tools Suite
+
+
+
+
+
+Sample Center
+
+
+
+Support
+
+
+
+Support
+
+
+
+
+
+
+Featured Technologies
+
+
+
+
+
+
+
+MEMS Microphones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amplifiers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Codecs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MEMS Microphones
+
+
+
+
+
+
+
+
+
+Amplifiers
+
+
+
+
+
+
+
+
+
+Codecs
+
+
+
+
+
+
+
+
+
+
+All Technologies
+
+
+
+Select a Technology...
+AC '97 and HD Audio Codecs
+ARM9 Embedded Processors
+Analog Silicon MEMS Microphones
+Audio A/D Converters
+Audio Amplifiers
+Audio Clock Generation and Jitter Reduction
+Audio Codecs
+Audio D/A Converters
+Audio DSPs
+CobraNet Silicon Series
+CobraNet Software Tools
+CobraNet System Modules
+Delta Sigma A/D Converters
+Delta Sigma A/D Converters with Integrated Amplifiers
+Digital Silicon MEMS Microphones
+Energy Measurement
+Ethernet Controllers
+Imaging A/D Converters
+Interfaces and Sample Rate Converters
+Low Power Codecs with Integrated Video Buffer
+MEMS Microphones
+Mono/Stereo Codecs
+Multi-channel Codecs
+Operational Amplifiers
+Portable Codecs
+Power Management
+Seismic
+Single-S (Single Channel)
+Smart Codecs
+Stereo Low Power Codecs with Touchscreen Controller
+Total-S (Multi-channel)
+Volume Controls
+Technologies
+
+
+
+
+
+
+
+
+
+Contact Support
+Connect with us or our authorized third-party sales representatives, services partners, and our distributors for design questions or pricing requests.
+
+
+
+
+Next->
+
+
+
+
+
+Contact Support
+Connect with us or our authorized third-party sales representatives, services partners, and our distributors for design questions or pricing requests.
+
+
+
+
+Next->
+
+
+
+
+
+
+Solutions Support:
+
+Voice
+Playback
+Record
+Control
+
+Software and Development Tools Support:
+
+Professional Service Partners
+Software Partners
+Audio DSP Tools
+FlexGUI Mixed Signal Audio Software
+WISCE Development Tools Suite
+Sample Center
+
+
+
+Professional Services
+Implementing a combined hardware and software audio solution can be a challenging task. Our services partners can assist with many pivotal elements of the audio signal chain:
+
+
+Audio Solution Architecture
+Mechanical and Acoustic Product Design
+Hardware and PCB Design
+Software Porting and Optimization
+Software Development and Integration
+Tuning Services
+Test, Validation and Certification
+
+
+More
+
+
+
+
+
+
+
+
+
+
+
+
+Support
+
+Email
+
+
+
+Follow Us
+
+Twitter
+Facebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More
+
+
+
+Comprehensive Solutions
+
+
+
+
+
+Enhance your users' audio experience through Cirrus Logic's hardware and software solutions: Voice, Record, Control, and Playback
+
+
+
+
+
+
+
+
+Product Technologies
+Audio Amplifiers
+Audio A/D Converters
+Audio D/A Converters
+Audio CodecsSmart CodecsPortable CodecsMono/Stereo CodecsMulti-channel CodecsAC'97/HD Audio CodecsCodecs w/ TouchscreenCodecs w/ VideoNoise Cancelation
+Audio Clock Generation and Jitter Reduction
+Audio DSPs
+Interfaces and Sample Rate Converters
+Volume Controls
+MEMS MicrophonesAnalogDigital
+Other
+
+Ethernet Controllers
+CobraNet Silicon Series
+CobraNet System Modules
+CobraNet Software Tools
+Operational Amplifiers
+Imaging A/D Converters
+Power Management
+Energy Measurement
+Seismic Single-S (Single Channel)
+Seismic Total-S (Multi-channel)
+Delta Sigma A/D Converters
+Delta Sigma AD Converters with Integrated Amplifiers
+ARM9 Embedded Processors
+
+
+
+
+Application Categories
+Mobile Audio Devices
+Smart Home
+Speakers
+Wearables
+Headsets
+
+
+Solutions
+Voice
+Playback
+Record
+Control
+
+
+
+Support
+Codecs
+MEMS Microphones
+Amplifiers
+Voice Solutions
+Playback Solutions
+Record Solutions
+Control Solutions
+Professional Service Partners
+Software Partners
+Software and Tools
+
+Audio DSP Tools
+FlexGUI Mixed Signal Audio Software
+WISCE Development Tools Suite
+
+Sample Center
+
+
+
+Company
+About Us
+Investor Relations
+Quality and Reliability
+Media Center
+
+
+Careers
+Search All Jobs
+Hardware Engineering Opportunities
+Software Engineering Opportunities
+Corporate Opportunities
+New Careers & Internships
+Benefits and Perks
+Culture of Innovation
+Locations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solutions | Cirrus Logic
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+Solutions Home
+Voice
+
+
+
+Playback
+
+
+Hi-Fi Audio
+
+
+
+
+
+Record
+Control
+
+
+
+Solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comprehensive Solutions
+
+Enhance your users&CloseCurlyQuote; audio experience
+
+
+
+
+
+
+
+
+
+
+
+We offer hardware and software solutions, support, and top-class end-user experiences across the entire audio signal-processing chain.
+
+
+
+
+
+
+
+
+
+
+More
+
+
+
+
+Voice
+Give your users the experience of crystal clear voice quality.
+
+
+
+
+
+
+More
+
+
+
+
+Playback
+Create a stereo playback experience that makes the user feel they are front row of their favorite concert.
+
+
+
+
+
+
+More
+
+
+
+
+Record
+Let your users capture the sounds they want to hear without all of the noise.
+
+
+
+
+
+
+More
+
+
+
+
+Control
+Give your users touchless voice control of the devices that connect them to the world.
+
+
+
+
+
+
+
+
+
+
+Product Technologies
+Audio Amplifiers
+Audio A/D Converters
+Audio D/A Converters
+Audio CodecsSmart CodecsPortable CodecsMono/Stereo CodecsMulti-channel CodecsAC'97/HD Audio CodecsCodecs w/ TouchscreenCodecs w/ VideoNoise Cancelation
+Audio Clock Generation and Jitter Reduction
+Audio DSPs
+Interfaces and Sample Rate Converters
+Volume Controls
+MEMS MicrophonesAnalogDigital
+Other
+
+Ethernet Controllers
+CobraNet Silicon Series
+CobraNet System Modules
+CobraNet Software Tools
+Operational Amplifiers
+Imaging A/D Converters
+Power Management
+Energy Measurement
+Seismic Single-S (Single Channel)
+Seismic Total-S (Multi-channel)
+Delta Sigma A/D Converters
+Delta Sigma AD Converters with Integrated Amplifiers
+ARM9 Embedded Processors
+
+
+
+
+Application Categories
+Mobile Audio Devices
+Smart Home
+Speakers
+Wearables
+Headsets
+
+
+Solutions
+Voice
+Playback
+Record
+Control
+
+
+
+Support
+Codecs
+MEMS Microphones
+Amplifiers
+Voice Solutions
+Playback Solutions
+Record Solutions
+Control Solutions
+Professional Service Partners
+Software Partners
+Software and Tools
+
+Audio DSP Tools
+FlexGUI Mixed Signal Audio Software
+WISCE Development Tools Suite
+
+Sample Center
+
+
+
+Company
+About Us
+Investor Relations
+Quality and Reliability
+Media Center
+
+
+Careers
+Search All Jobs
+Hardware Engineering Opportunities
+Software Engineering Opportunities
+Corporate Opportunities
+New Careers & Internships
+Benefits and Perks
+Culture of Innovation
+Locations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Cirrus Logic - Cirrus Logic Reports Q1 FY18 Revenue of $320.7 Million
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+✕
+
+Products
+
+Solutions
+Support
+Company
+
+Careers
+
+
+
+
+Follow us on Twitter
+RSS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company / 
+
+
+
+
+
+Company Home
+
+About Us
+
+Leadership
+Mission
+Contacts
+
+
+
+Investor Relations
+
+
+Quality And Reliability
+
+Corporate Compliance
+Customer Quality Management
+
+Product Development
+
+Failure Analysis
+Reliability And Qualification
+
+
+Quality Management System
+Supplier Quality Management
+
+
+
+Media Center
+
+Press Release Archive
+Corporate Backgrounder
+
+
+
+
+
+
+Select a Technology
+
+
+
+Amplifiers
+A/D Converters
+D/A Converters
+
+
+Codecs
+
+
+Smart Codecs
+Portable Codecs
+Mono/Stereo Codecs
+Multichannel Codecs
+AC'97/HD Audio Codecs
+Codecs w/ Touchscreen
+Codecs w/ Video
+Noise Cancellation
+
+
+
+Clock Generation and Jitter Reduction
+
+
+DSPs
+
+
+Audio Processors
+CobraNet Silicon Series
+CobraNet System Modules
+CobraNet Software Tools
+
+
+
+Interfaces and Sample Rate Converters
+Low Power Products
+
+
+MEMS Microphones
+
+
+Analog Silicon
+Digital Silicon
+
+
+
+
+
+
+
+Volume Controls
+Energy Measurement
+
+
+Seismic
+
+
+Single-S (Single Channel)
+Total-S (Multi-Channel)
+
+
+
+
+
+Delta Sigma A/D Converters
+
+
+Delta Sigma AD Converters with Integrated Amplifiers
+
+
+
+ARM9 Embedded Processors
+Ethernet Controllers
+Operational Amplifiers
+Imaging A/D Converters
+Power Management 
+
+
+
+
+
+
+Select a Technology...
+Amplifiers
+A/D Converters
+D/A Converters
+Codecs
+- Smart Codecs
+- Portable Codecs
+- Mono/Stereo Codecs
+- Multichannel Codecs
+- AC'97/HD Audio Codecs
+- Codecs w/ Touchscreen
+- Codecs w/ Video
+- Noise Cancellation
+Clock Generation and Jitter Reduction
+DSPs
+- Audio Processors
+- CobraNet Silicon Series
+- CobraNet System Modules
+- CobraNet Software Tools
+Interfaces and Sample Rate Converters
+Low Power Products
+MEMS Microphones
+- Analog Silicon
+- Digital Silicon
+Volume Controls
+Energy Measurement
+Seismic
+- Single-S (Single Channel)
+- Total-S (Multi-Channel)
+Delta Sigma A/D Converters
+- Delta Sigma AD Converters with Integrated Amplifiers
+ARM9 Embedded Processors
+Ethernet Controllers
+Operational Amplifiers
+Imaging A/D Converters
+Power Management 
+
+
+
+
+
+
+Investors
+/News & Events/Investor News/Press Release
+
+
+
+
+
+NASDAQ: CRUS
+
+Stock Quote: NASD
+
+
+
+
+Last Price:
+59.42
+
+
+Change:
+-3.95 (-6.23%)
+				
+
+
+
+Open:
+62.25
+
+
+Previous Close:
+63.37
+
+
+
+Aug 03, 2017 12:27 PM Pricing delayed 20 minutes
+
+
+
+
+
+
+
+
+Disclaimer
+ACCESS TO THIS SECTION OF THE WEBSITE (“Web Page”) MAY BE RESTRICTED UNDER SECURITIES LAWS IN CERTAIN JURISDICTIONS. THIS NOTICE REQUIRES YOU TO CONFIRM CERTAIN MATTERS (INCLUDING THAT YOU ARE NOT RESIDENT IN SUCH A JURISDICTION), BEFORE YOU MAY OBTAIN ACCESS TO THE INFORMATION ON THIS WEB PAGE. 
+DisclaimerNOTE: ELECTRONIC VERSIONS OF THE MATERIAL YOU ARE SEEKING ACCESS TO ARE BEING MADE AVAILABLE ON THIS WEB PAGE BY CIRRUS LOGIC IN GOOD FAITH. THESE MATERIALS ARE NOT DIRECTED AT OR ACCESSIBLE BY PERSONS LOCATED IN ANY JURISDICTION WHERE THE RELEVANT ACTION WOULD CONSTITUTE A VIOLATION OF THE RELEVANT LAWS AND REGULATIONS OF SUCH JURISDICTION OR WOULD RESULT IN A REQUIREMENT TO COMPLY WITH ANY GOVERNMENTAL OR OTHER CONSENT OR ANY REGISTRATION, FILING OR OTHER FORMALITY WHICH CIRRUS LOGIC REGARDS AS UNDULY ONEROUS (“Restricted Jurisdiction”). 
+The Acquisition relates to the shares of a Scottish company and is proposed to be effected by means of a scheme of arrangement under the laws of the United Kingdom.  Neither the proxy solicitation rules nor (unless implemented by means of a Takeover Offer) the tender offer rules under the US Securities Exchange Act of 1934, as amended, will apply to the Acquisition. Moreover, the Acquisition is subject to the disclosure requirements and practices applicable in the United Kingdom and under the City Code to schemes of arrangement, which differ from the disclosure requirements of the US proxy solicitation rules and tender offer rules.  If Cirrus Logic exercises its right to implement the Acquisition of the Wolfson Microelectronics Shares by way of a Takeover Offer, the Takeover Offer will be made in compliance with applicable US securities laws and regulations.
+If you would like information on the Acquisition please read this notice carefully - it applies to all persons who view this Web Page and, depending on where you live, it may affect your rights.
+
+Basis of accessThe information on this Web Page about the Acquisition is made available in good faith and does not constitute an offer to sell or otherwise dispose of, or an invitation or solicitation of, any offer to purchase or subscribe for any securities in any jurisdiction in which such offer or solicitation is unlawful. 
+This notice may be altered or updated. You should read it in full each time you access the Web Page. 
+The information contained on this Web Page speaks only at the date of the relevant document or announcement reproduced on this Web Page, and Cirrus Logic has, and accepts, no responsibility or duty to update any such information, document or announcement and reserves the right to add to, remove or amend any information reproduced on this Web Page at any time. 
+In relation to any document, announcement or information contained on the Web Page, the only responsibility accepted by the directors of Cirrus Logic is for the correctness and fairness of its reproduction or presentation unless a responsibility statement in any relevant document expressly provides otherwise. 
+Neither the directors of Cirrus Logic, nor Cirrus Logic, nor any of their affiliated companies, have reviewed, and no such person is or shall be responsible for or accepts any liability in respect of, any information contained on any other website which may be linked to or from this Web Page. 
+
+Forward-looking statements 
+The information on this Web Page, including information included or incorporated by reference, contains a number of statements that are or may be forward-looking statements relating to Cirrus Logic and Wolfson Microelectronics. Forward-looking statements are prospective in nature and are not based on historical facts, but rather on current expectations and projections of the management of Cirrus Logic and Wolfson Microelectronics about future events, and are therefore subject to risks and uncertainties which could cause actual results to differ materially from the future results expressed or implied by the forward-looking statements.  The forward-looking statements contained on this Web Page include statements relating to the expected effects of the Acquisition on Cirrus Logic and Wolfson Microelectronics, the expected timing and scope of the Acquisition and other statements other than historical facts. All statements other than statements of historical facts included on this Web Page may be forward looking statements. Without limitation, any statements preceded or followed by or that include the words “targets”, “plans”, “believes”, “expects”, “aims”, “intends”, “will”, “should”, “could”, “would”, “may”, “anticipates”, “estimates”, “synergy”, “cost-saving”, “projects”, “goal”, “strategy”, “budget”, “forecast” or “might”, or words or terms of similar substance or the negative thereof, are forward looking statements. Forward looking statements include statements relating to the following: (i) future capital expenditures, expenses, revenues, earnings, synergies, economic performance, indebtedness, financial condition, dividend policy, losses and future prospects; (ii) business and management strategies and the expansion and growth of Cirrus Logic’s or Wolfson Microelectronics’ operations and potential synergies resulting from the Acquisition; and (iii) the effects of government regulation on Cirrus Logic’s or Wolfson Microelectronics’ business.
+The forward looking statements are not guarantees of future financial performance. Except as expressly provided on this Web Page, they have not been reviewed by the auditors of Cirrus Logic or Wolfson Microelectronics or their respective financial advisers. Such forward looking statements involve known and unknown risks and uncertainties that could significantly affect expected results and are based on certain key assumptions. Many factors could cause actual results to differ materially from those projected or implied in any forward looking statements. These factors include the satisfaction of conditions, as well as additional factors, such as: fluctuations in the capital markets; fluctuations in interest and exchange rates; increased regulation or regulatory scrutiny; the occurrence of unforeseen disasters or catastrophes; political or economic instability in principal markets; adverse outcomes in litigation; and general, local and global economic, political, business and market conditions. Other unknown or unpredictable factors could cause actual results to differ materially from those in the forward-looking statements. Such forward-looking statements should therefore be construed in the light of such factors. Neither Cirrus Logic nor Wolfson Microelectronics, nor any of their respective associates or directors, officers or advisers, provides any representation, assurance or guarantee that the occurrence of the events expressed or implied in any forward-looking statements on this Web Page will actually occur. Due to such uncertainties and risks, readers are cautioned not to place undue reliance on such forward looking statements, which speak only as of the date hereof. All subsequent oral or written forward looking statements attributable to Cirrus Logic or Wolfson Microelectronics or any of their respective members, directors, officers or employees or any persons acting on their behalf are expressly qualified in their entirety by the cautionary statement above. Cirrus Logic and Wolfson Microelectronics disclaim any obligation to update or revise any forward looking or other statements contained on this Web Page other than in accordance with their legal and regulatory obligations.
+Forward-looking statements only speak as of the date on which they are made, and the events discussed on this Web Page may not occur. Cirrus Logic does not undertake any obligation to update publicly or revise forward-looking statements, whether as a result of new information, future events or otherwise, except to the extent required by applicable law or regulation. 
+
+Overseas persons
+The materials found on this Web Page contain information in respect of the Acquisition. Viewing this information may be unlawful if you are resident in a Restricted Jurisdiction. In certain jurisdictions, including Restricted Jurisdictions, only certain categories of persons may be allowed to view such materials. Any person who wishes to view these materials must first satisfy themselves that they are not subject to any local requirements that prohibit or restrict them from doing so. If you are not permitted, or if you are in any doubt as to whether you are permitted, to view the information, please exit this Web Page by clicking on the “Decline” button at the top right of this page. 
+By choosing the “Accept” option, you represent that you are not a national of, or resident in, a Restricted Jurisdiction and that Cirrus Logic is lawfully entitled to make the content of any communication or document in relation to the Acquisition available to you under applicable securities laws. If you are unable to give this representation, do not view the content of any communication or document in relation to the Acquisition. 
+Copies of the contents of the following pages (including documents posted thereon) are not being, and must not be, directly or indirectly, released, mailed, transmitted or otherwise forwarded, distributed or sent, in whole or in part, in or into a Restricted Jurisdiction and persons receiving such documents (including, without limitation, custodians, nominees and trustees) should observe these restrictions and must not, directly or indirectly, mail, transmit or otherwise forward, distribute or send any such documents in, into or from any such jurisdiction, as doing so may invalidate any purported acceptance of the Acquisition. If you are not permitted to view materials on this Web Page or are in any doubt as to whether you are permitted to view these materials, please exit this Web Page and seek independent advice. Cirrus Logic and its advisers do not assume any responsibility for any violation by any person of any of these restrictions. 
+
+
+ACCEPTANCE OF DISCLAIMER
+
+By clicking on the “Accept” button at the bottom of this page, you hereby acknowledge that you have read and understood the notice set out above, that you are permitted to proceed to the Web Page and agree to be bound by its terms. 
+By clicking on the “Decline” button at the bottom of this page, you will not be able to proceed to the Web Page. 
+
+
+Decline
+Accept
+
+
+
+
+
+
+
+
+✕
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+« View all Press Releases
+
+
+Cirrus Logic Reports Q1 FY18 Revenue of $320.7 Million
+
+
+Aug 02, 2017
+
+View PDF ()
+
+
+Demand for Portable Audio Components Expected to Fuel Sequential
+      Growth in Q2 FY18
+
+ AUSTIN, Texas--(BUSINESS WIRE)--
+      Cirrus Logic, Inc. (Nasdaq: CRUS), a leader in high performance,
+      low-power ICs for audio and voice signal processing applications, today
+      posted on its investor relations website at http://investor.cirrus.com
+      the quarterly Shareholder Letter that contains the complete financial
+      results for the first quarter fiscal year 2018, which ended June 24,
+      2017, as well as the company’s current business outlook.
+    
+
+      “Cirrus Logic delivered solid results in the June quarter as demand for
+      portable audio products was in line with expectations,” said Jason
+      Rhode, president and chief executive officer. “We are extremely pleased
+      as design activity remained strong across our portfolio and we achieved
+      several new product development milestones over the past several months.
+      As demand for innovative audio and voice solutions continues to increase
+      across a wide range of end markets we believe our diversified product
+      portfolio and roadmap will continue to position us for success for many
+      years to come.”
+    
+
+Reported Financial Results – First Quarter FY18
+
+
+
+        Revenue of $320.7 million;
+      
+
+        GAAP gross margin of 50.4 percent and non-GAAP gross margin of 50.5
+        percent;
+      
+
+        GAAP operating expenses of $114.4 million and non-GAAP operating
+        expenses of $95.8 million; and
+      
+
+        GAAP diluted earnings per share of $0.64 and non-GAAP diluted earnings
+        per share of $0.81.
+      
+
+
+
+
+      A reconciliation of the non-GAAP charges is included in the tables
+      accompanying this press release.
+    
+
+Business Outlook – Second Quarter FY18
+
+
+
+        Revenue is expected to range between $390 million and $430 million;
+      
+
+        GAAP gross margin is expected to be between 48 percent and 50 percent;
+        and
+      
+
+        Combined GAAP R&D and SG&A expenses are expected to range between $119
+        million and $125 million, which includes approximately $13 million in
+        share-based compensation and $12 million in amortization of acquired
+        intangibles.
+      
+
+
+Cirrus Logic will host a live Q&A session at 5 p.m. EDT today to answer
+      questions related to its financial results and business outlook.
+      Participants may listen to the conference call on the Cirrus
+      Logic website. Participants who would like to submit a question to
+      be addressed during the call are requested to email investor.relations@cirrus.com.
+      A replay of the webcast can be accessed on the Cirrus Logic website
+      approximately two hours following its completion, or by calling (416)
+      621-4642, or toll-free at (800) 585-8367 (Access Code: 47484323).
+    
+
+Cirrus Logic, Inc.
+
+
+      Cirrus Logic is a leader in high performance, low-power ICs for audio
+      and voice signal processing applications. Cirrus Logic’s products span
+      the entire audio signal chain, from capture to playback, providing
+      innovative products for the world’s top smartphones, tablets, digital
+      headsets, wearables and emerging smart home applications. With
+      headquarters in Austin, Texas, Cirrus Logic is recognized globally for
+      its award-winning corporate culture. Check us out at www.cirrus.com.
+    
+
+Use of non-GAAP Financial Information
+
+
+To supplement Cirrus Logic's financial statements presented on a GAAP
+      basis, Cirrus has provided non-GAAP financial information, including
+      non-GAAP net income, diluted earnings per share, operating income,
+      operating expenses, gross margins, tax expenses and tax expense impact
+      on earnings per share. A reconciliation of the adjustments to GAAP
+      results is included in the tables below. Non-GAAP financial information
+      is not meant as a substitute for GAAP results, but is included because
+      management believes such information is useful to our investors for
+      informational and comparative purposes. In addition, certain non-GAAP
+      financial information is used internally by management to evaluate and
+      manage the company. The non-GAAP financial information used by Cirrus
+      Logic may differ from that used by other companies. These
+      non-GAAP measures should be considered in addition to, and not as a
+      substitute for, the results prepared in accordance with GAAP.
+
+
+Safe Harbor Statement
+
+
+Except for historical information contained herein, the matters set
+      forth in this news release contain forward-looking statements including
+      our estimates of second quarter fiscal year 2018 revenue, gross margin,
+      combined research and development and selling, general and
+      administrative expense levels, share-based compensation expense and
+      amortization of acquired intangibles. In some cases, forward-looking
+      statements are identified by words such as “expect,” “anticipate,”
+      “target,” “project,” “believe,” “goals,” “opportunity,” “estimates,”
+      “intend,” and variations of these types of words and similar expressions.
+In addition, any statements that refer to our plans, expectations,
+      strategies or other characterizations of future events or circumstances
+      are forward-looking statements. These forward-looking statements
+      are based on our current expectations, estimates and assumptions and are
+      subject to certain risks and uncertainties that could cause actual
+      results to differ materially. These risks and uncertainties include, but
+      are not limited to, the following: the level of orders and shipments
+      during the second quarter of fiscal year 2018, customer cancellations of
+      orders, or the failure to place orders consistent with forecasts, along
+      with the timing and success of new product ramps; and the risk factors
+      listed in our Form 10-K for the year ended March 25, 2017 and in our
+      other filings with the Securities and Exchange Commission, which are
+      available at www.sec.gov.
+      The foregoing information concerning our business outlook represents our
+      outlook as of the date of this news release, and we undertake no
+      obligation to update or revise any forward-looking statements, whether
+      as a result of new developments or otherwise.
+
+
+Cirrus Logic and Cirrus are registered trademarks of Cirrus Logic, Inc.
+      All other company or product names noted herein may be trademarks of
+      their respective holders.
+    
+
+Summary financial data follows:
+
+
+
+
+
+
+           
+        
+
+           
+        
+
+           
+        
+
+
+
+           
+        
+
+           
+        
+
+
+
+           
+        
+
+           
+        
+
+
+
+
+
+CONSOLIDATED CONDENSED STATEMENT OF OPERATIONS
+
+
+
+
+(unaudited)
+
+
+
+
+(in thousands, except per share data)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+
+
+
+
+
+
+
+
+Three Months Ended
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+
+
+
+
+
+
+
+
+Jun. 24,
+
+
+
+
+
+
+Mar. 25,
+
+
+
+
+
+
+Jun. 25,
+
+
+
+
+
+
+
+
+
+
+
+
+2017
+
+
+
+
+
+
+2017
+
+
+
+
+
+
+2016
+
+
+
+
+
+
+
+
+
+
+
+
+Q1'18
+
+
+
+
+
+
+Q4'17
+
+
+
+
+
+
+Q1'17
+
+
+
+
+          Portable audio products
+        
+
+
+
+
+
+
+
+          $
+        
+
+          280,688
+        
+
+
+
+
+
+
+
+          $
+        
+
+          290,658
+        
+
+
+
+
+
+
+
+          $
+        
+
+          216,068
+        
+
+
+
+
+
+          Non-portable audio and other products
+        
+
+
+
+
+
+
+
+           
+        
+
+          40,047
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          37,206
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          43,360
+        
+
+           
+        
+
+
+
+Net sales
+
+
+
+
+
+
+
+
+           
+        
+
+320,735
+
+
+           
+        
+
+
+
+
+
+           
+        
+
+327,864
+
+
+           
+        
+
+
+
+
+
+           
+        
+
+259,428
+
+
+           
+        
+
+
+
+          Cost of sales
+        
+
+
+
+
+
+
+
+           
+        
+
+          159,019
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          163,585
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          132,743
+        
+
+           
+        
+
+
+
+Gross profit
+
+
+
+
+
+
+
+
+
+
+161,716
+
+
+
+
+
+
+
+
+
+
+164,279
+
+
+
+
+
+
+
+
+
+
+126,685
+
+
+
+
+
+
+Gross margin
+
+
+
+
+
+
+
+
+
+
+50.4
+
+
+%
+
+
+
+
+
+
+
+
+50.1
+
+
+%
+
+
+
+
+
+
+
+
+48.8
+
+
+%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+          Research and development
+        
+
+
+
+
+
+
+
+
+
+          83,557
+        
+
+
+
+
+
+
+
+
+
+          77,972
+        
+
+
+
+
+
+
+
+
+
+          73,934
+        
+
+
+
+
+
+          Selling, general and administrative
+        
+
+
+
+
+
+
+
+
+
+          30,859
+        
+
+
+
+
+
+
+
+
+
+          31,752
+        
+
+
+
+
+
+
+
+
+
+          30,540
+        
+
+
+
+
+
+          Asset impairment
+        
+
+
+
+
+
+
+
+           
+        
+
+          -
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          9,842
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          -
+        
+
+           
+        
+
+
+
+          Total operating expenses
+        
+
+
+
+
+
+
+
+           
+        
+
+          114,416
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          119,566
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          104,474
+        
+
+           
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+Income from operations
+
+
+
+
+
+
+
+
+
+
+47,300
+
+
+
+
+
+
+
+
+
+
+44,713
+
+
+
+
+
+
+
+
+
+
+22,211
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+          Interest income (expense), net
+        
+
+
+
+
+
+
+
+
+
+          594
+        
+
+
+
+
+
+
+
+
+
+          118
+        
+
+
+
+
+
+
+
+
+
+          (689
+        
+
+          )
+        
+
+
+
+          Other income (expense), net
+        
+
+
+
+
+
+
+
+           
+        
+
+          (19
+        
+
+          )
+        
+
+
+
+
+
+           
+        
+
+          82
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          147
+        
+
+           
+        
+
+
+
+Income before income taxes
+
+
+
+
+
+
+
+
+
+
+47,875
+
+
+
+
+
+
+
+
+
+
+44,913
+
+
+
+
+
+
+
+
+
+
+21,669
+
+
+
+
+
+
+          Provision for income taxes*
+        
+
+
+
+
+
+
+
+           
+        
+
+          4,963
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          9,855
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          3,598
+        
+
+           
+        
+
+
+
+Net income*
+
+
+
+
+
+
+
+
+$
+
+
+42,912
+
+
+           
+        
+
+
+
+
+
+$
+
+
+35,058
+
+
+           
+        
+
+
+
+
+
+$
+
+
+18,071
+
+
+           
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+          Basic earnings per share*:
+        
+
+
+
+
+
+
+
+          $
+        
+
+          0.67
+        
+
+
+
+
+
+
+
+          $
+        
+
+          0.55
+        
+
+
+
+
+
+
+
+          $
+        
+
+          0.29
+        
+
+
+
+
+
+          Diluted earnings per share*:
+        
+
+
+
+
+
+
+
+          $
+        
+
+          0.64
+        
+
+
+
+
+
+
+
+          $
+        
+
+          0.52
+        
+
+
+
+
+
+
+
+          $
+        
+
+          0.27
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+          Weighted average number of shares:
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Basic
+        
+
+
+
+
+
+
+
+
+
+          64,097
+        
+
+
+
+
+
+
+
+
+
+          64,232
+        
+
+
+
+
+
+
+
+
+
+          62,450
+        
+
+
+
+
+
+          Diluted*
+        
+
+
+
+
+
+
+
+
+
+          67,160
+        
+
+
+
+
+
+
+
+
+
+          67,062
+        
+
+
+
+
+
+
+
+
+
+          65,723
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+
+
+
+*Q1 FY17 results have been updated to reflect Cirrus Logic’s
+            adoption of the Accounting Standards Update (ASU) 2016-09,
+            Compensation - Stock Compensation (Topic 718): Improvements to
+            Employee Share-Based Payment Accounting. The adoption of this
+            guidance impacted our previously reported quarterly results.
+
+
+
+
+
+           
+        
+
+
+
+
+Prepared in accordance with Generally Accepted Accounting
+            Principles
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+
+RECONCILIATION BETWEEN GAAP AND NON-GAAP FINANCIAL INFORMATION
+
+
+
+
+
+
+(unaudited, in thousands, except per share data)
+
+
+
+
+
+
+(not prepared in accordance with GAAP)
+
+
+
+
+
+           
+        
+
+
+
+
+Non-GAAP financial information is not meant as a substitute for
+            GAAP results, but is included because management believes such
+            information is useful to our investors for informational and
+            comparative purposes. In addition, certain non-GAAP financial
+            information is used internally by management to evaluate and
+            manage the company. As a note, the non-GAAP financial information
+            used by Cirrus Logic may differ from that used by other companies.
+            These non-GAAP measures should be considered in addition to, and
+            not as a substitute for, the results prepared in accordance with
+            GAAP.
+
+
+
+
+
+
+
+
+
+           
+        
+
+           
+        
+
+           
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Three Months Ended
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+           
+        
+
+
+
+           
+        
+
+           
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jun. 24,
+
+
+
+
+
+
+Mar. 25,
+
+
+
+
+
+
+Jun. 25,
+
+
+
+
+
+
+
+
+
+
+
+
+2017
+
+
+
+
+
+
+2017
+
+
+
+
+
+
+2016
+
+
+
+
+Net Income Reconciliation
+
+
+
+
+
+
+
+
+Q1'18
+
+
+
+
+
+
+Q4'17
+
+
+
+
+
+
+Q1'17
+
+
+
+
+GAAP Net Income*
+
+
+
+
+
+
+
+
+$
+
+
+42,912
+
+
+
+
+
+
+
+
+$
+
+
+35,058
+
+
+
+
+
+
+
+
+$
+
+
+18,071
+
+
+
+
+
+
+          Amortization of acquisition intangibles
+        
+
+
+
+
+
+
+
+
+
+          11,600
+        
+
+
+
+
+
+
+
+
+
+          8,255
+        
+
+
+
+
+
+
+
+
+
+          8,363
+        
+
+
+
+
+
+          Stock based compensation expense
+        
+
+
+
+
+
+
+
+
+
+          11,403
+        
+
+
+
+
+
+
+
+
+
+          10,888
+        
+
+
+
+
+
+
+
+
+
+          9,310
+        
+
+
+
+
+
+          Acquisition-related items
+        
+
+
+
+
+
+
+
+
+
+          (4,048
+        
+
+          )
+        
+
+
+
+
+
+
+
+          -
+        
+
+
+
+
+
+
+
+
+
+          -
+        
+
+
+
+
+
+          Asset impairment
+        
+
+
+
+
+
+
+
+
+
+          -
+        
+
+
+
+
+
+
+
+
+
+          9,842
+        
+
+
+
+
+
+
+
+
+
+          -
+        
+
+
+
+
+
+          Adjustment to income taxes
+        
+
+
+
+
+
+
+
+           
+        
+
+          (7,257
+        
+
+          )
+        
+
+
+
+
+
+           
+        
+
+          (7,289
+        
+
+          )
+        
+
+
+
+
+
+           
+        
+
+          (6,846
+        
+
+          )
+        
+
+
+
+Non-GAAP Net Income*
+
+
+
+
+
+
+
+
+$
+
+
+54,610
+
+
+           
+        
+
+
+
+
+
+$
+
+
+56,754
+
+
+           
+        
+
+
+
+
+
+$
+
+
+28,898
+
+
+           
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+Earnings Per Share Reconciliation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GAAP Diluted earnings per share*
+
+
+
+
+
+
+
+
+$
+
+
+0.64
+
+
+
+
+
+
+
+
+$
+
+
+0.52
+
+
+
+
+
+
+
+
+$
+
+
+0.27
+
+
+
+
+
+
+          Effect of Amortization of acquisition intangibles
+        
+
+
+
+
+
+
+
+
+
+          0.17
+        
+
+
+
+
+
+
+
+
+
+          0.13
+        
+
+
+
+
+
+
+
+
+
+          0.13
+        
+
+
+
+
+
+          Effect of Stock based compensation expense
+        
+
+
+
+
+
+
+
+
+
+          0.17
+        
+
+
+
+
+
+
+
+
+
+          0.16
+        
+
+
+
+
+
+
+
+
+
+          0.14
+        
+
+
+
+
+
+          Effect of Acquisition-related items
+        
+
+
+
+
+
+
+
+
+
+          (0.06
+        
+
+          )
+        
+
+
+
+
+
+
+
+          -
+        
+
+
+
+
+
+
+
+
+
+          -
+        
+
+
+
+
+
+          Effect of Asset impairment
+        
+
+
+
+
+
+
+
+
+
+          -
+        
+
+
+
+
+
+
+
+
+
+          0.15
+        
+
+
+
+
+
+
+
+
+
+          -
+        
+
+
+
+
+
+          Effect of Adjustment to income taxes
+        
+
+
+
+
+
+
+
+           
+        
+
+          (0.11
+        
+
+          )
+        
+
+
+
+
+
+           
+        
+
+          (0.11
+        
+
+          )
+        
+
+
+
+
+
+           
+        
+
+          (0.10
+        
+
+          )
+        
+
+
+
+Non-GAAP Diluted earnings per share*
+
+
+
+
+
+
+
+
+$
+
+
+0.81
+
+
+           
+        
+
+
+
+
+
+$
+
+
+0.85
+
+
+           
+        
+
+
+
+
+
+$
+
+
+0.44
+
+
+           
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+Operating Income Reconciliation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GAAP Operating Income
+
+
+
+
+
+
+
+
+$
+
+
+47,300
+
+
+
+
+
+
+
+
+$
+
+
+44,713
+
+
+
+
+
+
+
+
+$
+
+
+22,211
+
+
+
+
+
+
+GAAP Operating Profit
+
+
+
+
+
+
+
+
+
+
+15
+
+
+%
+
+
+
+
+
+
+
+
+14
+
+
+%
+
+
+
+
+
+
+
+
+9
+
+
+%
+
+
+
+
+          Amortization of acquisition intangibles
+        
+
+
+
+
+
+
+
+
+
+          11,600
+        
+
+
+
+
+
+
+
+
+
+          8,255
+        
+
+
+
+
+
+
+
+
+
+          8,363
+        
+
+
+
+
+
+          Stock compensation expense - COGS
+        
+
+
+
+
+
+
+
+
+
+          338
+        
+
+
+
+
+
+
+
+
+
+          324
+        
+
+
+
+
+
+
+
+
+
+          230
+        
+
+
+
+
+
+          Stock compensation expense - R&D
+        
+
+
+
+
+
+
+
+
+
+          6,260
+        
+
+
+
+
+
+
+
+
+
+          5,987
+        
+
+
+
+
+
+
+
+
+
+          5,216
+        
+
+
+
+
+
+          Stock compensation expense - SG&A
+        
+
+
+
+
+
+
+
+
+
+          4,805
+        
+
+
+
+
+
+
+
+
+
+          4,577
+        
+
+
+
+
+
+
+
+
+
+          3,864
+        
+
+
+
+
+
+          Acquisition-related items
+        
+
+
+
+
+
+
+
+
+
+          (4,048
+        
+
+          )
+        
+
+
+
+
+
+
+
+          -
+        
+
+
+
+
+
+
+
+
+
+          -
+        
+
+
+
+
+
+          Asset impairment
+        
+
+
+
+
+
+
+
+           
+        
+
+          -
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          9,842
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          -
+        
+
+           
+        
+
+
+
+Non-GAAP Operating Income
+
+
+
+
+
+
+
+
+$
+
+
+66,255
+
+
+           
+        
+
+
+
+
+
+$
+
+
+73,698
+
+
+           
+        
+
+
+
+
+
+$
+
+
+39,884
+
+
+           
+        
+
+
+
+Non-GAAP Operating Profit
+
+
+
+
+
+
+
+
+
+
+21
+
+
+%
+
+
+
+
+
+
+
+
+22
+
+
+%
+
+
+
+
+
+
+
+
+15
+
+
+%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+Operating Expense Reconciliation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GAAP Operating Expenses
+
+
+
+
+
+
+
+
+$
+
+
+114,416
+
+
+
+
+
+
+
+
+$
+
+
+119,566
+
+
+
+
+
+
+
+
+$
+
+
+104,474
+
+
+
+
+
+
+          Amortization of acquisition intangibles
+        
+
+
+
+
+
+
+
+
+
+          (11,600
+        
+
+          )
+        
+
+
+
+
+
+
+
+          (8,255
+        
+
+          )
+        
+
+
+
+
+
+
+
+          (8,363
+        
+
+          )
+        
+
+
+
+          Stock compensation expense - R&D
+        
+
+
+
+
+
+
+
+
+
+          (6,260
+        
+
+          )
+        
+
+
+
+
+
+
+
+          (5,987
+        
+
+          )
+        
+
+
+
+
+
+
+
+          (5,216
+        
+
+          )
+        
+
+
+
+          Stock compensation expense - SG&A
+        
+
+
+
+
+
+
+
+
+
+          (4,805
+        
+
+          )
+        
+
+
+
+
+
+
+
+          (4,577
+        
+
+          )
+        
+
+
+
+
+
+
+
+          (3,864
+        
+
+          )
+        
+
+
+
+          Acquisition-related items
+        
+
+
+
+
+
+
+
+
+
+          4,048
+        
+
+
+
+
+
+
+
+
+
+          -
+        
+
+
+
+
+
+
+
+
+
+          -
+        
+
+
+
+
+
+          Asset impairment
+        
+
+
+
+
+
+
+
+           
+        
+
+          -
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          (9,842
+        
+
+          )
+        
+
+
+
+
+
+           
+        
+
+          -
+        
+
+           
+        
+
+
+
+Non-GAAP Operating Expenses
+
+
+
+
+
+
+
+
+$
+
+
+95,799
+
+
+           
+        
+
+
+
+
+
+$
+
+
+90,905
+
+
+           
+        
+
+
+
+
+
+$
+
+
+87,031
+
+
+           
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+Gross Margin/Profit Reconciliation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GAAP Gross Profit
+
+
+
+
+
+
+
+
+$
+
+
+161,716
+
+
+
+
+
+
+
+
+$
+
+
+164,279
+
+
+
+
+
+
+
+
+$
+
+
+126,685
+
+
+
+
+
+
+GAAP Gross Margin
+
+
+
+
+
+
+
+
+
+
+50.4
+
+
+%
+
+
+
+
+
+
+
+
+50.1
+
+
+%
+
+
+
+
+
+
+
+
+48.8
+
+
+%
+
+
+
+
+          Stock compensation expense - COGS
+        
+
+
+
+
+
+
+
+           
+        
+
+          338
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          324
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          230
+        
+
+           
+        
+
+
+
+Non-GAAP Gross Profit
+
+
+
+
+
+
+
+
+$
+
+
+162,054
+
+
+           
+        
+
+
+
+
+
+$
+
+
+164,603
+
+
+           
+        
+
+
+
+
+
+$
+
+
+126,915
+
+
+           
+        
+
+
+
+Non-GAAP Gross Margin
+
+
+
+
+
+
+
+
+
+
+50.5
+
+
+%
+
+
+
+
+
+
+
+
+50.2
+
+
+%
+
+
+
+
+
+
+
+
+48.9
+
+
+%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+Effective Tax Rate Reconciliation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GAAP Tax Expense*
+
+
+
+
+
+
+
+
+$
+
+
+4,963
+
+
+
+
+
+
+
+
+$
+
+
+9,855
+
+
+
+
+
+
+
+
+$
+
+
+3,598
+
+
+
+
+
+
+GAAP Effective Tax Rate
+
+
+
+
+
+
+
+
+
+
+10.4
+
+
+%
+
+
+
+
+
+
+
+
+21.9
+
+
+%
+
+
+
+
+
+
+
+
+16.6
+
+
+%
+
+
+
+
+          Adjustments to income taxes
+        
+
+
+
+
+
+
+
+           
+        
+
+          7,257
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          7,289
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          6,846
+        
+
+           
+        
+
+
+
+Non-GAAP Tax Expense*
+
+
+
+
+
+
+
+
+$
+
+
+12,220
+
+
+           
+        
+
+
+
+
+
+$
+
+
+17,144
+
+
+           
+        
+
+
+
+
+
+$
+
+
+10,444
+
+
+           
+        
+
+
+
+Non-GAAP Effective Tax Rate
+
+
+
+
+
+
+
+
+
+
+18.3
+
+
+%
+
+
+
+
+
+
+
+
+23.2
+
+
+%
+
+
+
+
+
+
+
+
+26.5
+
+
+%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+Tax Impact to EPS Reconciliation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GAAP Tax Expense*
+
+
+
+
+
+
+
+
+$
+
+
+0.07
+
+
+
+
+
+
+
+
+$
+
+
+0.15
+
+
+
+
+
+
+
+
+$
+
+
+0.05
+
+
+
+
+
+
+          Adjustments to income taxes
+        
+
+
+
+
+
+
+
+           
+        
+
+          0.11
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          0.11
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          0.10
+        
+
+           
+        
+
+
+
+Non-GAAP Tax Expense*
+
+
+
+
+
+
+
+
+$
+
+
+0.18
+
+
+           
+        
+
+
+
+
+
+$
+
+
+0.26
+
+
+           
+        
+
+
+
+
+
+$
+
+
+0.15
+
+
+           
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+
+
+
+*Q1 FY17 results have been updated to reflect Cirrus Logic’s
+            adoption of the Accounting Standards Update (ASU) 2016-09,
+            Compensation - Stock Compensation (Topic 718): Improvements to
+            Employee Share-Based Payment Accounting. The adoption of this
+            guidance impacted our previously reported quarterly results.
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+           
+        
+
+           
+        
+
+
+
+           
+        
+
+           
+        
+
+
+
+           
+        
+
+           
+        
+
+
+
+
+
+
+CONSOLIDATED CONDENSED BALANCE SHEET
+
+
+
+
+
+unaudited; in thousands
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+
+
+
+
+
+
+
+
+Jun. 24,
+
+
+
+
+
+
+Mar. 25,
+
+
+
+
+
+
+Jun. 25,
+
+
+
+
+
+
+
+
+
+
+
+
+2017
+
+
+
+
+
+
+2017
+
+
+
+
+
+
+2016
+
+
+
+
+          ASSETS
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Current assets
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Cash and cash equivalents
+        
+
+
+
+
+
+
+
+          $
+        
+
+          163,918
+        
+
+
+
+
+
+
+
+          $
+        
+
+          351,166
+        
+
+
+
+
+
+
+
+          $
+        
+
+          143,591
+        
+
+
+
+
+
+          Marketable securities
+        
+
+
+
+
+
+
+
+
+
+          11,380
+        
+
+
+
+
+
+
+
+
+
+          99,813
+        
+
+
+
+
+
+
+
+
+
+          91,090
+        
+
+
+
+
+
+          Accounts receivable, net
+        
+
+
+
+
+
+
+
+
+
+          162,437
+        
+
+
+
+
+
+
+
+
+
+          119,974
+        
+
+
+
+
+
+
+
+
+
+          140,893
+        
+
+
+
+
+
+          Inventories
+        
+
+
+
+
+
+
+
+
+
+          202,429
+        
+
+
+
+
+
+
+
+
+
+          167,895
+        
+
+
+
+
+
+
+
+
+
+          154,043
+        
+
+
+
+
+
+          Other current assets
+        
+
+
+
+
+
+
+
+           
+        
+
+          38,342
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          37,080
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          44,106
+        
+
+           
+        
+
+
+
+          Total current Assets
+        
+
+
+
+
+
+
+
+
+
+          578,506
+        
+
+
+
+
+
+
+
+
+
+          775,928
+        
+
+
+
+
+
+
+
+
+
+          573,723
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+          Long-term marketable securities
+        
+
+
+
+
+
+
+
+
+
+          134,851
+        
+
+
+
+
+
+
+
+
+
+          -
+        
+
+
+
+
+
+
+
+
+
+          3,923
+        
+
+
+
+
+
+          Property and equipment, net
+        
+
+
+
+
+
+
+
+
+
+          170,829
+        
+
+
+
+
+
+
+
+
+
+          168,139
+        
+
+
+
+
+
+
+
+
+
+          160,875
+        
+
+
+
+
+
+          Intangibles, net
+        
+
+
+
+
+
+
+
+
+
+          143,107
+        
+
+
+
+
+
+
+
+
+
+          135,188
+        
+
+
+
+
+
+
+
+
+
+          156,949
+        
+
+
+
+
+
+          Goodwill
+        
+
+
+
+
+
+
+
+
+
+          287,049
+        
+
+
+
+
+
+
+
+
+
+          286,767
+        
+
+
+
+
+
+
+
+
+
+          287,518
+        
+
+
+
+
+
+          Deferred tax asset*
+        
+
+
+
+
+
+
+
+
+
+          31,971
+        
+
+
+
+
+
+
+
+
+
+          32,841
+        
+
+
+
+
+
+
+
+
+
+          34,085
+        
+
+
+
+
+
+          Other assets
+        
+
+
+
+
+
+
+
+           
+        
+
+          20,337
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          14,607
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          14,776
+        
+
+           
+        
+
+
+
+          Total assets
+        
+
+
+
+
+
+
+
+          $
+        
+
+          1,366,650
+        
+
+           
+        
+
+
+
+
+
+          $
+        
+
+          1,413,470
+        
+
+           
+        
+
+
+
+
+
+          $
+        
+
+          1,231,849
+        
+
+           
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+          LIABILITIES AND STOCKHOLDERS' EQUITY
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Current liabilities
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Accounts payable
+        
+
+
+
+
+
+
+
+          $
+        
+
+          85,995
+        
+
+
+
+
+
+
+
+          $
+        
+
+          73,811
+        
+
+
+
+
+
+
+
+          $
+        
+
+          105,138
+        
+
+
+
+
+
+          Accrued salaries and benefits
+        
+
+
+
+
+
+
+
+
+
+          31,113
+        
+
+
+
+
+
+
+
+
+
+          40,190
+        
+
+
+
+
+
+
+
+
+
+          21,854
+        
+
+
+
+
+
+          Other accrued liabilities
+        
+
+
+
+
+
+
+
+           
+        
+
+          28,767
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          30,074
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          31,068
+        
+
+           
+        
+
+
+
+          Total current liabilities
+        
+
+
+
+
+
+
+
+
+
+          145,875
+        
+
+
+
+
+
+
+
+
+
+          144,075
+        
+
+
+
+
+
+
+
+
+
+          158,060
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+          Long-term debt
+        
+
+
+
+
+
+
+
+
+
+          -
+        
+
+
+
+
+
+
+
+
+
+          60,000
+        
+
+
+
+
+
+
+
+
+
+          160,439
+        
+
+
+
+
+
+          Other long-term liabilities*
+        
+
+
+
+
+
+
+
+
+
+          60,070
+        
+
+
+
+
+
+
+
+
+
+          57,703
+        
+
+
+
+
+
+
+
+
+
+          34,290
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+          Stockholders' equity:
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Capital stock*
+        
+
+
+
+
+
+
+
+
+
+          1,272,570
+        
+
+
+
+
+
+
+
+
+
+          1,259,279
+        
+
+
+
+
+
+
+
+
+
+          1,215,209
+        
+
+
+
+
+
+          Accumulated deficit*
+        
+
+
+
+
+
+
+
+
+
+          (112,258
+        
+
+          )
+        
+
+
+
+
+
+
+
+          (107,014
+        
+
+          )
+        
+
+
+
+
+
+
+
+          (336,708
+        
+
+          )
+        
+
+
+
+          Accumulated other comprehensive income (loss)
+        
+
+
+
+
+
+
+
+           
+        
+
+          393
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          (573
+        
+
+          )
+        
+
+
+
+
+
+           
+        
+
+          559
+        
+
+           
+        
+
+
+
+          Total stockholders' equity
+        
+
+
+
+
+
+
+
+           
+        
+
+          1,160,705
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          1,151,692
+        
+
+           
+        
+
+
+
+
+
+           
+        
+
+          879,060
+        
+
+           
+        
+
+
+
+          Total liabilities and stockholders' equity
+        
+
+
+
+
+
+
+
+          $
+        
+
+          1,366,650
+        
+
+           
+        
+
+
+
+
+
+          $
+        
+
+          1,413,470
+        
+
+           
+        
+
+
+
+
+
+          $
+        
+
+          1,231,849
+        
+
+           
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           
+        
+
+
+
+
+
+
+*Q1 FY17 results have been updated to reflect Cirrus Logic’s
+            adoption of the Accounting Standards Update (ASU) 2016-09,
+            Compensation - Stock Compensation (Topic 718): Improvements to
+            Employee Share-Based Payment Accounting. The adoption of this
+            guidance impacted our previously reported quarterly results.
+
+
+
+
+
+           
+        
+
+
+
+
+Prepared in accordance with Generally Accepted Accounting
+            Principles
+
+
+
+
+
+
+View source version on businesswire.com: http://www.businesswire.com/news/home/20170802005317/en/
+Source: Cirrus Logic, Inc.
+
+      Cirrus Logic, Inc.Thurman K. Case, 512-851-4125Chief
+      Financial OfficerInvestor.Relations@cirrus.com
+
+
+
+
+
+
+
+
+
+« View all Press Releases
+
+
+
+
+
+
+
+
+Contact IR
+
+
+
+Follow Us
+
+
+
+
+
+Get Printed Materials
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get Updates
+
+
+
+First Name *
+
+
+
+
+
+
+Email Address
+
+
+*
+
+
+
+
+
+
+
+
+Mailing Lists
+*
+
+
+
+
+
+
+Press Release
+
+SEC Filing
+
+Event
+
+Financial Reports
+
+Ask the CEO
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Enter the code shown above.
+
+
+
+*
+
+
+
+
+
+
+
+
+
+
+Unsubscribe
+
+
+
+
+
+
+
+Safe-Harbor Statement
+Except for historical facts and information therein, statements contained in the “Answers to Frequently Asked Questions” section of Cirrus Logic’s Investor web site include plans, goals and expectations regarding businesses and opportunities, new or existing business strategies, and future financial results. These statements are “forward looking” statements as contemplated by the Private Securities Litigation Reform Act of 1995. Such forward-looking statements are subject to risks and uncertainties, including, but not limited to, changes in general market conditions, a reduction in the level of orders and shipments, loss of a key customer, and the risk factors listed in our Form 10-K for the most recent fiscal year, and in other filings with the Securities and Exchange Commission. Accordingly, actual results may differ materially from those projected or implied in the forward-looking statements. We undertake no obligation to update or revise any forward-looking statements, whether as a result of new developments or otherwise.
+Please click to acknowledge that you have read and understand the Safe-Harbor Statement.
+
+Decline
+Acknowledge
+
+
+
+
+
+
+
+
+
+
+Disclaimer
+Please note that you are now entering a website directly or indirectly maintained by a third party (the "External Site") and that you do so at your own risk.
+Cirrus Logic, Inc. (“CRUS”) has no control over the External Site, any data or other content contained therein or any additional linked websites. The link to the External Site is provided for convenience purposes only.
+By clicking “Accept” you acknowledge and agree that neither CRUS nor third party provider Virtua Research, Inc. (“Virtua) is responsible, or accepts or assumes any responsibility or liability whatsoever for, the content, the data or the technical operation of the Linked Site. Further, by entering the External Site, you also acknowledge and agree that you completely and irrevocably waive any and all rights and claims against CRUS and Virtua and further acknowledge and agree that in no event shall CRUS or Virtua, its officers, employees, directors and agents be liable for any (i) indirect, consequential, incidental, special, compensatory or punitive damages, (ii) damages for loss of income, loss of business profits, business interruption, loss of data or business information, loss of or damage to property, (iii) claims of third parties, or (iv) other pecuniary loss, arising out of or related to the Legal Notice, this disclaimer or the External Site.
+By entering the External Site, you further acknowledge and agree that the disclaimer of warranties and limitations of liability set out in this disclaimer shall apply regardless of the causes, circumstances or form of action giving rise to the loss, damage, claim or liability, even if such loss, damage, claim or liability is based upon breach of contract (including, without limitation, a claim of fundamental breach or breach of a fundamental term), tort (including, without limitation, negligence), strict liability or any other legal or equitable theory, and even if CRUS and Virtua are advised of the possibility of the loss, damage, claim or liability. The waiver and release specifically includes, without limitation, any and all rights and claims pertaining to the processing of personal data, including but not limited to any rights under any applicable data protection statute(s).
+If in any jurisdiction, any part of this disclaimer is held to be unenforceable by a court of competent jurisdiction, such part of this disclaimer shall be restricted or eliminated to the minimum extent and the remaining disclaimer shall otherwise remain in full force and effect.
+Please note the information presented is deemed representative at the time of its original release. Changes in historical information may occur due to adjustments in accounting and reporting standards & procedures.
+
+Non-GAAP Information
+In addition to disclosing results determined in accordance with GAAP, we may also disclose certain non-GAAP results of operations, including certain ratios, operational and miscellaneous data, as well as net income, diluted earnings per share, operating expenses, and operating income that make certain adjustments or exclude certain charges and gains that are outlined in the schedules included in this website. Management believes that this non-GAAP information provides investors with additional information to assess our operating performance by making certain adjustments or excluding costs or gains and assists investors in comparing our operating performance to prior periods. Management uses this non-GAAP information, along with GAAP information, in evaluating its historical operating performance. Cirrus Logic and Virtua also take no responsibility for third-party pricing data provided for informational purposes and certain ratio results formulated from the provided third-party pricing data.
+The non-GAAP information is not prepared in accordance with GAAP and may not be comparable to non-GAAP information used by other companies. The non-GAAP information should not be viewed as a substitute for, or superior to, other data prepared in accordance with GAAP.
+
+Decline
+Accept
+
+
+
+
+
+
+
+
+
+
+
+
+Product Categories
+Mobile Audio Devices
+Smart Home
+Speakers
+Wearables
+Headsets
+
+
+Solutions
+Voice
+Playback
+Record
+Control
+
+
+
+Support
+Codecs
+MEMS Microphones
+Amplifiers
+Voice Solutions
+Playback Solutions
+Record Solutions
+Control Solutions
+Professional Service Partners
+Software Partners
+Software and Tools
+
+
+Audio DSP Tools
+
+FlexGUI Mixed Signal Audio Software
+WISCE Development Tools Suite
+
+Sample Center
+
+
+
+Company
+About Us
+Investor Relations
+Quality and Reliability
+Media Center
+
+
+
+
+Careers
+Search Open Jobs
+Hardware Engineering Opportunities
+Software Engineering Opportunities
+Corporate Opportunities
+Students & Graduates
+Benefits and Perks
+Culture of Innovation
+Locations
+
+
+
+
+
+
+
+
+
+© 2017 Cirrus Logic.
+Privacy Policy
+Legal
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+Powered By Q4 Inc. 4.5.0.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cirrus Logic, Inc.|Cirrus Logic
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+菜单
+搜索
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+语音互联世界的音频专家
+
+
+
+
+了解完整的音频信号链
+
+
+
+高保真 (HiFi) 音频体验
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+音频专家
+
+
+
+
+
+
+
+语音互联世界的音频专家
+
+
+
+
+
+
+
+
+
+
+音频解决方案
+
+
+
+
+
+
+
+了解完整的音频信号链
+
+
+
+
+
+
+
+
+
+
+高保真 (HiFi) 音频
+
+
+
+
+
+
+
+高保真 (HiFi) 音频体验
+
+
+
+
+
+
+
+
+
+
+新闻
+Cirrus Logic Reports Q1 FY18 Revenue of $320.7 Million
+                      更多内容
+
+
+
+
+
+
+
+
+
+创新解决方案
+
+
+世界从未如此安静
+从世界一流的主动噪声消除 (ANC) 技术到高保真回放，Cirrus Logic 的硬件和软件解决方案都可提升消费者的体验。让我们共同打造全新事物。
+
+
+
+
+
+
+
+更多详情
+
+
+
+
+
+
+
+
+
+
+
+
+Cirrus Logic 的职业生涯和文化
+
+
+
+
+轻松自在
+
+
+在此工作
+
+
+
+
+
+企业文化使这里成为理想的工作场所。
+—现任员工，Great Place to Work 调查
+
+
+切实关心个人的管理层。
+—现任员工，Great Place to Work 调查
+
+
+“摇滚明星”般的工程师。
+—现任员工，Great Place to Work 调查
+
+
+
+
+
+
+
+
+
+
+
+
+我们是谁
+
+
+
+音频就是我们的一切
+
+
+
+
+
+
+
+
+
+2450
+全球已发布和申请中的专利超过 2,450 项，且数量持续增长
+
+
+成立于  年
+逾 30 年雄踞音频领导地位
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+视频播放
+
+
+
+这就是 Cirrus Logic！
+
+
+
+
+
+查看另类导演试图将自己古怪的愿景传递到无所不在的“企业宣传片”时，幕后到底发生了什么趣事。
+查看另类导演试图将自己古怪的愿景传递到无所不在的“企业宣传片”时，幕后到底发生了什么趣事。
+
+
+
+
+
+
+
+产品技术
+音频放大器
+音频模/数转换器
+音频数/模转换器
+音频编解码器智能编解码器便携式编解码器单声道/立体声编解码器多声道编解码器AC'97/高清音频编解码器编解码器（带触摸屏）编解码器（带视频）噪声消除
+音频时钟生成和抖动降低
+音频数字信号处理器 (DSP)
+接口与采样率转换器
+音量控件
+微机电系统 (MEMS) 麦克风模拟数字
+其他
+
+以太网控制器
+CobraNet 硅系列
+CobraNet 系统模块
+CobraNet 软件工具
+运算放大器
+成像 A/D 转换器
+电源管理
+能量测定
+地震 Single-S（单声道）
+地震 Total-S（多声道）
+Delta Sigma A/D转换器
+带集成放大器的Delta Sigma AD 转换器
+ARM9 嵌入式处理器
+
+
+
+
+应用类别
+移动音频设备
+智能家居
+扬声器
+可穿戴设备
+耳机
+
+
+解决方案
+语音
+播放
+录音
+控制
+
+
+
+支持
+编解码器
+微机电系统(MEMS)麦克风
+放大器
+语音解决方案
+回放解决方案
+录音解决方案
+控制解决方案
+专业服务合作伙伴
+软件合作伙伴
+软件和工具
+
+音频数字信号处理器 (DSP) 工具
+FlexGUI 混合信号音频软件
+WISCE 开发工具套件
+
+采样中心
+
+
+
+公司
+关于我们
+Investor Relations
+质量与可靠性
+媒体中心
+
+
+招贤纳士
+搜索所有职位
+硬件工程
+软件工程
+公司机会
+工作和实习机会
+福利和津贴
+创新文化
+工作地点
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
