@@ -6,6 +6,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+GoogleNews-vectors-negative300.bin.gz
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
