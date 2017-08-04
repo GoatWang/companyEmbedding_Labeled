@@ -12,6 +12,7 @@ import pandas as pd
 import string
 from preprocessing import preprocessing
 import json
+import datetime
 
 ## Build Queue
 input_companies = queue.Queue()
@@ -171,7 +172,8 @@ while True:
             logs.append(logLi)
     except:
         break
-
-with open("log.txt", 'w', encoding='utf8') as fp:
+nowtime = datetime.datetime.now()
+filetime = str(nowtime).split()[0].replace("-","") + str(nowtime).split()[1].split(":")[0] + str(nowtime).split()[1].split(":")[1]
+with open(filetime + "Crawling.log", 'w', encoding='utf8') as fp:
     json.dump(logs, fp)
 
