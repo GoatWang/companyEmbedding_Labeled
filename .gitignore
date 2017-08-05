@@ -6,6 +6,10 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.log
+comapnyEmbedding/
+processedCompanyEmbedding/
+__pycache__/
 GoogleNews-vectors-negative300.bin.gz
 
 # User-specific files (MonoDevelop/Xamarin Studio)
