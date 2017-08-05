@@ -1,4 +1,6 @@
 ﻿IndriBuildIndex indexBuilder.param
+IndriBuildIndex ProcessedIndexBuilder.param
+
 
 dumpindex index/company stats>dumpedIndex
 dumpindex index/company il>dumpedIndex
