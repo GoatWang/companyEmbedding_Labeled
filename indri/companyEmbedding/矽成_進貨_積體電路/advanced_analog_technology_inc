@@ -1,0 +1,2556 @@
+
+
+
+Advanced Analog Technology 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+|
+Sitemap
+
+
+
+
+
+English
+
+
+繁中简中 
+
+
+
+
+
+
+
+
+
+About Us
+Company InformationRecruitQuality & Reliability
+Products
+
+Application
+DSC/DV/Drive RecorderPNDLCD-Panel-(Discrete)LCD-Panel-(Integrated)
+Support & Service
+Sales OfficeSupport Request
+Investor Relations
+Financial InformationShareholder ServicesCorporate GovernanceEvent CalendarContact IR
+
+
+
+
+
+
+Products
+
+Multifunction PMICs 
+TFT LCD-AMOLED-DSC/DV-Portable Device- 
+Switching Regulator 
+Boost-Buck-Buck-Boost-Inverting- 
+WLED Driver 
+Backlight-Lighting- 
+Battery Management 
+Battery Charger-Battery Protection- 
+Others 
+Audio Amp.-GPM-LDO-Level Shifter-Motor Driver-OP Amp./Buffer-RESET-Photoflash- 
+
+
+
+
+
+Home
+
+Products 
+Products
+
+
+Multifunction PMICs
+
+
+TFT LCDAMOLEDDSC/DVPortable Device 
+
+
+
+
+
+
+Switching Regulator
+
+
+BoostBuckBuck-BoostInverting 
+
+
+
+
+
+
+WLED Driver
+
+
+BacklightLighting 
+
+
+
+
+
+
+Battery Management
+
+
+Battery ChargerBattery Protection 
+
+
+
+
+
+
+Others
+
+
+Audio Amp.GPMLDOLevel ShifterMotor DriverOP Amp./BufferRESETPhotoflash 
+
+
+
+
+
+
+
+
+
+ 
+        Copyright © 2012 Advanced Analog Technology, Inc. All rights reserved. 　
+    
+
+
+
+
+
+
+
+
+
+
+AAT60020A Datasheet | DatasheetLib.com
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Datasheetlib — the ultimate datasheet library
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Datasheets»AAT (Advanced Analog Technology)»AAT60020A Datasheet AAT60020A Datasheet Download or read online AAT (Advanced Analog Technology) AAT60020A High-Precision Reset Voltage Detector pdf datasheet. 
+
+ 
+
+
+Download Datasheet (14 pages, 392 Kb)Summary of contentsWrite a commentShare this page 
+×
+Url of this page:
+
+HTML Link: AAT60020A Datasheet on datasheetlib.com
+
+Quick share:
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+1234567891011121314 
+
+Page1 of 14prevnext
+
+
+
+
+
+
+Advanced Analog Technology, Inc.
+Product information presenting is current as of publication date. Details are subject to change without notice.
+F F F F EATURES
+EATURES
+EATURES
+EATURES
+Low Current Consumption
+(3µA typ.,
+V
+=3V)
+DD
+High-Precision Reset Voltage Accuracy
+±2%(A/B), ±1%(C/D)
+Hysteresis Voltage 5% Typical
+Reset Voltage 1.8V to 5.5V
+Fixed or Adjustable Delay Time
+Open Drain or Push-Pull Output
+External Delay Time
+SC82AB9(SOT343), SOT23-3, SOT23-5,
+SOT89(SOT25), 3-Lead SOT89 Package
+Available
+A A A A PPLICATION
+PPLICATION
+PPLICATION
+PPLICATION
+High-Precision Reset Voltage Detector
+G G G G ENERAL DESCRIPTION
+ENERAL DESCRIPTION
+ENERAL DESCRIPTION
+ENERAL DESCRIPTION
+The AAT600 is a high-precision reset voltage detector. It
+provides a high-precision output signal, which allows
+users to initiate or reset the system.
+The detection voltage with an accuracy of ±2%(A/B),
+±1% (C/D) is trimmed to customer’s specification. Delay
+time can be adjusted by an external capacitor. The
+output signal may be configured as either open drain or
+push-pull. With minimal external components, the
+AAT600 offers a simple and economical solution.
+PIN CONFIGURATION
+PIN CONFIGURATI
+PIN CONFIGURATI
+PIN CONFIGURATI
+– 台 灣 類 比 科 技 股 份 有 限 公 司 –
+Advanced Analog Technology, Inc. –
+–
+Version 7.00
+Page 1 of 14
+May 2008
+AAT600
+ON
+ON
+ON
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+Pages:1
+2
+3
+4
+5
+6
+7
+8
+9
+10NextLast 
+
+
+
+
+Summary of Contents
+
+Page 1
+Advanced Analog Technology, Inc. Product information presenting is current as of publication date. Details are subject to change without notice EATURES EATURES EATURES EATURES Low Current Consumption (3µA typ., V 3V) DD High-Precision Reset Voltage Accuracy ...
+
+Page 2
+Advanced Analog Technology, Inc. ORDERING INFORMATION ORDERING INFORMATION ORDERING INFORMATION ORDERING INFORMATION DEVICE PART NUMBER TYPE AAT600 AAT600XXA-S15-T AAT600 AAT600XXB-S15-T AAT600 AAT600XXA-S2-T AAT600 AAT600XXB-S2-T AAT600 AAT600XXA-S5-T AAT600 AAT600XXB-S5-T AAT600 AAT600XXA-S16-T AAT600 AAT600XXB-S16-T NOTE: All AAT products are lead free and ...
+
+Page 3
+Advanced Analog Technology, Inc. ABSOLUTE MAXIMUM RAT ABSOLUTE MAXIMUM RATINGS ABSOLUTE MAXIMUM RAT ABSOLUTE MAXIMUM RAT PARAMETER V OUT to GND DD , Input Voltage (DLY) Operating Free-Air Temperature Range Storage Temperature Range Maximum Junction Temperature Package Thermal Resistance Package ...
+
+Page 4
+Advanced Analog Technology, Inc. ELECTRICAL CHARACTER ELECTRICAL CHARACTER ELECTRICAL CHARACTER ELECTRICAL CHARACTERISTICS ( ° Recommended Operating Conditions PARAMETER Detection Voltage Hysteresis Voltage Supply Current Operating Voltage Open Drain Leakage Current Push-Pull Output Voltage External Delay ...
+
+Page 5
+Advanced Analog Technology, Inc. FUNCTION LOCK DIAGRAM FUNCTION FUNCTION FUNCTION LOCK DIAGRAM LOCK DIAGRAM LOCK DIAGRAM Open Drain Reference V REF Voltage Push - Pull Reference V Voltage V DD Delay Block DLY V DD Delay ...
+
+Page 6
+Advanced Analog Technology, Inc PPLICATION CIRCUIT PPLICATION CIRCUIT PPLICATION CIRCUIT PPLICATION CIRCUIT  台 灣 類 比 科 技 股 份 有 限 公 司  Advanced Analog Technology, Inc .   Version 7.00 Page ...
+
+Page 7
+... Advanced Analog Technology, Inc ART NUMBER AVAILABLE ART NUMBER AVAILABLE ART NUMBER AVAILABLE ART NUMBER AVAILABLE AAT60018A AAT60033A AAT60018B AAT60033B AAT60019A AAT60034A AAT60019B AAT60034B AAT60020A AAT60035A AAT60020B AAT60035B AAT60021A AAT60036A AAT60021B AAT60036B AAT60022A AAT60037A AAT60022B AAT60037B AAT60023A AAT60038A AAT60023B ...
+
+Page 8
+Advanced Analog Technology, Inc IMING CHART IMING CHART IMING CHART IMING CHART Initial Voltage: Low Active: Low OUT t D  台 灣 類 比 科 技 股 份 有 限 公 司 ...
+
+Page 9
+Advanced Analog Technology, Inc ACKAGE DIMENSION ACKAGE DIMENSION ACKAGE DIMENSION ACKAGE DIMENSION SC82AB(SOT343) Dimensions In Millimeters Symbol MIN A 0.8 A1 0.0 A2 0.7 b 0.25 b1 0.35 c 0.10 D 1.8 E1 1.15 E 1.8 ...
+
+Page 10
+Advanced Analog Technology, Inc. PACKAGE DIMENSION PACKAGE DIMENSION PACKAGE DIMENSION PACKAGE DIMENSION SOT23-3 Dimensions In Millimeters Symbol MIN A 1.05 A1 ------ A2 1.00 b 0 0.1 R1 ...
+
+Page 11
+Advanced Analog Technology, Inc. PACKAGE DIMENSION PACKAGE DIMENSION PACKAGE DIMENSION PACKAGE DIMENSION SOT23-5(SOT25)  台 灣 類 比 科 技 股 份 有 限 公 司  Advanced Analog Technology, Inc .   Version 7.00 Page ...
+
+Page 12
+Advanced Analog Technology, Inc. PACKAGE DIMENSION PACKAGE DIMENSION PACKAGE DIMENSION PACKAGE DIMENSION SOT23-5(SOT25)(CONT.) Dimensions In Millimeters Symbol MIN A 1.05 A1 ------ A2 1.00 b 0 0.1 R1 ...
+
+Page 13
+Advanced Analog Technology, Inc. PACKAGE DIMENSION PACKAGE DIMENSION PACKAGE DIMENSION PACKAGE DIMENSION 3-LEAD SOT89  台 灣 類 比 科 技 股 份 有 限 公 司  Advanced Analog Technology, Inc .   Version 7.00 Page 13 of ...
+
+Page 14
+Advanced Analog Technology, Inc. PACKAGE DIMENSION PACKAGE DIMENSION PACKAGE DIMENSION PACKAGE DIMENSION 3-LEAD SOT89(CONT.) Dimensions In Millimeters Symbol MIN A 1.4 A1 0.3 L 0.8 b 0.36 b1 0.41 C 0.38 D 4.4 D1 1.40 H 3.94 E 2.4 e1 ...
+ 
+
+
+Related Datasheets for AAT60020A
+
+AAT (Advanced Analog Technology) AAT60020B (14 pages)
+High-Precision Reset Voltage Detector
+Size: 392 Kb
+
+AAT (Advanced Analog Technology) AAT60029A (14 pages)
+High-Precision Reset Voltage Detector
+Size: 392 Kb
+
+AAT (Advanced Analog Technology) AAT60029B (14 pages)
+High-Precision Reset Voltage Detector
+Size: 392 Kb
+
+AAT (Advanced Analog Technology) AAT60028B (14 pages)
+High-Precision Reset Voltage Detector
+Size: 392 Kb
+
+AAT (Advanced Analog Technology) AAT60028A (14 pages)
+High-Precision Reset Voltage Detector
+Size: 392 Kb
+
+AAT (Advanced Analog Technology) AAT60027B (14 pages)
+High-Precision Reset Voltage Detector
+Size: 392 Kb
+
+AAT (Advanced Analog Technology) AAT60027A (14 pages)
+High-Precision Reset Voltage Detector
+Size: 392 Kb
+
+AAT (Advanced Analog Technology) AAT60026B (14 pages)
+High-Precision Reset Voltage Detector
+Size: 392 Kb
+
+AAT (Advanced Analog Technology) AAT60025B (14 pages)
+High-Precision Reset Voltage Detector
+Size: 392 Kb
+
+AAT (Advanced Analog Technology) AAT60026A (14 pages)
+High-Precision Reset Voltage Detector
+Size: 392 Kb
+
+AAT (Advanced Analog Technology) AAT60025A (14 pages)
+High-Precision Reset Voltage Detector
+Size: 392 Kb
+
+AAT (Advanced Analog Technology) AAT60024B (14 pages)
+High-Precision Reset Voltage Detector
+Size: 392 Kb
+
+AAT (Advanced Analog Technology) AAT60024A (14 pages)
+High-Precision Reset Voltage Detector
+Size: 392 Kb
+
+AAT (Advanced Analog Technology) AAT60023A (14 pages)
+High-Precision Reset Voltage Detector
+Size: 392 Kb
+
+AAT (Advanced Analog Technology) AAT60022B (14 pages)
+High-Precision Reset Voltage Detector
+Size: 392 Kb
+
+AAT (Advanced Analog Technology) AAT60021B (14 pages)
+High-Precision Reset Voltage Detector
+Size: 392 Kb
+
+AAT (Advanced Analog Technology) AAT60022A (14 pages)
+High-Precision Reset Voltage Detector
+Size: 392 Kb
+
+AAT (Advanced Analog Technology) AAT60021A (14 pages)
+High-Precision Reset Voltage Detector
+Size: 392 Kb
+
+AAT (Advanced Analog Technology) AAT600 (14 pages)
+High-precision Reset Voltage Detector
+Size: 392 Kb
+
+AAT (Advanced Analog Technology) AAT60019A (14 pages)
+High-Precision Reset Voltage Detector
+Size: 392 Kb
+ 
+
+
+
+
+
+Comments to this Datasheet
+Your Name
+
+
+
+
+Enter your comment:
+
+
+
+
+Enter text from picture:
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+ 
+
+
+
+AAT1102-M Advanced Analog Technology, Inc., AAT1102-M Datasheet
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ELCODIS — electronic components distributor 
+Main
+
+Contacts
+FAQ
+
+Share this page
+
+
+×
+Url of this page:HTML Link: AAT1102-M on Elcodis.comOnline Datasheet:Download PDF Datasheet:Quick share:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Part Search:
+
+
+
+
+AAT1102-M
+My request: 0 parts
+
+
+ 
+
+
+
+
+Components/Datasheets/Power Drivers/AAT1102-M 
+
+ 
+
+ 
+
+
+AAT1102-M Manufacturer Part NumberAAT1102-MDescriptionADVANCED PWM DC-DC CONVERTER WITH INTERNAL SWITCH AND SOFT-STARTManufacturerAdvanced Analog Technology, Inc.AAT1102-M datasheet1. AAT1102-M.pdf (18 pages) 
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+123456789101112131415161718
+Page 1/18: 
+Download datasheet (617Kb)Share this page
+
+
+×
+Url of this page:HTML Link: AAT1102-M on Elcodis.comOnline Datasheet:Download PDF Datasheet:Quick share:
+
+
+
+
+
+
+
+
+
+
+Embed
+
+
+×
+  Select the desired size and copy embed code     Size (px)  595x842   640x896   720x1008   840x1176   Custom: Width  Height      Copy your embed code and put on your site: AAT1102-M datasheet and specification datasheetDownload datasheet Powered by elcodis.com 
+
+PrevNext
+
+Advanced Analog Technology, Inc.
+Product information presented is current as of publication date. Details are subject to change without notice
+FEATURES
+1.6A, 0.23Ω, Internal Switch
+High Efficiency: 90%
+Adjustable Output:
+V
+DD
+Adjustable Frequency: 640kHz or 1.3MHz
+Wide Input Range: +2.6V to +5.5V
+Low Shutdown Current:
+Programmable Soft-Start
+Small 8-Pin MSOP Package
+PIN CONFIGURATION
+TOP VIEW
+1
+8
+EO
+2
+7
+IN
+AAT1102
+3
+6
+SHDN
+4
+5
+GND
+8-Pin MSOP
+–
+Advanced Analog Technology, Inc
+–
+ADVANCED PWM DC-DC CONVERTER WITH
+INTERNAL SWITCH AND SOFT-START
+GENERAL DESCRIPTION
+The AAT1102 is a step-up DC-DC converter with
+a 1.6A,
+to 15V
+external compensation pin, this device offers user
+flexibility in determining loop dynamic and
+adjusting operating frequency. AAT1102 also
+0 μ
+1 .
+A
+allows the use of small, low equivalent resistance
+(ESR) ceramic output capacitor, and it’s capable
+of converting a standard input of 3.3V to multiple
+outputs of 8V,
+filtering and loop performance are facilitated and
+enhanced by a high switching frequency of either
+640 kHz or1.3MHz.
+The
+power-smart design.
+with an external capacitor that sets the input
+SS
+current
+consumption to
+FREQ
+operating, a mere 2.6V input yields an impressive
+output voltage as high as 15V.
+V
+DD
+High switching frequency and economical design
+allow AAT1102 to be less than 1.1mm high. Its
+SW
+compact 8-pin MSOP package and superior
+performance make it an ideal part for biasing TFT
+displays.
+台灣類比科技股份有限公司
+Page 1 of 18
+AAT1102 (BIN2)
+Ω
+. 0
+23
+internal switch. Equipped with an
+−
+8
+V
+, and 23V.
+AAT1102’s
+versatility
+comes
+A soft-start programmed
+ramp
+rate,
+reduces
+0 μ
+1 .
+A
+in shutdown mode. When
+–
+–
+.
+Furthermore,
+with
+a
+the
+current
+V5.0
+Pages:12345678910>
+>>Share this page:  
+
+
+Download datasheet (617Kb) Share this page
+
+
+×
+Url of this page:HTML Link: AAT1102-M on Elcodis.comOnline Datasheet:Download PDF Datasheet:Quick share:
+
+
+
+
+
+
+
+
+
+
+Put on your site (Embed)
+
+
+×
+  Select the desired size and copy embed code     Size (px)  595x842   640x896   720x1008   840x1176   Custom: Width  Height      Copy your embed code and put on your site: AAT1102-M datasheet and specification datasheetDownload datasheet Powered by elcodis.com 
+
+Share/Bookmark this part:  
+
+
+
+
+
+
+
+
+
+
+ 
+Related parts for AAT1102-M
+Part Number
+DescriptionManufacturer
+Datasheet
+
+
+  AAT1102
+ADVANCED PWM DC-DC CONVERTER WITH INTERNAL SWITCH AND SOFT-START
+Advanced Analog Technology, Inc.
+AAT1102.pdf (18 pages)
+
+
+  AAT1102-M-T
+ADVANCED PWM DC-DC CONVERTER WITH INTERNAL SWITCH AND SOFT-START
+Advanced Analog Technology, Inc.
+AAT1102-M-T.pdf (18 pages)
+
+
+  AAT1102_5
+ADVANCED PWM DC-DC CONVERTER WITH INTERNAL SWITCH AND SOFT-START
+AAT [Advanced Analog Technology, Inc.]
+AAT1102_5.pdf (18 pages)
+
+
+  AAT1104
+2-CHANNEL SWITCHING REGULATOR CONTROLLER
+Advanced Analog Technology, Inc.
+
+
+
+  AAT1109
+One-Channel Boost Switching Regulator
+Advanced Analog Technology, Inc.
+
+
+
+  AAT1107-T1
+BUCK_BOOST & BOOST PWM CONTROLLER WITH ADJUSTABLE LDO
+AAT [Advanced Analog Technology, Inc.]
+AAT1107-T1.pdf (16 pages)
+
+
+  AAT1109-T2
+ONE-CHANNEL STEP-UP PWM CONTROLLER
+AAT [Advanced Analog Technology, Inc.]
+AAT1109-T2.pdf (18 pages)
+
+
+  AAT1121IES-0.6-T1
+1.5MHz, 250mA Step-Down Converter
+Advanced Analog Technology, Inc.
+AAT1121IES-0.6-T1.pdf (20 pages)
+
+
+  AAT1120IES-0.6-T1
+500mA Step-Down Converter
+Advanced Analog Technology, Inc.
+AAT1120IES-0.6-T1.pdf (20 pages)
+
+
+  AAT1123IJS-1.2-T1
+1MHz Step-Down Converter
+Advanced Analog Technology, Inc.
+AAT1123IJS-1.2-T1.pdf (20 pages)
+
+
+  AAT1123IJS-0.6-T1
+1MHz Step-Down Converter
+Advanced Analog Technology, Inc.
+AAT1123IJS-0.6-T1.pdf (20 pages)
+
+
+  AAT1164
+Triple-channel Tft Lcd Power Solution With Operational Amplifiers
+Advanced Analog Technology, Inc.
+AAT1164.pdf (24 pages)
+
+
+  AAT1187A
+Boost Converter For Wled Driver
+Advanced Analog Technology, Inc.
+AAT1187A.pdf (28 pages)
+
+
+  AAT1112IWP-0.6-T1
+1.5A, 1.4MHz Step-Down Converter
+Advanced Analog Technology, Inc.
+AAT1112IWP-0.6-T1.pdf (19 pages)
+
+
+  AAT1118
+ADJUSTABLE TRIPLE-CHANNEL TFT LCD DC-DC CONVERTER
+Advanced Analog Technology, Inc.
+AAT1118.pdf (14 pages)
+ 
+
+AAT1102-M Summary of contentsPage 1... V DD High switching frequency and economical design allow AAT1102 to be less than 1.1mm high. Its SW compact 8-pin MSOP package and superior performance make it an ideal part for biasing TFT displays. 台灣類比科技股份有限公司 ...Page 2... SYMBOL storage 台灣類比科技股份有限公司 Advanced Analog Technology, Inc Page AAT1102 (BIN2) FUNCTION V OUT VALUE − +18 − − 0.3V ...Page 3... V SYMBOL CONDITIONS FREQ = GND f OSC FREQ = V DD FREQ = GND D MAX FREQ = V DD 台灣類比科技股份有限公司 Advanced Analog Technology, Inc Page AAT1102 (BIN2) MIN TYP 2.6 2.25 2.38 40mV; SW 0.21 1.2 0.1 MIN TYP = EO 1.228 1.240 1.254 ...Page 4... CONDITIONS SHDN, FREQ 5.5V SHDN, FREQ 5.5V SHDN, FREQ I FREQ I SHDN 台灣類比科技股份有限公司 Advanced Analog Technology, Inc Page AAT1102 (BIN2) MIN TYP MAX UNITS 1.2 1.6 0.23 0.01 MIN TYP 1.5 4.0 MIN TYP = 2. 0.7˙ ...Page 5... Advanced Analog Technology, Inc Page AAT1102 (BIN2 100 150 200 STEP-UP REGULATOR OUTPUT VOLTAGE vs.LOAD CURRENT(V =8.3V) MAIN ...Page 6... Advanced Analog Technology, Inc. Fig. 1 TYPICAL APPLICATION CIRCUIT – – 台灣類比科技股份有限公司 Advanced Analog Technology, Inc Page AAT1102 (BIN2 2. ON/ OFF – – . V5.0 ...Page 7... Advanced Analog Technology, Inc. Fig. 2 BLOCK DIAGRAM – – Σ 台灣類比科技股份有限公司 Advanced Analog Technology, Inc Page AAT1102 (BIN2) – – . V5.0 ...Page 8... Advanced Analog Technology, Inc. Fig. 3 AAT1102 IN A SEPIC CONFIGURATION – – 台灣類比科技股份有限公司 Advanced Analog Technology, Inc Page AAT1102 (BIN2 2. – – . V5.0 ...Page 9... Advanced Analog Technology, Inc. Fig. 4 MULTIPLE-OUTPUT TFT LCD POWER SUPPLY – – 台灣類比科技股份有限公司 Advanced Analog Technology, Inc Page AAT1102 (BIN2) – – . V5.0 ...Page 10... C is output filter capacitor, transistor on-resistance, and forward resistance. The duty to inductor current transfer function ( ) Where 台灣類比科技股份有限公司 Advanced Analog Technology, Inc Page AAT1102 (BIN2) + − ...Page 11... F m transfer function T , and f is the clock switching pi s frequency the current-sense amplifier cs transresistance. For the boost converter and For AAT1102 , = 0.275 V/ compensation, M =0.8 × The closed-current loop transfer function ( 2 ξ × ...Page 12... Fig.5. Bode diagram using Matlab simulation f =600 kHz 105 , . 0 275 Ω 27k − 台灣類比科技股份有限公司 Advanced Analog Technology, Inc Page AAT1102 (BIN2) – – . V5.0 ...Page 13... Advanced Analog Technology, Inc. PACKAGE DIMENSION MSOP-8 – – 台灣類比科技股份有限公司 Advanced Analog Technology, Inc Page AAT1102 (BIN2) – – . V5.0 ...Page 14... Advanced Analog Technology, Inc. PACKAGE DIMENSION (CONT.) MSOP-8 – – 台灣類比科技股份有限公司 Advanced Analog Technology, Inc Page AAT1102 (BIN2) – – . V5.0 ...Page 15... Advanced Analog Technology, Inc. TAPE AND REEL PACKING METHOD: 2,500PCS/REEL, 1 REEL/BOX – – 台灣類比科技股份有限公司 Advanced Analog Technology, Inc Page AAT1102 (BIN2) – – . V5.0 ...Page 16... Advanced Analog Technology, Inc. TAPE AND REEL (CONT.) PACKING METHOD: 2,500PCS/REEL, 1 REEL/BOX – – 台灣類比科技股份有限公司 Advanced Analog Technology, Inc Page AAT1102 (BIN2) – – . V5.0 ...Page 17... Advanced Analog Technology, Inc. PART MARKING MSOP8 TOP MARKING 1102 MAAC MSOP8 BACK MARKING YYWW – – 台灣類比科技股份有限公司 Advanced Analog Technology, Inc Page AAT1102 (BIN2) – – . V5.0 ...Page 18... Advanced Analog Technology, Inc. ORDERING INFORMATION – – 台灣類比科技股份有限公司 Advanced Analog Technology, Inc Page AAT1102 (BIN2) – – . V5.0 ... Related keywords:AAT1102-M datasheetAAT1102-M data sheetAAT1102-M pdf datasheetAAT1102-M componentAAT1102-M partAAT1102-M distributorAAT1102-M RoHSAAT1102-M datasheet download 
+
+
+
+
+
+
+ Elcodis.com © 2010-2017
+
+
+Order parts
+Main
+
+Contacts
+
+FAQ
+About
+Abuse
+
+Copyright ©2010 - 2017 Elcodis Company Ltd. All Rights Reserved. Elcodis is a trademark of Elcodis Company Ltd. in the U.S. and/or other countries. All other trademarks are the property of their respective owners.
+
+
+
+
+
+
+
+
+
+
+
+AAT (Advanced Analog Technology) Datasheets | DatasheetLib.com
+
+
+
+
+
+
+
+ 
+
+
+
+
+Datasheetlib — the ultimate datasheet library
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+Datasheets»A»AAT (Advanced Analog Technology) AAT (Advanced Analog Technology) View and download AAT (Advanced Analog Technology) datasheets and specifications 
+
+Product Index:#0-9ABCDEFGHIJKLMNOPQRSTUVWXYZ 
+Last Added Datasheets
+
+
+AAT (Advanced Analog Technology) AAT2805
+
+
+AAT (Advanced Analog Technology) AAT4610A
+
+
+AAT (Advanced Analog Technology) AAT3688
+
+
+AAT (Advanced Analog Technology) AAT3687
+
+
+AAT (Advanced Analog Technology) AAT3686
+
+
+AAT (Advanced Analog Technology) AAT3685
+
+
+AAT (Advanced Analog Technology) AAT3681
+
+
+AAT (Advanced Analog Technology) AAT3340
+
+
+AAT (Advanced Analog Technology) AAT3192IJQ-2
+
+
+AAT (Advanced Analog Technology) AAT3151
+ 
+AAT2861IMK-1-T1
+•
+AAT1232IRN-T1
+•
+AAT1231ITP-T1
+•
+AAT3783IRN-4.2-T1
+•
+AAT1403B
+•
+AAT1239ITP-1
+•
+AAT1146IJS-1.0-T1
+•
+AAT1160
+•
+AAT2856INJ-EE-T1
+•
+AAT8636
+•
+AAT8635
+•
+AAT7205
+•
+AAT7204-S8
+•
+AAT1236
+•
+AAT7202
+•
+AAT7201
+•
+AAT1203
+•
+AAT1202
+•
+AAT1201
+•
+AAT1110-S
+•
+AAT4292
+•
+AAT1109-S
+•
+AAT1107-T1
+•
+AAT1403A
+•
+AAT1105A-T1
+•
+AAT1102-M-T
+•
+AAT1343
+•
+AAT1011
+•
+AAT1401
+•
+AAT1109A
+•
+AAT1204
+•
+AAT1015
+•
+AZ3842
+•
+AHK432IGV-1-T1
+•
+AAT3141
+•
+AAT3140
+•
+AAT3131
+•
+AAT3129
+•
+AAT3122
+•
+AAT3119IJS-4.5-T1
+•
+AAT3113
+•
+AAT3112IVN-4.5-T1
+•
+AAT2503IZL-BAA-T1
+•
+AAT3111
+•
+AAT4674ITP-T1
+•
+AAT3110
+•
+AAT4670
+•
+AAT4650
+•
+AAT3560
+•
+AAT3532IAS-T1
+•
+AAT4644
+•
+AAT2120IES-0.6-T1
+•
+AAT4625
+•
+AAT3215
+•
+AAT4618
+•
+AAT4612
+•
+AAT4611
+•
+AAT3201
+•
+AAT4610
+•
+AAT1500
+ 
+
+
+
+
+ 
+
+
+
+
+
+Power Drivers - Datasheets | Electronic Components Elcodis.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ELCODIS — electronic components distributor 
+Main
+
+Contacts
+FAQ
+
+Share this page
+
+
+Part Search:
+
+
+
+
+Power Drivers
+My request: 0 parts
+
+
+ 
+
+
+
+
+Components/Datasheets/Power Drivers 
+ 
+
+
+Power Drivers - Datasheets 
+
+
+
+
+
+
+
+
+
+Results: 1-50 of 1000  Power Drivers#
+                        Image
+                        Part Number
+                        Description
+                    ManufacturerSeriesDatasheet1
+FSAL200FSAL200 Quad 2:1 multiplexer-demultiplexer wide bandwidth Fairchild SemiconductorFSAL200.pdf2
+FSAV330FSAV330 4-channel, 2:1 video switch Fairchild SemiconductorFSAV330.pdf3
+IRA-E710ST0IRA-E710ST0 Pyroelectric infrared sensors MuRata Manufacturing Co., Ltd.4
+PS2007BPS2007B High speed photo coupler. NEC Electronics5
+PS2502PS2502 High isolation voltage darlington transistor type multi photocoupler series NEC Electronics6
+PS2502L1PS2502L1 Ic,high iso. voltage darlington transistor, multi photocoupler,dip-4-smd California Eastern Laboratories / NEC7
+PS2705-1-E3PS2705-1-E3 High isolation voltage ac input response type sop multi photocoupler NEC Electronics8
+PS2707PS2707  NEC Electronics9
+PS2732-1-E3PS2732-1-E3 High isolation voltage high collector to emitter voltage sop photocoupler NEC Electronics10
+PS2811-1-F4PS2811-1-F4 High ctr 4, 16-pin sop photocoupler NEC Electronics11
+PS2815-1PS2815-1 Low (ac) input current, high ctr 4-pin sop photocoupler NEC Electronics12
+PM200CBS060PM200CBS060 Intelligent power module Mitsubishi Electric Semiconductor13
+PM20CHA060PM20CHA060 Intellimod-3 modules, three phase, igbt inverter output, 20 amp, 110-230 volt line Powerex Power SemiconductorsPM20CHA060.pdf14
+PM2105PM2105 1 watt rfic power amplifier 800 to 2000 mhz operation Pacific Monolithics15
+PM2202PM2202 Low noise amplifier 1800 to 2500 mhz operation Pacific MonolithicsPM2202.pdf16
+PM29F002B-90JCPM29F002B-90JC 2 megabit (256k x 8) 5.0 volt-only cmos flash memory PMC-Sierra, Inc.17
+PM150RSE120PM150RSE120 Intelligent power module Mitsubishi Electric Semiconductor18
+PM52AUBW060PM52AUBW060 Intellimod module active filter ipm 20 amperes/600 volts Powerex Power Semiconductors19
+PM5309-BIPM5309-BI Interface, multi-rate telecom backplane serdes for 2.5gbit/s interconnect PMC-Sierra, Inc.20
+PM5317-FIPM5317-FI Processor, spectra-9953 device driver PMC-Sierra, Inc.21
+PM5333-FIPM5333-FI Ethernet, 8 channel 10/100 ethernet over sonet/sdh mapping device PMC-Sierra, Inc.22
+PM5337-FIPM5337-FI Interface, single chip adm for 622 & 155mbit/s PMC-Sierra, Inc.23
+PM5338-FIPM5338-FI Interface, single chip adm for 622 & 155mbit/s PMC-Sierra, Inc.24
+PM5354-BIPM5354-BI Interface, multi-rate saturn user network interface for 2x622 and 4x155 PMC-Sierra, Inc.25
+PM5361-RIPM5361-RI Sonet/sdh tributary unit payload processor PMC-Sierra, Inc.PM5361-RI.pdf26
+PM5364-BIPM5364-BI Processor, sonet/sdh tributary unit payload processor for 2488.32mbit/s PMC-Sierra, Inc.27
+PM5366-PIPM5366-PI High density 84/63 channel vt/tu mapper and m13 multiplexer PMC-Sierra, Inc.PM5366-PI.pdf28
+PM5377-FIPM5377-FI Sonet/sdh, single chip 96 port sonet/sdh cross-connect switch element PMC-Sierra, Inc.29
+PM5382-BIPM5382-BI Atm, sixteen channel atm phy interface for 155.52 mbps PMC-Sierra, Inc.30
+PM5381-BIPM5381-BI Atm uni, single channel atm phy interface for 2488.32mbps PMC-Sierra, Inc.PM5381-BI.pdf31
+PM5386-BIPM5386-BI Interface, 4-channel atm and bit hdlc user network interface PMC-Sierra, Inc.32
+PM400DHA060PM400DHA060 Intellimod-3 modules single phase igbt inverter output 400a 110-230 volt line Powerex Power SemiconductorsPM400DHA060.pdf33
+PM4323-BIPM4323-BI Communications, octal t1/e1/j1 low latency transport line interface device PMC-Sierra, Inc.34
+PM4325-BIPM4325-BI Communications, octal short haul t1/e1/j1 low latency transport line PMC-Sierra, Inc.35
+PM4328-PIPM4328-PI Framer, t1|e1|t3 standard format, 324-bga PMC-Sierra, Inc.PM4328-PI.pdf36
+PM8358-NIPM8358-NI Communications, 10gbe and 10gfc compliant transceiver PMC-Sierra, Inc.37
+PM8363-NIPM8363-NI Ethernet transceiver, 4-channel 1.0625 to 1.25gbit/s transceiver PMC-Sierra, Inc.38
+PM8372-NIPM8372-NI Communications, 4-port fc/ge retimer and fc-al port bypass controller PMC-Sierra, Inc.39
+PM8373-NIPM8373-NI Ethernet transceiver, 6-channel 1.0625 to 1.25gbit/s transceiver PMC-Sierra, Inc.40
+PM8383-BIPM8383-BI Interface, 12-port sas edge expander PMC-Sierra, Inc.41
+PM6650PM6650 Msm6150 chipset solution Qualcomm, Inc.PM6650.pdf42
+EMP11EMP11 Switching diode ROHM Electronics43
+MIG25Q806HMIG25Q806H High power switching applications motor control applications Toshiba44
+MIG75Q7CSA0XMIG75Q7CSA0X  Toshiba45
+PM6686PM6686 Dual step-down controller with adjustable voltages, adjustable ldo and auxiliary charge pump controller for notebook STMicroelectronicsPM6686.pdf46
+FCBP110LD1L03FCBP110LD1L03 F i n i s a r preliminary product specification 10gb/s laserwire? serial data link active cable Finisar Corporation.FCBP110LD1L03.pdf47
+FCB11N60FFCB11N60F Fcb11n60f 600v n-channel mosfet Fairchild SemiconductorFCB11N60F.pdf48
+HT0638HT0638 Electronic line switch Supertex, Inc.HT0638.pdf49
+HT00HT00 Quadruple 2-input positive-nand gates Texas Instruments IncorporatedHT00.pdf50
+HT08HT08 Quadruple 2-input positive-and gates Texas Instruments IncorporatedHT08.pdf Pages:12345678910>
+>> 
+
+Showing electronic components search results for Power Drivers
+
+Hot Power Drivers Products
+
+PM52AUBW060
+VN410
+PM200CBS060
+FAN8026G3
+FSAV330
+KA78R08
+SI9986
+PS2815-1
+Si9241 
+
+
+
+
+
+ Elcodis.com © 2010-2017
+
+
+Order parts
+Main
+
+Contacts
+
+FAQ
+About
+Abuse
+
+Copyright ©2010 - 2017 Elcodis Company Ltd. All Rights Reserved. Elcodis is a trademark of Elcodis Company Ltd. in the U.S. and/or other countries. All other trademarks are the property of their respective owners.
+
+
+
+
+
+	SKYWORKS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+English
+
+English
+                                
+中国
+                                
+台灣
+                                
+日本
+                                
+한국
+                                
+Español
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Toggle navigation
+                            
+
+
+
+
+
+
+
+
+
+
+
+English
+                                        
+中国
+                                        
+台灣
+                                        
+日本
+                                        
+한국
+                                        
+Español
+                                        
+
+
+
+ 
+
+
+
+
+
+
+                                    Markets
+                                
+
+
+
+
+
+
+Aerospace and Defense
+
+
+
+
+
+Automotive
+
+
+
+
+
+CATV
+
+
+
+
+
+Connected Home
+
+
+
+
+
+
+
+
+
+Consumer Electronics
+
+
+
+
+
+Media
+
+
+
+
+
+Medical
+
+
+
+
+
+Mobile Devices
+
+
+
+
+
+
+
+
+
+Networking
+
+
+
+
+
+Smart Energy
+
+
+
+
+
+Wearables
+
+
+
+
+
+Wireless Infrastructure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                APPLICATIONS
+                            
+
+
+
+
+
+
+Antennas
+
+
+
+
+
+Audio / Video Displays
+
+
+
+
+
+Avionics
+
+
+
+
+
+Biomedical Materials
+
+
+
+
+
+
+
+
+
+Blood Sugar Monitors
+
+
+
+
+
+Cellular / Smartphones
+
+
+
+
+
+Collision Avoidance
+
+
+
+
+
+Counter Surveillance Systems
+
+
+
+
+
+
+
+
+
+Data Cards
+
+
+
+
+
+Data Cards-WLAN
+
+
+
+
+
+Defibrillators
+
+
+
+
+
+VIEW ALL
+
+
+
+
+
+
+
+
+                                products
+                            
+
+
+
+                                            Amplifiers
+                                        
+
+
+                                                    Cellular
+                                                
+
+                                                    WiFi Connectivity
+                                                
+
+                                                    Small Cell and Wireless Infrastructure
+                                                
+                                                    Smart Energy-Connected Home
+                                                        and Automation
+                                                
+
+                                                    BDS/GPS/GNSSBroad Market LNAs
+                                                    
+                                                    and Low Noise Transistors
+                                                
+
+                                                    Driver Amplifiers / Linear Amplifiers
+                                                
+
+                                                    Gain BlockVariable Gain Amplifiers
+                                                
+Variable Gain Amplifiers
+CATV
+
+
+
+                                            Attenuators
+                                        
+
+                                            Circulators / Isolators
+                                        
+
+                                            Diodes
+                                        
+
+                                            Filters
+                                        
+
+                                            Front-end Modules
+                                        
+
+
+                                                    Cellular
+                                                
+
+                                                    WiFi Connectivity
+                                                
+
+                                                    Smart Energy-Connected Home and Automation
+                                                
+
+                                                    BDS/GPS/GNSS
+                                                
+SkyOne ®
+Diversity Receive Modules
+CATV
+
+
+
+                                            Limiter Modules
+                                        
+
+                                            MixersModulators / Demodulators
+                                        
+
+                                            Optocouplers
+                                        
+
+
+                                            PLLs/Synthesizers/VCOs
+                                        
+
+                                            Power Management
+                                        
+
+                                            RF Passives
+                                        
+
+                                            Switches
+                                        
+
+                                            Technical Ceramics
+                                        
+
+
+                                                VIEW TECHNICAL DOCUMENTS
+                                            
+
+                                                VIEW NEW PRODUCTS
+                                            
+
+
+
+
+
+
+
+
+
+
+                                                    Amplifiers
+                                                
+
+Cellular
+WiFi Connectivity
+Small Cell and Wireless Infrastructure
+Smart Energy-Connected Home and Automation
+BDS/GPS/GNSS
+Broad Market LNAs and Low Noise Transistor
+Driver Amplifiers / Linear Amplifiers
+Gain Block
+Variable Gain Amplifiers
+CATV
+
+
+
+
+
+
+Attenuators
+Circulators / Isolators
+Diodes
+Filters
+Front-end Modules
+
+Cellular
+WiFi Connectivity
+Smart Energy-Connected Home and Automation
+BDS/GPS/GNSS
+SkyOne ®
+Diversity Receive Modules
+CATV
+
+
+
+
+
+
+Limiter Modules
+Mixers
+Modulators /
+   Demodulators
+Optocouplers
+
+PLLs/Synthesizers/VCOs
+Power Management
+RF Passives
+Switches
+Technical Ceramics
+
+
+
+
+                                                VIEW TECHNICAL DOCUMENTS
+                                            
+
+                                                VIEW NEW PRODUCTS
+                                            
+
+
+
+
+
+
+
+                                ABOUT
+                            
+
+                                INVESTORS
+                            
+
+                                media
+                            
+
+                                careers
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enabling Mission Critical Communications
+
+
+
+Get Solutions
+
+
+
+
+
+
+
+
+
+
+
+Driving Autonomy
+
+
+
+Get Solutions
+
+
+
+
+
+
+
+
+
+
+
+Transforming Industrial Markets
+
+
+
+Get Solutions
+
+
+
+
+
+
+
+
+
+
+
+Enabling the Connected Home
+
+
+
+Get Solutions
+
+
+
+
+
+
+
+
+
+
+
+Capturing the Moment
+
+
+
+Get Solutions
+
+
+
+
+
+
+
+
+
+
+
+Low Power Products. High Voltage Culture.
+
+
+
+Apply Today
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Datasheets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ELCODIS — electronic components distributor 
+Main
+
+Contacts
+FAQ
+
+Share this page
+
+
+Part Search:
+
+
+
+
+Datasheets
+My request: 0 parts
+
+
+ 
+
+
+
+
+Components/Datasheets 
+
+
+
+
+
+Datasheets 
+
+
+Popular parts
+
+ADCH-80
+FT232BM
+2SC1971
+FT245BM
+2SC2238
+BD9897FS
+IRG4PSC71UD
+AT90S2313
+MC14093BD
+AP34063
+BSP77
+FM24CL64-S
+B6S
+SM4002
+FT232BL
+SG6105
+ADT1-1WT
+HC-49S
+2MBI75P-140
+MC100LVEL16D
+A3952SEB
+CMX589AD2
+PM25LV010
+FM25256-S
+PT2322
+BFR92A
+GT40T301
+2SD1555
+LM305
+DF30AA160
+FM25CL64-S
+FM24CL16-S
+2SC3117
+MCP2551
+PT2323
+SST177
+MB3887
+FM24CL04-S
+FM25256B-G
+FM25CL64
+L-34F3C
+MB3878
+FM25L256B
+FM25L256B-G
+FT2232D
+IRGP20B120UD-E
+2SD1710
+BAT64-07
+BFS17A
+RHR15120 
+
+
+
+
+ Elcodis.com © 2010-2017
+
+
+Order parts
+Main
+
+Contacts
+
+FAQ
+About
+Abuse
+
+Copyright ©2010 - 2017 Elcodis Company Ltd. All Rights Reserved. Elcodis is a trademark of Elcodis Company Ltd. in the U.S. and/or other countries. All other trademarks are the property of their respective owners.
+
+
+
+
+
+
+AAT1187A Advanced Analog Technology, Inc., AAT1187A Datasheet
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ELCODIS — electronic components distributor 
+Main
+
+Contacts
+FAQ
+
+Share this page
+
+
+×
+Url of this page:HTML Link: AAT1187A on Elcodis.comOnline Datasheet:Download PDF Datasheet:Quick share:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Part Search:
+
+
+
+
+AAT1187A
+My request: 0 parts
+
+
+ 
+
+
+
+
+Components/Datasheets/Power Drivers/AAT1187A 
+
+ 
+
+ 
+
+
+AAT1187A Manufacturer Part NumberAAT1187ADescriptionBoost Converter For Wled DriverManufacturerAdvanced Analog Technology, Inc.AAT1187A datasheet1. AAT1187A.pdf (28 pages) 
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+12345678910111213141516171819202122232425262728
+Page 1/28: 
+Download datasheet (2Mb)Share this page
+
+
+×
+Url of this page:HTML Link: AAT1187A on Elcodis.comOnline Datasheet:Download PDF Datasheet:Quick share:
+
+
+
+
+
+
+
+
+
+
+Embed
+
+
+×
+  Select the desired size and copy embed code     Size (px)  595x842   640x896   720x1008   840x1176   Custom: Width  Height      Copy your embed code and put on your site: AAT1187A datasheet and specification datasheetDownload datasheet Powered by elcodis.com 
+
+PrevNext
+
+Advanced Analog Technology, Inc.
+Product information presented is for internal use within AAT Inc. only. Details are subject to change without notice.
+FEATURES
+Built in 2A (Max.), 0.2
+Switching NMOS
+Positive Charge Pump for Gate-High Supply
+V
+Operational Amplifier
+COM
+Up to 350mA LDO
+Reset Signal Output for T-CON
+28V High Voltage Switch for VGHM
+Adjustable Soft-Start Function
+640kHz / 1.2MHz Selectable Switching
+Frequency
+Fault and Thermal Protection
+Low Dissipation Current :
+Typical 2.3mA in Operation
+QFN-24 Package Available
+PIN CONFIGURATION
+BOOST CONVERTER FOR WLED DRIVER
+GENERAL DESCRIPTION
+The AAT1187A provides a boost PWM controller,
+positive charge pump, low dropout linear regulator,
+V
+operational amplifier and one high voltage switch
+COM
+(up to 28V) for TFT LCD display. RESET pin will issue
+a reset signal to T-CON when V
+The PWM controller consists of an on-chip voltage
+reference, oscillator, error amplifier, current sense
+circuit, comparator, under-voltage lockout protection
+and soft-start control circuit. The thermal and power
+fault
+damaging internal circuit.
+The positive charge pump generates VGH voltage
+(gate high voltage) setting by external resistor divider.
+For the flicker compensation, VGHM will be connected
+to VGH when VFLK is high and connected to RE when
+VFLK goes low.
+The AAT1187A contains one operational amplifier
+capable of supplying 200mA to V
+With the minimal external components, the AAT1187A
+offers a simple and economical solution for TFT LCD
+power.
+–
+台 灣 類 比 科 技 股 份 有 限 公 司
+Advanced Analog Technology, Inc. –
+–
+Version 1.00
+Page 1 of 28
+AAT1187A
+voltage is too low.
+IN
+protection
+prevents
+excessive
+.
+COM
+–
+September 2009
+power
+from
+Pages:12345678910>
+>>Share this page:  
+
+
+Download datasheet (2Mb) Share this page
+
+
+×
+Url of this page:HTML Link: AAT1187A on Elcodis.comOnline Datasheet:Download PDF Datasheet:Quick share:
+
+
+
+
+
+
+
+
+
+
+Put on your site (Embed)
+
+
+×
+  Select the desired size and copy embed code     Size (px)  595x842   640x896   720x1008   840x1176   Custom: Width  Height      Copy your embed code and put on your site: AAT1187A datasheet and specification datasheetDownload datasheet Powered by elcodis.com 
+
+Share/Bookmark this part:  
+
+
+
+
+
+
+
+
+
+
+ 
+Related parts for AAT1187A
+Part Number
+DescriptionManufacturer
+Datasheet
+
+
+  AAT1184ITP-0.6-T1
+High Voltage Step-Down Regulator
+Advanced Analog Technology, Inc.
+AAT1184ITP-0.6-T1.pdf (19 pages)
+
+
+  AAT1121IES-0.6-T1
+1.5MHz, 250mA Step-Down Converter
+Advanced Analog Technology, Inc.
+AAT1121IES-0.6-T1.pdf (20 pages)
+
+
+  AAT1120IES-0.6-T1
+500mA Step-Down Converter
+Advanced Analog Technology, Inc.
+AAT1120IES-0.6-T1.pdf (20 pages)
+
+
+  AAT1123IJS-1.2-T1
+1MHz Step-Down Converter
+Advanced Analog Technology, Inc.
+AAT1123IJS-1.2-T1.pdf (20 pages)
+
+
+  AAT1123IJS-0.6-T1
+1MHz Step-Down Converter
+Advanced Analog Technology, Inc.
+AAT1123IJS-0.6-T1.pdf (20 pages)
+
+
+  AAT1164
+Triple-channel Tft Lcd Power Solution With Operational Amplifiers
+Advanced Analog Technology, Inc.
+AAT1164.pdf (24 pages)
+
+
+  AAT1102
+ADVANCED PWM DC-DC CONVERTER WITH INTERNAL SWITCH AND SOFT-START
+Advanced Analog Technology, Inc.
+AAT1102.pdf (18 pages)
+
+
+  AAT1102-M
+ADVANCED PWM DC-DC CONVERTER WITH INTERNAL SWITCH AND SOFT-START
+Advanced Analog Technology, Inc.
+AAT1102-M.pdf (18 pages)
+
+
+  AAT1102-M-T
+ADVANCED PWM DC-DC CONVERTER WITH INTERNAL SWITCH AND SOFT-START
+Advanced Analog Technology, Inc.
+AAT1102-M-T.pdf (18 pages)
+
+
+  AAT1104
+2-CHANNEL SWITCHING REGULATOR CONTROLLER
+Advanced Analog Technology, Inc.
+
+
+
+  AAT1109
+One-Channel Boost Switching Regulator
+Advanced Analog Technology, Inc.
+
+
+
+  AAT1112IWP-0.6-T1
+1.5A, 1.4MHz Step-Down Converter
+Advanced Analog Technology, Inc.
+AAT1112IWP-0.6-T1.pdf (19 pages)
+
+
+  AAT1118
+ADJUSTABLE TRIPLE-CHANNEL TFT LCD DC-DC CONVERTER
+Advanced Analog Technology, Inc.
+AAT1118.pdf (14 pages)
+
+
+  AAT1142IWP-1.8-T1
+800mA Voltage-Scaling Step-Down Converter
+Advanced Analog Technology, Inc.
+AAT1142IWP-1.8-T1.pdf (22 pages)
+
+
+  AAT1146IJS-1.2-T1
+Fast Transient 400mA Step-Down Converter
+Advanced Analog Technology, Inc.
+AAT1146IJS-1.2-T1.pdf (20 pages)
+ 
+
+AAT1187A Summary of contentsPage 1... Typical 2.3mA in Operation QFN-24 Package Available PIN CONFIGURATION BOOST CONVERTER FOR WLED DRIVER GENERAL DESCRIPTION The AAT1187A provides a boost PWM controller, positive charge pump, low dropout linear regulator, V operational amplifier and one high voltage switch COM (up to 28V) for TFT LCD display. RESET pin will issue ...Page 2... TYPICAL APPLICATION PACKING TEMP. RANGE T: Tape – +85 C 24-4*4 and Reel – 台 灣 類 比 科 技 股 份 有 限 公 司 Advanced Analog Technology, Inc. – – Version 1.00 Page AAT1187A MARKING MARKING DESCRIPTION TBA – September 2009 TBA ...Page 3... Exposure to absolute maximum rating conditions for extended periods may affect device reliability. = +125 C J – – 台 灣 類 比 科 技 股 份 有 限 公 司 Advanced Analog Technology, Inc. – – Version 1.00 Page September 2009 AAT1187A SYMBOL VALUE ...Page 4... MAX SYMBOL TEST CONDITION – – 台 灣 類 比 科 技 股 份 有 限 公 司 Advanced Analog Technology, Inc. – – Version 1.00 Page September 2009 AAT1187A MIN TYP MAX UNIT 2 2.11 2.21 2.31 V 2.01 2.11 2.2 - 0.4 ...Page 5... FBP 1.5V B3 FBP R ONP3 R ONN3 I DRVP – 台 灣 類 比 科 技 股 份 有 限 公 司 Advanced Analog Technology, Inc. – – Version 1.00 Page AAT1187A MIN TYP MAX 1.228 1.240 1.252 0 –40 - 0.05 0.15 70 105 - 700 MIN TYP MAX 1 ...Page 6... 1.5V ONDC DPM FLK – – 台 灣 類 比 科 技 股 份 有 限 公 司 Advanced Analog Technology, Inc. – – Version 1.00 Page September 2009 AAT1187A MIN TYP MAX 2.5 - 5.5 1.224 1.240 1.256 0 +40 –40 - 350 500 ...Page 7... OPAI 2V, OPAI 20 3.5V to 4.5V, 90% S OPAI – – 台 灣 類 比 科 技 股 份 有 限 公 司 Advanced Analog Technology, Inc. – – Version 1.00 Page September 2009 AAT1187A MIN TYP MAX 1 0.2 1.0 1.1 1 1.20 1.24 1.28 MIN ...Page 8... OUT I OUT F REQ 2.5 2.8 3.1 3.4 3.7 4.0 4.3 4.6 Input Voltage (V) Low Voltage LDO Output Voltage vs. Output Current 100 150 200 Output Current (A) Boost Converter Frequency vs. Input Voltage F =Low REQ I = 150mA OUT 2.5 2.8 3.1 3.4 3.7 4.0 4.3 4.6 Input Voltage (V) – September 2009 AAT1187A = 100mA = 200mA = 300mA =1.2MHz 4.9 5.2 5.5 250 300 4.9 5.2 5.5 ...Page 9... Advanced Analog Technology, Inc . – – Version 1.00 Page AAT1187A = + unless otherwise noted.) C Boost Converter PWM Discontinuous Mode: Heavy Load V = 3.3V 9.8V/300mA, L= 6.8 µ AVDD 1 µ ...Page 10... VGH 5V/div VGHM 10V/div – 台 灣 類 比 科 技 股 份 有 限 公 司 Advanced Analog Technology, Inc . – – Version 1.00 Page AAT1187A = + unless otherwise noted.) C Boost Converter Load Transient Response V = 3.3V 9.8V µ AVDD ...Page 11... Advanced Analog Technology, Inc . – – Version 1.00 Page + unless otherwise noted.) C High Voltage Switch Control Waveform 5ms/div V Small Signal Waveform COM 500ns/div – September 2009 AAT1187A ...Page 12... Main PWM Error Amplifier Output Main PWM Feedback Pin Frequency Select Pin LX MOS Ground – 台 灣 類 比 科 技 股 份 有 限 公 司 Advanced Analog Technology, Inc . – – Version 1.00 Page AAT1187A DESCRIPTION – September 2009 ...Page 13... Advanced Analog Technology, Inc. FUNCTION BLOCK DIAGRAM AAT1187A – – 台 灣 類 比 科 技 股 份 有 限 公 司 Advanced Analog Technology, Inc . – – Version 1.00 Page September 2009 AAT1187A ...Page 14... Advanced Analog Technology, Inc. TYPICAL APPLICATION CIRCUIT AAT1187A Normal Circuit – – 台 灣 類 比 科 技 股 份 有 限 公 司 Advanced Analog Technology, Inc . – – Version 1.00 Page September 2009 AAT1187A ...Page 15... Advanced Analog Technology, Inc. TYPICAL APPLICATION CIRCUIT AAT1187A Circuit for DRVP Floating – – 台 灣 類 比 科 技 股 份 有 限 公 司 Advanced Analog Technology, Inc . – – Version 1.00 Page September 2009 AAT1187A ...Page 16... Advanced Analog Technology, Inc. POWER ON AND POWER OFF TIMING CHART AAT1187A – – 台 灣 類 比 科 技 股 份 有 限 公 司 Advanced Analog Technology, Inc . – – Version 1.00 Page September 2009 AAT1187A ...Page 17... AAT1187A activates timer. If OTP condition remains for 160ms, AAT1187A launches fault latch. Setting the Boost Soft-Start The AAT1187A has an adjustable soft-start function to prevent high inrush current during start up. The soft-start function can be implemented with an external capacitor with a 4µA constant current. ...Page 18... Switching Frequency S D: Duty Cycle ∆I : Inductor Peak-to-Peak Ripple Current Lpeak-peak I : Input DC Current IN The AAT1187A SW current limit (I saturation current rating (I ) should exceed I LSAT and the inductor's DC current rating should exceed I For optimal efficiency, choose an inductor with less DC resistance (r ). ESR DSR DCR L ...Page 19... Figure 1. Input Bypass Capacitor Results in V – 台 灣 類 比 科 技 股 份 有 限 公 司 Advanced Analog Technology, Inc . – – Version 1.00 Page AAT1187A is decoupled from input capacitor IN Drop – September 2009 (Pin2 ...Page 20... Figure 3. Closed-Current Loop for Boost with PCM – 台 灣 類 比 科 技 股 份 有 限 公 司 Advanced Analog Technology, Inc . – – Version 1.00 Page AAT1187A VREF COMP Figure 2. Feedback Circuit of transient response. ...Page 21... Where w s Therefore function current-sense amplifier transresistance For the boost converter esr For AAT1187A compensation The closed-current loop transfer function icl is capacitor ESR – 台 灣 類 比 科 技 股 份 有 限 公 司 ...Page 22... 7. 38.5cF – 台 灣 類 比 科 技 股 份 有 限 公 司 – Advanced Analog Technology, Inc . – – Version 1.00 Page September 2009 AAT1187A ∘ crossover frequency, Therefore, is determined by ...Page 23... Figure 8. The Positive LDO Driver – 台 灣 類 比 科 技 股 份 有 限 公 司 – Advanced Analog Technology, Inc . – – Version 1.00 Page September 2009 AAT1187A Output Voltage GH and 51k , and with the following equation.  GH  1  ...Page 24... V   ADJ Figure 10. LDO Circuit Setting the Reset Voltage The AAT1187A series has an integrated reset voltage detector with an open drain output. (Figure 11) Once V VDIV , in series RESET pin would be pulled low by internal NMOS can be calculated as below V 1.1V DETECT  ...Page 25... Page pin connects a capacitor, C DPM delay time )/I DPM DPM DPM C 62k C DPM DPM = V . Even VIN fast below 0.5V, GPM GHM status. GHM GH Figure 13. GPM Circuit Buffer for TFT-LCD. The 10 output resistor and 1µF – September 2009 AAT1187A , to analog ground ...Page 26... V bypass DD REF – 台 灣 類 比 科 技 股 份 有 限 公 司 Advanced Analog Technology, Inc . – – Version 1.00 Page AAT1187A Figure 14. Top Layer Figure 15. Power Layer Figure 16. GND Layer Figure 17. Bottom Layer – September 2009 ...Page 27... Dimensions In Millimeters Symbol MIN A 0.75 A1 0.00 b 0.18 C 0.19 D 3.90 D2 2.70 E 3.90 E2 2.70 e ------ L 0.30 y 0.00 TYP MAX 0.90 1.00 0.02 0.05 0.23 0.30 0.20 0.25 4.00 4.10 2.80 2.90 4.00 4.10 2.80 2.90 0.50 ------ 0.40 0.50 ----- 0.076 AAT1187A Footprint of PCB 0.5 2.8 2.8 2.8 2.8 0.23 0.8 3.3 3.3 4.9 4.9 – 台 灣 類 比 科 技 股 份 有 限 公 司 Advanced Analog Technology, Inc . – – Version 1.00 Page AAT1187A 3.3 3.3 4.9 4.9 – September 2009 ...Page 28... Original Modify ‘order information’ Adding ‘typical application characteristics’ Adding ‘application note and description’ AAT1187A modify application note Adding GPM description – 台 灣 類 比 科 技 股 份 有 限 公 司 Advanced Analog Technology, Inc . – ... Related keywords:AAT1187A datasheetAAT1187A data sheetAAT1187A pdf datasheetAAT1187A componentAAT1187A partAAT1187A distributorAAT1187A RoHSAAT1187A datasheet download 
+
+
+
+
+
+
+ Elcodis.com © 2010-2017
+
+
+Order parts
+Main
+
+Contacts
+
+FAQ
+About
+Abuse
+
+Copyright ©2010 - 2017 Elcodis Company Ltd. All Rights Reserved. Elcodis is a trademark of Elcodis Company Ltd. in the U.S. and/or other countries. All other trademarks are the property of their respective owners.
+
+
+
+
+
+
+
+
+
+
+Power Drivers - Datasheets | Electronic Components Elcodis.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ELCODIS — electronic components distributor 
+Main
+
+Contacts
+FAQ
+
+Share this page
+
+
+Part Search:
+
+
+
+
+Power Drivers
+My request: 0 parts
+
+
+ 
+
+
+
+
+Components/Datasheets/Power Drivers 
+ 
+
+
+Power Drivers - Datasheets 
+
+
+
+
+
+
+
+
+
+Results: 1-50 of 1000  Power Drivers#
+                        Image
+                        Part Number
+                        Description
+                    ManufacturerSeriesDatasheet1
+FSAL200FSAL200 Quad 2:1 multiplexer-demultiplexer wide bandwidth Fairchild SemiconductorFSAL200.pdf2
+FSAV330FSAV330 4-channel, 2:1 video switch Fairchild SemiconductorFSAV330.pdf3
+IRA-E710ST0IRA-E710ST0 Pyroelectric infrared sensors MuRata Manufacturing Co., Ltd.4
+PS2007BPS2007B High speed photo coupler. NEC Electronics5
+PS2502PS2502 High isolation voltage darlington transistor type multi photocoupler series NEC Electronics6
+PS2502L1PS2502L1 Ic,high iso. voltage darlington transistor, multi photocoupler,dip-4-smd California Eastern Laboratories / NEC7
+PS2705-1-E3PS2705-1-E3 High isolation voltage ac input response type sop multi photocoupler NEC Electronics8
+PS2707PS2707  NEC Electronics9
+PS2732-1-E3PS2732-1-E3 High isolation voltage high collector to emitter voltage sop photocoupler NEC Electronics10
+PS2811-1-F4PS2811-1-F4 High ctr 4, 16-pin sop photocoupler NEC Electronics11
+PS2815-1PS2815-1 Low (ac) input current, high ctr 4-pin sop photocoupler NEC Electronics12
+PM200CBS060PM200CBS060 Intelligent power module Mitsubishi Electric Semiconductor13
+PM20CHA060PM20CHA060 Intellimod-3 modules, three phase, igbt inverter output, 20 amp, 110-230 volt line Powerex Power SemiconductorsPM20CHA060.pdf14
+PM2105PM2105 1 watt rfic power amplifier 800 to 2000 mhz operation Pacific Monolithics15
+PM2202PM2202 Low noise amplifier 1800 to 2500 mhz operation Pacific MonolithicsPM2202.pdf16
+PM29F002B-90JCPM29F002B-90JC 2 megabit (256k x 8) 5.0 volt-only cmos flash memory PMC-Sierra, Inc.17
+PM150RSE120PM150RSE120 Intelligent power module Mitsubishi Electric Semiconductor18
+PM52AUBW060PM52AUBW060 Intellimod module active filter ipm 20 amperes/600 volts Powerex Power Semiconductors19
+PM5309-BIPM5309-BI Interface, multi-rate telecom backplane serdes for 2.5gbit/s interconnect PMC-Sierra, Inc.20
+PM5317-FIPM5317-FI Processor, spectra-9953 device driver PMC-Sierra, Inc.21
+PM5333-FIPM5333-FI Ethernet, 8 channel 10/100 ethernet over sonet/sdh mapping device PMC-Sierra, Inc.22
+PM5337-FIPM5337-FI Interface, single chip adm for 622 & 155mbit/s PMC-Sierra, Inc.23
+PM5338-FIPM5338-FI Interface, single chip adm for 622 & 155mbit/s PMC-Sierra, Inc.24
+PM5354-BIPM5354-BI Interface, multi-rate saturn user network interface for 2x622 and 4x155 PMC-Sierra, Inc.25
+PM5361-RIPM5361-RI Sonet/sdh tributary unit payload processor PMC-Sierra, Inc.PM5361-RI.pdf26
+PM5364-BIPM5364-BI Processor, sonet/sdh tributary unit payload processor for 2488.32mbit/s PMC-Sierra, Inc.27
+PM5366-PIPM5366-PI High density 84/63 channel vt/tu mapper and m13 multiplexer PMC-Sierra, Inc.PM5366-PI.pdf28
+PM5377-FIPM5377-FI Sonet/sdh, single chip 96 port sonet/sdh cross-connect switch element PMC-Sierra, Inc.29
+PM5382-BIPM5382-BI Atm, sixteen channel atm phy interface for 155.52 mbps PMC-Sierra, Inc.30
+PM5381-BIPM5381-BI Atm uni, single channel atm phy interface for 2488.32mbps PMC-Sierra, Inc.PM5381-BI.pdf31
+PM5386-BIPM5386-BI Interface, 4-channel atm and bit hdlc user network interface PMC-Sierra, Inc.32
+PM400DHA060PM400DHA060 Intellimod-3 modules single phase igbt inverter output 400a 110-230 volt line Powerex Power SemiconductorsPM400DHA060.pdf33
+PM4323-BIPM4323-BI Communications, octal t1/e1/j1 low latency transport line interface device PMC-Sierra, Inc.34
+PM4325-BIPM4325-BI Communications, octal short haul t1/e1/j1 low latency transport line PMC-Sierra, Inc.35
+PM4328-PIPM4328-PI Framer, t1|e1|t3 standard format, 324-bga PMC-Sierra, Inc.PM4328-PI.pdf36
+PM8358-NIPM8358-NI Communications, 10gbe and 10gfc compliant transceiver PMC-Sierra, Inc.37
+PM8363-NIPM8363-NI Ethernet transceiver, 4-channel 1.0625 to 1.25gbit/s transceiver PMC-Sierra, Inc.38
+PM8372-NIPM8372-NI Communications, 4-port fc/ge retimer and fc-al port bypass controller PMC-Sierra, Inc.39
+PM8373-NIPM8373-NI Ethernet transceiver, 6-channel 1.0625 to 1.25gbit/s transceiver PMC-Sierra, Inc.40
+PM8383-BIPM8383-BI Interface, 12-port sas edge expander PMC-Sierra, Inc.41
+PM6650PM6650 Msm6150 chipset solution Qualcomm, Inc.PM6650.pdf42
+EMP11EMP11 Switching diode ROHM Electronics43
+MIG25Q806HMIG25Q806H High power switching applications motor control applications Toshiba44
+MIG75Q7CSA0XMIG75Q7CSA0X  Toshiba45
+PM6686PM6686 Dual step-down controller with adjustable voltages, adjustable ldo and auxiliary charge pump controller for notebook STMicroelectronicsPM6686.pdf46
+FCBP110LD1L03FCBP110LD1L03 F i n i s a r preliminary product specification 10gb/s laserwire? serial data link active cable Finisar Corporation.FCBP110LD1L03.pdf47
+FCB11N60FFCB11N60F Fcb11n60f 600v n-channel mosfet Fairchild SemiconductorFCB11N60F.pdf48
+HT0638HT0638 Electronic line switch Supertex, Inc.HT0638.pdf49
+HT00HT00 Quadruple 2-input positive-nand gates Texas Instruments IncorporatedHT00.pdf50
+HT08HT08 Quadruple 2-input positive-and gates Texas Instruments IncorporatedHT08.pdf Pages:12345678910>
+>> 
+
+Showing electronic components search results for Power Drivers
+
+Hot Power Drivers Products
+
+PM52AUBW060
+VN410
+PM200CBS060
+FAN8026G3
+FSAV330
+KA78R08
+SI9986
+PS2815-1
+Si9241 
+
+
+
+
+
+ Elcodis.com © 2010-2017
+
+
+Order parts
+Main
+
+Contacts
+
+FAQ
+About
+Abuse
+
+Copyright ©2010 - 2017 Elcodis Company Ltd. All Rights Reserved. Elcodis is a trademark of Elcodis Company Ltd. in the U.S. and/or other countries. All other trademarks are the property of their respective owners.
+
+
+
+
+
+
+Datasheets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ELCODIS — electronic components distributor 
+Main
+
+Contacts
+FAQ
+
+Share this page
+
+
+Part Search:
+
+
+
+
+Datasheets
+My request: 0 parts
+
+
+ 
+
+
+
+
+Components/Datasheets 
+
+
+
+
+
+Datasheets 
+
+
+Popular parts
+
+ADCH-80
+FT232BM
+2SC1971
+FT245BM
+2SC2238
+BD9897FS
+IRG4PSC71UD
+AT90S2313
+MC14093BD
+AP34063
+BSP77
+FM24CL64-S
+B6S
+SM4002
+FT232BL
+SG6105
+ADT1-1WT
+HC-49S
+2MBI75P-140
+MC100LVEL16D
+A3952SEB
+CMX589AD2
+PM25LV010
+FM25256-S
+PT2322
+BFR92A
+GT40T301
+2SD1555
+LM305
+DF30AA160
+FM25CL64-S
+FM24CL16-S
+2SC3117
+MCP2551
+PT2323
+SST177
+MB3887
+FM24CL04-S
+FM25256B-G
+FM25CL64
+L-34F3C
+MB3878
+FM25L256B
+FM25L256B-G
+FT2232D
+IRGP20B120UD-E
+2SD1710
+BAT64-07
+BFS17A
+RHR15120 
+
+
+
+
+ Elcodis.com © 2010-2017
+
+
+Order parts
+Main
+
+Contacts
+
+FAQ
+About
+Abuse
+
+Copyright ©2010 - 2017 Elcodis Company Ltd. All Rights Reserved. Elcodis is a trademark of Elcodis Company Ltd. in the U.S. and/or other countries. All other trademarks are the property of their respective owners.
+
+
+
+

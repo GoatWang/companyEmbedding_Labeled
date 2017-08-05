@@ -1,0 +1,14158 @@
+
+
+
+
+
+Build Amazing Native Apps and Progressive Web Apps with Ionic Framework and Angular
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Building apps at a large company? Check out
+        
+Ionic Enterprise
+
+
+
+
+
+
+
+
+
+          The top open source framework for building amazing mobile apps.
+        
+
+          Ionic is the beautiful, free and open source mobile SDK for developing
+          native and progressive web apps with ease.
+        
+
+Get started
+Explore the docs
+
+            View docs
+
+
+v3.6.0 / 2017-07-27 /
+          MIT Licensed /
+          Release Notes
+
+
+
+
+
+
+
+Ionic View App
+
+
+
+
+
+
+
+
+
+
+Email me!
+
+
+
+
+
+ 
+          stars
+        
+
+
+
+  forks
+
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+
+Build apps with web tech you know and love
+
+      Know how to build websites? Then you already know how to build mobile
+      apps. Ionic Framework offers the best web and native app components for
+      building highly interactive native and progressive web apps.
+    
+
+
+
+
+
+
+
+
+
+Free & Open Source
+
+        Ionic Framework is a 100% free and open source project, licensed under
+        MIT. It will always remain free to use, powered by a massive world-wide
+        community.
+      
+
+
+Fully Cross-Platform
+
+        Build progressive web and native mobile apps for every major app store,
+        with one codebase. Ionic works and looks beautiful wherever it runs.
+      
+
+
+Premier Native Plugins
+
+        Use over 120 native device features like Bluetooth, HealthKit, Finger
+        Print Auth, and more with Cordova/PhoneGap plugins  and TypeScript
+        extensions.
+      
+
+
+First-class Documentation
+
+        Built with real app examples, component demos, guides, and how-to’s to
+        get you up and running with mobile apps faster than ever before.
+      
+
+
+
+
+
+
+write once. deploy anywhere.
+
+
+
+
+
+
+
+
+
+
+
+<ion-list>
+
+  <ion-item>
+    <ion-icon name="planet" item-left></ion-icon>
+    Astronomy
+  </ion-item>
+
+  <ion-item>
+    <ion-icon name="body" item-left></ion-icon>
+    Muggle Studies
+  </ion-item>
+
+</ion-list>
+
+
+
+
+
+
+
+
+      One code base.
+      Running everywhere.
+    
+
+      Ionic is the only mobile app stack that enables web developers apps for
+      all major app stores and the mobile web with a single code base. And with
+      Ionic’s Platform Continuity, your app looks and feels
+      at home on every device.
+    
+
+
+
+Performance obsessed
+
+        Speed is so important, you only notice when it isn't there. Ionic is
+        built to perform and behave great on the latest mobile devices with best
+        practices like efficient hardware accelerated transitions, and
+        touch-optimized gestures. Trust us, you'll be impressed.
+      
+
+        Check out our full API
+        
+
+
+
+Beautifully designed
+
+        Clean, simple, and functional. Ionic is designed to work and display
+        beautifully on all current mobile devices and platforms. With ready-made
+        components, typography, and a gorgeous (yet extensible) base theme that
+        adapts to each platform, you'll be building in style.
+      
+
+        Explore our Component docs
+        
+
+
+
+Native and web optimized
+
+        Ionic emulates native app UI guidelines and uses native SDKs, bringing
+        the UI standards and device features of native apps together with the
+        full power and flexibility of the open web. Ionic uses Cordova or
+        Phonegap to deploy natively, or runs in the browser as a Progressive Web
+        App.
+      
+
+        Learn about Progressive Web Apps
+        
+
+
+
+
+
+
+
+A complete mobile toolkit, built for web developers.
+
+        Everything you need to start creating fully functional mobile apps in
+        just minutes.
+      
+
+
+
+A Simple CLI to create, build, test, and
+        deploy your Ionic apps onto any platform. It’s like magic, but not.
+      
+
+Ionic Native unlocks native APIs and
+        features by wrapping Cordova plugins in TypeScript goodness.
+      
+
+Live
+        Reload because to compile and redeploy your app at every step of
+        development is for chumps.
+      
+
+Ionicons icon pack includes hundreds of
+        the most common app icons. MIT licensed, and ready out of the box.
+      
+
+Deeplinking
+         allows you to start your app from a web link to load a specific
+        view right from the start.
+      
+
+AoT
+        Compiling means your app loads lightning fast. Don’t blink on that
+        loading screen, you’ll miss it.
+      
+
+
+
+
+
+
+At a glance
+4 M
+IONIC APPS BUILT
+
+5 Million developers
+100+ Meetup Groups
+27,400+ Github stars
+30,000 S.O. questions
+
+
+
+Build alongside the best community around.
+
+        There are millions of Ionic developers in over 200 countries worldwide.
+        Join us.
+
+
+
+
+World Wide Slack is always filled with tons of ionic devs.
+      
+
+Community Forum is great for sharing and getting help.
+      
+
+StackOverflow is filled with help to common questions.
+      
+
+GitHub is the best place to file issues and contribute.
+      
+
+
+
+
+
+Loved by some of the best people and companies on earth
+  
+
+    Ionic is a shining example of a high-quality framework that takes advantage
+    of Angular's power and flexibility, enabling developers to build
+    production-ready mobile apps and Progressive Web Apps, in a fraction of the
+    time.
+  
+
+    Ionic is the framework that I use for all of my projects, and I'm not sure I
+    can give a bigger compliment than that. The innate sense of style and
+    sophistication built into Ionic is awesome and makes building
+    professional-level mobile applications a snap.
+  
+
+    Ionic will dramatically change the way mobile apps are built. Their choice
+    of AngularJS means building functionality is now a breeze and it feels
+    near-native. Your developers and your users will thank you.
+  
+
+    I was so inspired when I found Ionic. It fills a gap that’s missing when
+    building for mobile and solves many complexities that otherwise require
+    multiple libraries, keeping your code cleaner. Overall, it just makes mobile
+    development fun and fast, so you can build more!
+  
+
+
+
+Misko Hevery
+Creator of Angular
+
+
+
+Hampton Catlin
+Creator of Sass
+
+
+
+James Tamplin
+Co-Founder & CEO, Firebase
+      
+
+
+
+Holly Schinsky
+Dev Advocate, Adobe
+
+
+
+
+
+
+
+Getting started
+
+          Learn more about how to install Ionic Framework. We'll cover the basics
+          and get you started from the ground up.
+        
+
+
+Explore the docs
+
+          Take a look and get coding! Our documentation covers all you need to
+          know to get an app up and running in minutes.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Ionic compound - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Ionic compound
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+It has been suggested that this article be merged with Salt (chemistry). (Discuss) Proposed since June 2017.
+
+
+
+
+
+
+The crystal structure of sodium chloride, NaCl, a typical ionic compound. The purple spheres represent sodium cations, Na+, and the green spheres represent chloride anions, Cl−.
+
+
+In chemistry, an ionic compound is a chemical compound composed of ions held together by electrostatic forces termed ionic bonding. The compound is neutral overall, but consists of positively charged ions called cations and negatively charged ions called anions. These can be simple ions such as the sodium (Na+) and chloride (Cl−) in sodium chloride, or polyatomic species such as the ammonium (NH+
+4) and carbonate (CO2−
+3) ions in ammonium carbonate. Individual ions within an ionic compound usually have multiple nearest neighbours, so are not considered to be part of molecules, but instead part of a continuous three-dimensional network, usually in a crystalline structure.
+Ionic compounds containing hydrogen ions (H+) are classified as acids, and those containing basic ions hydroxide (OH−) or oxide (O2−) are classified as bases. Ionic compounds without these ions are also known as salts and can be formed by acid–base reactions. Ionic compounds can also be produced from their constituent ions by evaporation of their solvent, precipitation, freezing, a solid-state reaction, or the electron transfer reaction of reactive metals with reactive non-metals, such as halogen gases.
+Ionic compounds typically have high melting and boiling points, and are hard and brittle. As solids they are almost always electrically insulating, but when melted or dissolved they become highly conductive, because the ions are mobilized.
+
+
+
+Contents
+
+
+1 History of discovery
+2 Formation
+3 Bonding
+4 Structure
+
+4.1 Defects
+
+
+5 Properties
+
+5.1 Acidity/basicity
+5.2 Melting and boiling points
+5.3 Brittleness
+5.4 Compressibility
+5.5 Solubility
+5.6 Electrical conductivity
+5.7 Colour
+
+
+6 Uses
+7 Nomenclature
+8 See also
+9 Notes
+10 References
+
+10.1 Bibliography
+
+
+
+
+
+History of discovery[edit]
+The word ion is the Greek ἰόν, ion, "going", the present participle of ἰέναι, ienai, "to go". This term was introduced by English physicist and chemist Michael Faraday in 1834 for the then-unknown species that goes from one electrode to the other through an aqueous medium.[1][2]
+
+
+
+
+X-ray spectrometer developed by Bragg
+
+
+In 1913 the crystal structure of sodium chloride was determined by William Henry Bragg and William Lawrence Bragg.[3][4][5] This revealed that there were six equidistant nearest-neighbours for each atom, demonstrating that the constituents were not arranged in molecules or finite aggregates, but instead as a network with long-range crystalline order.[5] Many other inorganic compounds were also found to have similar structural features.[5] These compounds were soon described as being constituted of ions rather than neutral atoms, but proof of this hypothesis was not found until the mid-1920s, when X-ray reflection experiments (which detect the density of electrons), were performed.[5][6]
+Principal contributors to the development of a theoretical treatment of ionic crystal structures were Max Born, Fritz Haber, Alfred Landé, Erwin Madelung, Paul Peter Ewald, and Kazimierz Fajans.[7] Born predicted crystal energies based on the assumption of ionic constituents, which showed good correspondence to thermochemical measurements, further supporting the assumption.[5]
+Formation[edit]
+
+
+
+
+Halite, the mineral form of sodium chloride, forms when salty water evaporates leaving the ions behind.
+
+
+Ionic compounds can be produced from their constituent ions by evaporation, precipitation, or freezing. Reactive metals such as the alkali metals can react directly with the highly electronegative halogen gases to form an ionic product.[8] They can also be synthesized as the product of a high temperature reaction between solids.[9]
+If the ionic compound is soluble in a solvent, it can be obtained as a solid compound by evaporating the solvent from this electrolyte solution.[10] As the solvent is evaporated, the ions do not go into the vapour, but stay in the remaining solution, and when they become sufficiently concentrated, nucleation occurs, and they crystallize into an ionic compound. This process occurs widely in nature, and is the means of formation of the evaporite minerals.[11] Another method of recovering the compound from solution involves saturating a solution at high temperature and then reducing the solubility by reducing the temperature until the solution is supersaturated and the solid compound nucleates.[10]
+Insoluble ionic compounds can be precipitated by mixing two solutions, one with the cation and one with the anion in it. Because all solutions are electrically neutral, the two solutions mixed must also contain counterions of the opposite charges. To ensure that these do not contaminate the precipitated ionic compound, it is important to ensure they do not also precipitate.[12] If the two solutions have hydrogen ions and hydroxide ions as the counterions, they will react with one another in what is called an acid–base reaction or a neutralization reaction to form water.[13] Alternately the counterions can be chosen to ensure that even when combined into a single solution they will remain soluble as spectator ions.[12]
+If the solvent is water in either the evaporation or precipitation method of formation, in many cases the ionic crystal formed also includes water of crystallization, so the product is known as a hydrate, and can have very different chemical properties.[14]
+Molten salts will solidify on cooling to below their freezing point.[15] This is sometimes used for the solid-state synthesis of complex ionic compounds from solid reactants, which are first melted together.[16] In other cases, the solid reactants do not need to be melted, but instead can react through a solid-state reaction route. In this method the reactants are repeatedly finely ground into a paste, and then heated to a temperature where the ions in neighbouring reactants can diffuse together during the time the reactant mixture remains in the oven.[9] Other synthetic routes use a solid precursor with the correct stoichiometric ratio of non-volatile ions, which is heated to drive off other species.[9]
+In some reactions between highly reactive metals (usually from Group 1 or Group 2) and highly electronegative halogen gases, or water, the atoms can be ionized by electron transfer,[17] a process thermodynamically understood using the Born–Haber cycle.[18]
+Bonding[edit]
+
+
+
+
+A schematic electron shell diagram of sodium and fluorine atoms undergoing a redox reaction to form sodium fluoride. Sodium loses its outer electron to give it a stable electron configuration, and this electron enters the fluorine atom exothermically. The oppositely charged ions – typically a great many of them – are then attracted to each other to form a solid.
+
+
+Main article: Ionic bonding
+Ions in ionic compounds are primarily held together by the electrostatic forces between the charge distribution of these bodies, and in particular the ionic bond resulting from the long-ranged Coulomb attraction between the net negative charge of the anions and net positive charge of the cations.[19] There is also a small additional attractive force from van der Waals interactions which contributes only around 1–2% of the cohesive energy for small ions.[20] When a pair of ions comes close enough for their outer electron shells (most simple ions have closed shells) to overlap, a short-ranged repulsive force occurs,[21] due to the Pauli exclusion principle.[22] The balance between these forces leads to a potential energy well with a minimum energy when the nuclei are separated by a specific equilibrium distance.[21]
+If the electronic structure of the two interacting bodies is affected by the presence of one another, covalent interactions (non-ionic) also contribute to the overall energy of the compound formed.[23] Ionic compounds are rarely purely ionic, i.e. held together only by electrostatic forces. The bonds between even the most electronegative/electropositive pairs such as those in caesium fluoride exhibit a small degree of covalency.[24][25] Conversely, covalent bonds between unlike atoms often exhibit some charge separation and can be considered to have a partial ionic character.[23] The circumstances under which a compound will have ionic or covalent character can typically be understood using Fajans' rules, which use only charges and the sizes of each ion. According to these rules, compounds with the most ionic character will have large positive ions with a low charge, bonded to a small negative ion with a high charge.[26] More generally HSAB theory can be applied, whereby the compounds with the most ionic character are those consisting of hard acids and hard bases: small, highly charged ions with a high difference in electronegativities between the anion and cation.[27][28] This difference in electronegativities means that the charge separation, and resulting dipole moment, is maintained even when the ions are in contact (the excess electrons on the anions are not transferred or polarized to neutralize the cations).[29]
+Structure[edit]
+
+
+
+
+The unit cell of the zinc blende structure
+
+
+Ions typically pack into extremely regular crystalline structures, in an arrangement that minimizes the lattice energy (maximizing attractions and minimizing repulsions). The lattice energy is the summation of the interaction of all sites with all other sites. For unpolarizable spherical ions only the charges and distances are required to determine the electrostatic interaction energy. For any particular ideal crystal structure, all distances are geometrically related to the smallest internuclear distance. So for each possible crystal structure, the total electrostatic energy can be related to the electrostatic energy of unit charges at the nearest neighbour distance by a multiplicative constant called the Madelung constant[21] that can be efficiently computed using an Ewald sum.[30] When a reasonable form is assumed for the additional repulsive energy, the total lattice energy can be modelled using the Born–Landé equation,[31] the Born–Mayer equation, or in the absence of structural information, the Kapustinskii equation.[32]
+Using an even simpler approximation of the ions as impenetrable hard spheres, the arrangement of anions in these systems are often related to close-packed arrangements of spheres, with the cations occupying tetrahedral or octahedral interstices.[33][34] Depending on the stoichiometry of the ionic compound, and the coordination (principally determined by the radius ratio) of cations and anions, a variety of structures are commonly observed,[35] and theoretically rationalized by Pauling's rules.[36]
+
+Common ionic compound structures with close-packed anions[35]
+
+Stoichiometry
+Cation:anion coordination
+Interstitial sites
+Cubic close packing of anions
+Hexagonal close packing of anions
+
+
+
+
+occupancy
+critical radius ratio
+name
+Madelung constant
+name
+Madelung constant
+
+
+MX
+6:6
+all octahedral
+0.4142[33]
+sodium chloride
+1.747565[37]
+nickeline
+<1.73[a][38]
+
+
+
+4:4
+alternate tetrahedral
+0.2247[39]
+zinc blende
+1.6381[37]
+wurtzite
+1.641[5]
+
+
+MX2
+8:4
+all tetrahedral
+0.2247
+fluorite
+5.03878[40]
+
+
+
+
+
+6:3
+half octahedral (alternate layers fully occupied)
+0.4142
+cadmium chloride
+5.61[41]
+cadmium iodide
+4.71[40]
+
+
+MX3
+6:2
+one-third octahedral
+0.4142
+rhodium(III) bromide[b][42][43]
+6.67[44][c]
+bismuth iodide
+8.26[44][d]
+
+
+M2X3
+6:4
+two-thirds octahedral
+0.4142
+
+
+corundum
+25.0312[40]
+
+
+ABO3
+
+two-thirds octahedral
+0.4142
+
+
+ilmenite
+depends on charges and structure [e]
+
+
+AB2O4
+
+one-eighth tetrahedral and one-half octahedral
+rA/rO = 0.2247, rB/rO = 0.4142[f]
+spinel, inverse spinel
+depends on cation site distributions[47][48][49]
+olivine
+depends on cation site distributions[50]
+
+
+In some cases the anions take on a simple cubic packing, and the resulting common structures observed are:
+
+Common ionic compound structures with simple cubic packed anions[43]
+
+Stoichiometry
+Cation:anion coordination
+Interstitial sites occupied
+Example structure
+
+
+
+
+
+name
+critical radius ratio
+Madelung constant
+
+
+MX
+8:8
+entirely filled
+cesium chloride
+0.7321[51]
+1.762675[37]
+
+
+MX2
+8:4
+half filled
+calcium fluoride
+
+
+
+
+M2X
+4:8
+half filled
+lithium oxide
+
+
+
+
+Some ionic liquids, particularly with mixtures of anions or cations, can be cooled rapidly enough that there is not enough time for crystal nucleation to occur, so an ionic glass is formed (with no long-range order).[52]
+Defects[edit]
+
+
+
+
+Frenkel defect
+
+
+
+Schottky defect
+
+
+
+
+See also: crystallographic defect
+Within an ionic crystal, there will usually be some point defects, but to maintain electroneutrality, these defects come in pairs.[53] Frenkel defects consist of a cation vacancy paired with a cation interstitial and can be generated anywhere in the bulk of the crystal,[53] occurring most commonly in compounds with a low coordination number and cations that are much smaller than the anions.[54] Schottky defects consist of one vacancy of each type, and are generated at the surfaces of a crystal,[53] occurring most commonly in compounds with a high coordination number and when the anions and cations are of similar size.[54] If the cations have multiple possible oxidation states, then it is possible for cation vacancies to compensate for electron deficiencies on cation sites with higher oxidation numbers, resulting in a non-stoichiometric compound.[53] Another non-stoichiometric possibility is the formation of an F-center, a free electron occupying an anion vacancy.[55] When the compound has three or more ionic components, even more defect types are possible.[53] All of these point defects can be generated via thermal vibrations and have an equilibrium concentration. Because they are energetically costly, but entropically beneficial, they occur in greater concentration at higher temperatures. Once generated, these pairs of defects can diffuse mostly independently of one another, by hopping between lattice sites. This defect mobility is the source of most transport phenomena within an ionic crystal, including diffusion and solid state ionic conductivity.[53] When vacancies collide with interstitials (Frenkel), they can recombine and annihilate one another. Similarly vacancies are removed when they reach the surface of the crystal (Schottky). Defects in the crystal structure generally expand the lattice parameters, reducing the overall density of the crystal.[53] Defects also result in ions in distinctly different local environments, which causes them to experience a different crystal-field symmetry, especially in the case of different cations exchanging lattice sites.[53] This results in a different splitting of d-electron orbitals, so that the optical absorption (and hence colour) can change with defect concentration.[53]
+Properties[edit]
+Acidity/basicity[edit]
+Ionic compounds containing hydrogen ions (H+) are classified as acids, and those containing electropositive cations[56] and basic anions ions hydroxide (OH−) or oxide (O2−) are classified as bases. Other ionic compounds are known as salts and can be formed by acid–base reactions.[57] If the compound is the result of a reaction between a strong acid and a weak base, the result is an acidic salt. If it is the result of a reaction between a strong base and a weak acid, the result is a basic salt. If it is the result of a reaction between a strong acid and a strong base, the result is a neutral salt. Weak acids reacted with weak bases can produce ionic compounds with both the conjugate base ion and conjugate acid ion, such as ammonium acetate.
+Some ions are classed as amphoteric, being able to react with either an acid or a base.[58] This is also true of some compounds with ionic character, typically oxides or hydroxides of less-electropositive metals (so the compound also has significant covalent character), such as zinc oxide, aluminium hydroxide, aluminium oxide and lead(II) oxide.[59]
+Melting and boiling points[edit]
+Electrostatic forces between particles are strongest when the charges are high, and the distance between the nuclei of the ions is small. In such cases, the compounds generally have very high melting and boiling points and a low vapour pressure.[60] Trends in melting points can be even better explained when the structure and ionic size ratio is taken into account.[61] Above their melting point ionic solids melt and become molten salts (although some ionic compounds such as aluminium chloride and iron(III) chloride show molecule-like structures in the liquid phase).[62] Inorganic compounds with simple ions typically have small ions, and thus have high melting points, so are solids at room temperature. Some substances with larger ions, however, have a melting point below or near room temperature (often defined as up to 100 °C), and are termed ionic liquids.[63] Ions in ionic liquids often have uneven charge distributions, or bulky substituents like hydrocarbon chains, which also play a role in determining the strength of the interactions and propensity to melt.[64]
+Even when the local structure and bonding of an ionic solid is disrupted sufficiently to melt it, there are still strong long-range electrostatic forces of attraction holding the liquid together and preventing ions boiling to form a gas phase.[65] This means that even room temperature ionic liquids have low vapour pressures, and require substantially higher temperatures to boil.[65] Boiling points exhibit similar trends to melting points in terms of the size of ions and strength of other interactions.[65] When vapourized, the ions are still not freed of one another. For example, in the vapour phase sodium chloride exists as diatomic "molecules".[66]
+Brittleness[edit]
+Most ionic compounds are very brittle. Once they reach the limit of their strength, they cannot deform mealleably, because the strict alignment of positive and negative ions must be maintained. Instead the material undergoes fracture via cleavage.[67] As the temperature is elevated (usually close to the melting point) a ductile–brittle transition occurs, and plastic flow becomes possible by the motion of dislocations.[67][68]
+Compressibility[edit]
+The compressibility of an ionic compound is strongly determined by its structure, and in particular the coordination number. For example, halides with the caesium chloride structure (coordination number 8) are less compressible than those with the sodium chloride structure (coordination number 6), and less again than those with a coordination number of 4.[69]
+Solubility[edit]
+When ionic compounds dissolve, the individual ions dissociate and are solvated by the solvent and dispersed throughout the resulting solution.[70] Because the ions are released into solution when dissolved, and can conduct charge, soluble ionic compounds are the most common class of strong electrolytes, and their solutions have a high electrical conductivity.[71]
+
+
+
+
+The aqueous solubility of a variety of ionic compounds as a function of temperature. Some compounds exhibiting unusual solubility behaviour have been included.
+
+
+The solubility is highest in polar solvents (such as water) or ionic liquids, but tends to be low in nonpolar solvents (such as petrol/gasoline).[72] This is principally because the resulting ion–dipole interactions are significantly stronger than ion-induced dipole interactions, so the heat of solution is higher. When the oppositely charged ions in the solid ionic lattice are surrounded by the opposite pole of a polar molecule, the solid ions are pulled out of the lattice and into the liquid. If the solvation energy exceeds the lattice energy, the negative net enthalpy change of solution provides a thermodynamic drive to remove ions from their positions in the crystal and dissolve in the liquid. In addition, the entropy change of solution is usually positive for most solid solutes like ionic compounds, which means that their solubility increases when the temperature increases.[73] There are some unusual ionic compounds such as cerium(III) sulfate, where this entropy change is negative, due to extra order induced in the water upon solution, and the solubility decreases with temperature.[73]
+Electrical conductivity[edit]
+Although ionic compounds contain charged atoms or clusters, these materials do not typically conduct electricity to any significant extent when the substance is solid. In order to conduct, the charged particles must be mobile rather than stationary in a crystal lattice. This is achieved to some degree at high temperatures when the defect concentration increases the ionic mobility and solid state ionic conductivity is observed. When the ionic compounds are dissolved in a liquid or are melted into a liquid, they can conduct electricity because the ions become completely mobile.[74] This conductivity gain upon dissolving or melting is sometimes used as a defining characteristic of ionic compounds.[75]
+In some unusual ionic compounds: fast ion conductors, and ionic glasses,[52] one or more of the ionic components has a significant mobility, allowing conductivity even while the material as a whole remains solid.[76] This is often highly temperature dependant, and may be the result of either a phase change or a high defect concentration.[76] These materials are used in all solid-state supercapacitors, batteries, and fuel cells, and in various kinds of chemical sensors.[77][78]
+Colour[edit]
+
+
+
+
+Anhydrous cobalt(II) chloride,
+CoCl2
+
+
+
+Cobalt(II) chloride hexahydrate,
+CoCl2·6H2O
+
+
+
+
+See also: Color of chemicals
+The colour of an ionic compound is often different to the colour of an aqueous solution containing the constituent ions,[79] or the hydrated form of the same compound.[14]
+The anions in compounds with bonds with the most ionic character tend to be colourless (with an absorption band in the ultraviolet part of the spectrum).[80] In compounds with less ionic character, their colour deepens through yellow, orange, red and black (as the absorption band shifts to longer wavelengths into the visible spectrum).[80]
+The absorption band of simple cations shift toward shorter wavelength when they are involved in more covalent interactions.[80] This occurs during hydration of metal ions, so colourless anhydrous ionic compounds with an anion absorbing in the infrared can become colourful in solution.[80]
+Uses[edit]
+Ionic compounds have long had a wide variety of uses and applications. Many minerals are ionic.[81] Humans have processed common salt (sodium chloride) for over 8000 years, using it first as a food seasoning and preservative, and now also in manufacturing, agriculture, water conditioning, for de-icing roads, and many other uses.[82] Many ionic compounds are so widely used in society that they go by common names unrelated to their chemical identity. Examples of this include borax, calomel, milk of magnesia, muriatic acid, oil of vitriol, saltpeter, and slaked lime.[83]
+Soluble ionic compounds like salt can easily be dissolved to provide electrolyte solutions. This is a simple way to control the concentration and ionic strength. The concentration of solutes affects many colligative properties, including increasing the osmotic pressure, and causing freezing-point depression and boiling-point elevation.[84] Because the solutes are charged ions they also increase the electrical conductivity of the solution.[85] The increased ionic strength reduces the thickness of the electrical double layer around colloidal particles, and therefore the stability of emulsions and suspensions.[86]
+The chemical identity of the ions added is also important in many uses. For example, fluoride containing compounds are dissolved to supply fluoride ions for water fluoridation.[87]
+Solid ionic compounds have long been used as paint pigments, and are resistant to organic solvents, but are sensitive to acidity or basicity.[88] Since 1801 pyrotechnicians have described and widely used metal-containing ionic compounds as sources of colour in fireworks.[89] Under intense heat, the electrons in the metal ions or small molecules can be excited.[90] These electrons later return to lower energy states, and release light with a colour spectrum characteristic of the species present.[91][92]
+In chemistry, ionic compounds are often used as precursors for high-temperature solid-state synthesis.[93]
+Many metals are geologically most abundant as ionic compounds within ores.[94] To obtain the elemental materials, these ores are processed by smelting or electrolysis, in which redox reactions occur (often with a reducing agent such as carbon) such that the metal ions gain electrons to become neutral atoms.[95][96]
+Nomenclature[edit]
+See also: IUPAC nomenclature of inorganic chemistry
+According to the nomenclature recommended by IUPAC, ionic compounds are named according to their composition, not their structure.[97] In the most simple case of a binary ionic compound with no possible ambiguity about the charges and thus the stoichiometry, the common name is written using two words.[98] The name of the cation (the unmodified element name for monatomic cations) comes first, followed by the name of the anion.[99][100] For example, MgCl2 is named magnesium chloride, and Na2SO4 is named sodium sulfate (SO2−
+4, sulfate, is an example of a polyatomic ion). To obtain the empirical formula from these names, the stoichiometry can be deduced from the charges on the ions, and the requirement of overall charge neutrality.
+If there are multiple different cations and/or anions, multiplicative prefixes (di-, tri-, tetra-, ...) are often required to indicate the relative compositions,[101] and cations then anions are listed in alphabetical order.[102] For example, KMgCl3 is named magnesium potassium trichloride to distinguish it from K2MgCl4, magnesium dipotassium tetrachloride[103] (note that in both the empirical formula and the written name, the cations appear in alphabetical order, but the order varies between them because the symbol for potassium is K).[104] When one of the ions already has a multiplicative prefix within its name, the alternate multiplicative prefixes (bis-, tris-, tetrakis-, ...) are used.[105] For example, Ba(BrF4)2 is named barium bis(tetrafluoridobromate).[106]
+Compounds containing one or more elements which can exist in a variety of charge/oxidation states will have a stoichiometry that depends on which oxidation states are present, to ensure overall neutrality. This can be indicated in the name by specifying either the oxidation state of the elements present, or the charge on the ions.[106] Because of the risk of ambiguity in allocating oxidation states, IUPAC prefers direct indication of the ionic charge numbers.[106] These are written as an arabic integer followed by the sign (... , 2−, 1−, 1+, 2+, ...) in parentheses directly after the name of the cation (without a space separating them).[106] For example, FeSO4 is named iron(2+) sulfate (with the 2+ charge on the Fe2+ ions balancing the 2− charge on the sulfate ion), whereas Fe2(SO4)3 is named iron(3+) sulfate (because the two iron ions in each formula unit each have a charge of 3+, to balance the 2− on each of the three sulfate ions).[106] Stock nomenclature, still in common use, writes the oxidation number in Roman numerals (... , −II, −I, 0, I, II, ...). So the examples given above would be named iron(II) sulfate and iron(III) sulfate respectively.[107] For simple ions the ionic charge and the oxidation number are identical, but for polyatomic ions they often differ. For example, the uranyl(2+) ion, UO2+
+2, has uranium in an oxidation state of +6, so would be called a dioxouranium(VI) ion in Stock nomenclature.[108] An even older naming system for metal cations, also still widely used, appended the suffixes -ous and -ic to the Latin root of the name, to give special names for the low and high oxidation states.[109] For example, this scheme uses "ferrous" and "ferric", for iron(II) and iron(III) respectively,[109] so the examples given above were classically named ferrous sulfate and ferric sulfate.
+See also[edit]
+
+Bonding in solids
+Ioliomics
+Ionic bond
+
+Notes[edit]
+
+
+
+^ This structure type has a variable lattice parameter c/a ratio, and the exact Madelung constant depends on this.
+^ This structure has been referred to in references as yttrium(III) chloride and chromium(III) chloride, but both are now known as the RhBr3 structure type.
+^ The reference lists this structure as MoCl3, which is now known as the RhBr3 structure.
+^ The reference lists this structure as FeCl3, which is now known as the BiI3 structure type.
+^ This structure type can accommodate any charges on A and B that add up to six. When both are three the charge structure is equivalent to that of corrundum.[45] The structure also has a variable lattice parameter c/a ratio, and the exact Madelung constant depends on this.
+^ However, in some cases such as MgAl2O4 the larger cation occupies the smaller tetrahedral site.[46]
+
+
+
+
+References[edit]
+
+
+^ Michael Faraday (1791–1867). UK: BBC. 
+^ "Online etymology dictionary". Retrieved 2011-01-07. 
+^ Bragg, W. H.; Bragg, W. L. (1 July 1913). "The Reflection of X-rays by Crystals". Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. 88 (605): 428–438. doi:10.1098/rspa.1913.0040. 
+^ Bragg, W. H. (22 September 1913). "The Reflection of X-rays by Crystals. (II.)". Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. 89 (610): 246–248. doi:10.1098/rspa.1913.0082. 
+^ a b c d e f Sherman, Jack (August 1932). "Crystal Energies of Ionic Compounds and Thermochemical Applications". Chemical Reviews. 11 (1): 93–170. doi:10.1021/cr60038a002. 
+^ James, R. W.; Brindley, G. W. (1 November 1928). "A Quantitative Study of the Reflexion of X-Rays by Sylvine". Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences. 121 (787): 155–171. doi:10.1098/rspa.1928.0188. 
+^ Pauling 1960, p. 505.
+^ Zumdahl 1989, p. 312.
+^ a b c Wold & Dwight 1993, p. 71.
+^ a b Wold & Dwight 1993, p. 82.
+^ Wenk, Hans-Rudolf; Bulakh, Andrei (2003). Minerals: their constitution and origin (Reprinted with corrections. ed.). New York: Cambridge University Press. p. 351. ISBN 978-0-521-52958-7. 
+^ a b Zumdahl 1989, p. 133–140.
+^ Zumdahl 1989, p. 144–145.
+^ a b Brown 2009, p. 417.
+^ Wold & Dwight 1993, p. 79.
+^ Wold & Dwight 1993, pp. 79–81.
+^ Zumdahl 1989, p. 312–313.
+^ Barrow 1988, p. 161–162.
+^ Pauling 1960, p. 6.
+^ Kittel 2005, p. 61.
+^ a b c Pauling 1960, p. 507.
+^ Ashcroft & Mermin 1977, p. 379.
+^ a b Pauling 1960, p. 65.
+^ Hannay, N. Bruce; Smyth, Charles P. (February 1946). "The Dipole Moment of Hydrogen Fluoride and the Ionic Character of Bonds". Journal of the American Chemical Society. 68 (2): 171–173. doi:10.1021/ja01206a003. 
+^ Pauling, Linus (1948). "The modern theory of valency". Journal of the Chemical Society (Resumed): 1461–1467. doi:10.1039/JR9480001461. 
+^ Lalena, John. N.; Cleary, David. A. (2010). Principles of inorganic materials design (2nd ed.). Hoboken, N.J: John Wiley. ISBN 978-0-470-56753-1. 
+^ Pearson, Ralph G. (November 1963). "Hard and Soft Acids and Bases". Journal of the American Chemical Society. 85 (22): 3533–3539. doi:10.1021/ja00905a001. 
+^ Pearson, Ralph G. (October 1968). "Hard and soft acids and bases, HSAB, part II: Underlying theories". Journal of Chemical Education. 45 (10): 643. doi:10.1021/ed045p643. 
+^ Barrow 1988, p. 676.
+^ Kittel 2005, p. 64.
+^ Pauling 1960, p. 509.
+^ Carter, Robert (2016). "Lattice Energy" (PDF). CH370 Lecture Material. Retrieved 2016-01-19. 
+^ a b Ashcroft & Mermin 1977, p. 383.
+^ Zumdahl 1989, p. 444–445.
+^ a b Moore, Lesley E. Smart; Elaine A. (2005). Solid state chemistry: an introduction (3. ed.). Boca Raton, Fla. [u.a.]: Taylor & Francis, CRC. p. 44. ISBN 978-0-7487-7516-3. 
+^ Ashcroft & Mermin 1977, pp. 382–387.
+^ a b c Kittel 2005, p. 65.
+^ Zemann, J. (1 January 1958). "Berechnung von Madelung'schen Zahlen für den NiAs-Typ". Acta Crystallographica. 11 (1): 55–56. doi:10.1107/S0365110X5800013X. 
+^ Ashcroft & Mermin 1977, p. 386.
+^ a b c Dienes, Richard J. Borg, G.J. (1992). The physical chemistry of solids. Boston: Academic Press. p. 123. ISBN 978-0-12-118420-9. 
+^ Brackett, Thomas E.; Brackett, Elizabeth B. (1965). "The Lattice Energies of the Alkaline Earth Halides". Journal of Physical Chemistry. 69 (10): 3611–3614. doi:10.1021/j100894a062. 
+^ "YCl3 – Yttrium trichloride". ChemTube3D. University of Liverpool. 2008. Retrieved 19 January 2016. 
+^ a b Ellis, Arthur B. []; et al. (1995). Teaching general chemistry: a materials science companion (3. print ed.). Washington: American Chemical Society. p. 121. ISBN 0-8412-2725-X. 
+^ a b Hoppe, R. (January 1966). "Madelung Constants". Angewandte Chemie International Edition in English. 5 (1): 95–106. doi:10.1002/anie.196600951. 
+^ Bhagi, Ajay; Raj, Gurdeep (2010). Krishna's IAS Chemistry. Meerut: Krishna Prakashan Media. p. 171. ISBN 978-81-87224-70-9. 
+^ Wenk & Bulakh 2004, p. 778.
+^ Verwey, E. J. W. (1947). "Physical Properties and Cation Arrangement of Oxides with Spinel Structures I. Cation Arrangement in Spinels". Journal of Chemical Physics. 15 (4): 174–180. doi:10.1063/1.1746464. 
+^ Verwey, E. J. W.; de Boer, F.; van Santen, J. H. (1948). "Cation Arrangement in Spinels". The Journal of Chemical Physics. 16 (12): 1091. doi:10.1063/1.1746736. 
+^ Thompson, P.; Grimes, N. W. (27 September 2006). "Madelung calculations for the spinel structure". Philosophical Magazine. Vol. 36 no. 3. pp. 501–505. doi:10.1080/14786437708239734. 
+^ Alberti, A.; Vezzalini, G. (1978). "Madelung energies and cation distributions in olivine-type structures". Zeitschrift für Kristallographie – Crystalline Materials. 147 (1–4): 167–176. doi:10.1524/zkri.1978.147.14.167. 
+^ Ashcroft & Mermin 1977, p. 384.
+^ a b Souquet, J (October 1981). "Electrochemical properties of ionically conductive glasses". Solid State Ionics. 5: 77–82. doi:10.1016/0167-2738(81)90198-3. 
+^ a b c d e f g h i Schmalzried, Hermann. "Point defects in ternary ionic crystals". Progress in Solid State Chemistry. 2: 265–303. doi:10.1016/0079-6786(65)90009-9. 
+^ a b Prakash, Satya (1945). Advanced inorganic chemistry. New Delhi: S. Chand & Company Ltd. p. 554. ISBN 978-81-219-0263-2. 
+^ Kittel 2005, p. 376.
+^ http://www.wou.edu/las/physci/ch412/oxides.html
+^ Whitten, Kenneth W.; Galley, Kenneth D.; Davis, Raymond E. (1992). General Chemistry (4th ed.). Saunders. p. 128. ISBN 0-03-072373-6. 
+^ Davidson, David (November 1955). "Amphoteric molecules, ions and salts". Journal of Chemical Education. 32 (11): 550. doi:10.1021/ed032p550. 
+^ Weller, Mark; Overton, Tina; Rourke, Jonathan; Armstrong, Fraser (2014). Inorganic chemistry (Sixth ed.). Oxford: Oxford University Press. pp. 129–130. ISBN 978-0-19-964182-6. 
+^ McQuarrie & Rock 1991, p. 503.
+^ Pauling, Linus (1928-04-01). "The Influence of Relative Ionic Sizes on the Properties of Ionic Compounds". Journal of the American Chemical Society. 50 (4): 1036–1045. ISSN 0002-7863. doi:10.1021/ja01391a014. 
+^ Tosi, M. P. (2002). Gaune-Escard, Marcelle, ed. Molten Salts: From Fundamentals to Applications. Dordrecht: Springer Netherlands. p. 1. ISBN 978-94-010-0458-9. 
+^ Freemantle 2009, p. 1.
+^ Freemantle 2009, pp. 3–4.
+^ a b c Rebelo, Luis P. N.; Canongia Lopes, José N.; Esperança, José M. S. S.; Filipe, Eduardo (2005-04-01). "On the Critical Temperature, Normal Boiling Point, and Vapor Pressure of Ionic Liquids". The Journal of Physical Chemistry B. 109 (13): 6040–6043. ISSN 1520-6106. doi:10.1021/jp050430h. 
+^ Porterfield, William W. (2013). Inorganic Chemistry a Unified Approach. (2nd ed.). New York: Elsevier Science. pp. 63–67. ISBN 978-0-323-13894-9. 
+^ a b Johnston, T. L.; Stokes, R. J.; Li, C. H. (December 1959). "The ductile–brittle transition in ionic solids". Philosophical Magazine. Vol. 4 no. 48. pp. 1316–1324. doi:10.1080/14786435908233367. 
+^ Kelly, A.; Tyson, W. R.; Cottrell, A. H. (1967-03-01). "Ductile and brittle crystals". Philosophical Magazine. Vol. 15 no. 135. pp. 567–586. ISSN 0031-8086. doi:10.1080/14786436708220903. 
+^ Stillwell, Charles W. (January 1937). "Crystal chemistry. V. The properties of binary compounds". Journal of Chemical Education. 14 (1): 34. doi:10.1021/ed014p34. 
+^ Brown 2009, pp. 89–91.
+^ Brown 2009, pp. 91–92.
+^ Brown 2009, pp. 413–415.
+^ a b Brown 2009, p. 422.
+^ "Electrical Conductivity of Ionic Compound". Retrieved 2 December 2012. 
+^ Zumdahl 1989, p. 341.
+^ a b Gao, Wei; Sammes, Nigel M (1999). An Introduction to Electronic and Ionic Materials. World Scientific. p. 261. ISBN 978-981-02-3473-7. 
+^ West, Anthony R. (1991). "Solid electrolytes and mixed ionic?electronic conductors: an applications overview". Journal of Materials Chemistry. 1 (2): 157. doi:10.1039/JM9910100157. 
+^ Boivin, J. C.; Mairesse, G. (October 1998). "Recent Material Developments in Fast Oxide Ion Conductors". Chemistry of Materials. 10 (10): 2870–2888. doi:10.1021/cm980236q. 
+^ Pauling 1960, p. 105.
+^ a b c d Pauling 1960, p. 107.
+^ Wenk & Bulakh 2004, p. 774.
+^ Kurlansky, Mark (2003). Salt: a world history (1st ed.). London: Vintage. ISBN 978-0-09-928199-3. 
+^ Lower, Simon (2014). "Naming Chemical Substances". Chem1 General Chemistry Virtual Textbook. Retrieved 14 January 2016. 
+^ Atkins & de Paula 2006, pp. 150–157.
+^ Atkins & de Paula 2006, pp. 761–770.
+^ Atkins & de Paula 2006, pp. 163–169.
+^ Reeves TG. Centers for Disease Control. Water fluoridation: a manual for engineers and technicians [PDF]; 1986 [Retrieved 2016-01-18].
+^ Satake, M; Mido, Y (1995). Chemistry of Colour. Discovery Publishing House. p. 230. ISBN 978-81-7141-276-1. 
+^ Russell 2009, p. 14.
+^ Russell 2009, p. 82.
+^ Russell 2009, pp. 108–117.
+^ Russell 2009, pp. 129–133.
+^ Xu, Ruren; Pang, Wenqin; Huo, Qisheng (2011). Modern inorganic synthetic chemistry. Amsterdam: Elsevier. p. 22. ISBN 978-0-444-53599-3. 
+^ Zumdahl & Zumdahl 2015, pp. 822.
+^ Zumdahl & Zumdahl 2015, pp. 823.
+^ Gupta, Chiranjib Kumar (2003). Chemical metallurgy principles and practice. Weinheim: Wiley-VCH. pp. 359–365. ISBN 978-3-527-60525-5. 
+^ IUPAC 2005, p. 68.
+^ IUPAC 2005, p. 70.
+^ IUPAC 2005, p. 69.
+^ Kotz, John C.; Treichel, Paul M; Weaver, Gabriela C. (2006). Chemistry and Chemical Reactivity (Sixth ed.). Belmont, CA: Thomson Brooks/Cole. p. 111. ISBN 0-534-99766-X. 
+^ IUPAC 2005, pp. 75–76.
+^ IUPAC 2005, p. 75.
+^ Gibbons, Cyril S.; Reinsborough, Vincent C.; Whitla, W. Alexander (January 1975). "Crystal Structures of K2MgCl4 and Cs2MgCl4". Canadian Journal of Chemistry. 53 (1): 114–118. doi:10.1139/v75-015. 
+^ IUPAC 2005, p. 76.
+^ IUPAC 2005, pp. 76–77.
+^ a b c d e IUPAC 2005, p. 77.
+^ IUPAC 2005, pp. 77–78.
+^ Fernelius, W. Conard (November 1982). "Numbers in chemical names". Journal of Chemical Education. 59 (11): 964. doi:10.1021/ed059p964. 
+^ a b Brown 2009, p. 38.
+
+
+Bibliography[edit]
+
+
+Ashcroft, Neil W.; Mermin, N. David (1977). Solid state physics (27th repr. ed.). New York: Holt, Rinehart and Winston. ISBN 0-03-083993-9. 
+Atkins, Peter; de Paula, Julio (2006). Atkins' physical chemistry (8th ed.). Oxford: Oxford University Press. ISBN 978-0-19-870072-2. 
+Barrow, Gordon M. (1988). Physical chemistry (5th ed.). New York: McGraw-Hill. ISBN 0-07-003905-4. 
+Brown, Theodore L.; LeMay, H. Eugene, Jr; Bursten, Bruce E.; Lanford, Steven; Sagatys, Dalius; Duffy, Neil (2009). Chemistry: the central science: a broad perspective (2nd ed.). Frenchs Forest, N.S.W.: Pearson Australia. ISBN 978-1-4425-1147-7. 
+Freemantle, Michael (2009). An introduction to ionic liquids. Cambridge: Royal Society of Chemistry. ISBN 978-1-84755-161-0. 
+International Union of Pure and Applied Chemistry, Division of Chemical Nomenclature (2005). Neil G. Connelly, ed. Nomenclature of inorganic chemistry: IUPAC recommendations 2005 (New ed.). Cambridge: RSC Publ. ISBN 0-85404-438-8. 
+Kittel, Charles (2005). Introduction to solid state physics (8th ed.). Hoboken, NJ: John Wiley & Sons. ISBN 0-471-41526-X. 
+McQuarrie, Donald A.; Rock, Peter A. (1991). General chemistry (3rd ed.). New York: W.H. Freeman and Co. ISBN 0-7167-2169-4. 
+Pauling, Linus (1960). The nature of the chemical bond and the structure of molecules and crystals: an introduction to modern structural chemistry (3rd ed.). Ithaca, N.Y.: Cornell University Press. ISBN 0-8014-0333-2. 
+Russell, Michael S. (2009). The chemistry of fireworks (2nd ed.). Cambridge, UK: RSC Pub. ISBN 978-0-85404-127-5. 
+Wenk, Hans-Rudolph; Bulakh, Andrei (2004). Minerals: Their Constitution and Origin (1st ed.). New York: Cambridge University Press. ISBN 978-1-107-39390-5. 
+Wold, Aaron; Dwight, Kirby (1993). Solid State Chemistry Synthesis, Structure, and Properties of Selected Oxides and Sulfides. Dordrecht: Springer Netherlands. ISBN 978-94-011-1476-9. 
+Zumdahl, Steven S. (1989). Chemistry (2nd ed.). Lexington, Mass.: D.C. Heath. ISBN 0-669-16708-8. 
+Zumdahl, Steven; Zumdahl, Susan (2015). Chemistry: An Atoms First Approach. Cengage Learning. ISBN 978-1-305-68804-9. 
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Ionic_compound&oldid=788358588"					
+Categories: Chemical compoundsIonsHidden categories: Articles to be merged from June 2017All articles to be mergedGood articlesArticles containing Ancient Greek-language text 
+
+
+
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+العربيةCatalàDanskDeutschΕλληνικάEspañolفارسی한국어ItalianoעבריתBahasa MelayuPortuguêsSimple EnglishSvenskaไทยУкраїнська中文 
+Edit links 
+
+
+
+
+
+ This page was last edited on 1 July 2017, at 00:13.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+anton bauer dionic 90 | eBay
+
+
+
+
+Please enable JavaScript 
+Our new search experience requires JavaScript to be enabled. Please enable JavaScript on your browser, then try again.
+
+
+
+
+
+ Skip to main contenteBayShop by categoryShop by categoryEnter your search keywordAll CategoriesAntiquesArtBabyBooksBusiness & IndustrialCameras & PhotoCell Phones & AccessoriesClothing, Shoes & AccessoriesCoins & Paper MoneyCollectiblesComputers/Tablets & NetworkingConsumer ElectronicsCraftsDolls & BearsDVDs & MoviesEntertainment MemorabiliaGift Cards & CouponsHealth & BeautyHome & GardenJewelry & WatchesMusicMusical Instruments & GearPet SuppliesPottery & GlassReal EstateSpecialty ServicesSporting GoodsSports Mem, Cards & Fan ShopStampsToys & HobbiesTravelVideo Games & ConsolesEverything ElseAdvancedHi (Sign in to bid or buy) Daily Deals Sell Help & Contact My eBayExpand My eBay Summary Bids/Offers Watch list Wish list All lists Purchase history Selling My Collections Followed searches MessagesNotification   
+Related: 
+				anton bauer battery charger anton bauer battery dionic 90 anton bauer dionic blackmagic design anton bauer dionic 90 charger anton bauer anton bauer charger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refine
+
+
+moreFormatFormat
+
+
+All Listings - Current page
+
+Auction
+Buy It Now
+Classified ads
+
+
+
+
+Sort: Best Match
+
+Best Match
+
+
+
+Time: ending soonest
+Time: newly listed
+Price + Shipping: lowest first
+Price + Shipping: highest first
+Price: highest first
+
+
+
+View: LIST
+
+
+
+
+
+
+Gallery view 
+Customize... 
+
+
+
+
+
+
+10
+results for anton bauer dionic 90
+
+Follow anton bauer dionic 90 to get e-mail alerts and updates on your eBay Feed.
+Unfollow anton bauer dionic 90 to stop getting updates on your eBay Feed.
+Yay! You're now following anton bauer dionic 90 in your eBay Feed.You will receive email alerts for new listings. Don't send me e-mail alerts.
+
+
+
+
+	   Follow this search
+
+
+
+
+
+
+
+
+
+  anton bauer dionic 90: 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Items in search results
+
+
+
+
+
+
+
+
+Brand new Battery for ANTON BAUER Dionic 90 ANTON BAUER Dionic 90
+
+
+
+
+
+
+
+
+
+8 product ratings
+
+
+
+
+NT$ 5,025
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From United States
+
+
+
+
+
+
+
+
+
+
+
+
+Battery for ANTON BAUER Dionic 90 Camcorder,Ikegami HTM-1003,TM10,TM20SR,TM9-1
+
+
+
+
+NT$ 5,025
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From United States
+
+
+
+
+
+
+
+
+
+
+
+
+Anton Bauer Dionic 90HCs & Quad Charger Kit
+
+
+
+NT$ 5,512
+
+
+4 bids
+
+
+
+
+
+
+
+
+
+
+
+					From United States
+
+
+
+
+
+
+
+Anton Bauer Tandem Quick Charger 60 Watt Power Supply +Dionic 90 Watts Battery
+
+
+
+
+NT$ 10,571
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From United States
+
+
+
+
+
+
+
+
+
+
+
+
+9200mAh Camcorder Battery for ANTON BAUER Dionic 90 14.4v TM-600PN PVM-8040
+
+
+
+
+NT$ 6,821
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From United Kingdom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dual Cargador XLR, 220V, 3A/2A para Anton Bauer Dionic 60, Dionic 90 Gold Mount
+
+
+
+
+NT$ 5,369
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From Spain
+
+
+
+
+
+
+
+Dual charger XLR, 220V, 3A/2A for Anton Bauer Dionic 60, Dionic 90 Gold Mount
+
+
+
+
+NT$ 5,272
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From United Kingdom
+
+
+
+
+
+
+
+Adapter cable D-TAP (M) >> LED PLUG 90° for Anton Bauer Dionic
+
+
+
+
+NT$ 439
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From United Kingdom
+
+
+
+
+
+
+
+lot of 3 Anton Bauer DIONIC 90 14.4V Lithium-Ion Gold-Mount Rechargeable Battery
+
+
+
+
+
+
+
+
+
+8 product ratings
+
+
+
+
+NT$ 6,040
+
+
+
+				or Best Offer
+
+
+
+
+
+
+
+					From United States
+
+
+
+
+
+
+
+4600mAh Camcorder Battery for ANTON BAUER Dionic 90 14.4V Li-ion BRANDNEW
+
+
+
+
+NT$ 5,025
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From United States
+
+
+
+
+
+Results matching fewer words
+
+
+
+
+
+
+
+New listing
+		Anton Bauer Dionic-HCX Li-ion Battery (120WH/14.4V) Black *Tested & Working*
+
+
+
+
+NT$ 1,510
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From United States
+
+
+
+
+
+
+
+
+
+
+
+
+Anton Bauer Dionic Interactive 2000
+
+
+
+
+NT$ 1,882
+
+									Was: Previous Price
+NT$ 2,688
+
+
+
+
+				or Best Offer
+
+
+
+
+					4 watching
+
+						30% off
+
+
+
+See more like thisAnton Bauer Dionic Interactive 2000
+
+
+
+
+					From Philippines
+
+
+
+
+
+
+
+Ex-Pro Dual Channel Camera Battery Charger Anton Bauer Gold Mount Power Supply
+
+
+
+
+NT$ 5,190
+
+
+
+				Buy It Now
+
+
+
+
+
+
+See more like thisEx-Pro Dual Channel Camera Battery Charger Anton Bauer Gold Mount Power Supply
+
+
+
+
+					From United Kingdom
+
+
+
+
+
+
+
+LOT OF 2 ANTON BAUER DIONIC INTERACTIVE 2000 REAL-TIME DISPLAY
+
+
+
+
+NT$ 1,649
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From Israel
+
+
+
+
+
+
+
+
+
+
+
+
+ANTON BAUER DIONIC INTERACTIVE 2000 REAL-TIME DISPLAY UNKNOWN
+
+
+
+
+NT$ 1,510
+
+
+
+				or Best Offer
+
+
+
+
+
+
+
+					From United States
+
+
+
+
+
+
+
+
+
+
+
+
+Switronix Pro X (XP-L90A) Anton Bauer battery
+
+
+
+NT$ 1,510
+
+
+0 bids
+
+
+
+
+
+
+
+
+
+
+
+					From United States
+
+
+
+
+
+Ex-Pro AN-150W 150wh Anton Bauer Mount Li-ion Battery DSLR Camera Power Supply
+
+
+
+
+NT$ 5,030
+
+
+
+				Buy It Now
+
+
+
+
+
+
+See more like thisEx-Pro AN-150W 150wh Anton Bauer Mount Li-ion Battery DSLR Camera Power Supply
+
+
+
+
+					From United Kingdom
+
+
+
+
+
+
+
+Ex-Pro AN-150W 150wh Anton Bauer Mount Li-ion Battery DSLR Camera Power 2 PACK
+
+
+
+
+NT$ 9,584
+
+
+
+				Buy It Now
+
+
+
+
+
+
+See more like thisEx-Pro AN-150W 150wh Anton Bauer Mount Li-ion Battery DSLR Camera Power 2 PACK
+
+
+
+
+					From United Kingdom
+
+
+
+
+
+
+
+Anton Bauer Dionic HC 91wh 14.4v Li-Ion Battery
+
+
+
+
+NT$ 16,611
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From United States
+
+
+
+
+
+
+
+
+
+
+
+
+Anton Bauer DIONIC-HC Lithium-Ion Battery
+
+
+
+
+NT$ 17,517
+
+
+
+				or Best Offer
+
+
+
+
+
+
+
+					From United States
+
+
+
+
+
+
+
+
+
+
+
+
+Ex-Pro AN-150W 150wh Anton Bauer Mount Li-ion Battery 2 Pack & Dual Charger UK
+
+
+
+
+NT$ 14,776
+
+
+
+				Buy It Now
+
+
+
+
+
+
+See more like thisEx-Pro AN-150W 150wh Anton Bauer Mount Li-ion Battery 2 Pack & Dual Charger UK
+
+
+
+
+					From United Kingdom
+
+
+
+
+
+
+
+Anton Bauer Cine 90 V-Mount Battery
+
+
+
+
+NT$ 15,071
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From United States
+
+
+
+
+
+
+
+
+
+
+
+
+Anton Bauer Cine 90 Gold Mount Battery
+
+
+
+
+NT$ 15,071
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From United States
+
+
+
+
+
+
+
+
+
+
+
+
+Panasonic Anton Bauer ABC800 Supercam Lifesaver Charger w/ 1 Dionic Battery
+
+
+
+
+NT$ 9,816
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From United States
+
+Customs services and international tracking provided
+
+
+
+
+
+
+
+
+Anton Bauer QR-EX3 Gold Mount for Sony PMW-EX3
+
+
+
+
+NT$ 2,995
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From United Kingdom
+
+
+
+
+
+
+
+Anton Bauer Titan 2 charger w/ 2 140Wh batteries
+
+
+
+NT$ 2,265
+
+
+0 bids
+
+
+
+
+NT$ 2,960
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+
+
+
+
+					From United States
+
+
+
+
+
+
+
+Adapter spiral cable D-TAP (M) > D-TAP (F) for Anton Bauer Dionic
+
+
+
+
+NT$ 479
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From United Kingdom
+
+
+
+
+
+
+
+Anton Bauer HD Dionic 168Wh Camera Battery
+
+
+
+
+NT$ 7,788
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From United Kingdom
+
+
+
+
+
+
+
+ANTON BAUER QUAD 4 FOUR POSITION XM NP/90 EXPANSION MODULE INTERACTIVE 2000
+
+
+
+NT$ 785
+
+
+0 bids
+
+
+
+
+
+
+
+
+
+
+
+					From United States
+
+
+
+
+
+
+
+
+
+
+
+
+New listing
+		Anton Bauer QR-C80P Battery Plate for AG-HMC80 New
+
+
+
+
+NT$ 1,510
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From United States
+
+Customs services and international tracking provided
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adapter cable 100cm D-TAP (M) > XLR 4Pin (F) Plug for Anton Bauer Dionic
+
+
+
+
+NT$ 519
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From United Kingdom
+
+
+
+
+
+
+
+ANTON BAUER PLATE REDROCK MICROBALANCE MOUNT HYTRON DIONIC BATTERY VIDEO CAMERA
+
+
+
+
+NT$ 2,265
+
+
+
+				or Best Offer
+
+
+
+
+
+
+
+					From United States
+
+
+
+
+
+
+
+
+
+
+
+
+Anton Bauer Gold Dual Twin Battery Charger Simultaneous Charge With Digital 90
+
+
+
+
+NT$ 12,987
+
+
+
+				or Best Offer
+
+
+
+
+
+
+
+					From United States
+
+Customs services and international tracking provided
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adapter D-TAP (F) for Anton Bauer Dionic Serie, D-Tap
+
+
+
+
+NT$ 320
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From United Kingdom
+
+
+
+
+
+
+
+
+
+
+4x Hub con cable espiral 60cm >> 130cm para Anton Bauer Dionic-Serie, D-Tap
+
+
+
+
+NT$ 1,072
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From Spain
+
+
+
+
+
+
+
+1 USED ANTON BAUER XM NP/90 CHARGER EXPANSION MODULE REV. 2.7 ***MAKE OFFER***
+
+
+
+
+NT$ 1,510
+
+
+
+				or Best Offer
+
+
+
+
+
+
+
+					From United States
+
+
+
+
+
+
+
+
+
+
+
+
+Adapter spiral cable D-TAP (M) > D-TAP (M) for Anton Bauer Dionic
+
+
+
+
+NT$ 479
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From United Kingdom
+
+
+
+
+
+
+
+
+
+Anton Bauer QR-EX3 Gold Mount for Sony PMW-EX3
+
+
+
+
+NT$ 5,587
+
+
+
+				or Best Offer
+
+
+
+
+					Only 1 left!
+
+					5 watching
+
+
+
+
+					From United States
+
+Customs services and international tracking provided
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anton Bauer Digital 90 Gold Mount Battery (14.4V, 93 Wh)
+
+
+
+
+NT$ 8,124
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From United States
+
+Customs services and international tracking provided
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adapter spiral cable D-TAP (M) > LED PLUG for Anton Bauer Dionic
+
+
+
+
+NT$ 479
+
+
+
+				Buy It Now
+
+
+
+
+
+
+
+					From United Kingdom
+
+
+
+
+
+
+
+
+
+
+Tell us what you think
+
+
+
+eBay determines this price through a machine learned model of the product's sale prices within the last 90 days.
+eBay determines trending price through a machine learned model of the product’s sale prices within the last 90 days. "New" refers to a brand-new, unused, unopened, undamaged item, and "Used" refers to an item that has been used previously.
+Top Rated PlusSellers with highest buyer ratingsReturns, money backShips in a business day with trackingLearn More
+Top Rated PlusSellers with highest buyer ratingsReturns, money backShips in a business day with trackingLearn More
+
+
+
+Not finding what you're looking for?Follow anton bauer dionic 90 to get e-mail alerts and updates on your eBay Feed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search refinements
+
+
+
+
+
+Categories
+
+All
+
+Cameras & Photo
+(10)
+
+
+
+
+Camera Batteries
+(5)
+
+
+Camera Chargers & Cradles
+(4)
+
+
+
+
+Camera Cables & Adapters
+(1)
+
+
+Camera & Photo Accessories
+(10)
+
+
+More
+
+
+
+
+
+
+
+
+Condition
+see allCondition
+
+
+
+
+New
+(7)
+
+
+
+
+
+Used
+(3)
+
+
+
+
+
+Price
+
+
+
+Please enter a minimum and/or maximum price before continuing.
+			NT$ Enter minimum price to NT$ Enter maximum price 
+
+
+
+
+
+Format
+see allFormat
+
+
+
+
+All Listings(filter applied)
+(10)
+
+
+
+
+Auction
+(1)
+
+
+
+
+Buy It Now
+(9)
+
+
+
+
+Item Location
+see allItem Location
+
+
+
+
+on eBay.com
+
+
+
+
+
+US Only
+
+
+
+
+
+North America
+
+
+
+
+
+Europe
+
+
+
+
+
+Asia
+
+
+
+
+
+
+see allSellerSeller
+
+
+
+
+
+Delivery Options
+see allDelivery Options
+
+
+
+
+Free international shipping
+
+
+
+
+
+Show only
+see allShow only
+
+
+
+
+Returns accepted
+
+
+
+
+
+Completed listings
+
+
+
+
+
+Sold listings
+
+
+
+
+
+Deals & Savings
+
+
+
+
+
+More refinements...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Learn about pricing
+
+
+
+
+		 This page was last updated:  Aug-03 10:17. Number of bids and bid amounts may be slightly out of date. See each listing for international shipping options and costs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amazon.com: dionic 90
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interesting Finds Updated Daily
+
+
+
+
+
+
+
+
+
+
+Amazon
+
+
+
+
+    Try Prime
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All
+
+
+
+All Departments
+Alexa Skills
+Amazon Devices
+Amazon Video
+Amazon Warehouse Deals
+Appliances
+Apps & Games
+Arts, Crafts & Sewing
+Automotive Parts & Accessories
+Baby
+Beauty & Personal Care
+Books
+CDs & Vinyl
+Cell Phones & Accessories
+Clothing, Shoes & Jewelry
+   Women
+   Men
+   Girls
+   Boys
+   Baby
+Collectibles & Fine Art
+Computers
+Courses
+Credit and Payment Cards
+Digital Music
+Electronics
+Gift Cards
+Grocery & Gourmet Food
+Handmade
+Health, Household & Baby Care
+Home & Business Services
+Home & Kitchen
+Industrial & Scientific
+Kindle Store
+Luggage & Travel Gear
+Luxury Beauty
+Magazine Subscriptions
+Movies & TV
+Musical Instruments
+Office Products
+Patio, Lawn & Garden
+Pet Supplies
+Prime Exclusive
+Prime Pantry
+Software
+Sports & Outdoors
+Tools & Home Improvement
+Toys & Games
+Vehicles
+Video Games
+Wine
+
+
+
+
+
+Go
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Departments
+
+
+
+
+
+
+
+
+
+EN
+
+ 
+      
+
+
+
+
+Hello. Sign inAccount & ListsSign inAccount & ListsOrdersTry PrimeCart0
+
+
+
+
+
+
+Your Amazon.comToday's DealsGift Cards & RegistrySellHelpDisability Customer Support 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1-16 of 134 results for "dionic 90"
+
+
+
+
+Sort by 
+Relevance
+Price: Low to High
+Price: High to Low
+Avg. Customer Review
+Newest Arrivals
+
+
+
+
+
+
+
+
+
+Showing most relevant results. See all results for dionic 90.
+
+
+
+14.40V,4600mAh,Li-ion, Replacement for ANTON BAUER Dionic 90 Camcorder Batteryby Ships from and sold by [battery_king]$155.99$155.99FREE Shipping on eligible ordersOnly 6 left in stock - order soon.
+5 out of 5 stars
+1Product Description40V,4600mAh,Li-ion, Replacement for ANTON BAUER Dionic 90 Camcorder BatteryPowerSmart Battery Charger for ANTON BAUER Dionic 90by PowerSmart$145.99$145.99+ $25.73 shipping
+3 out of 5 stars
+1PowerSmart 9200mAh Gold-Mount Battery for ANTON BAUER Dionic 90, CANON XL1(with GOLD MOUNT), XL1S(with GOLD MOUNT)by PowerSmart$187.00$187.00+ $13.57 shippingPowerSmart 9200mAh High Capacity Battery For 14.4V Anton Bauer Dionic 90 CamcorderGold Mount [Genuine Panasonic Brand Cell]]by PowerSmart$187.00$187.00+ $13.57 shippingProduct Description... Battery For 14.4V Anton Bauer Dionic 90 Camcorder *Gold Mount (With ...
+
+
+
+
+
+
+
+
+
+PowerSmart 14.4V 6.9AH Battery For ANTON BAUER Dionic 90 Gold Mount Camcorder Newby PowerSmart$187.00$187.00+ $11.49 shippingProduct FeaturesThis battery Compatible Part Numbers: Dionic 90Voltage: AC Input: 100-240V, DC Output: 12V-1A, Battery Charger for IKEGAMI HTM-1003, TM10, TM20SR, TM9-1by battery_king$145.99$145.99+ $26.53 shippingMore Buying Choices$145.99(2 new offers)
+5 out of 5 stars
+1Product FeaturesCompatible Battery Part Numbers: Dionic 90Voltage: AC Input: AC 250V-10A, DC Output: 12V-1A, Camcorder Battery Charger for CANON XL1, XL1S, PANASONIC AG, AJ, TBS Series, SONY BVM-D9, DSR-501, LMD-650, SONY PVM Series, Compatible Part Numbers: Dionic 90by battery_king$145.99$145.99+ $26.53 shippingMore Buying Choices$145.99(2 new offers)
+5 out of 5 stars
+1Panasonic ABDIONIC90 Anton Bauer Dionic Battery 14.4 Volt 90wby Panasonic$100.00(1 used offer)
+5 out of 5 stars
+2PowerSmart 14.4V 6900mAh Li-ion Battery for JVC GY-HD100E, GY-HD100U , GY-HD101E , GY-HD110 , GY-HD110U , GY-HD111, [with adapter]by PowerSmart$187.00$187.00+ $11.53 shipping
+4 out of 5 stars
+1Dionic 90 Battery Charger for Sony PVM-8042Q, PVM-8044Q, PVM-8045Q, PVM-9041Q, PVM-9044Q, PVM-9L2, PVM-9L3by battery_king$145.99$145.99+ $26.73 shippingDionic 90 Battery Charger for ANTON BAUER Dionic 90 Professional Camcorder with GOLD MOUNTby battery_king$145.99$145.99+ $26.73 shippingPowerSmart 14.4V 9200mAh Li-ion battery for CANON PVM-8045Q,PVM-9041Q,PVM-9044Q,PVM-9L2,PVM-9L3by PowerSmart$187.00$187.00+ $13.57 shippingVolta Volta Gold Mount Li-ion 99Wh Battery for Lights, Monitors and Camerasby Volta$210.00(1 new offer)Volta Volta Dual Gold Mount Battery Chargerby Volta$250.00(1 new offer)Volta Gold Mount Li-ion 99 Wh Battery | 3 Batteries and Dual Charger Kitby Volta$880.00(2 new offers)PowerSmart 9200mAh Battery For Comer BP-C190A BP-C130A Gold (Anton/Bauer) Mount 136Wh 14.4V [Genuine Panasonic Brand Cell]by PowerSmart$187.00$187.00+ $13.57 shipping
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Previous Page
+1
+2
+3
+...
+9
+ 
+Next Page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sponsored Links
+(What's this?)
+
+
+
+
+
+
+
+
+Ad feedback
+
+
+
+
+
+
+
+
+
+
+
+Search FeedbackDid you find what you were looking for?YesNo
+Choose a category that best describes the issue that you are having with the search:Choose a category…I need to talk to customer service.I still haven't found what I'm looking for.How do I filter or sort my search ?Something is broken.A picture or description looks wrong.Could you add a feature ?Could you start carrying a product not listed here ?Choose a category…
+
+
+
+
+
+
+Leave us some comments about your search; your comments can help make our site better for everyone.Submit
+
+Get Express customer service or contact us by e-mail or phone.contact us
+
+Thank you for your feedback.
+If you need help or have a question for Customer Service, please visit the Help Section.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Show results forCamera & PhotoCamcorder BatteriesElectronicsAutomotive Parts & AccessoriesHealth, Household & Baby CareIndustrial & ScientificSee All 5 DepartmentsRefine byCamera & Camcorder Battery CapacityUnder 1000 mAh1000 to 1499 mAh1500 to 1999 mAh2000 to 2499 mAh2500 to 2999 mAh3000 to 3999 mAh4000 mAh & AboveBrandPowerSmartAvg. Customer Review4 Stars & Up & Up3 Stars & Up & Up2 Stars & Up & Up1 Star & Up & UpConditionNewUsed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+There's a problem loading this menu right now.
+Learn more about Amazon Prime.
+
+
+
+
+
+
+ Get fast, free shipping with Amazon Prime 
+ Prime members enjoy FREE Two-Day Shipping and exclusive access to music, movies, TV shows, original audio series, and Kindle books. 
+
+      >
+      Get started
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Your recently viewed items and featured recommendations
+    
+
+
+
+
+
+ › 
+View or edit your browsing history
+
+After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in.
+
+
+
+
+
+
+        Your recently viewed items and featured recommendations
+    
+
+
+
+
+
+ › 
+View or edit your browsing history
+
+After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in.
+
+
+
+
+
+
+
+
+Back to top
+Get to Know UsCareersAbout AmazonInvestor RelationsAmazon DevicesMake Money with UsSell on AmazonSell Your Services on AmazonSell on Amazon BusinessSell Your Apps on AmazonBecome an AffiliateAdvertise Your ProductsSelf-Publish with UsBecome an Amazon VendorSell Your Subscription on Amazon›See allAmazon Payment ProductsAmazon Rewards Visa Signature CardsAmazon.com Store CardAmazon.com Corporate Credit LineShop with PointsCredit Card MarketplaceReload Your BalanceAmazon Currency ConverterLet Us Help YouYour AccountYour OrdersShipping Rates & PoliciesAmazon PrimeReturns & ReplacementsManage Your Content and DevicesAmazon AssistantHelp
+
+
+
+
+English
+
+
+
+United States
+
+
+
+
+Amazon Music Stream millions of songs
+
+Amazon Drive Cloud storage from Amazon
+
+6pm Score deals on fashion brands
+
+AbeBooks Books, art & collectibles
+
+ACX  Audiobook Publishing Made Easy
+
+Alexa Actionable Analytics for the Web
+
+Amazon Business Everything For Your Business
+
+ 
+
+AmazonFresh Groceries & More Right To Your Door
+
+AmazonGlobal Ship Orders Internationally
+
+Home Services Handpicked Pros Happiness Guarantee
+
+Amazon Inspire Digital Educational  Resources
+
+Amazon Rapids Fun stories for  kids on the go
+
+Amazon Restaurants Food delivery from local restaurants
+
+Amazon Video Direct Video Distribution Made Easy
+
+ 
+
+Amazon Web Services Scalable Cloud Computing Services
+
+Audible Download Audio Books
+
+AudiobookStand Discount Audiobooks on Disc
+
+Book Depository Books With Free Delivery Worldwide
+
+Box Office Mojo Find Movie Box Office Data
+
+ComiXology Thousands of Digital Comics
+
+CreateSpace Indie Print Publishing Made Easy
+
+ 
+
+DPReview Digital Photography
+
+East Dane Designer Men's Fashion
+
+Fabric Sewing, Quilting & Knitting
+
+Goodreads Book reviews & recommendations
+
+IMDb Movies, TV & Celebrities
+
+IMDbPro Get Info Entertainment Professionals Need
+
+Junglee.com Shop Online in India
+
+ 
+
+Kindle Direct Publishing Indie Digital Publishing Made Easy
+
+
+Prime Now FREE 2-Hour Delivery on Everyday Items
+
+Prime Photos Unlimited Photo Storage Free With Prime
+
+Shopbop Designer Fashion Brands
+
+TenMarks.com Math Activities for Kids & Schools
+
+Warehouse Deals Open-Box Discounts
+
+Whispercast Discover & Distribute Digital Content
+
+
+ 
+
+ 
+
+Withoutabox Submit to Film Festivals
+
+Woot! Deals and  Shenanigans
+
+Zappos Shoes & Clothing
+
+Souq.com Shop Online in the Middle East
+
+Subscribe with Amazon Discover & try subscription services
+
+ 
+
+
+Conditions of UsePrivacy NoticeInterest-Based Ads© 1996-2017, Amazon.com, Inc. or its affiliates
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Catalogue Ionic - Full application by appseed | CodeCanyon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Envato Market
+
+
+
+    CodeCanyon
+  
+
+
+
+
+
+        ThemeForest
+      
+
+ 
+
+        VideoHive
+      
+
+ 
+
+        AudioJungle
+      
+
+ 
+
+        GraphicRiver
+      
+
+ 
+
+        PhotoDune
+      
+
+ 
+
+        3DOcean
+      
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+Popular Files
+
+
+Featured Files
+
+
+Top New Files
+
+
+Follow Feed
+
+
+Top Authors
+
+
+Top New Authors
+
+
+Public Collections
+
+
+
+    PHP Scripts
+ 
+
+Popular Items
+
+
+Add-ons
+
+
+Calendars
+
+
+Countdowns
+
+
+Database Abstractions
+
+
+Forms
+
+
+Help and Support Tools
+
+
+Images and Media
+
+
+Loaders and Uploaders
+
+
+Navigation
+
+
+News Tickers
+
+
+Polls
+
+
+Project Management Tools
+
+
+Ratings and Charts
+
+
+Search
+
+
+Shopping Carts
+
+
+Social Networking
+
+
+Miscellaneous
+
+
+
+
+
+    WordPress
+ 
+
+Popular Items
+
+
+Add-ons
+
+
+Advertising
+
+
+Auctions
+
+
+Calendars
+
+
+eCommerce
+
+
+Forms
+
+
+Forums
+
+
+Galleries
+
+
+Interface Elements
+
+
+Layers WP
+
+
+Media
+
+
+Membership
+
+
+Newsletters
+
+
+SEO
+
+
+Social Networking
+
+
+Utilities
+
+
+Widgets
+
+
+Miscellaneous
+
+
+WordPress Themes on ThemeForest
+
+
+
+
+
+    eCommerce
+ 
+
+Easy Digital Downloads
+
+
+Jigoshop
+
+
+Magento Extensions
+
+
+OpenCart
+
+
+osCommerce
+
+
+Prestashop
+
+
+UberCart
+
+
+VirtueMart
+
+
+WooCommerce
+
+
+WP e-Commerce
+
+
+WP Standalone
+
+
+Zen Cart
+
+
+Miscellaneous
+
+
+
+
+
+    JavaScript
+ 
+
+Popular Items
+
+
+Animated SVGs
+
+
+Calendars
+
+
+Countdowns
+
+
+Database Abstractions
+
+
+Forms
+
+
+Images and Media
+
+
+Loaders and Uploaders
+
+
+Media
+
+
+Navigation
+
+
+News Tickers
+
+
+Project Management Tools
+
+
+Ratings and Charts
+
+
+Shopping Carts
+
+
+Sliders
+
+
+Social Networks
+
+
+Miscellaneous
+
+
+
+
+
+    CSS
+ 
+
+Popular Items
+
+
+Animations and Effects
+
+
+Buttons
+
+
+Charts and Graphs
+
+
+Forms
+
+
+Layouts
+
+
+Navigation and Menus
+
+
+Pricing Tables
+
+
+Tabs and Sliders
+
+
+Miscellaneous
+
+
+
+
+
+    Mobile
+ 
+
+Popular Items
+
+
+Android
+
+
+iOS
+
+
+Native Web
+
+
+Titanium
+
+
+
+
+
+    HTML5
+ 
+
+Popular Items
+
+
+3D
+
+
+Ad Templates
+
+
+Canvas
+
+
+Charts and Graphs
+
+
+Forms
+
+
+Games
+
+
+Libraries
+
+
+Media
+
+
+Presentations
+
+
+Sliders
+
+
+Storage
+
+
+Templates
+
+
+Miscellaneous
+
+
+
+
+
+    Skins
+ 
+
+Popular Items
+
+
+Bootstrap
+
+
+Layers WP Style Kits
+
+
+Miscellaneous
+
+
+
+
+
+    WP Themes
+
+
+
+
+    Plugins
+ 
+
+Popular Items
+
+
+Concrete5
+
+
+Drupal
+
+
+ExpressionEngine
+
+
+Joomla
+
+
+Magento Extensions
+
+
+Muse Widgets
+
+
+OpenCart
+
+
+osCommerce
+
+
+Prestashop
+
+
+Ubercart
+
+
+VirtueMart
+
+
+Zen Cart
+
+
+Miscellaneous
+
+
+
+
+More
+
+
+.NET
+
+
+Apps
+
+
+Edge Animate Templates
+
+
+Facebook
+
+
+
+
+
+
+
+
+
+  Guest Cart
+  
+0
+
+
+
+
+  Create an Envato Account
+  
+
+
+  Sign In
+  
+
+
+
+
+
+
+
+
+
+
+
+Envato Elements Unlimited downloads of web templates, graphics, fonts, and now 240,000+ photos!
+
+        Only $29/month
+      
+
+
+
+
+
+
+
+
+
+
+Envato Elements Now includes stock photos. Go unlimited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Account
+ 
+
+
+
+Sites, Search & Categories
+ 
+
+CodeCanyon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Items
+
+
+
+Popular Files
+
+
+Featured Files
+
+
+Top New Files
+
+
+Follow Feed
+
+
+Top Authors
+
+
+Top New Authors
+
+
+Public Collections
+
+
+View All Categories
+
+
+
+
+
+
+    PHP Scripts
+ 
+
+
+Popular Items
+
+
+All Items
+
+
+Add-ons
+
+
+Calendars
+
+
+Countdowns
+
+
+Database Abstractions
+
+
+Forms
+
+
+Help and Support Tools
+
+
+Images and Media
+
+
+Loaders and Uploaders
+
+
+Navigation
+
+
+News Tickers
+
+
+Polls
+
+
+Project Management Tools
+
+
+Ratings and Charts
+
+
+Search
+
+
+Shopping Carts
+
+
+Social Networking
+
+
+Miscellaneous
+
+
+
+
+
+
+    WordPress
+ 
+
+
+Popular Items
+
+
+All Items
+
+
+Add-ons
+
+
+Advertising
+
+
+Auctions
+
+
+Calendars
+
+
+eCommerce
+
+
+Forms
+
+
+Forums
+
+
+Galleries
+
+
+Interface Elements
+
+
+Layers WP
+
+
+Media
+
+
+Membership
+
+
+Newsletters
+
+
+SEO
+
+
+Social Networking
+
+
+Utilities
+
+
+Widgets
+
+
+Miscellaneous
+
+
+WordPress Themes on ThemeForest
+
+
+
+
+
+
+    eCommerce
+ 
+
+
+All Items
+
+
+Easy Digital Downloads
+
+
+Jigoshop
+
+
+Magento Extensions
+
+
+OpenCart
+
+
+osCommerce
+
+
+Prestashop
+
+
+UberCart
+
+
+VirtueMart
+
+
+WooCommerce
+
+
+WP e-Commerce
+
+
+WP Standalone
+
+
+Zen Cart
+
+
+Miscellaneous
+
+
+
+
+
+
+    JavaScript
+ 
+
+
+Popular Items
+
+
+All Items
+
+
+Animated SVGs
+
+
+Calendars
+
+
+Countdowns
+
+
+Database Abstractions
+
+
+Forms
+
+
+Images and Media
+
+
+Loaders and Uploaders
+
+
+Media
+
+
+Navigation
+
+
+News Tickers
+
+
+Project Management Tools
+
+
+Ratings and Charts
+
+
+Shopping Carts
+
+
+Sliders
+
+
+Social Networks
+
+
+Miscellaneous
+
+
+
+
+
+
+    CSS
+ 
+
+
+Popular Items
+
+
+All Items
+
+
+Animations and Effects
+
+
+Buttons
+
+
+Charts and Graphs
+
+
+Forms
+
+
+Layouts
+
+
+Navigation and Menus
+
+
+Pricing Tables
+
+
+Tabs and Sliders
+
+
+Miscellaneous
+
+
+
+
+
+
+    Mobile
+ 
+
+
+Popular Items
+
+
+All Items
+
+
+Android
+
+
+iOS
+
+
+Native Web
+
+
+Titanium
+
+
+
+
+
+
+    HTML5
+ 
+
+
+Popular Items
+
+
+All Items
+
+
+3D
+
+
+Ad Templates
+
+
+Canvas
+
+
+Charts and Graphs
+
+
+Forms
+
+
+Games
+
+
+Libraries
+
+
+Media
+
+
+Presentations
+
+
+Sliders
+
+
+Storage
+
+
+Templates
+
+
+Miscellaneous
+
+
+
+
+
+
+    Skins
+ 
+
+
+Popular Items
+
+
+All Items
+
+
+Bootstrap
+
+
+Layers WP Style Kits
+
+
+Miscellaneous
+
+
+
+
+
+
+    WP Themes
+
+
+
+
+    Plugins
+ 
+
+
+Popular Items
+
+
+All Items
+
+
+Concrete5
+
+
+Drupal
+
+
+ExpressionEngine
+
+
+Joomla
+
+
+Magento Extensions
+
+
+Muse Widgets
+
+
+OpenCart
+
+
+osCommerce
+
+
+Prestashop
+
+
+Ubercart
+
+
+VirtueMart
+
+
+Zen Cart
+
+
+Miscellaneous
+
+
+
+
+
+More
+
+
+.NET
+Apps
+Edge Animate Templates
+Facebook
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Catalogue Ionic - Full application
+          
+
+            Catalogue Ionic - Full application
+          
+
+
+
+
+
+
+
+$20
+
+ 
+
+
+
+
+Item Details
+Reviews
+Comments
+
+
+
+
+
+
+
+
+              Item Details
+            
+
+
+
+
+
+Item Details
+Reviews
+Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+screenshots/android/android-01.png screenshots/android/android-02.png screenshots/android/android-03.png screenshots/android/android-04.png screenshots/android/android-05.png screenshots/android/android-06.png screenshots/android/android-07.png screenshots/android/android-08.png screenshots/android/android-09.png screenshots/android/android-10.png screenshots/android/android-11.png screenshots/android/android-12.png screenshots/android/android-13.png screenshots/android/android-14.png screenshots/android/android-15.png screenshots/ios/ios-01.png screenshots/ios/ios-02.png screenshots/ios/ios-03.png screenshots/ios/ios-04.png screenshots/ios/ios-05.png screenshots/ios/ios-06.png screenshots/ios/ios-07.png screenshots/ios/ios-08.png screenshots/ios/ios-09.png screenshots/ios/ios-10.png screenshots/ios/ios-11.png screenshots/ios/ios-12.png screenshots/ios/ios-13.png screenshots/ios/ios-14.png screenshots/ios/ios-15.png screenshots/ios/ios-16.png 
+
+
+Live PreviewScreenshots
+
+
+
+Share
+Facebook
+Google Plus
+Twitter
+Pinterest
+
+
+
+
+
+
+
+
+Add to Favorites
+
+
+
+
+Add to Collection
+
+
+
+
+
+
+What’s new in version 1.4: 
+Slide menu remains open on wide screens
+
+
+What’s new in version 1.3: 
+Migration to the Ionic Cloud Client Push
+
+
+What’s new in version 1.2: 
+Fixes and update to Ionic 1.3.
+
+
+Catalogue Ionic is an Ionic application that suits any business’s needs to display and promote its products organizing them into categories. It is structured so as to provide a variety of alternatives all aiming to present products, news and business’s useful information to the potential customers in an interesting manner.
+
+Catalogue Ionic is well-organized and well-documented, full working generic app that will enable you customize it rapidly according to the specifications of every business/store. Best practices have been applied to reassure a bug-free and smooth application.
+Feature request
+Help us improve this app in a way that absolutely makes sense. Suggest the next feature you would like to see implemented. We are taking suggestions very seriously.
+
+Demo
+Android .APK
+
+Android APK v1.4
+
+Preview on iOS and Android – Ionic View
+
+Download the Ionic View app (http://view.ionic.io)
+
+Use the App ID  eca7b2b5 
+
+
+WooCommerce Demo
+Android .APK
+
+Android APK v1.4
+
+Preview on iOS and Android – Ionic View
+
+Download the Ionic View app (http://view.ionic.io)
+
+Use the App ID  aab80525 
+
+
+
+
+1. Products and WooCommerce Products Presenation
+
+Products can be  organised into categories with a title, a thumbnail and a price. Categories are displayed in card form with a title and a thumbnail.
+
+	The product screen provides additional information for each product including its price, its description, a slideshow of images, a “Buy online” link, a “PDF” link and a “favorite button”  The “Buy online” link points to the product web page where the user can proceed with the purchase. The “PDF’’ points to an  online pdf while the “favorite button” enables the user to add a product to his favorites list.
+WooCommerce
+
+In case you own a Wordpress website that uses WooCommerce platform, you can feed the application with the products that already exist on your website and are organized into categories. Configuration is as simple as the definition of your Wordpress website URL in the application.
+1.1 Home Screen
+
+The application allows you to display several products on the home screen as a slideshow.  Create your virtual window display by presenting there your attraction products!
+
+1.2 Favorite Products
+
+The favorites screen gathers all favorite products in a list and present them in one place so users can have quick access.  Users can, also, send an email with the list of their favorites, for example, to ask for more information.
+
+1.3 PDF and Buy Online
+Promote your products and see your sales rising! Online PDFs will give the chance to the buyers to be effectively and inexpensively  informed of your products or even instruction manuals and other support documents.
+
+	Apart from the PDF, each product can be accompanied by a “Buy Online” link so the User will be transferred to the page where they can purchase the product.
+2. Product and WooCommerce product presenation
+In case you own a Wordpress website that uses WooCommerce platform, you can feed the application with the products that already exist on your website and are organized into categories. Configuration is as simple as the definition of your Wordpress website URL in the application.
+
+3. Company (or Business)  Information
+
+ Provide information about your business, easily without any code, using Catalogue Ionic unique features:
+
+3.1 Open Hours
+Let your clients know when your business is open. Set the Open Hours in a configuration file in a matter of seconds and they will be automatically displayed  on the “Contact Us” screen.
+
+3.2 Contact options
+ Provide your clients with three different contact options:   Phone number, email and business location map.  Just set your phone number, your email address and your location in the configuration file and you are all ready! The Catalogue Ionic will take care of the rest and will make available to the users 3 buttons:
+
+Call us: It will make the device to start a call to the phone number you have defined
+Send us an Email: Mailer will open with your business’s email already set so as the user won’t need to type it
+Map  / Get directions: The map application which is already installed on the device will be launched to show your exact location on the map and the User will be able to get directions to reach your business.(Note: You can set more than one locations in the configuration file) 
+
+4. Social networks
+Catalogue Ionic app provides four buttons for the most popular social networks; Facebook, Instagram, Twitter and Pinterest. Clients would be able to see your social profile with just one click.
+
+5. Remote data
+The Product Categories and News listing windows are fetching data from online sources by using the JSON protocol. The source URLs for these listings are set in the application’s configuration file. Images, Galleries, texts and whole entries can be updated by adjusting the remote sources. Nevertheless, rebuilding and re-distributing the application are not required for constant updates.
+The same applies for the pins in the live map too. The users are able to add and configure the pin points just by adjusting the remote source.
+
+5.1 Wordpress / Drupal or JSON News
+
+Display news and announcements about your business/store by using a remote JSON structure or your already existing Wordpress and/or Drupal site. Everything you need for that is already built and no additional code is required.
+
+5.2 WooCommerce
+WooCommerce sites can be used as the app’s data provider allowing the feching of all the data that exists on your website.
+
+6. Push notification
+A full working Push notification example is integrated into the application. It comes also with detailed instructions on how to configure everything in your end and have your application ready to send and receive Push Notifications.
+
+7. Yeoman Ionic Framework Generator powered
+Yeoman Ionic Framework Generator combines the best practices and features for scaffolding a hybrid application. It makes building of a mobile app easy and quick since Yeoman is integrated with Ionic Framework and Cordova plugin. Also, the included Grunt build system optimizes and automates some important tasks of your workflow.
+
+8. Easy Configuration / Modular Architecture
+Categories and products can be adjusted by just updating their JSON files. They only need to be placed in the related folder and everything else is set up and ready to be used.
+
+	Besides, Catalogue Ionic’s modular architecture is going to eliminate any unnecessary complexity for the configuration of the rest features too. Its code is clean and well-organised into modules to make configuration even easier.
+
+
+You could review this super-modular architecture by checking our SuperModular Ionic starter, which is provided for free.
+
+Supermodular Ionic: https://github.com/skounis/supermodular
+
+
+9. Ionic design
+Catalogue Ionic is based on the UI elements that the Ionic Framework provides. Ionic Framework comes with a detailed and impressive CSS framework for layout styling. Furthermore, it handles header elements in a very similar way to existing libraries you may have used. Headers are available in many different default color options. Adding a footer element is as easy as adding a header. Moreover, Ionic comes with its own built in icon library which contains almost everything you should need. Use Ionic’s UI components and they will give you a fully customised and functional UI.
+
+AppSeed
+This is a product of AppSeed. Find out more by visiting our website http://appseed.io/ or contact us via our support center https://appseed.desk.com/customer/portal/emails/new.
+Change log
+
+1.4 - Oct 25, 2016
+- Slide menu remains open on wide screens
+
+1.3 - Sep 21, 2016
+- Migration to the Ionic Cloud Client Push
+
+1.2 - May 05, 2016
+- Ionic update to v1.3.0
+- Fix on showing a pin and setting the destination on Android's maps app
+- Fix of the ionic keyboard plugin id
+
+1.1 - February 10, 2016
+- WooCommerce website can be used as a data provider of products
+- Ionic update to v1.2.4 as Ionic 1.2 uses native scrolling by default.
+- Ionic CLI update to v1.7.13
+- Addition of task in Gruntfile to minify and obfuscate CSS, HTML and Javascript files
+
+1.0 - February 01, 2016
+- Initial release
+
+
+
+
+Show More 
+Show Less 
+ 
+
+
+
+
+More items by appseed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View author portfolio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Regular License
+Extended License
+
+
+
+$20
+
+
+
+
+
+    Use, by you or one client, in a single end product which end users are not charged for. The total price includes the item price and a buyer fee.
+  
+
+License details
+      |
+    Why buy with Envato
+
+
+
+
+
+
+
+    Use, by you or one client, in a single end product which end users can be charged for. The total price includes the item price and a buyer fee.
+  
+
+License details
+      |
+    Why buy with Envato
+
+
+
+
+
+
+
+ Add to Cart
+
+
+
+Buy Now
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+appseed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View Portfolio
+
+
+
+
+
+
+
+        87
+      
+
+        Sales
+      
+
+
+
+
+
+
+
+          46
+        
+
+          Comments
+        
+ 
+
+
+
+
+
+
+
+
+              Item Rating:
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+5.00 stars
+
+
+        5.00 average based on 4 ratings.
+
+          (more information)
+      
+
+
+
+5 Star
+
+
+
+                  100%
+                
+
+
+100%
+
+
+4 Star
+
+
+
+                  0%
+                
+
+
+0%
+
+
+3 Star
+
+
+
+                  0%
+                
+
+
+0%
+
+
+2 Star
+
+
+
+                  0%
+                
+
+
+0%
+
+
+1 Star
+
+
+
+                  0%
+                
+
+
+0%
+
+
+
+
+
+
+
+
+
+Last Update
+
+
+              27 October 16
+            
+
+
+
+Created
+
+
+              2 January 16
+            
+
+
+
+Files Included
+
+JavaScript JSON, JavaScript JS, CSS, HTML
+
+
+
+Software Framework
+
+PhoneGap
+
+
+
+Software Version
+
+iOS 9.0.x, iOS 8.4.x, iOS 8.3.x, iOS 8.2.x, iOS 8.1.x, iOS 8.0.x, iOS 7.0.x, iOS 6.1.x, iOS 6.0, Android 6.0, Android 5.1.x, Android 5.0, Android 4.4.x
+
+
+
+Tags
+
+android, catalog, cordova, drupal, gallery, ionic, ios, local store, phonegap, product, products, push notification, slider, wordpress
+
+
+
+
+
+
+
+  © All Rights Reserved appseed
+  
+Contact the Envato Market Help Team
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Deliver better projects faster. Photos, templates & courses
+              
+
+Unlimited downloads. Only $29/month
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                Learn almost anything with
+                Envato Tuts+ for free
+              
+
+9000 free tutorials, 3000 paid courses
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                Designers matched perfectly to
+                you on Envato Studio
+              
+
+2000 artists ready to undertake your work
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+      by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+      by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+      by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+      by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+      by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+      by 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anton Bauer DIONIC-HC Lithium-Ion Battery DIONIC HC B&H Photo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+					
+						Other B&H Sites - Gov, EDU & Corp.
+
+
+
+B&H Main sitezsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+
+Federal Marketplace
+
+
+Students & Educators
+
+
+Government, Education & Corporate
+
+
+
+
+Read 
+
+800.606.6969 / 212.444.6615
+Help
+About Us
+
+Live Chat
+				
+
+
+
+
+The Professional's Source
+Since 1973
+
+
+FREE NYC STORE PICKUP Ready Within the Hour
+>> Free Shipping on most orders over $49
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hello,
+Log In
+
+
+		    Sign In Login/Register
+
+
+My Account 
+
+
+
+
+
+
+
+0
+My Cart
+
+
+
+
+
+
+
+
+
+Log Into Your Account
+
+Log In
+
+
+Create a B&H Account
+
+
+
+
+
+
+My Account
+
+
+
+
+
+My Orders
+
+
+
+
+Wish List
+
+
+
+
+
+
+
+
+
+Sign Out
+
+
+
+
+My Account
+
+
+
+
+
+My Orders
+
+
+
+
+Wish List
+
+
+
+
+Notifications
+   
+
+
+
+
+
+
+
+
+
+
+
+Photography
+Computers
+Pro Video
+Lighting
+Pro Audio
+Mobile
+TVs & Entertainment
+Camcorders
+Surveillance
+Optics
+Audio-Visual
+Used
+
+
+
+			Specials
+		
+
+
+
+
+
+
+
+									Specials & Rebates See All Specials >
+
+
+
+
+
+
+
+
+1 of  Deals Today
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Details 
+
+
+
+
+
+
+
+				Most orders* over $49 qualify for .
+
+							Orders placed after 4pm on weekdays will not ship until the next business day. Orders placed after 12pm Fridays will not ship until the following Monday. 
+			Faster shipping methods may be available; just upgrade during checkout.
+
+			*Some exclusions apply.
+Close
+
+
+
+
+
+
+
+
+				Shipping Location
+			
+
+				Enter new zip code to refresh estimated delivery time.
+			
+
+
+Update
+
+
+				Unrecognized Zip Code
+			
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+ 
+					
+						
+							
+							Professional Video
+						
+					
+				 
+ 
+					
+						
+							
+							Batteries & Power
+						
+					
+				 
+ 
+					
+						
+							
+							Batteries & Accessories
+						
+					
+				 
+ 
+					
+						
+							
+							
+								On Camera Batteries
+							
+							
+							
+						
+					
+				 
+ Anton Bauer Dionic HC 
+
+
+
+
+
+
+
+
+
+
+
+Anton Bauer
+ DIONIC-HC Lithium-Ion Battery
+										
+									
+
+
+
+
+
+
+
+
+Anton Bauer
+
+								
+									DIONIC-HC Lithium-Ion Battery
+								
+							
+
+
+
+
+
+								B&H # ANDHC
+								
+									
+									
+									 
+							
+MFR # DIONIC HC
+
+
+
+
+
+
+
+
+
+
+zsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Show MoreLess
+
+
+
+
+Close
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now Viewing: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In Stock
+
+
+
+Update Location
+close
+
+
+
+Enter new zip code to refresh estimated delivery time.
+
+Update
+
+
+Unrecognized Zip Code
+
+
+
+
+
+		
+			Order
+		
+	
+		
+			in the next
+			0:00:00
+
+	
+		to ship
+		
+today
+
+
+
+X
+
+							
+ 								Place your order by 4pm  and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+						
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+							
+								Product Highlights
+							
+							
+						
+
+91Wh Peak (83Wh Typical)
+14.4 VDC
+10 Amps
+Maxx Warranty
+Real Time LCD
+
+Show moreShow less
+
+
+
+
+
+
+
+
+
+
+
+								Reviews 40
+zsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+
+Q&A
+
+
+
+
+
+
+						Condition:
+						New
+
+
+								
+									New
+								
+							zsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+								
+									Refurbished
+								
+							
+
+
+Discontinued
+
+
+
+
+
+
+
+
+
+
+
+
+See Used
+
+from
+$359.95
+
+
+
+
+
+
+						
+							
+							
+								Price:
+							
+						
+						
+							
+							
+							
+								$524.00
+							
+						
+					
+
+					Instant Savings:
+					
+					
+						
+						$75.00
+					
+						
+					
+
+
+			$0.00 Tax Collected Outside NY and NJ 
+
+
+Sales Tax
+
+							B&H only collects sales tax on orders shipped to addresses in the States of New York and New Jersey.
+
+						You may be responsible for state and local sales/use taxes when filing your tax returns. Please check your local sales tax laws.
+				
+
+
+
+
+
+
+
+
+						You Pay:
+					
+
+						 $449.00
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Qty
+
+Add to Cart
+
+
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+										Add to Wish List
+									
+
+ Item in Wish List
+									
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shop Used
+							
+								
+								
+								
+								
+								
+								
+								from
+							
+                            $359.95
+
+
+
+
+
+
+ 
+Email
+
+
+Print
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+Overview
+
+
+
+
+
+Specs
+
+
+
+
+
+Quick Compare
+
+
+
+
+
+Reviews 
+										40
+
+zsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+
+
+Q&A 
+										
+
+
+
+
+
+Accessories
+
+
+
+
+
+ 
+to top
+zsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+
+
+
+
+
+
+Anton Bauer Dionic HC overview
+
+
+
+
+1Description
+
+
+
+
+
+
+
+The Anton Bauer Dionic HC is a lithium-ion chemistry battery for professional videographers. Weighing less than 2 pounds, the battery is compatible with existing Anton Bauer Interactive2000 PowerChargers and the Titan series chargers. It offers a Maxx Warranty and Real Time LCD gauge readout.
+
+
+
+
+Real Time Display 
+
+
+										
+												The Dionic HC Battery automatically detects the camera load and calculates the battery's run-time based upon existing operating conditions. The readout is an easy-to-read LCD.
+										  
+										 
+
+
+Compatibility 
+
+
+										
+												Dionic offers complete compatibility with PowerChargers already in the field (may require software chip update) and the Titan series. 
+										  
+										 
+
+
+Cell Chemistry 
+
+
+										
+												Dionic contains an exclusive cell configuration unlike any other video battery. Instead of using cells originally designed for lighter-duty applications, such as computers, this battery is constructed with specialized lithium-ion cells originally designed for high-rate military applications.
+										  
+										 
+
+
+
+Integral digital featuresRealTime LCD displayCompatible with current Anton/Bauer InterActive charger seriesMeets regulatory requirements including CE
+
+
+
+
+
+
+UPC: 872496005759
+
+
+
+
+
+															In the Box
+														
+
+
+
+									Anton Bauer DIONIC-HC Lithium-Ion Battery 
+								
+
+
+								
+								
+									
+									
+										Battery
+									
+								
+							
+
+								
+								
+									
+									
+										Limited 1.5-Year Maxx Warranty
+									
+								
+							
+
+
+
+
+
+
+Table of Contents
+
+1Description
+
+
+
+
+
+
+
+
+
+
+Anton Bauer Dionic HC specs
+
+
+
+
+
+
+								Mount / Series Type
+									
+									
+									
+							
+
+								Gold Mount
+	                                
+	                                
+	                                
+							
+
+
+
+								Chemistry
+									
+									
+									
+							
+
+								Lithium-Ion
+	                                
+	                                
+	                                
+							
+
+
+
+								Capacity (Wh)
+									
+									
+									
+							
+
+								91 Wh
+	                                
+	                                
+	                                
+							
+
+
+
+								Amp-Hours
+									
+									
+									
+							
+
+Not specified by manufacturer
+
+
+
+
+								Output Voltage
+									
+									
+									
+							
+
+								14.4 VDC
+	                                
+	                                
+	                                
+							
+
+
+
+								Dimensions (W x H x D)
+									
+									
+									
+							
+
+								4.1 x 5.5 x 2.3" / 103.0 x 138.7 x 59.4 mm
+	                                
+	                                
+	                                
+							
+
+
+
+								Weight
+									
+									
+									
+							
+
+								1.8 lb / 0.81 kg
+	                                
+	                                
+	                                
+							
+
+
+
+
+
+
+
+Packaging Info
+
+
+
+
+				Package Weight
+			
+
+				2.2 lb
+			
+
+
+
+				Box Dimensions (LxWxH)
+			
+
+				7.8 x 6.8 x 2.5"
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anton Bauer Dionic HC reviews
+
+
+Be the first to review this item
+
+Write a reviewzsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+
+
+
+
+
+
+
+
+
+Anton Bauer Dionic HC Q&A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				See any errors on this page?
+				
+					Let us know.
+				
+
+
+
+
+
+Close
+Close
+Close
+
+
+    	Please enable javascript for your best B&H experience.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ionic's Vision & Leadership - Make Data Safe Everywhere               CONTACT USDEVELOPERS  SOMETHING TO BELIEVE IN.Accelerate time to trust.    Who We AreFOUNDED IN 2011Headquartered in Atlanta, GeorgiaA combination of crypto geeks, all-around geeks & data privacy idealists~200 employeesExited stealth mode in 2015Launched the platform, solutions & SDK in June 2016Our VisionAt Ionic we’re passionate about keeping your Business, well, your business.  Our mission is to systematically and relentlessly help you reduce the impact of a data breach.  We’ve designed our platform to help you protect and control your most important assets — from creation to consumption.  Meet our founder Adam Ghetti and hear it from him. Watch the videoBoardAdam GhettiFounder/CEOAdam Ghetti, technologist and entrepreneur, founded Ionic Security in 2011 to address the problem of trust in a cloud and mobile enabled world.He has over 15 years of experience building large-scale systems in multiple Internet-related markets. He is an expert in complex systems and task automation and has in depth applied knowledge of application security, network security, data security, and artificial neural networks.Most recently, he was recognized by Forbes as a 30 under 30-thought leader in technology and by the World Economic Forum as a 2015 technology pioneer.Kevin MandiaCEO, FireEyeKevin Mandia is the CEO of FireEye, a global cyber security company that protects organizations from cyber attacks.  Prior to FireEye, Kevin founded Mandiant Corporation and as CEO, grew it to a profitable, self-funded organization with approximately 500 employees and over $100M in revenue.In the private sector, Kevin served as a director in the security consulting divisions of Sytex (Lockheed Martin) and Foundstone (McAfee).Kevin co-authored two books on responding to security breaches, taught advanced graduate classes on cyber security at George Washington University and Carnegie Mellon University, and provides regular cyber security commentary and analysis for national print and broadcast media.Ted SchleinManaging Partner, KPCBMr. Schlein focuses on early-stage technology companies in the enterprise software and infrastructure markets. Since 1996, he has led KPCB's investments in a number of security companies, including ArcSight (IPO, then sold to HP) and Internet Security Systems (IPO, then sold to IBM).  Ted was the founding CEO of Fortify Software, a pioneer in the software security market and now an HP company. He serves on the board of directors of 3VR, Area 1 Security, IronNet Cybersecurity, Shape Security, Synack and Trusona. Additionally, Ted oversees KPCB's investments in Bit9 and Endgame Systems.Tom NoonanOperating Partner, TechOperatorsTom Noonan is a General Partner at TechOperators.  Tom is the former chairman, president and chief executive officer of Internet Security Systems, Inc. (NASDAQ:  ISSX), which was acquired in 2007 by IBM for $1.3B. Tom Noonan and Chris Klaus launched ISS in 1994 to commercialize and develop a premier network security management company. Under Tom’s leadership, ISS revenue soared from startup in 1995 to nearly $400 million dollars in its first decade. The company grew to more than 2,000 employees, with operations in more than 36 countries.Tom MawhinneyGeneral Partner, Icon VenturesTom Mawhinney joined Icon Ventures in 2003 as a General Partner, bringing a 15-year background in the technology industry as both a venture capitalist and an entrepreneur. Tom has a wide range of technology investing experience and brings a passion for helping to scale young, rapidly growing companies. His venture investing capabilities were acknowledged when he was named to the AlwaysOn Venture Capital 100 Power Players in the Cloud and Entrepreneurial Power Player - West lists.Mike GordonManaging Director, Meritech Capital PartnersMike Gordon was a founder of Meritech in 1999. He currently focuses on the communications infrastructure and applications, mobile, datacenter and clean technology sectors.Steven ScopelliteBoard Member, Ionic SecuritySteven Scopellite is recognized as a top financial technology leader. His distinguished, 28-year career at Goldman Sachs includes having served as global head of the firm’s 8,000-person Technology Division and as Chief Information Officer, where he played a key role in the development of the firm’s global funding platform and early expansion into electronic trading. Steven currently serves on the boards of Akamai Technologies (AKAM), and Soltage, a leading renewable energy provider.  He is the chair of the Riverview Medical Center Foundation Board of Trustees and serves as an advisor and consultant to the CIO Strategy Exchange (CIOSE).  His work has earned him recognition on Institutional Investor’s recent Tech 50 list.Leadership TeamAdam GhettiFounder/CEOAdam Ghetti, technologist and entrepreneur, founded Ionic Security in 2011 to address the problem of trust in a cloud and mobile enabled world.He has over 15 years of experience building large-scale systems in multiple Internet-related markets. He is an expert in complex systems and task automation and has in depth applied knowledge of application security, network security, data security, and artificial neural networks.Most recently, he was recognized by Forbes as a 30 under 30-thought leader in technology and by the World Economic Forum as a 2015 technology pioneer.Robert BallChief Business Development Officer & General CounselRobert serves as Ionic’s Chief Business Development Officer and General Counsel.  He also serves as the company's Global Privacy Officer.  Previously, Robert was a partner at Eversheds Sutherland where he was a member of the firm’s Cybersecurity & Privacy team.  Prior to Eversheds Sutherland, Robert was a senior executive at Akamai Technologies (NASDAQ: AKAM).  As head of Business & Corporate Development, Robert managed Akamai’s corporate strategy, strategic partnerships and joint ventures, M&A, and technology licensing.  Robert also served as Akamai’s first General Counsel, where he oversaw Akamai's initial public offering and oversaw all aspects of its corporate legal affairs.  Robert also served as Vice President, International and directed Akamai's international expansion and rapid growth across Asia and Europe.Mike BassHead of Customer StrategyMike Bass is the Head of Customer Strategy for Ionic Security. Prior to joining Ionic, he ran Security Strategy and Standards at Citi. Mike has over 25 years of experience in cryptography and security in financial services, healthcare and the US military. He has a B.S. in Information Technology, and his experience includes tenures at Entrust, PGP, Certicom, Baltimore Technologies, NetLock, Montgomery Securities, Loral Space Systems, HP and the US Air Force.Marge BreyaChief Operating OfficerMargaret (Marge) Breya is chief operating officer after initially joining the team as chief marketing officer. She oversees the full go-to-market strategy from marketing and product strategy through sales and delivery. Prior to joining Ionic, Marge served as executive vice president and chief marketing officer at Informatica where she oversaw all marketing operations worldwide and the Informatica Education business. Previously, she served as HP’s senior vice president of marketing services, where she was responsible for optimizing marketing investment across the entire company.
+Marge has also served as executive vice president and general manager at SAP, executive vice president, general manager and chief marketing officer at Business Objects, chief marketing officer and chief strategy officer at BEA Systems and senior vice president of marketing at Sun Microsystems.Ken GreenVice President, Product DevelopmentKen has been a builder and user of information, application and network security products for over 25 years. He is passionate about delivering products that solve real business problems and enable people to make better and faster decisions. Ken has a diverse background in product development and security operations in both the Federal government and the commercial security product and services industries. He currently serves as Vice President of Product Development at Ionic Security.Ben HalpertVice President, Risk and Corporate SecurityBen is a noted author, speaker, and practitioner of risk management, security, privacy, and compliance. He is also the founder of the non-profit Savvy Cyber Kids that creates and delivers age-appropriate security, privacy, bully response, and cyber ethics resources and educational tools that enables youth, families and school communities to be empowered by technology. Prior to joining Ionic Security, Ben was the Director of Risk Management and Compliance for McKesson and spent over 11 years in Corporate Information Security at Lockheed Martin.Matt QuarlesHead of Worldwide SalesMatt Quarles oversees all Sales and Pre-Sales efforts globally at Ionic. Prior to Ionic, Matt spent 6 years at Google helping to advance the world's movement to Cloud Computing, inspiring C-Level executives to think differently, break down barriers to change, and adopt a new way of working in the digital age. Matt has also served in various technology and Sales and Consulting leadership roles, including 9 years as a Management Consulting Executive at Accenture where he provided strategy, sales and project delivery leadership over $200M in client engagements internationally and nationally; and 3 years leading Sales for the Southeast Region for Vignette.  Matt graduated from the University of Richmond with a B.S. of Business Administration and Computer Science minor, and lives in Atlanta with his wife and three young children.Ken SilvaVice President, Operations and InfrastructurePrior to joining Ionic Security in 2014, Ken was the SVP of Cyber Strategy at ManTech, and prior to that he was the Senior Executive Advisor on Cyber Technologies at Booz Allen Hamilton. From 2000 to 2010,  Ken held multiple leadership positions at VeriSign, such as Chief Security Officer and Chief Technology Officer. Prior to joining the private sector, Ken spent 20 years in the Air Force and the NSA in multiple technical and Senior Analyst positions.Gabby Sirner-CohenVice President, People OperationsGabby’s built a career focused on the people. In her current role, she is responsible for finding, growing and keeping outstanding talent at Ionic. Prior to that, Gabby spent 7 years at Google, Inc. (now Alphabet!) where she focused on fostering an ongoing communication loop between execs and employees.  She harnessed the voice of employees to foster a culture of transparency, fairness and inclusivity and managed Google’s employment brand during Google’s most recent years at the top of the Great Place to Work list. Gabby also spent time in the non-profit and philanthropic worlds as a program officer at the Charles and Lynn Schusterman Family Foundation.Jon VersteegChief Financial OfficerHaving leadership roles in both public and venture backed technology companies, Jon is no stranger to the demands of scaling in fast growing, innovative environments.  His twenty-five plus years of experience include Joulex (now part of Cisco Systems), Internet Security Systems (now part of IBM), Digital Communications Associates and a number of other technology firms delivering software solutions and services on a worldwide basis.   Jon has a Finance degree from University of Georgia and MBA from Georgia State University.Investors Close ()PlatformSolutionsSolutionsInformControlProtectBuildChampionsCustomersDevelopersPartnersAbout UsAbout UsVision & LeadershipCareersNewsResourcesMedia RoomBlog              
+
+
+
+
+
+
+
+
+
+
+Professional Camcorder Batteries | B&H Photo Video
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+					
+						Other B&H Sites - Gov, EDU & Corp.
+
+
+
+B&H Main sitezsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+
+Federal Marketplace
+
+
+Students & Educators
+
+
+Government, Education & Corporate
+
+
+
+
+Read 
+
+800.606.6969 / 212.444.6615
+Help
+About Us
+
+Live Chat
+				
+
+
+
+
+The Professional's Source
+Since 1973
+
+
+FREE NYC STORE PICKUP Ready Within the Hour
+>> Free Shipping on most orders over $49
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hello,
+Log In
+
+
+		    Sign In Login/Register
+
+
+My Account 
+
+
+
+
+
+
+
+0
+My Cart
+
+
+
+
+
+
+
+
+
+Log Into Your Account
+
+Log In
+
+
+Create a B&H Account
+
+
+
+
+
+
+My Account
+
+
+
+
+
+My Orders
+
+
+
+
+Wish List
+
+
+
+
+
+
+
+
+
+Sign Out
+
+
+
+
+My Account
+zsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+
+
+
+My Orders
+
+
+
+
+Wish List
+
+
+
+
+Notifications
+   
+
+
+
+
+
+
+
+
+
+
+
+Photography
+Computers
+Pro Video
+Lighting
+Pro Audio
+Mobile
+TVs & Entertainment
+Camcorders
+Surveillance
+Optics
+Audio-Visual
+Used
+
+
+
+			Specials
+		
+
+
+
+
+
+
+
+									Specials & Rebates See All Specials >
+
+
+
+
+
+
+
+
+1 of  Deals Today
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Details 
+
+
+
+
+
+
+
+				Most orders* over $49 qualify for .
+
+							Orders placed after 4pm on weekdays will not ship until the next business day. Orders placed after 12pm Fridays will not ship until the following Monday. 
+			Faster shipping methods may be available; just upgrade during checkout.
+
+			*Some exclusions apply.
+Close
+
+
+
+
+
+
+
+
+				Shipping Location
+			
+
+				Enter new zip code to refresh estimated delivery time.
+			
+
+
+Update
+
+
+				Unrecognized Zip Code
+			
+
+
+
+
+
+
+
+
+
+
+
+Home
+ 
+					
+						
+							
+							Professional Video
+						
+					
+				 
+ 
+					
+						
+							
+							Batteries & Power
+						
+					
+				 
+ 
+					
+						
+							
+							Batteries & Accessories
+						
+					
+				 
+ 
+					
+						
+							
+							
+								Professional Camcorder Batteries
+							
+							
+							
+						
+					
+				 
+
+
+
+
+Narrow Results
+
+Brands
+
+
+Search
+
+
+
+
+Anton Bauer  (45)
+
+
+Avinair  (2)
+
+
+Bebob Engineering  (8)
+
+
+Bescor  (3)
+
+
+Blackmagic Design  (1)
+
+
+BLUESHAPE  (25)
+
+
+CAME-TV  (10)
+
+
+CAMLAST  (34)
+
+
+Canon  (6)
+
+
+CINEGEARS  (3)
+
+
+Core SWX  (181)
+
+
+Dedolight  (1)
+
+
+Dolgin Engineering  (11)
+
+
+Dracast  (18)
+
+
+Frezzi  (18)
+
+
+Fxlion  (30)
+
+
+GEN ENERGY  (4)
+
+
+Gripper Series  (2)
+
+
+IDX System Technology  (63)
+
+
+ikan  (25)
+
+
+IndiPRO Tools  (50)
+
+
+Intellytech  (18)
+
+
+Jupio  (12)
+
+
+JVC  (5)
+
+
+Lanparte  (4)
+
+
+MagiCue  (2)
+
+
+PAG  (22)
+
+
+Panasonic  (6)
+
+
+POWERANGE  (20)
+
+
+ProAm USA  (2)
+
+
+RED DIGITAL CINEMA  (10)
+
+
+Sachtler  (1)
+
+
+Series 7  (1)
+
+
+Sony  (10)
+
+
+SWIT  (42)
+
+
+Teradek  (1)
+
+
+Tether Tools  (3)
+
+
+Varavon  (3)
+
+
+VariZoom  (11)
+
+
+Watson  (34)
+
+
+
+
+Filter By
+
+
+Free Shipping (722)
+
+
+Rebates (30)
+
+
+In stock (390)
+
+
+New Release (16)
+
+
+Rewards (1)
+
+
+Displayed In Store (18)
+
+
+Available In Store (325)
+
+
+
+
+Customer Rating
+
+
+
+
+ (125)
+
+
+
+
+
+ (37)
+
+
+
+
+
+ (10)
+
+
+
+
+
+ (1)
+
+
+
+
+
+ (4)
+
+
+
+
+
+Price Range
+
+
+$0 - $500  (405)
+
+
+$500 - $1000  (168)
+
+
+$1000 - $1500  (84)
+
+
+$1500 - $2000  (28)
+
+
+$2000 - $2500  (38)
+
+
+$2500 - $3000  (14)
+
+
+$3000 - $3500  (5)zsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+
+$3500 - $4000  (3)
+
+
+$4000 - $5000  (2)
+
+
+
+
+
+Enter a price range:
+$    -   
+$ 
+Go
+
+
+
+										View All Price Ranges‹
+
+
+										Hide All Price Ranges›
+
+
+
+
+Mount / Series Type
+								
+
+							
+
+
+Gold Mount  (236)
+
+
+V-Mount  (344)
+
+
+NP-1 Mount  (13)
+
+
+Powerbase  (33)
+
+
+BP-90 Connection  (1)
+
+
+PAGlok Connection  (5)
+
+
+Canon BP-A Series  (2)
+
+
+Canon BP-800 Series  (1)
+
+
+Canon BP-900 Series  (18)
+
+
+Canon LP-E6  (4)
+
+
+JVC BN-S Series  (1)
+
+
+JVC BN-V Series  (1)
+
+
+JVC SSL Series  (5)
+
+
+Nikon EN-EL20  (1)
+
+
+Panasonic CGA-D Series  (6)
+
+
+Panasonic PV-BP Series  (1)
+
+
+Panasonic VW-VBD Series  (9)
+
+
+Panasonic VW-VBG Series  (4)
+
+
+Sony BP-U Series  (18)
+
+
+Sony L Series  (34)
+
+
+Sony M Series  (2)
+
+
+Mount Required  (2)
+
+
+
+
+Configuration
+								
+
+							
+
+
+Battery Only  (407)
+
+
+Battery & Charger Kits  (339)
+
+
+
+
+Kit Compatibility
+								
+
+							
+
+
+AJA CION  (6)
+
+
+Blackmagic Cinema Camera  (15)
+
+
+Blackmagic URSA  (17)
+
+
+Canon C300/C500  (4)
+
+
+Canon GL-1/GL-2  (1)
+
+
+Canon XF300/XF305  (1)
+
+
+Canon XH-A1  (1)
+
+
+Canon XH-G1  (1)
+
+
+Canon XL-1/XL-2  (3)
+
+
+Canon XL-H1  (3)
+
+
+GoPro  (1)
+
+
+JVC GY-HD200/HD250  (1)
+
+
+JVC GY-HM600/HM650  (2)
+
+
+Panasonic AG-AC130/AC160  (2)
+
+
+Panasonic AG-AF100  (4)
+
+
+Panasonic AG-HMC Series  (2)
+
+
+Panasonic AG-HPX170  (1)
+
+
+Panasonic AG-HVX200  (1)
+
+
+Panasonic DMC-GH4  (7)
+
+
+RED Camera  (9)
+
+
+Sony A7S  (11)
+
+
+Sony DCR-VX2000  (1)
+
+
+Sony DSR-300/DSR-500  (1)
+
+
+Sony DSR-PD150/PD170  (2)
+
+
+Sony HDR-FX1/FX7  (2)
+
+
+Sony HDR-FX1000  (1)
+
+
+Sony HDV-FX1  (1)
+
+
+Sony HVR Series  (2)
+
+
+Sony HXR-NX5  (2)
+
+
+Sony NEX-FS100  (2)
+
+
+Sony PMW-EX1/EX3  (1)
+
+
+Sony PMW-F3  (5)
+
+
+Sony PMW-F5  (2)
+
+
+Sony PXW-FS7  (6)
+
+
+Sony (Various)  (2)
+
+
+
+
+Chemistry
+								
+
+							
+
+
+Li-Ion  (727)
+
+
+NiMH  (12)
+
+
+Li-Mangan  (3)
+
+
+NiCd  (2)
+
+
+Lead Acid  (1)
+
+
+
+
+Voltage
+								
+
+							
+
+
+26V  (2)
+
+
+14.8V  (456)
+
+
+14.6V  (4)
+
+
+14.4V  (174)
+
+
+14.2V  (1)
+
+
+14V  (5)
+
+
+13.2V  (5)
+
+
+12.8V  (1)
+
+
+12V  (3)
+
+
+9.5V  (1)
+
+
+7.4V  (34)
+
+
+7.2V  (60)
+
+
+
+
+Wattage / mAh
+								
+
+							
+
+
+18.7 Wh  (1)
+
+
+23 Wh  (1)
+
+
+37 Wh  (3)
+
+
+43 Wh  (2)
+
+
+47.5 Wh  (2)
+
+
+50 Wh  (4)
+
+
+56 Wh  (4)
+
+
+60 Wh  (4)
+
+
+63 Wh  (1)
+
+
+65 Wh  (12)
+
+
+68 Wh  (4)
+
+
+70 Wh  (21)
+
+
+73 Wh  (6)
+
+
+75 Wh  (6)
+
+
+77 Wh  (1)
+
+
+78 Wh  (2)
+
+
+80 Wh  (3)
+
+
+82 Wh  (23)
+
+
+85 Wh  (22)
+
+
+86 Wh  (1)
+
+
+88 Wh  (13)
+
+
+89 Wh  (2)
+
+
+90 Wh  (46)
+
+
+91 Wh  (13)
+
+
+93 Wh  (12)
+
+
+94 Wh  (4)
+
+
+95 Wh  (86)
+
+
+96 Wh  (7)
+
+
+98 Wh  (102)
+
+
+100 Wh  (10)
+
+
+112 Wh  (1)
+
+
+115 Wh  (2)
+
+
+120 Wh  (1)
+
+
+125 Wh  (2)
+
+
+126 Wh  (4)
+
+
+130 Wh  (23)
+
+
+136 Wh  (5)
+
+
+140 Wh  (9)
+
+
+146 Wh  (24)
+
+
+148 Wh  (1)
+
+
+149 Wh  (1)
+
+
+150 Wh  (33)
+
+
+153 Wh  (3)
+
+
+155 Wh  (1)
+
+
+158 Wh  (7)
+
+
+160 Wh  (16)
+
+
+170 Wh  (1)
+
+
+172 Wh  (1)
+
+
+180 Wh  (5)
+
+
+184 Wh  (4)
+
+
+185 Wh  (1)
+
+
+190 Wh  (28)
+
+
+192 Wh  (4)
+
+
+195 Wh  (3)
+
+
+196 Wh  (1)
+
+
+200 Wh  (2)
+
+
+220 Wh  (7)
+
+
+230 Wh  (3)
+
+
+240 Wh  (9)
+
+
+250 Wh  (6)
+
+
+260 Wh  (6)
+
+
+265 Wh  (2)
+
+
+266 Wh  (4)zsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+
+280 Wh  (6)
+
+
+290 Wh  (2)
+
+
+1020 mAh  (1)
+
+
+1200 mAh  (3)
+
+
+1750 mAh  (1)
+
+
+1860 mAh  (1)
+
+
+2000 mAh  (3)
+
+
+2200 mAh  (7)
+
+
+2300 mAh  (2)
+
+
+2600 mAh  (4)
+
+
+2670 mAh  (1)
+
+
+2760 mAh  (1)
+
+
+3200 mAh  (1)
+
+
+4000 mAh  (1)
+
+
+4140 mAh  (1)
+
+
+4400 mAh  (6)
+
+
+4600 mAh  (2)
+
+
+4900 mAh  (3)
+
+
+5000 mAh  (1)
+
+
+5100 mAh  (1)
+
+
+5200 mAh  (7)
+
+
+5400 mAh  (4)
+
+
+5800 mAh  (1)
+
+
+5900 mAh  (1)
+
+
+6000 mAh  (1)
+
+
+6400 mAh  (2)
+
+
+6500 mAh  (9)zsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+
+6600 mAh  (11)
+
+
+7200 mAh  (6)
+
+
+7350 mAh  (2)
+
+
+7800 mAh  (6)
+
+
+7900 mAh  (1)
+
+
+8300 mAh  (1)
+
+
+8850 mAh  (1)
+
+
+9600 mAh  (2)
+
+
+9800 mAh  (1)
+
+
+10400 mAh  (3)
+
+
+11800 mAh  (1)
+
+
+
+
+Battery Features
+								
+
+							
+
+
+Battery Status Indicator  (661)
+
+
+Built-in Alarm  (1)
+
+
+Built-in Charger  (6)
+
+
+Built-in QR Plate  (21)
+
+
+Built-in Adapter Base  (2)
+
+
+Built-in 1/4-20 Hole  (2)
+
+
+Power Tap Output  (480)
+
+
+Powerlink Technology  (18)
+
+
+Split Design  (25)
+
+
+USB Power Output  (218)
+
+
+Rod Mount  (2)
+
+
+X-Tap Output  (1)
+
+
+4-Pin Hirose Power Output  (2)
+
+
+Mini Jack Power Output  (11)
+
+
+Water Resistant  (6)
+
+
+WiFi Module  (15)
+
+
+(None of the Above)  (69)
+
+
+
+
+Kit / Charger Type
+								
+
+							
+
+
+Single Charger  (54)
+
+
+Single Charger w/Power Supply  (17)
+
+
+Dual Charger  (33)
+
+
+Dual Charger w/Power Supply  (154)
+
+
+Quad Charger  (41)
+
+
+Quad Charger w/Power Supply  (30)
+
+
+
+
+Kit Includes
+								
+
+							
+
+
+Multiple Batteries  (268)
+
+
+Battery Plate  (83)
+
+
+Battery Adapter Cable  (34)
+
+
+4-Pin XLR Cable  (52)
+
+
+On Camera Light  (1)zsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+
+(None of the Above)  (396)
+
+
+
+
+Search within results
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Professional Camcorder Batteries  :
+								
+								
+							
+							
+								    
+								
+									1 -
+									
+										24
+									
+									of
+									747
+							    
+						    
+
+
+
+Sort By:
+
+
+								
+										Best Sellers
+								
+								
+								
+								
+								
+								
+								
+								
+							
+
+Best Sellers
+Price: Low to High
+Price: High to Low
+Top Rated
+Most Rated
+Brand: A to Z
+Brand: Z to A
+
+
+Display:
+
+24 per page
+
+24
+48
+72
+100
+
+
+
+
+List View
+Grid View
+Gallery View
+
+
+
+Compare:
+
+Compare 0 Items
+Add Items To Compare
+Add 1 More Item
+X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wish List Spotlight:
+        This item appears on a featured B&H industry insider's Spotlight Wish List
+    
+
+
+
+
+
+
+Most Wishable:
+        This item pops up most often on B&H customer Wish Lists
+    
+
+
+
+
+
+
+Most Giftable:
+        This item has been gifted most often by B&H customers.
+    
+
+
+
+
+
+
+Top Markdown:
+        This item's price has dropped. Take advantage while the savings lasts!
+    
+
+
+
+
+
+
+
+
+
+
+
+
+(135)
+		zsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+
+
+
+
+
+You can only compare up to 4 items.
+Remove items from bar below to add more.
+
+
+
+
+
+
+
+Sony
+BP-U60 Lithium-Ion Battery - for PMW-EX1 Camcorder, INFO Function, 56 Wh
+
+
+
+B&H # SOBPU60
+MFR # BPU-60
+
+
+
+
+
+
+
+
+
+In Stock
+
+
+
+
+										Order by 4pm  to ship   today 
+
+
+
+X
+
+							
+									Place your order by 4pm today and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+							
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$265.00
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buy Used
+										
+											
+											
+											
+											
+											
+											
+											from
+										
+										 $189.95
+Similar Item for
+										 $99.99
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wish List Spotlight:
+        This item appears on a featured B&H industry insider's Spotlight Wish List
+    
+
+
+
+
+
+
+Most Wishable:
+        This item pops up most often on B&H customer Wish Lists
+    
+
+
+
+
+
+
+Most Giftable:
+        This item has been gifted most often by B&H customers.
+    
+
+
+
+
+
+
+Top Markdown:
+        This item's price has dropped. Take advantage while the savings lasts!
+    
+
+
+
+
+
+
+
+
+
+
+
+
+(75)
+		
+
+
+
+
+
+
+You can only compare up to 4 items.
+Remove items from bar below to add more.
+
+
+
+
+
+
+
+Watson
+NP-F770 Lithium-Ion Battery Pack (7.4V, 4400mAh)
+zsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+
+B&H # WANPF770
+MFR # B-4205
+
+
+
+
+
+
+
+
+
+											Replacement for Sony NP-F770 & NP-F750 Batteries
+										
+
+
+
+
+
+
+
+In Stock
+
+
+
+
+										Order by 4pm  to ship   today 
+
+
+
+X
+
+							
+									Place your order by 4pm today and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+							
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$44.95
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wish List Spotlight:
+        This item appears on a featured B&H industry insider's Spotlight Wish List
+    
+
+
+
+
+
+
+Most Wishable:
+        This item pops up most often on B&H customer Wish Lists
+    
+
+
+
+
+
+
+Most Giftable:
+        This item has been gifted most often by B&H customers.
+    
+
+
+
+
+
+
+Top Markdown:
+        This item's price has dropped. Take advantage while the savings lasts!
+    
+
+
+
+
+
+
+
+
+
+
+
+
+(54)
+		
+
+
+
+
+
+
+You can only compare up to 4 items.
+Remove items from bar below to add more.
+
+
+
+
+
+
+
+Watson
+NP-F550 Lithium-Ion Battery Pack (7.4V, 2200mAh)
+zsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+
+B&H # WANPF550
+MFR # B-4203
+
+
+
+
+
+
+
+
+
+											Replacement for Sony NP-F550 Battery
+										
+
+
+
+
+
+
+
+In Stock
+
+
+
+
+										Order by 4pm  to ship   today 
+
+
+
+X
+
+							
+									Place your order by 4pm today and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+							
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$34.95
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wish List Spotlight:
+        This item appears on a featured B&H industry insider's Spotlight Wish List
+    
+
+
+
+
+
+
+Most Wishable:
+        This item pops up most often on B&H customer Wish Lists
+    
+
+
+
+
+
+
+Most Giftable:
+        This item has been gifted most often by B&H customers.
+    
+
+
+
+
+
+
+Top Markdown:
+        This item's price has dropped. Take advantage while the savings lasts!
+    
+
+
+
+
+zsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+
+
+
+
+
+
+(195)
+		
+
+
+
+
+
+
+You can only compare up to 4 items.
+Remove items from bar below to add more.
+
+
+
+
+
+
+
+Watson
+NP-F975 Lithium-Ion Battery Pack (7.4V, 7800mAh)
+
+
+
+B&H # WANPF975
+MFR # B-4206
+
+
+
+
+
+
+
+
+
+											Replacement for Sony NP-F970 Battery
+										
+
+
+
+
+
+
+
+In Stock
+
+
+
+
+										Order by 4pm  to ship   today 
+
+
+
+X
+
+							
+									Place your order by 4pm today and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+							
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$59.99
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wish List Spotlight:
+        This item appears on a featured B&H industry insider's Spotlight Wish List
+    
+
+
+
+
+
+
+Most Wishable:
+        This item pops up most often on B&H customer Wish Lists
+    
+
+
+
+
+
+
+Most Giftable:
+        This item has been gifted most often by B&H customers.
+    
+
+
+
+
+
+
+Top Markdown:
+        This item's price has dropped. Take advantage while the savings lasts!
+    
+
+
+
+
+
+
+
+
+
+
+
+
+(75)
+		
+
+
+
+
+
+
+You can only compare up to 4 items.
+Remove items from bar below to add more.
+
+
+
+
+
+
+
+Canon
+BP-955 Intelligent Lithium-Ion Battery Pack (5200 mAh)
+
+
+
+B&H # CABP955
+MFR # 4587B002
+
+
+
+
+
+
+
+
+
+											For Select Canon C and XF Series Cameras
+										
+
+											For C100, C100 Mark II, C300, C500
+										
+
+											For XF100/105, XF200/205, XF300/305
+										
+
+
+
+
+
+
+
+In Stock
+
+
+
+
+										Order by 4pm  to ship   today 
+
+
+
+X
+
+							
+									Place your order by 4pm today and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+							
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$149.00
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buy Used
+										
+											
+											
+											
+											
+											
+											
+											from
+										
+										 $99.95
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wish List Spotlight:
+        This item appears on a featured B&H industry insider's Spotlight Wish List
+    
+
+
+
+
+
+
+Most Wishable:
+        This item pops up most often on B&H customer Wish Lists
+    
+
+
+
+
+
+
+Most Giftable:
+        This item has been gifted most often by B&H customers.
+    
+
+
+
+
+
+
+Top Markdown:
+        This item's price has dropped. Take advantage while the savings lasts!
+    
+
+
+
+
+
+
+
+
+
+
+
+
+(369)
+		
+
+
+
+
+
+
+You can only compare up to 4 items.
+Remove items from bar below to add more.
+
+
+
+
+
+
+
+Sony
+NP-F970 L-Series Info-Lithium Battery Pack (6300mAh)
+
+
+
+B&H # SONPF970
+MFR # NPF970
+
+
+
+
+
+
+
+
+
+In Stock
+
+
+
+
+										Order by 4pm  to ship   today 
+
+
+
+X
+
+							
+									Place your order by 4pm today and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+							
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$123.99
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buy Used
+										
+											
+											
+											
+											
+											
+											
+											from
+										
+										 $80.00
+Similar Item for
+										 $59.99
+
+
+
+
+
+
+
+2
+Pieces
+
+
+
+
+
+
+
+
+
+
+Wish List Spotlight:
+        This item appears on a featured B&H industry insider's Spotlight Wish List
+    
+
+
+
+
+
+
+Most Wishable:
+        This item pops up most often on B&H customer Wish Lists
+    
+
+
+
+
+
+
+Most Giftable:
+        This item has been gifted most often by B&H customers.
+    
+
+
+
+
+
+
+Top Markdown:
+        This item's price has dropped. Take advantage while the savings lasts!
+    
+
+
+
+
+
+
+
+
+
+
+
+
+(47)
+		
+
+
+
+
+
+
+You can only compare up to 4 items.
+Remove items from bar below to add more.
+
+
+
+
+
+
+
+Sony
+NP-F970 L-series Info-Lithium Battery 2 Pack (7.2v, 6300mAh)
+zsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+
+B&H # SO2NPF970B
+MFR # 2NPF970/B
+
+
+
+
+
+
+
+
+0% 12 month Lease Financing Program
+								valid until
+								03/31/18
+								
+
+
+
+
+
+
+In Stock
+
+
+
+
+										Order by 4pm  to ship   today 
+
+
+
+X
+
+							
+									Place your order by 4pm today and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+							
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$219.00
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wish List Spotlight:
+        This item appears on a featured B&H industry insider's Spotlight Wish List
+    
+
+
+
+
+
+
+Most Wishable:
+        This item pops up most often on B&H customer Wish Lists
+    
+
+
+
+
+
+
+Most Giftable:
+        This item has been gifted most often by B&H customers.
+    
+
+
+
+
+
+
+Top Markdown:
+        This item's price has dropped. Take advantage while the savings lasts!
+    
+
+
+
+
+
+
+
+
+
+
+
+
+(11)
+		zsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+
+
+
+
+Watson
+NP-F975 Two-Battery Kit with Duo LCD Charger
+
+
+
+B&H # WANPF9752BK
+MFR # D-4203BKII
+
+
+
+
+
+
+
+Top Highlights
+
+
+											Two NP-F975 7.4V 7800mAh Batteries
+										
+
+											Dual-Battery Charger
+										
+
+											Simultaneously Charge Both Batteries
+										
+
+											USB Port for Charging Mobile Devices
+										
+
+											Interchangeable Battery Plates
+										
+
+											Overcharge/Overheat/Circuit Protection
+										
+
+											Battery Charge Test Button
+										
+
+											100-240 VAC Worldwide Power Input
+										
+
+											12 VDC Car Lighter Adapter Included
+										
+
+
+
+
+
+
+
+In Stock
+
+
+
+
+										Order by 4pm  to ship   today 
+
+
+
+X
+
+							
+									Place your order by 4pm today and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+							
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$179.95
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wish List Spotlight:
+        This item appears on a featured B&H industry insider's Spotlight Wish List
+    
+
+
+
+
+
+
+Most Wishable:
+        This item pops up most often on B&H customer Wish Lists
+    
+
+
+
+
+
+
+Most Giftable:
+        This item has been gifted most often by B&H customers.
+    
+
+
+
+
+
+
+Top Markdown:
+        This item's price has dropped. Take advantage while the savings lasts!
+    
+
+
+
+
+
+
+
+
+
+
+
+
+(25)
+		
+
+
+
+
+
+
+You can only compare up to 4 items.
+Remove items from bar below to add more.
+
+
+
+
+
+
+
+Anton Bauer
+Digital 90 Gold Mount Battery (14.4V, 93 Wh)
+
+
+
+B&H # ANDIG90GM
+MFR # 8675-0092
+
+
+
+
+
+
+
+Top Highlights
+
+
+											Enlarged, Spacious Honeycomb Interior
+										
+
+											Individually Wrapped, Isolated Cells
+										
+
+											Increased Airflow & Heat Dissipation
+										
+
+											1000 Charge / Discharge Cycles
+										
+
+											Anti-Ringing Algorithm
+										
+
+											Built-In Over-Current Sensors
+										
+
+											Load Run-Time Display in Hours & Minutes
+										
+
+											% Run-Time Display with No Load Attached
+										
+
+											Ergonomic Design with Cushion Jacket
+										
+
+											P-Tap Accessory Port
+										
+
+
+
+
+
+
+
+In Stock
+
+
+
+
+										Order by 4pm  to ship   today 
+
+
+
+X
+
+							
+									Place your order by 4pm today and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+							
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$269.00
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buy Used
+										
+											
+											
+											
+											
+											
+											
+											from
+										
+										 $229.95
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(17)
+		
+
+
+
+
+
+
+You can only compare up to 4 items.
+Remove items from bar below to add more.
+
+
+
+
+
+
+
+Anton Bauer
+NP-F976 7.2V, 6600mAh L-Series Li-Ion Battery (47Wh)
+
+
+
+B&H # ANNPF976
+MFR # 8675-0109
+
+
+
+
+
+
+
+
+
+											L-Series Form Factor
+										
+
+											Compatible with Monitors and Lights
+										
+
+											For Select Sony Cameras
+										
+
+
+
+
+
+
+
+In Stock
+
+
+
+
+										Order by 4pm  to ship   today 
+
+
+
+X
+
+							
+									Place your order by 4pm today and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+							
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+						Price:
+							
+								
+									
+									
+									
+										$79.95
+									
+								
+							
+
+
+						Instant Savings:
+						
+							$20.00
+						
+
+
+
+
+
+
+You Pay: 
+
+						
+						$59.95
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wish List Spotlight:
+        This item appears on a featured B&H industry insider's Spotlight Wish List
+    
+
+
+
+
+
+
+Most Wishable:
+        This item pops up most often on B&H customer Wish Lists
+    
+
+
+
+
+
+
+Most Giftable:
+        This item has been gifted most often by B&H customers.
+    
+
+
+
+
+
+
+Top Markdown:
+        This item's price has dropped. Take advantage while the savings lasts!
+    
+
+
+
+
+
+
+
+
+
+
+
+
+(6)
+		
+
+
+
+
+
+
+You can only compare up to 4 items.
+Remove items from bar below to add more.
+
+
+
+
+
+
+
+Canon
+BP-A30 Battery Pack For EOS C300 Mark II
+
+
+
+B&H # CABPA30
+MFR # 0868C002
+
+
+
+
+
+
+
+
+
+											3100 mAH / 45 Wh Capacity
+										
+
+											Rechargeable Intelligent Li-ion Battery
+										
+
+											Battery Contact Cover
+										
+
+											Push-Button Remaining Power Indicator
+										
+
+
+
+
+
+
+
+In Stock
+
+
+
+
+										Order by 4pm  to ship   today 
+
+
+
+X
+
+							
+									Place your order by 4pm today and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+							
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$269.95
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wish List Spotlight:
+        This item appears on a featured B&H industry insider's Spotlight Wish List
+    
+
+
+
+
+
+
+Most Wishable:
+        This item pops up most often on B&H customer Wish Lists
+    
+
+
+
+
+
+
+Most Giftable:
+        This item has been gifted most often by B&H customers.
+    
+
+
+
+
+
+
+Top Markdown:
+        This item's price has dropped. Take advantage while the savings lasts!
+    
+
+
+
+
+
+
+
+
+
+
+
+
+(9)
+		
+
+
+
+
+
+
+You can only compare up to 4 items.
+Remove items from bar below to add more.
+
+
+
+
+
+
+
+Canon
+BP-A60 Battery Pack For EOS C300 Mark II
+
+
+
+B&H # CABPA60
+MFR # 0870C002
+
+
+
+
+
+
+
+
+
+											6200 mAH / 90 Wh Capacity
+										
+
+											Rechargeable Intelligent Li-ion Battery
+										
+
+											Battery Contact Cover
+										
+
+											Push-Button Remaining Power Indicator
+										
+
+
+
+
+
+
+
+More on the Way
+						
+						
+
+
+
+Expected availability: 
+								3-7 business days
+							
+						
+						
+						
+						
+					
+
+X
+
+
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$495.00
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+OR
+Request Stock Alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(24)
+		
+
+
+
+
+
+
+You can only compare up to 4 items.
+Remove items from bar below to add more.
+
+
+
+
+
+
+
+Watson
+BP-U60 Lithium-Ion Battery Pack (14.4V, 5200mAh)
+
+
+
+B&H # WABPU60
+MFR # B-4232
+
+
+
+
+
+
+
+
+
+											Replacement for Sony BP-U60 Battery
+										
+
+
+
+
+
+
+
+In Stock
+
+
+
+
+										Order by 4pm  to ship   today 
+
+
+
+X
+
+							
+									Place your order by 4pm today and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+							
+
+
+
+
+Calculate Shippingzsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$99.99
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(38)
+		
+
+
+
+
+
+
+You can only compare up to 4 items.
+Remove items from bar below to add more.
+
+
+
+
+
+
+
+Blackmagic Design
+Pocket Cinema Camera Battery
+
+
+
+B&H # BLPCCB
+MFR # BMPCCASS/BATT
+
+
+
+
+
+
+
+
+
+											7.4V EN-EL20 Type Lithium-Ion
+										
+
+											50 Minute Continuous Recording Time
+										
+
+											800mAh
+										
+
+
+
+
+
+
+
+In Stock
+
+
+
+
+										Order by 4pm  to ship   today 
+
+
+
+X
+
+							
+									Place your order by 4pm today and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+							
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$14.95
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buy Used
+										
+											
+											
+											
+											
+											
+											
+											from
+										
+										 $9.95
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(64)
+		
+
+
+
+
+
+
+You can only compare up to 4 items.
+Remove items from bar below to add more.
+
+
+
+
+
+
+
+Canon
+BP-975 Intelligent Lithium-Ion Battery Pack (7350 mAh)
+
+
+
+B&H # CABP975
+MFR # 4588B002
+
+
+
+
+
+
+
+
+
+											For Select Canon C and XF Series Cameras
+										
+
+											For C100, C100 Mark II, C300, C500
+										
+
+											For XF100/105, XF200/205, XF300/305
+										
+
+
+
+
+
+
+
+In Stock
+
+
+
+
+										Order by 4pm  to ship   today 
+
+
+
+X
+
+							
+									Place your order by 4pm today and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+							
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$214.00
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buy Used
+										
+											
+											
+											
+											
+											
+											
+											from
+										
+										 $169.95
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(12)
+		
+
+
+
+
+
+
+You can only compare up to 4 items.
+Remove items from bar below to add more.
+
+
+
+
+
+
+
+JVC
+SWIT BN-S8823 7.2V Lithium Ion Battery for GY-HM100/150/170
+
+
+
+B&H # JVBNS8823
+MFR # BN-S8823
+
+
+
+
+
+
+
+
+
+											18.7Wh (2600mAh) Capacity
+										
+
+											4-Level LED Power Indicator
+										
+
+											7.2V Pole DC Output Socket
+										
+
+											Transmits Remaining Power & Recording
+										
+
+
+
+
+
+
+
+In Stock
+
+
+
+
+										Order by 4pm  to ship   today 
+
+
+
+X
+
+							
+									Place your order by 4pm today and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+							
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$85.00
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buy Used
+										
+											
+											
+											
+											
+											
+											
+											from
+										
+										 $59.95
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2)
+		
+
+
+
+
+
+
+You can only compare up to 4 items.
+Remove items from bar below to add more.
+
+
+
+
+
+
+
+Panasonic
+7.28V 65Wh Battery for DVX200 (8,850mAh)
+
+
+
+B&H # PAAGVBR89
+MFR # AG-VBR89G
+
+
+
+
+
+
+
+
+
+											8,850mAh Capacity Battery for AG-DVX200
+										
+
+											7.28V, 65Wh
+										
+
+											Works with AG-BRD50 Charger
+										
+
+											Approx. 4 Hour Charge Time
+										
+
+
+
+
+
+
+
+More on the Way
+						
+						
+
+
+
+Expected availability: 
+								7-14 business days
+							
+						
+						
+						
+						
+					
+
+X
+
+
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$279.95
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+OR
+Request Stock Alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buy Used
+										
+											
+											
+											
+											
+											
+											
+											from
+										
+										 $220.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(1)
+		
+
+
+
+
+
+Watson
+NP-F770 Battery Kit with Compact AC/DC Charger
+
+
+
+B&H # WANPF770CK
+MFR # C-4203BKI
+
+
+
+
+
+
+
+Top Highlights
+
+
+											NP-F770 7.4V 4400mAh Battery
+										
+
+											Compact AC/DC Charger with Fold-Out Plug
+										
+
+											USB Port for Charging Mobile Devices
+										
+
+											Interchangeable Battery Plate
+										
+
+											Overcharge/Overheat Protection
+										
+
+											100-240 VAC Worldwide Power Input
+										
+
+											12 VDC Car Lighter Adapter Included
+										
+
+											European Plug Adapter Included
+										
+
+
+
+
+
+
+
+In Stock
+
+
+
+
+										Order by 4pm  to ship   today 
+
+
+
+X
+
+							
+									Place your order by 4pm today and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+							
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$64.90
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(5)
+		
+
+
+
+
+
+
+You can only compare up to 4 items.
+Remove items from bar below to add more.
+
+
+
+
+
+
+
+ikan
+NP-F750 L-Series Compatible Battery (7.4V, 5800 mAh)
+
+
+
+B&H # IKIBS750
+MFR # IBS-750
+
+
+
+
+
+
+
+
+
+											7.4V Output, 5800mAh Capacity
+										
+
+
+
+
+
+
+
+In Stock
+
+
+
+
+										Order by 4pm  to ship   today 
+
+
+
+X
+
+							
+									Place your order by 4pm today and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+							
+
+
+
+
+Calculate Shippingzsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$39.95
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(13)
+		
+
+
+
+
+
+
+You can only compare up to 4 items.
+Remove items from bar below to add more.
+
+
+
+
+
+
+
+JVC
+SSL-JVC50 7.4V IDX Lithium-Ion Battery for JVC Camcorders
+
+
+
+B&H # JVSSLJVC50
+MFR # SSL-JVC50
+
+
+
+
+
+
+
+
+
+											For JVC GY-HMQ10 / 600 / 650 Camcorders
+										
+
+											7.4 Volts
+										
+
+											4900 mAh
+										
+
+											37 Watt Hours
+										
+
+
+
+
+
+
+
+In Stock
+
+
+
+
+										Order by 4pm  to ship   today 
+
+
+
+X
+
+							
+									Place your order by 4pm today and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+							
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$169.00
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buy Used
+										
+											
+											
+											
+											
+											
+											
+											from
+										
+										 $109.95
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(9)
+		
+
+
+
+
+
+Tether Tools
+Case Relay Camera Power System
+
+
+
+B&H # TECRUPS110
+MFR # CRUPS110
+
+
+
+
+
+
+
+Top Highlights
+
+
+											Uninterruptible Power for a Camera
+										
+
+											7.4V, 1,200mAh Lithium UPS Battery
+										
+
+											Powered by 5 VDC Power Source
+										
+
+											Internal Battery Allows Hot Swapping
+										
+
+											Connects to USB Battery or AC Adapter
+										
+
+											LED Indicator Light
+										
+
+											Requires Coupler for Camera Connection
+										
+
+
+
+
+
+
+
+In Stock
+
+
+
+
+										Order by 4pm  to ship   today 
+
+
+
+X
+
+							
+									Place your order by 4pm today and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+							
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$99.99
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(11)
+		
+
+
+
+
+
+
+You can only compare up to 4 items.
+Remove items from bar below to add more.
+
+
+
+
+
+
+
+Core SWX
+HyperCore Slim for RED V-Mount Battery (14.8V)
+
+
+
+B&H # COHC7R
+MFR # HC7R
+
+
+
+
+
+
+
+Top Highlights
+
+
+											Inch Slimmer Than Original HyperCore
+										
+
+											Designed for UAV and Gimbal Applications
+										
+
+											Communicates Battery % to RED VF LCDs
+										
+
+											Handles 10A Draws for Extended Periods
+										
+
+											Clear Gimbal Rails
+										
+
+											Suitable for Any Low-Profile Application
+										
+
+											TSA-Friendly at 82Wh Nominal Capacity
+										
+
+											Anti-Self-Discharge Hibernation Feature
+										
+
+											Uses RED, IDX, Sony, Core SWX Chargers
+										
+
+											1,000 Charge/Discharge Cycles
+										
+
+
+
+
+
+
+
+In Stock
+
+
+
+
+										Order by 4pm  to ship   today 
+
+
+
+X
+
+							
+									Place your order by 4pm today and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+							
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$265.00
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wish List Spotlight:
+        This item appears on a featured B&H industry insider's Spotlight Wish List
+    
+
+
+
+
+
+
+Most Wishable:
+        This item pops up most often on B&H customer Wish Lists
+    
+
+
+
+
+
+
+Most Giftable:
+        This item has been gifted most often by B&H customers.
+    
+
+
+
+
+
+
+Top Markdown:
+        This item's price has dropped. Take advantage while the savings lasts!
+    
+
+
+
+
+
+
+
+
+
+
+
+
+(40)
+		
+
+
+
+
+
+
+You can only compare up to 4 items.
+Remove items from bar below to add more.
+
+
+
+
+
+
+
+Anton Bauer
+DIONIC-HC Lithium-Ion Battery 
+
+
+
+B&H # ANDHC
+MFR # DIONIC HC
+
+
+
+
+
+
+
+Top Highlights
+
+
+											91Wh Peak (83Wh Typical)
+										
+
+											14.4 VDC
+										
+
+											10 Amps
+										
+
+											Maxx Warranty
+										
+
+											Real Time LCD
+										
+
+
+
+
+
+
+
+In Stock
+
+
+
+
+										Order by 4pm  to ship   today 
+
+
+
+X
+
+							
+									Place your order by 4pm today and your order will ship the same day. For further details see delivery estimates in cart. International orders are processed the next shipping day.
+								
+							
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+						Price:
+							
+								
+									
+									
+									
+										$524.00
+									
+								
+							
+
+
+						Instant Savings:
+						
+							$75.00
+						
+
+
+
+
+
+
+You Pay: 
+
+						
+						$449.00
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buy Used
+										
+											
+											
+											
+											
+											
+											
+											from
+										
+										 $359.95zsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2)
+		
+
+
+
+
+
+
+You can only compare up to 4 items.
+Remove items from bar below to add more.
+
+
+
+
+
+
+
+Panasonic
+7.28V 43Wh Battery for DVX200 (5,900mAh)
+
+
+
+B&H # PAAGVBR59P
+MFR # AG-VBR59P
+
+
+
+
+
+
+
+
+
+											5,900mAh Capacity Battery for AG-DVX200
+										
+
+											7.28V, 43Wh
+										
+
+											Works with AG-BRD50 Charger
+										
+
+											Approx. 3 Hour and 20 Min Charge Time
+										
+
+
+
+
+
+
+
+More on the Way
+						
+						
+
+
+
+Expected availability: 
+								7-14 business days
+							
+						
+						
+						
+						
+					
+
+X
+
+
+
+
+
+
+Calculate Shipping
+
+
+
+
+
+
+
+
+
+You Pay: 
+
+						
+						
+							
+							
+								$185.00
+							
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add to Cart
+View Cart
+OR
+Request Stock Alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+												Add to Wish List
+											
+
+ Item in Wish List
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buy Used
+										
+											
+											
+											
+											
+											
+											
+											from
+										
+										 $150.00
+
+
+
+
+
+
+
+                           Scroll Up To See The Items
+                        
+
+
+
+
+Back to top
+
+1zsxcdwxvzwbrfsryysxwteucbtcsczfdwb
+2
+3
+4
+5
+›
+»
+
+
+
+						Page 1 of 32   |  
+						1 -
+						
+						24
+						
+						of 747 Items
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close
+Close
+Close
+
+
+    	Please enable javascript for your best B&H experience.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aisa Ionic S.a - Supplier | Paraguay | Import Genius
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Plans
+
+
+
+
+Limited
+
+
+
+
+Plus
+
+
+
+
+Premium
+
+
+
+
+
+
+
+
+            LimitedMonitor Your Competitors
+
+
+
+Data
+
+Access data on U.S. ocean freight imports from the last 3 months for all companies
+You'll have access to data from the previous 6-months from the date of your search. We use a rolling date range, so you can always look back 6 months from the current date.
+
+
+
+
+            LimitedMonitor Your Competitors
+
+
+
+Data
+
+Access data on U.S. ocean freight imports from the last 3 months for all companies
+Access data on U.S. ocean freight imports from the last 3 months for all companies
+You'll have access to data from the previous 3-months from the date of your search. We use a rolling date range, so you can always look back 3-months from the current date.
+
+
+
+
+            PlusSmall & Medium Business
+
+
+
+Data
+
+Access data on U.S. ocean freight imports from the last 12 months for all companies
+You'll have access to data from the previous 12-months from the date of your search. We use a rolling date range, so you can always look back 12-months from the current date.
+U.S. ocean freight exports from January 1, 2014 to present for all companies
+
+
+
+
+            Premium            Empire Builder
+
+
+
+Data
+
+Access data on U.S. ocean freight imports from November 2006 to the present for all companies
+You'll have access to our entire database of shipping manifests of U.S. Ocean freight imports going back to November 2006.
+U.S. ocean freight exports from January 1, 2014 to present for all companies
+
+
+
+
+
+            LimitedMonitor Your Competitors
+
+
+
+Usage
+
+Track the shipping activities of your 3 chosen companies
+Our Limited Plan lets you monitor the shipping activities of any three companies across all our databases. Be the first to know when your target company clears a shipment through customs in one of the countries we track.
+3 Contact Info Requests Per Month
+Our team of account managers and research assistants will help you find contact information for up to 3 companies in our database each month.
+Download (CSV and XLS) 5k Records Per Month
+If you're planning to do more in-depth research on the companies in our database, you should upgrade to the Plus or Premium plans, which allow more downloads.
+Email Alerts for up to 3 Searches
+If you need to track more than 3 companies, product segments, or trade lanes, you should upgrade to the Plus or Premium plan, which allow more email alerts.
+
+
+
+
+            LimitedMonitor Your Competitors
+
+
+
+Usage
+
+10 Company Searches Per Day
+10 searches per day may be enough if you are just monitoring a few competitors or researching suppliers in a single industry. If you're looking to connect with sales leads or do more in-depth research, you should upgrade to the Plus or Premium plan which allows more searches.
+3 Contact Info Requests Per Month
+Our team of account managers and research assistants will help you find contact information for up to 3 companies in our database each month.
+Download (CSV and XLS) 1k Records Per Month
+If you're planning to do more in-depth research on the companies in our database, you should upgrade to the Plus or Premium plan, which allow more downloads.
+Email Alerts for up to 3 Company Searches
+If you need to track more than 3 companies, product segments, or trade lanes, you should upgrade to the Plus or Premium plan, which allow more email alerts.
+
+
+
+
+            Plus            Small & Medium Business
+
+
+
+Usage
+
+25 Searches Per Day
+25 searches per day may be enough if you are just monitoring a few competitors or researching suppliers in a single industry. If you're looking to connect with sales leads or do more in-depth research, you should upgrade to the Premium plan which allows more searches.
+25 Contact Info Requests Per Month
+Our team of account managers and research assistants will help you find contact information for up to 25 companies in our database each month.
+Download (CSV and XLS) 10k Records Per Month
+If you're planning to do more in-depth research on the companies in our database, you should upgrade to the Premium plan, which allow more downloads.
+Email Alerts for up to 5 Searches
+If you need to track more than 5 companies, product segments, or trade lanes, you should upgrade to the Premium plan, which allow more email alerts.
+
+
+
+
+            Premium            Empire Builder
+
+
+
+Usage
+
+50 Searches Per Day
+ 
+50 Contact Info Requests Per Month
+Our team of account managers and research assistants will help you find contact information for up to 50 companies in our database each month
+Download (CSV and XLS) 25k Records Per Month
+If you're planning to do more in-depth research on the companies in our database, contact the Sales Department to purchase more credits and export additional shipping records.
+Email Alerts for up to 10 Searches
+
+
+
+
+
+             Plus             Small & Medium Business
+
+
+
+Features
+
+Visual Mapping
+Our Visual Mapping technology provides an instant snapshot of any company's trade connections. Navigate the global web of trading partners with the click of a mouse and visualize the relationships between companies many degrees apart.
+
+
+
+
+
+
+
+            Premium            Empire Builder
+
+
+
+Features
+
+Visual Mapping
+Our Visual Mapping technology provides an instant snapshot of any company's trade connections. Navigate the global web of trading partners with the click of a mouse and visualize the relationships between companies many degrees apart.
+
+
+
+
+
+
+
+            Limited            Monitor Your Competitors
+
+
+
+Support
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+Call or e-mail our Customer Service Agents. They will get back to as soon as possible to assist you with your data needs.
+
+
+
+
+            Plus            Small & Medium Business
+
+
+
+Support
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+Call or e-mail our Customer Service Agents. They will get back to as soon as possible to assist you with your data needs.
+
+
+
+
+            Premium            Empire Builder
+
+
+
+Support
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+Call or e-mail our Customer Service Agents. They will get back to as soon as possible to assist you with your data needs.
+Dedicated Research Assistant
+An experienced trade data specialist will serve as your dedicated account manager to locate hard-to-reach data, perform searches and compile reports on your behalf.
+
+
+
+
+            Limited            Monitor Your Competitors
+
+
+
+Data
+
+Access data on U.S. ocean freight imports from the last 3 months for all companies
+You'll have access to data from the previous 6-months from the date of your search. We use a rolling date range, so you can always look back 6 months from the current date.
+
+
+
+
+
+
+
+X
+
+
+
+
+
+
+
+
+
+
+
+
+                   Home                
+
+
+
+
+
+                        How It Works                    
+
+
+
+                            U.S. Data                        
+
+                            Additional Countries                        
+
+                            Our Datasets                        
+
+                            Our Clients                        
+
+                            IG Reviews                        
+
+                            Videos                        
+
+                            Pictures                        
+
+                            Presentation                        
+
+
+
+                   Plans & Pricing                
+
+                    Search                
+
+                  Contact Us                
+Live Chat				
+
+                    Free Demo                
+
+                    Sign In                
+
+                    Join Now                
+
+
+
+
+
+
+
+
+
+
+
+English
+中文
+French
+
+
+
+
+
+
+
+
+
+
+English
+
+
+
+中文
+
+
+
+French
+
+
+
+
+
+
+
+
+
+
+			                                                Service: 855-573-9976 
+                        Sales: +1-855-573-9976
+
+ Live Chat
+
+Choose Language
+ English
+ 中文
+ French
+
+
+
+
+ 
+
+
+
+Hi, may I help you with something?
+
+An ImportGenius.com sales agent is available to answer your question.
+
+
+							Chat Live Now						
+
+						No, thanks.					
+
+
+
+
+
+
+
+Sign Up
+
+
+
+
+
+
+Home
+How It Works
+Plans & Pricing
+Search
+Contact Us
+
+
+Live Chat
+
+2
+  
+
+
+
+ 
+
+
+
+
+
+Aisa Ionic S.a
+
+Aisa Ionic Sa is an overseas supplier in Argentina that exports products to Chispa Sa. Transportation Type Camion.        
+
+
+
+
+
+ Call +1 (480) 744 2559
+
+
+
+
+Import Genius
+
+
+
+
+
+
+                                Our bill of lading data reveals the trading activities of Aisa Ionic S.a and millions of other manufacturers.                            
+
+
+Learn More
+Join Now
+
+
+
+
+Request a Demo
+
+
+
+
+
+Would you like to schedule a free demo?
+We'd love to show you international trade data relevant to your own business.
+
+
+
+
+
+
+
+
+
+
+Name
+
+
+
+
+Email
+
+
+
+
+
+Phone
+
+
+
+
+
+
+Schedule A Free Demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Play muted
+
+
+International Trade Starts With Our Data
+
+
+
+
+
+
+
+
+
+Other companies in our database
+
+
+ SANITARIOS TABACMAN SRL                            
+
+ GLOBALTRADING S.A.                            
+
+ DOHLER AMERICA LATINA LTDA.                            
+
+ AVIATION PARTS EXECUTIVE,INC                            
+
+ IRRIGABRASIL IND. E COM. DE MAQS. LTDA.                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View Sample Shipment Records
+Shipment Alert Subscription
+Contact This Company
+
+
+
+Sign Up
+
+ 
+
+
+
+
+
+Sample shipment record for Aisa Ionic S.a
+Aisa Ionic Sa is an overseas supplier in Argentina that exports products to Chispa Sa. Transportation Type Camion.
+
+
+            Bill of Lading        
+
+
+
+
+
+Manufacturer / Shipper
+Consignee
+
+
+
+Aisa Ionic Sa
+
+
+Chispa Sa
+
+
+
+Origin
+Destination
+
+
+
+Argentina
+
+
+Paraguay
+
+
+
+Product Description
+
+
+
+
+
+                                        5 BULTOS CON 1.000 KGS. AISA EVAP W50 DISPERSANTE SOLUBILIZANTE                                    
+
+                                        5 BULTOS CON 1.000 KGS. AISA EVAP W50 DISPERSANTE SOLUBILIZANTE                                    
+
+
+
+
+
+Other Information Available
+
+
+
+
+Control ID, Brand, Gross Weight (KG), HS Code Description, FOB (USD), CIF (USD)
+
+
+
+
+
+
+
+
+Arrival Date2015-04-14Transportation TypeCamionHS Code38249041CustomsPAKSAQuantity / Unit1000.00/kilos 
+
+
+
+
+
+Subscribe to access the complete shipping history for Aisa Ionic S.a Join Now
+
+
+
+
+
+
+
+
+How will your business use our trade data?
+If you're involved in international trade, our database of shipping manifests will help you find opportunities to grow your business.
+
+Find Trading Partners You Can Trust
+Monitor Competitors' Shipping Activities
+Connect With Sales Prospects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            "Very informative and great site and so quick. Pretty slick."
+                        
+
+
+
+
+
+
+
+Betty Fatzie
+
+                                                                    President,                                 
+                                                                    Lab Products, Inc.                                
+                            
+
+
+
+
+
+
+                            "The service was great, with a reasonable price and great results. We have now started using another supplier from China. We just ordered our first container from the new supplier and with the savings it more than paid for the ImportGenius.com service on the first container load."
+                        
+
+
+
+
+
+
+
+Cleve Kurz
+
+                                
+                                                                    Gifford Monument Works                                
+                            
+
+
+
+
+
+
+                            "Import Genius is not merely an investment for our organization, it’s a vital instrument to effectively manage our time. It has afforded us the ability to quickly segment, target and position ourselves in front of prospective clients. Thank you, Import Genius!"
+                        
+
+
+
+
+
+
+
+David Bryant
+
+                                                                    Director of Business Development,                                 
+                                                                    John S. James Co.                                
+                            
+
+
+
+
+
+
+                            "Import Genius data is fantastic for evaluating component manufacturers in China."
+                        
+
+
+
+
+
+
+
+Sanjay Dastoor
+
+                                
+                                                                    BoostedBoards.com                                
+                            
+
+
+
+
+
+
+                            "We have confidence that we're working with the best manufacturers in part because Import Genius showed us that they already supply some of the world's top brands"
+                        
+
+
+
+
+
+
+
+Yaniv Masjedi
+
+                                                                    Vice President,                                 
+                                                                    Nextiva.com                                
+                            
+
+
+
+
+
+
+                            "Import Genius is a highly informative tool for monitoring public companies' operating activities. It is an invaluable part of our research."
+                        
+
+
+
+
+
+
+
+Eric DeLamarter
+
+                                                                    Managing Partner,                                 
+                                                                    Half Moon Capital                                
+                            
+
+
+
+
+
+
+                            "We find new clients for our customs brokerage in the ImportGenius database almost every day"
+                        
+
+
+
+
+
+
+
+Jayson Gispan
+
+                                                                    Customs Brokerage Operations Manager,                                 
+                                                                    Flexport.com                                
+                            
+
+
+
+
+
+
+                            "ImportGenius is a great research tool. We use it to evaluate manufacturers to make sure we are working with only the highest quality, most reliable suppliers"
+                        
+
+
+
+
+
+
+
+Chris Friedland
+
+                                                                    Founder / CEO,                                 
+                                                                    Build.com                                
+                            
+
+
+
+
+
+
+                            "ImportGenius gave us visibility into the actual shipping histories of the manufacturers we were evaluating and helped us feel comfortable we were working with the best suppliers in China."
+                        
+
+
+
+
+
+
+
+Morena Simitic
+
+                                                                    COO,                                 
+                                                                    BellaBeat.com                                
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shipment Alert Subscription
+
+
+
+                        Receive free shipment alerts by email whenever Aisa Ionic S.a clears a shipment through customs.                        
+
+Processing, please wait ...
+
+
+
+
+
+
+
+Submit
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Aisa Ionic S.a
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Name
+
+
+
+Business
+
+
+
+Email
+
+
+
+Phone
+
+
+
+
+Submit
+
+
+
+
+Processing, please wait ...
+
+ 
+
+ 
+
+
+
+
+Features
+
+
+
+Save and Share Reports
+Easily get your searches out of Import Genius and into your team’s hands for further analysis. Export your findings to XLS or CSV, or send reports via email. It’s the simple things that make our trade data even more valuable to you.
+
+
+
+See the Supply Chain
+Visual Mapping shows you exactly how your target companies and their trading partners connect. Search by shipper and see everyone they’ve shipped to. Or search by consignee and see all their suppliers. Zoom in on any company to see their own trading network. Dive deep into international trade and discover the links in anyone’s supply chain.
+
+
+
+Get Real-time Shipment Alerts
+Stay on top of your competitors, suppliers, and customers with real-time alerts. Just set up a search and get an email whenever a new shipment matches your terms. Import Genius lets you know the moment they bring in a rival product or start shipping to a new partner.
+
+
+
+
+
+
+
+
+
+Aisa Ionic S.a
+You've viewed 20 profile pages on Import Genius, which is the most we allow for free. Sign up for ImportGenius to get more details on over 3 million importers and exporters. It only takes seconds.
+
+
+
+
+
+
+Sign Up for Import Genius! 
+
+
+
+
+
+
+
+
+Plans
+
+
+
+
+Limited
+Monitor Your Competitors
+
+
+
+
+Recommended Plan
+Plus
+Small & Medium Business
+
+
+
+
+Premium
+Empire Builder
+
+
+
+
+
+
+Price
+
+
+
+
+
+$
+99
+594
+/month
+for 6 months
+
+
+
+                        Sign Up                    
+
+
+
+
+
+
+$
+199
+1,194
+/month
+for 6 months
+
+
+
+                        Sign Up                    
+
+
+
+
+
+
+$
+399
+2,394
+/month
+for 6 months
+
+
+
+                        Sign Up                    
+
+
+
+
+
+
+
+Data
+
+
+
+
+Access data on U.S. ocean freight imports from the last 3 months for all companies
+View Details
+
+
+
+
+Access data on U.S. ocean freight imports from the last 12 months for all companies
+U.S. ocean freight exports from January 1, 2014 to present for all companies
+View Details
+
+
+
+
+Access data on U.S. ocean freight imports from November 2006 to the present for all companies
+U.S. ocean freight exports from January 1, 2014 to present for all companies
+View Details
+
+
+
+
+
+
+Usage
+
+
+
+
+
+Track the shipping activities of your 3 chosen companies
+3 Contact Info Requests Per Month
+Download (CSV and XLS) 5k Records Per Month
+Email Alerts for up to 3 Searches
+
+View Details
+
+
+
+
+
+25 Searches Per Day
+25 Contact Info Requests Per Month
+Download (CSV and XLS) 10k Records Per Month
+Email Alerts for up to 5 Searches
+
+View Details
+
+
+
+
+
+50 Searches Per Day
+50 Contact Info Requests Per Month
+Download (CSV and XLS) 25k Records Per Month
+Email Alerts for up to 10 Searches
+
+View Details
+
+
+
+
+
+
+Features
+
+
+ 
+
+
+Visual Mapping
+View Details
+
+
+
+
+Visual Mapping
+View Details
+
+
+
+
+
+
+Support
+
+
+
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+View Details
+
+
+
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+View Details
+
+
+
+
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+Dedicated Research Assistant
+
+View Details
+
+
+
+
+
+
+  
+
+
+
+
+
+
+View All U.S. Imports
+Instantly search 5,434,601 ocean freight records to monitor U.S. importers, research suppliers, generate sales leads and more.
+
+
+As Featured In
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is Import Genius
+
+
+
+
+
+Who Uses Import Genius
+
+
+
+
+
+Available Data Fields
+
+
+
+
+
+Schedule Live Demo
+
+
+
+
+
+
+
+What is Import Genius
+
+
+												Import Genius reveals the trading activities of importers and exporters around the world.								
+
+												We give you hard data about your overseas suppliers and domestic competitors. Using shipping databases from Customs agencies in the United States, Latin America, and India, Import Genius can help you find reliable new trading partners, monitor your competitors’ shipments, and keep an eye on your current suppliers and customers.								
+
+												Our team of seasoned import-export veterans, cutting-edge software developers, and customer service professionals has worked for years to build the world's most powerful and accessible database of international trade intelligence.								
+
+
+
+												We do this for a diverse client base that requires keen insight into international trade.								
+
+												Our customers include some of the world's top importers, exporters, freight forwarders, logistics companies, manufacturers, investment banks, financial analysts, intellectual property attorneys, and more. They use our tools to:								
+
+Research the trade activity of importers and suppliers
+Identify and vet new sources for any kind of product
+Monitor the competition and their trade connections
+Generate sales leads for transportation and logistics companies
+Track the activity of publicly-traded companies
+Investigate and enforce intellectual property infringement
+Ensure exclusive agent compliance
+
+
+
+
+Who Uses Import Genius
+
+Sourcing Professionals...
+
+			Use our service to view shipping histories for suppliers.		
+
+			We provide access to detailed customs records, letting you verify suppliers' true shipping volumes and U.S. customer lists. You can also look up your competing import firms to find where they buy their goods.		
++ Learn More
+Competitive Intelligence Analysts...
+
+			Use our service to learn where rivals source products.		
+
+			We give clear insights into the importing volumes, new product releases, and broader competitive dynamics of your industry.		
++ Learn More
+
+
+Sales & Marketing Teams...
+
+			Use our service to generate sales prospects.		
+
+			We give you the tools to target importers based on product type, location, shipping volumes, and more.		
++ Learn More
+Financial Analysts...
+
+			Use our service to monitor public companies' imports.		
+
+			We offer rare data on the success or failure of new product launches, shipping trends and other operating data for companies in any industry.		
++ Learn More
+
+
+
+Available Data Fields
+
+Import Genius Data Fields
+
+												By collecting the ocean freight bill of lading for all U.S. imports in our database, Import Genius provides unprecedented access to near real-time information on virtually every industry and company importing goods into the country.								
+
+												For each shipment entering the U.S. by ocean, we provide access to the following information.								
+Additional Fields Available for Some Shipments:
+
+Phone Number
+Fax Number
+Email
+Contact Person
+
+
+
+List of Data Fields
+
+
+
+ConsigneeThe company importing the shipment into the U.S.Consignee AddressThe address of the company importing the shipment into the U.S.ShipperThe overseas company exporting the shipment to the U.S.Shipper AddressThe address of the overseas company exporting the shipment to the U.S.Product DescriptionThe exporter's description of the shipment as it appears on the bill of lading or shipping manifestGross WeightThe gross weight of the shipment, excluding the weight of the actual container. This can appear in either pounds or kilograms at the discretion of the exporterNumber Of UnitsThe quantity of boxes customs would find if they were to open the shipment for inspection.VolumeThe volume of the shipment, generally defined in cubic meters or container base measurements (CBM)Arrival DateThe date the shipment arrives within the customs territory of the U.S.Foreign PortThe last port the shipment passes through before arriving in the U.S.Country Of OriginThe country of the last foreign port the shipment passes through before arriving in the U.S.U.S. PortThe U.S. port where the shipment enters the customs territory of the U.S.Carrier CodeThe four digit Standard Carrier Alpha Code of the ocean carrier or freight forwarder managing the transit of the shipmentVoyage NumberA unique code assigned to that particular sailing of the ship between two portsVessel NameThe name of the ship transporting the shipmentShip Registered InThe country where the ship is officially registeredBill Of Lading NumberThe unique number assigned to this particular shipment by the ocean carrier or freight forwarderContainer NumberThe unique number assigned to the ocean shipping container carrying the shipment in questionMarks & NumbersAny text or numbers appearing on the cartons 
+
+
+
+
+
+
+Ready for a live demo?
+Fill out this form and we'll contact you right away to set up a live demo of Import Genius.
+
+
+Schedule Live Demo
+
+
+
+Processing, please wait ...
+
+
+
+
+
+Name
+
+Tell us your Full Name
+
+
+Email
+
+Enter a valid email address
+
+
+Phone
+
+Enter valid phone number
+
+
+Preferred Date
+
+Let us know your preferred date
+
+
+Preferred Time (In Your Country)
+
+01:00 am
+01:30 am
+02:00 am
+02:30 am
+03:00 am
+03:30 am
+04:00 am
+04:30 am
+05:00 am
+05:30 am
+06:00 am
+06:30 am
+07:00 am
+07:30 am
+08:00 am
+08:30 am
+09:00 am
+09:30 am
+10:00 am
+10:30 am
+11:00 am
+11:30 am
+12:00 am
+12:30 am
+01:00 pm
+01:30 pm
+02:00 pm
+02:30 pm
+03:00 pm
+03:30 pm
+04:00 pm
+04:30 pm
+05:00 pm
+05:30 pm
+06:00 pm
+06:30 pm
+07:00 pm
+07:30 pm
+08:00 pm
+08:30 pm
+09:00 pm
+09:30 pm
+10:00 pm
+10:30 pm
+11:00 pm
+11:30 pm
+12:00 pm
+
+Let us know your preferred time
+
+
+Country
+
+Required
+
+
+Timezone
+
+Required
+
+
+What data are you interested in?
+
+Let us know what you are most interested to learn
+
+
+
+Submit
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Import Genius
+
+How It Works
+Plans & Pricing
+Our Trade Data Blog
+Search
+Latin Trade Data
+
+Import Genius Reviews & Press Coverage
+Who Uses Import Genius
+Contact Us
+
+
+
+Latest Posts
+
+
+
+
+                                    Trump Properties Have…                                
+
+
+
+
+                                    Solar panels: imports…                                
+
+
+
+
+                                    Limited Plan Now Available                                
+
+
+
+
+                                    Chilean salmon exports…                                
+
+
+
+
+                                    India, US palm oil imports…                                
+
+
+
+
+Company Profiles
+
+
+
+                                    Eva Internacional, S.a.                                
+
+
+
+                                    Faq Par Sa                                
+
+
+
+                                    Industrias Texteis Najar Ltda                                
+
+
+
+                                    Dongguan Weijie Packaging Industrial                                
+
+
+
+                                    Montana Quimica S/a                                
+
+
+
+
+
+
+
+
+
+
+
+                     
+                                            5,434,601  Records in our database and counting
+
+
+
+
+
+Customer Support Team: 
+
+                    Tel:  855-573-9976
+                    International: +1 480-745-3396
+                    Fax: +1 602-428-9400
+info@importgenius.com
+
+                    8901 E Pima Center Pkwy, 
+		    Suite 105 
+                    Scottsdale, AZ 85258
+
+
+Shanghai, China:
+
+                    Tel: +86-21-63806036
+
+
+                    Mobile No.: +86-13671737628
+                    Fax Number: +86-21-63806036
+
+
+Shenzhen, China
+                    
+                            Tel: +86-755-89517585
+                            Mob: +86-13925258002
+                            Fax: +86-755-89517585                
+
+
+
+Have questions? We'll reply quickly!
+
+
+
+
+
+									         		Type your info below								         		
+
+
+
+
+
+
+
+
+
+
+
+Message
+
+
+
+Submit
+
+Processing, please wait ...
+
+ 
+
+ 
+
+                Trainings, Demos, and General Contact All Available            
+Or Call Us:
+Service:
+
+                    +1-855-573-9976                
+Sales:
+
+                    +1-855-573-9976                
+Back to top
+
+ 
+
+
+
+
+
+All Rights Reserved. Copyright © 2017. Trade Data Services, Inc. 0.3007
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+We're Offline
+Please leave us a message
+
+
+
+To chat with a representative of Import Genius, your browser needs to be Internet Explorer 9 or higher. Please fill out the form below and a representative will contact you as soon as possible.
+
+
+
+Name
+
+
+
+Email
+
+
+
+Phone
+
+
+
+Message
+
+
+
+Send
+
+
+
+
+X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SKROUTZ S.A
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+English 
+Ελληνικά 
+
+
+
+
+
+
+
+
+
+
+
+
+
+DIONIC Group
+
+
+Investor relations
+
+
+Activities Axes 
+
+
+News - Press Releases
+
+
+
+
+Home page » 
+	Activities Axes  » 
+	Sοftware » 
+	SKROUTZ S.ASKROUTZ S.A   
+
+"Smart Shopping"
+
+
+
+Company Profile
+The search engine with the name Skroutz, which was founded in 2004 by a group of Electrical Engineers-alumni of the National Technical University of Athens (NTUA), commenced its operation with the participation of just 15 electronic stores and 40,000 products. Very soon, though, due to its ingenuous name as well as its particularly reliable operation, it was vastly known to tens of thousands of users of the Greek Internet.It evolved into an Anonymous Company – SKROUTZ S.A. – in 2006 and today is a member of the Dionic Trading & Industrial S.A. Group of companies, which, aiming to the further development of its activities concerning the provision of Internet services proceeded to the acquisition of the 50% of the company.SKROUTZ S.A. has as main activity the expansion and development of the possibilities of the www.skroutz.gr search engine but at the time www.gameover.gr and www.mobilearena.gr, but also its commercial utilization. Its activities are complemented by Internet service providing, such as Internet websites production and the creation and commercial utilization of Internet portals.Skroutz is one of the largest engines of multiple searches on the Greek Internet, which allows the users visiting and using it, to find immediately and easily the store from which they can obtain the product or the service which interests them.Today, it serves thousands of users daily. It has over 30,000 different visitors every day, while over 50,000 searches are realized daily, presenting a continuous growth of its traffic from month to month, at a rate of 10%. At the same time, it is continuously enriched with new information and possibilities, which help its users to have an increasingly complete picture of the market. Since November 2006, the engine evolved also into an electronic auction tool for products, thus giving an additional boost to its development.Skroutz concerns exclusively products that the Internet user can obtain from electronic stores (which operate either on the Greek Market or foreign markets and have the possibility to serve the Greek customers), while it is continuously updated for all the new products of the market, which are available to the consumers through electronic order. It compares their prices in an extremely fast way and with the use of the most up-to-date search tools. With the help of the search engine, users can find the store which will give them the possibility for the best buy. At the same time, it offers the possibility of product auction provided by the users themselves, as well as the possibility to locate technological articles and product news.In addition to all that, Skroutz users are offered the possibility to read presentations and comparisons from renowned Greek and foreign websites, to communicate with each other through messages, but also to participate in online discussions. The users are invited to perform a search with the engine, using one or more keywords which are directly related to the product of their interest, and immediately receiving all the above results, sorted according to type (store prices, active auctions, articles and technology news).Recently, skroutz.gr was issued in a mobile edition (possibility for use from mobile phones or PDAs, through the electronic address www.mobile.skroutz.gr) and its use is free of charge.
+
+Contact
+SKROUTZ S.A
+95, Aristotelous Str, Aharnai
+Tel: +30 2152154242
+Fax: 
+URL: http://www.skroutz.gr
+
+
+
+
+
+Activities Axes 
+
+
+Trading / Distribution
+
+
+Services
+
+
+Sοftware
+
+
+ATCOM S.A
+
+
+SKROUTZ S.A
+
+
+
+
+Energy
+
+
+Trading/Retail
+
+
+
+
+Share Capital Increase
+
+Anouncement of Bulletin Publication 
+Prospectus 
+
+Investor relations
+
+Stock 
+Financial Data 
+Financial Results 
+
+Annual Bulletins – Reports  
+Investors Information 
+Corporate Governance 
+Announcements – Publications  
+IR Communication 
+
+
+
+
+
+
+© Copyright 2009 Dionic Industrial and Trading S.A
+
+News 
+Contact
+    
+Sitemap 
+
+ATCOM
+
+
+
+
+PRODUCTION 
+
+
+
+
+
+
+
+
+
+
+

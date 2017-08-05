@@ -1,0 +1,16172 @@
+Feeling Technology Corp.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+－ E-BIKE App
+－ Others App
+
+
+
+
+
+
+－ ALL-IN-ONE
+－ MOTOR DRIVER
+
+
+
+
+
+
+－ Buck Converters
+－ Buck Controllers
+－ Boost Converters
+－ Boost Controllers
+－ Linear regulators
+－ White LED Drivers
+－ Other Applications
+
+
+
+
+
+
+－ GPIO
+－ EEPROM / FLASH
+－ LCD
+－ ADC
+
+
+
+
+
+
+－ OTP USB1.X Controller
+－ E-Flssh USB1.X Controller
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+ 
+
+
+Ambitious、 Active 、Creative
+
+
+
+
+
+
+
+
+
+
+
+Feeling  Technology Corp., established in May 2001, is a design house that develops and  markets analog and mixed-signal Integrated Circuits. The main product lines are  power management IC’s, hall effect sensors, motor driver IC's, micro controller  ICs and USB2.0 related products.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TIME
+EVENTS
+
+
+2001.05
+The company is established, the initial capital is US$687,500.
+
+
+2001.10
+The first product line is produced (the fan motor  drives IC, Hall effect sensor IC) . 
+
+
+2002.04
+Second product line (power management IC)? The products pilot run completed and mass  production at the end of this year.
+
+
+2002.11
+To established clean room and set up test production  line. 
+                      The capital increased to US$1,562,500.
+                      To  set up the internal audit system and to prepare IPO.
+
+
+2003.03
+The third product line (MCU) pilot run.
+
+
+2003.05
+ISO9001: 2000 certified.
+
+
+2003.06
+Preparing public offering on Taiwan OTC market  & subsequent IPO.
+
+
+2003.10
+The fourth product line (USB) group joined.
+
+
+2004.09
+Listed on emerging market on September 3.
+
+
+2007.02
+Certified ISO14001: 2004.
+
+
+2008.01
+Move to Chupei Taiyuan high tech science park.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(1) To become  the leading company in mix-signal IC designs
+
+
+-- expanding  new products lines
+                      --  expanding market share
+ --  expanding production capacity
+                      -- driving the development of analog IC industry.
+
+
+(2) To create profits,  managing and maintaining technology advantage continuously
+
+
+-- constant innovation
+                      -- profit for stakeholders
+
+-- longterm perspective management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright c 2008 Feeling Technology Corp. All rights reserved . Design by FOCUS-design
+
+
+Tel:03-5600588   . Fax:03-6205599   . E-mail:Cho_tricia@feeling-tech.com.tw
+
+
+
+
+
+
+
+
+
+
+遠翔科技股份有限公司 Feeling Technology Corp.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+－ E-BIKE App
+－ Others App
+
+
+
+
+
+
+－ ALL-IN-ONE
+－ MOTOR DRIVER
+
+
+
+
+
+
+－ Buck Converters
+－ Buck Controllers
+－ Boost Converters
+－ Boost Controllers
+－ Linear regulators
+－ White LED Drivers
+－ Other Applications
+
+
+
+
+
+
+－ GPIO
+－ EEPROM / FLASH
+－ LCD
+－ ADC
+
+
+
+
+
+
+－ OTP USB1.X Controller
+－ E-Flssh USB1.X Controller
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Product
+
+
+
+
+
+ 
+
+
+- New Product
+
+
+
+
+
+
+FP6161　　1.5MHz, 1A Synchronous Step-Down Regulator
+
+
+
+
+
+
+FP5101　　1 CHANNEL SYNCHRONOUS PWM CONTROL IC
+
+
+
+
+
+
+FP6186　　2A, 23V, 1.4MHz Step-Down Converter
+
+
+
+
+
+
+FP6111/FP6112　　2A/3A SWITCHING BUCK REGULATOR
+
+
+
+
+
+
+FD0259　　5V Single-Coil motor driver build-in embedded Hall Sensor
+
+
+
+
+
+
+FD1257A　　12V Single-Coil motor driver build-in embedded Hall Sensor
+
+
+
+
+
+
+FD2157　　24V Brushless Dual-Coil DC Fan Application
+
+
+
+
+
+
+FM8PU83　　USB   
+          1.X Controller with 3K OTP ROM
+
+
+
+
+
+
+FM8PU86-LV　　USB   
+          1.X Controller with 6K OTP ROM
+
+
+
+
+
+- Product Use 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright c 2008 Feeling Technology Corp. All rights reserved . Design by FOCUS-design
+
+
+Tel:03-5600588   . Fax:03-6205599   . E-mail:Cho_tricia@feeling-tech.com.tw
+
+
+
+
+
+
+
+
+
+
+Vector Technology Corp.HomeNewsProductsServicesAbout UsContact UsEnglish
+繁體中文
+WE DESIGN , DEVELOP ,AND CREAT ENERGY SAVING SYSTEMENTERPRISE APPLICATIONPAYMENT SOLUTIONServicesWhat we can help you with:
+Optimize
+performance of enterprise-level systems (up to 300x
+improvement).
+
+Cluster of service in complex systems using Java EE.
+
+Build applications for mobile phones based on IPhine or Android.
+
+Work with
+audio- and video-streaming for both
+mobile and desktop
+platforms.
+We DesignHTML5 PowerCSS3 AwesomenessjQuery / Tapestray MagicWe CreateWeb AppsAndroid / IOS AppsJ2EE application serverWE OFFERStabilityHuge CapacityExtendable ClusterProducts
+These below are our products.
+
+Take a look at our most recent projects.
+Filter by Category:
+All Categories
+
+Payment Terminal
+
+Automation & Security
+
+Taxi Dispatch
+
+ZigBee Home automation 
+
+Solution ＆Platform
+Product DetailsTaxi Dispatch system Taxi Dispatch
+Categories : Taxi Dispatch
+It can locate passengers' position according to their GPS and automatically arrange the nearest empty taxi.
+4,000 vehicles are being dispatched at the same time and 60 cars can be sent in per second.
+The history record of asking for a taxi：It provides a complete record system, including the locations that passengers get on and off and staffs' numbers. 
+You will only need 16 telephonists for a 3000 taxes company to receive phone calls and sending taxes which can save 70%~80% personnel cost.
+ 
+
+
+
+Abstract  
+A taxi driver spentsmore than 10 hours on driving in a day. However, they spend approximately 7 hours to seek for passengers. It's not only a waste of gasoline and cause air pollution and traffic jam. But in order to earn the basic necessities of life, the drivers need to wait in extremely long lines in front of stations or spend most of their time seeking for passengers. Over-time driving also influences the safety of driving.
+Nowadays the smart phones are widely used and the passengers can immediately call a taxi with only click. Accordingly,there is no need to wait for the telephonist to arrange taxes. It can effectively improve the efficiency and reduce the unfairness which is caused by human relation. Traditional taxi company uses radio to inform taxi drivers by telephonist. Then taxi drivers report their will to the telephonist.  First come, first served. Therefore, some taxi drivers may install electromagnetic radiation amplifier to hinder other taxi drivers from recieving passenger's information. Besides, telephonists may assign passenger's call to their acquainted drivers.
+
+
+System features 
+ 
+
+
+Dispatch vehicle automatically：It dispatches the most suitable taxi according to passengers’ loaction, size of cars and the nearest car.
+
+
+The way of asking for a taxi：APP can be used for automatically sending a car or making a phonecall for asking for the telephonist’s help to arrange
+
+
+Save time：There is no the phenomenon that the passengers exposed in the sun and rain of the roadside and waited in vain because they cannot call the car, and also will not take two passengers so that A passenger is carried firstly to destination, and then let the B passenger wait in the original place in vain due to the drivers scramble for the passengers (A, B).
+
+
+Simple calculation：It can calculate the approximate number of kilometers that from starting point to the destination and the fare for the guests to refer.
+
+
+Avoid detours and lost：It can prevent the drivers going fruther distance, or encountering less familiar areas. The driver can simply carry the guests to their destinations through navigation.
+
+
+A wide range of taxi services：Generally ask for the car (while asking for, and dispatch the car) and appoint to ask for car (the car can be sent according to the guests’ requirements about the time and place)
+
+
+The category of vehicle type：It can specify the vehicle model(car, SUV) or designate service driver
+
+
+The history record of asking for a taxi：It has a complete record of each passenger’s address about getting on or off the bus and the number of service personnel, and provide the most complete record management system.
+
+
+Considerate warning：After calling the car the successfully (either call up or use APP), and inform passengers about the taxi data transfers and drivers special line.
+
+
+SECDOR：Drivers get into the same area (can set the range), and can automaticaly be informed through dispatching the identification tag, then waiting for the passengers in this area call the car and dispatching the car according to the sequence.
+
+
+The speed of dispatching a car：While the 4,000 vehicles are running at the same time, 60 cars can be sent per second.
+
+
+Shift system：After the car dealers buy the car, the personnels can be arranged for shifting drive for the same car, the driver of each period can login in proper sequence and automatically update current drivers data and condition data.
+
+
+Location mode：The maps can be directly downloaded and installed on the phone, and there is no need to open the satellite positioning so as to save the Internet transmission charges.
+
+
+Adverse records’s drivers：The service can be set to suspend for those who are late to pay the membership dues, or are complained by the guest, or refuse to be sent by the system. (The reception desk can set the system downtime of bad records drivers for several hours, or to be permanently suspended
+
+
+
+
+Cost and benefit
+ 
+If a reception desk has 3,000 taxis, 64 telephonists should be arranged for answering the phone and sending a car. So when the passengers call the reception desk each time, they should wait the telephonists understanding the address, then contact the dealers drivers and wait for the drivers’ response, then inform the passengers whether it is successful to sent the car or not.
+If use this system:
+There has a reception desk of 3000 taxis, and just needs to arrange 16 telephonists for receiving telephone and sending the car. Passengers call the reception desk, just waiting for the telephonist check empty cars which have the identification tag in the system. When dispatched successfully, then can instantly inform the driver’s data and vehicle condition to the passengers. Or the passenger directly click and send a car through penetrating the APP, and the system will automatically send the car and notify passengers’ position to the driver.
+For more detailed information, please contact.
+
+
+VT800 android Touch Panel phonePayment Terminal
+
+Operation : System Android 4.1.1
+Screen : 7 inch G+G 5 Point Capacitive Touch Screen
+Resolution: 1024x600 Pixel
+CPU : RK3066 Dual Core A9 1.6Ghz
+GPU: Quad Core,Mali-400 MP,Support OPENGL ES 2.0
+RAM : 1GB DDR3
+Nand Flash: 8GBa
+Webcam: 0.3MP Front Camera
+Wireless: Wifi 802.11 b/g/n
+Bluetooth N/A
+HDMI: Support,1080P
+GPS: N/A
+G-sensor: Support
+Power:
+Power AC: Adapter Input 100-240V 0.3A 50/60Hz output 15V-2A
+Video : AVI, MP4, FLV, 3GP, MKV, WMV etc.
+Audio : MP3,WMA,WAV,APE,FLAC,AAC,OGG etc.
+Picture JPG/BMP/PNG/GIF.
+Card reader : RFID Mifare S50
+3G Version : WCDMA module (OPTIONAL)
+RJ45 VERSION : VOIP PHONE CALL
+VOIP SPECIFICATION :
+CODEC : G729 , GSM , ALAW , ULAW
+
+
+
+Abstract
+VT800 Android mini KIOSK is a new model of public telephone, in addition to the function of traditional public telephone, VT800 Android mini KIOSK can provide the function of payment.  It may take place ATM function at some countries or rural  areas.
+VT800 Android mini KIOSK  adapts Android 4.1 up working system.  It also increases another function via new innovative APP.
+VT800 Android mini KIOSK provides beautiful interface design and sensitive touch PAD.  It may provide with more wonderful public service of information via a good use instruction and verbal express.
+VT800 Android mini KIOSK also provide online purchase or payment service in addition to the RFID card reader or magnetic card reader.
+ 
+ 
+
+
+Function
+Now we provide 3G version which has the function of dialing the telephone and transferring the message and the RJ45 internet version has the telephone function by using VOIP system mode.
+Except telephone function, another suitable functions are as follows, but the most functions should be adjusted according to the local telephone service and practical usage.
+Top up prepaid function:  It makes the card revolve the use at the request of the client.  However the user can top up the money when it is used out.
+Account management: The function can let the user check the using record. 
+We provide the card management server something like bank account.  It has function of recording and checking the transaction.  All transaction records will be transferred to the server thru internet. VT800 payment terminal will download the blacklist every day and transfer the transaction record.
+
+
+Application
+As regards the top up payment of the mobile phone air time: There are some telephone companies in many countries using prepaid card, it is often very difficult to look up the top up payment retailer.  This function may let the user top up via VT800.On software, we can make it according to the local circumstance and at request of the client.
+here are two ways of top up payment.
+
+It tops up by VT800 payment terminal: Every VT800 payment terminal contains top up prepaid card which has the function of toping up the assigned telephone directly.  After VT800 payment terminal deducts the card amount directly via the card, VT800 payment terminal issues USSD number to top up the card directly.
+The server substitutes VT800 payment terminal toping up the payment: VT800 payment terminal requests the server to handle the transaction.  The server issues USSD code via gateway or GSM modem and then payment terminal will deduct it if it is okayed.
+
+The money amount will be transferred to the other user: It can transfer directly from the card holder’s paying amount to another user’s card amount.  It likes the transfer system of bank account.   All the transaction should be thru the high security of multiple check online internet and server.
+To pay the water fee by the prepaid card:  The user may pay the water and gas fee by VT800 payment terminal.
+The above-mentioned service frontend APP and payment gateway software are to be made subject to the local service provider with their software Protocol and special arrangement.
+Online purchase: The user may use VT800 Android mini KIOSK to buy the products provided by the system.  The system may deliver the goods as per registered address. 
+
+
+
+Android device for Taxi driverTaxi Dispatch
+Date : November 2013
+Client : Company SA
+Categories : Web Design
+Website : www.example.com
+
+
+
+The Challenge
+DriverDorid is design for driver to communication with Taxi cental . It is designed to meet the needs of today’s dispatching and transport businesses, the DriverDoid  is an affordable and easy to use mobile data terminal designed for efficient driver and dispatch operation. With a compact layout, fixed function keys and simple, 7"~9" touchscreen display,  flexible wireless connectivity options, the DriverDroid  is designed for the Taxi industry.
+The latest Mobile Data Terminal for our Taxi Dispatch Solutions, the DriverDroid  offers standard features like 12 channel GPS, and  an enhanced graphical user interface for simple navigation and ease of use.
+DriverDroid use its internal map database , so it did not need to check the map form Google map  , and this will save the data communication cost. 
+DriverDorid was design for Android smartphone , and recommand for 7" touch screen ,
+We design Driver Dorid for .
+This capability lowers ongoing maintenance costs because customers no longer have to bring in their vehicles for servicing each time a new version of software is released.
+Flexibility in wireless modules ensures that the Vector 800™ has the option of supporting either private or public networks. For private radio networks, the Vector 800™ uses a high performance built-in Digital Signal Processor (DSP) that provides data rates of up to 9600bps over private mobile radio. For cellular public data networks, the Vector 800™ interfaces with GSM/GPRS or CDMA modems.
+
+
+The Solution
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.Nam sapien risus, blandit at fringilla ac, varius sed dolor.Donec augue lacus, vulputate sed consectetur facilisis,interdum pharetra ligula. Nulla suscipit erat nibh, utporttitor nisl dapibus eu.
+
+
+The Result
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.Nam sapien risus, blandit at fringilla ac, varius sed dolor.Donec augue lacus, vulputate sed consectetur facilisis,interdum pharetra ligula. Nulla suscipit erat nibh, utporttitor nisl dapibus eu.
+
+
+PSTN  payphonePayment Terminal
+Name : VT700G PSTN Payphone
+
+Support Remote manager System (RMS):
+1.   Fault alarm
+2.   Call Detail Record (CDR)
+3.   Parameter setting
+4.   Rate table setting
+5.   Revenue analysis
+
+
+
+
+ABSTRACT
+Scenario could be modifed to Co-work with your System:
+1.   Hook off , auto-dial access number to connect server
+2.   Hot line programmable
+3.   DTMF tone receiver
+4.   support 12K, 16k, tone reciever, ... signal recognize
+5.   No battery inside
+6.   Real time clock
+ 
+General Functions:
+1.   Reverse \12khz \16khz \ 50Hz \ A, B,or C Tone \ Voice detection \ meter signal selection
+2.   1000 sets area call defined
+3.   Follow on \ Redial
+4.   Free call \ Barred call programmable
+5.   Local \ STD \ IDD enable or disable
+6.   Auto-tariff by input city code
+7.   Discount time programmable
+8.   Volume control
+9.   Multi-language selection
+10. Program by keypad \ cable from compute
+
+
+Specification
+
+
+
+
+Model
+
+
+Description
+
+
+
+
+ 
+VT700G-3
+
+
+‧Housing: Made by Metal , thickness of Metal : 1.6mm 
+‧Dimension : 33cm *:20CM *7.5CM / 6Kgs
+‧Power : PSTN Line power only
+‧Temperature -10C~55C
+‧16 digits LCD Multi-Display
+‧CE approval
+
+
+
+
+
+
+The Application
+1.  School
+2.  Department store
+3.  Jail
+4.  Hospital
+5.  Transportation stations
+Support Remote manager System (RMS):
+1.   Fault alarm
+2.   Call Detail Record (CDR)
+3.   Parameter setting
+4.   Rate table setting
+5.   Revenue analysis
+
+
+Door opener (by your smartphone APP)Automation & Security
+Name :  Garage door opener
+APP Support  :  Android >2.3 , IOS 
+APP name: Etouch (Google play , App strore)
+User management : By manger APP; QR Code
+ 
+Via Etouch , the manager can add/ delet any user by his App. He can authorize a new user by send him a QR code. And if any member quit , he just delete his name from the user list. 
+User can use this APP by 3G/wifi.
+
+
+Abstract
+Now you could use iPhone or Android smartphone to contorl the rolling door or garage door.  
+You just need to add our NS20 sereis TCP/IP controller with your Door opener. The NS20 TCP/IP control box is a small device which received the command from your phone and send the trigger singal to your rolling door motor or control buttons. 
+It is very easy to insall. Just Plug the power , internet line and the control line to the NS20 control box.
+Compatable with original IR controller.  Smart phone and IR controller could work at the same time.
+
+
+The Solution
+It is troublesome to copy the key, when the remote control device is missing, the younger brother moves to live together, it also needs a remote control device.  When the remote control device is out of order, it needs to renew one.  The resident in the community let’s say 100 houses, it needs 300 or 400 pieces of remote control device.  It is costly.  There is no limit to the number of users for usage.  It helps save at least really 50% of cost.  It is worthwhile.
+No distance Limitted
+No matter where you are, if the mobile phone is on line you may open the door. You may not wait for the goods carrier to send the goods later and sit at door for waiting. Upon the arrival of the goods carrier at your house, he just gives you a call, you may help him open the door immediately. It saves your precious time. 
+ 
+
+
+ Application
+Our product can apply to various electrical operation doors, workshop sliding doors, electric key for apartment, speedy roller shutters, traditional roller shutters and gates at the parking terminal or yards.
+One handling for many doors
+To a lot of keys, remote control devices, it takes a precious time to look for right exact key to open the door our App can operate and handle many doors, one, two, five or ten, we only use one mobile phone to cope with it. There is no trouble for taking care management of keys and remote control devices.
+Notification 
+Whatever you use the mobile phone to open the door, the key or remote control device to open the door. When the door is opened by the theft once the door is open, the App will sense it. You may check the record of the user at any time. It lets the house secure.
+User managerment 
+Apply to IOS and Android system, we innovated a set of safe privy calculation on the basis of QR code system, we assure it will not be disclosed by QR code management of increasing and deleting the users. To set up the apparatus, it can be completed only by the scan of QR code. To intend to increase the new user you just scan the QR code and the resident leaves, you delete it directly from the mobile phone. It is safe and easy.
+
+
+
+Mifare S50 payment card Payment Terminal
+Chip: Mifare 1K S50 (NXP original)
+Function: Read/write (protected by password))
+Memory size: 1K-Byte EEPROM (16 sectors)
+Frequency: 13.56MHz
+RF Protocol: ISO14443A
+
+
+
+Abstract
+Mifare 1K is accepted as the Market-leading technology ISO14443A. Mifare 1K smart card is a great solution for E-ticket, payment, hotels, access control and time attendance systems. .
+我們所採用的付費系統採用的是這一種卡片， 並且採用特殊的編碼加密方式, 更加提升了卡片的安全性。
+ 
+
+
+The Solution
+Mifare 1K S50 smart card is widely used in the secure RFID applications. The 1KByte of EEPROM is configured into 16sectors, so one single card can be applied for multi- applications. 
+
+Key features
+Dimensions: 86 x 54mm
+Thickness: 0.84mm
+Material: PVC, PET
+Surface: lamination (gloss/mate)
+Working frequency: 13.56MHz
+Reading distance: 6cm
+Data storage time: minimum 10 years
+Operating temperature: -20 to +60°C
+Stockage temperature: -20 to +65°C
+Package: 200pcs per Inner Box; 4000pcs per Carton, each Carton gross weight is 28kgs
+Printing options
+Full color offset printing
+Silk-screen printing
+Silver/Gold silk-screen printing background​
+
+
+Application
+E-ticket
+Payment
+Hotel key lock
+Access control
+Time attendance system
+optional printing:
+
+Full color offset printing
+Silk-screen printing
+Silver/Gold silk-screen printing background
+Personalization
+
+option for standard cards:
+
+Magnetic stripe: 300oe, 2750oe, 4000oe
+Numbering
+Barcode printing
+Signature panel
+Embossing
+Encoding (according agreement)
+
+
+Illumination controller and safety alarm system.ZigBee Home automation 
+Name : Adjustment of illumination and safety alarm system
+Solution : white balance
+               Safety Alarm
+
+
+
+The Abstract
+Illumination equipment  to combine with digital micro-wave sensor. Our product can sense the person and/or object passing the area. It depends on the actual condition in need to set up the controlled area. It can control and adjust automatically .The most sufficient, illumination and energy saving .
+
+
+The Application
+Parking garage area lighting system
+The office lighting system
+
+
+
+
+Product/
+Specification
+
+
+NS30-
+Zigbee Doppler Sensor
+
+
+
+
+
+
+Input Power
+
+
+110-240V AC
+
+
+
+
+Output
+
+
+3.3V DC
+5V DC
+
+
+
+
+Application
+
+
+Parking、Office
+
+
+
+
+Plug Type
+
+
+US Specification
+EU Specification
+
+
+
+
+Internet Mode
+
+
+2.4GHz(IEEE 802.15.4 and Zigbee) Zigbee @2007
+
+
+
+
+DO
+
+
+ 
+
+
+
+
+DI
+
+
+1
+
+
+
+
+Operating Temperature
+
+
+0-50 ℃
+
+
+
+
+Operating Humidity
+
+
+5-95RH
+
+
+
+
+Dimensions(mm)
+
+
+115*90*40
+
+
+
+
+Weight(g)
+
+
+ 
+
+
+
+
+Inter Compatibility
+
+
+IOS. Android
+
+
+
+
+Person limit
+
+
+None
+
+
+
+
+Bandwidth
+
+
+2.4~2.4835GHz
+
+
+
+
+Communication Distance
+
+
+Over 53meter (Open Area 50Meter，Indoor 10Meter，After Wall 5Meter)
+
+
+
+
+Power Consumption
+
+
+ CPU 2.1W (1~0.35W)
+
+
+
+
+Detection Method
+
+
+Moving Sensor
+
+
+
+
+Detection Area/
+Detection Distance
+
+
+0.3~10M
+
+
+
+
+Detection Point of View
+
+
+Horizontal 72 degrees
+Vertical  36 degrees
+
+
+
+
+Mounting height of Device
+
+
+150cm(Horizontal)
+
+
+
+
+Initialize time
+
+
+Over 4 Second
+
+
+
+
+
+
+The Features
+Escalating Adjustable Illumination
+    In order to avoid lighting on and off source, this system will extend the life span of light bulb lamp.We adopt the function of gradually escalating adjustment for illumination without the feeling of sudden on and off. The user will not obviously feel the work of system in the active area.
+Detecting the activity of human body to the best energy saving.
+There are some areas where the persons are a few activities,such as sidewalk and pantry room.The sensible body enters areas of activity, the device automatically adjust the illumination of whole areas.
+Automatic making up the sun light 
+     During the time of dusk or early in the morning,the sun light is weak, it will automatically adjust the level of illumination.It adjusts the illumination gradually in a free feeling condition without affecting the office work atmosphere and reading.It also saves the cost efficiently.
+Smart adjustment of illumination
+   In the area of insufficient illumination,it can activate the strong light device (Such as LVD electrode less fluorescent lamp)
+SAFETY ALARM
+ The manual operation or automatic time shift is the function of safety alarm.
+For safety alarm function which can sense and detect the human body and /or object movement and report it automatically.
+
+
+USSD Topup machinePayment Terminal
+Name : USSD Topup machine
+
+
+
+ABSTRACT
+What is USSD?
+USSD (Unstructured Supplementary Service Data) is a protocol used by GSM system. USSD is used for the prepaid mobile credit service. Recharge the credit to mobile account…ect.
+Introduce: 
+Having the GUS01 GSM USSD recharge machine, you could offer the USSD recharge service. Customers go to the GUS01 , key in the phone number he likes to recharge and insert the coins. The GUS01 will recharge the credit to your cell phone number. Start to run the USSD recharge business now.
+
+
+Features：
+1. 3 different GSM SIM card support : According the phone number you like to recharge, auto-switch the GSM SIM card to recharge the credit
+2. Voice indication: support to play the voice indication to guide the users operate the GUS01.
+3. LCD display : 4 lines LCD display with backlight. Easy to operate.
+4. Coin acceptor: detect the coin diameter, material and thickness to recognize the coins.
+5. Big coin box volume
+6. Alarm : when the SIM card credit in machine is ran out of credit. The GUS01 will send the SMS to alarm
+7. Printer : supports to print the receipt.
+
+
+Specification ：
+
+
+
+
+Power
+
+
+AC100-240V, 50/60Hz
+
+
+
+
+Metal housing
+
+
+1.6mm metal housing
+
+
+
+
+LCD Display
+
+
+16 digits x 4 lines with back light
+
+
+
+
+Capacity of Coin Box
+
+
+1.3 liter
+
+
+
+
+Keypad Life
+
+
+>500,000
+
+
+
+
+GSM frequency
+
+
+GSM : 850MHz/1900MHz/ 900MHz/1800MHz
+
+
+
+
+Dimensions
+
+
+146.5mm X 276 mm X 420 mm
+
+
+
+
+Weight
+
+
+12 KGS
+
+
+
+
+Temperature
+
+
+-5°C to +60°C
+
+
+
+
+Humidity
+
+
+0% to 90% Non-Condensing
+
+
+
+
+
+
+VT700 GV VOIP PayphonePayment Terminal
+Name : VT700GV VOIP Payphone
+
+ 
+
+
+
+
+ABSTRACT
+The Outdoor calling-card telephone.
+Calling card system provide cheaper call rate to end user.
+In order to keep high security, most calling card has a long
+digitals PIN numbers. The longer PIN numbers, the more
+security the system has. But On the other hand, the long
+digitals PIN also raise up the failure rate because end user’s wrong operation.
+Mostly end-user hang up the calls when they press any
+wrong number, even the IVR system provide a error flow to
+fix this problem. So a lot wrong operation, occupy the lines.
+Emergency Solution 
+Hotlin phone : user pick up the handset . Phone will dial to emergency number automatically.
+AD phone :  User press the keypad to choose hotline number.  
+ 
+Calling Card Solution 
+User pick up the handset and Key in the PIN number to make calls.  Tariff is contolled by management system.
+
+
+The Specification
+
+
+
+
+Model
+
+
+Description
+
+
+
+
+VT700GV-4
+
+
+‧Housing:Made by Metal , thickness of Metal : 1.6mm
+‧Power : adaptor input 100-240AC output:12V 1A
+‧Temperature -10C~55C
+‧ LCD: 128*64 dot Matrix with Backlit
+‧CE approval
+
+
+
+
+VOIP Specifications:
+
+
+
+
+1.     Easy Interface to ADSL/Cable Modem or leased line equipment.
+2.     Support SIP v1 (RFC2543), v2 (RFC3261)
+3.     Behind NAT Router or IP sharing Device.
+4.     DTMF support : SIP info, RFC2388, Out -band DTMF, In-Band DTMF.
+5.     Configuration : Web browser, Console/Telnet, IVR/Keypad, Auto-provision.
+6.     Firmware Upgrade : TFTP/ Console/ Http/ Auto-Proision
+7.     Support Fix IP/DHCP/PPPoE
+8.     Codec- G.711 A/u-Law, G.723.1, G.729A, G729
+
+
+
+
+
+
+Application
+1.School
+2.Department store
+3.Jail
+4.Hospital
+5.Transprotation stations
+
+
+Video Intercom for multi-channel Automation & Security
+Video Intercom
+Android Video Intercom
+
+
+Cross multi-building
+Wireless (wifi) XDSL 
+Graphic User Interface
+WebRTC / SIP Video support
+
+
+
+
+The Abstract
+In View of many traditional apartment, most of their audio talky system are old or non-operational. The set up of the traditional audio talky system is to be matched with each individual resident’s tele wire line system.If you do not maintain and control it well, it will suffer form fire hazard and any other safely cause.
+Our company innovated the gate video and/or audio talky intercom system which develops the internet connection method without needing to set up the complicated  wire line system, it just apply android smart hand phone or tablet computer and set up one set of multi-purpose digital video and/or audio talky intercom.
+
+ 
+The Function
+FUNCTION : GATE DEVICE
+
+THE VISITOR CAN LOOK FOR THE RESIDENT THE INTERCOM IS ONE WAY DEVISE FROM THE RESIDENT TO THE VISITOR-
+THE VISITOR CNA LOOK FOR THE MANAGER-
+TO APPLY THE FUNCTION OF INTERNET AUTOMATE OFF SENSE SYSTEM.IT IS EASY TO CHECK IT.
+
+FUNCTION : INDOOR DEVICE
+
+May talk with the manger-
+
+
+may talk with gate intercom-
+
+
+door to door ,two ways of inward and outward video and/or audio intercom.-
+may set up one way of intercom-
+if the visitor can not find the resident, he can contact the resident’s hand phone directly.
+
+
+the resident can record the visitor’s information
+
+
+apply jpg system photo-
+may apply mp3 system to use music voice as ring bell call-
+may apply the automate sensor function when the internet is off. it is easy to check the system
+
+
+
+The Features
+
+every body can handle it
+Inter face, concise multi-purpose combined to one system
+apply android system :it is easy to get it
+No need to fit the tele- wire line
+No need to set up the complicated tele-wire system
+Use internet communicating method
+No wire-line system,the rate of breakdown is the lowest.
+even it breaks down,it will not affect the function of any other users
+
+
+
+
+Cross Multi-building
+User Interface
+ommunity Announcement WebRTC / SIP base
+
+
+Zigbee OpenerZigBee Home automation 
+
+
+Name :  NS30-Zigbee  door opener
+APP Support  :  Android >2.3 , IOS 
+APP name: Etouch (Google play , App strore)
+User management : By manger APP; QR Code
+Via Etouch , the manager can add/ delet any user by his App. He can authorize a new user by send him a QR code. And if any member quit , he just delete his name from the user list. 
+User can use this APP by 3G/wifi.
+
+
+
+
+
+The ABSTRACT
+
+
+Now you could use iPhone or Android smartphone to contorl the rolling door or garage door.  
+You just need to add our NS30 sereis Zigbee door r controller with your Door opener. The NS30 zigbee control box is a small device which received the command from your phone and send the trigger singal to your rolling door motor or control buttons. 
+It is very easy to insall. Just Plug the power , internet line and the control line to the NS30 control box.
+Compatable with original IR controller.  Smart phone and IR controller could work at the same time.
+
+
+
+
+The Solution
+It is troublesome to copy the key, when the remote control device is missing, the younger brother moves to live together, it also needs a remote control device.  When the remote control device is out of order, it needs to renew one.  The resident in the community let’s say 100 houses, it needs 300 or 400 pieces of remote control device.  It is costly.  There is no limit to the number of users for usage.  It helps save at least really 50% of cost.  It is worthwhile.
+
+
+The Features
+No distance Limitted
+No matter where you are, if the mobile phone is on line you may open the door. You may not wait for the goods carrier to send the goods later and sit at door for waiting. Upon the arrival of the goods carrier at your house, he just gives you a call, you may help him open the door immediately. It saves your precious time. 
+Our product can apply to various electrical operation doors, workshop sliding doors, electric key for apartment, speedy roller shutters, traditional roller shutters and gates at the parking terminal or yards.
+One handling for many doors
+To a lot of keys, remote control devices, it takes a precious time to look for right exact key to open the door our App can operate and handle many doors, one, two, five or ten, we only use one mobile phone to cope with it. There is no trouble for taking care management of keys and remote control devices.
+Notification 
+Whatever you use the mobile phone to open the door, the key or remote control device to open the door. When the door is opened by the theft once the door is open, the App will sense it. You may check the record of the user at any time. It lets the house secure.
+User managerment 
+Apply to IOS and Android system, we innovated a set of safe privy calculation on the basis of QR code system, we assure it will not be disclosed by QR code management of increasing and deleting the users. To set up the apparatus, it can be completed only by the scan of QR code. To intend to increase the new user you just scan the QR code and the resident leaves, you delete it directly from the mobile phone. It is safe and easy.
+
+
+
+
+Product/
+Specification
+
+
+NS30-
+Zigbee Opener
+
+
+
+
+
+
+Input Power
+
+
+110-240V AC
+
+
+
+
+Output
+
+
+3.3V DC
+5V DC
+
+
+
+
+Application
+
+
+Barrier、Rolling door、Magnetic lock
+
+
+
+
+Plug Type
+
+
+US Specification
+EU Specification
+
+
+
+
+Internet Mode
+
+
+2.4GHz(IEEE 802.15.4 and Zigbee) Zigbee @2007
+
+
+
+
+DO
+
+
+3*NC/NO
+
+
+
+
+DI
+
+
+1
+
+
+
+
+Operating Temperature
+
+
+0-50 ℃
+
+
+
+
+Operating Humidity
+
+
+5-95RH
+
+
+
+
+Dimensions(mm)
+
+
+115*90*40
+
+
+
+
+Weight(g)
+
+
+ 
+
+
+
+
+Inter Compatibility
+
+
+IOS. Android
+
+
+
+
+Person limit
+
+
+None
+
+
+
+
+Bandwidth
+
+
+2.4~2.4835GHz
+
+
+
+
+Communication Distance
+
+
+Over 53meter (Open Area 50Meter，Indoor 10Meter，After Wall 5Meter)
+
+
+
+
+Power Consumption
+
+
+ CPU 2.1W (1~0.35W)
+
+
+
+
+Mounting height of Device
+
+
+Over 0.3Meter
+
+
+
+
+Initialize time
+
+
+Over 4 Second
+
+
+
+
+
+
+ZigBee IR Remote controllerZigBee Home automation 
+NAME : ZigBee IR Remote Controller
+
+APP Support  :  Android >2.3 , IOS 
+APP name: Ehome (Google play , App strore)
+
+Air-condition
+TV
+IR Device
+
+
+
+The Description
+It is a IR Repeater developed on the base of ZigBee protocol used to control all of the IR supported home appliances.
+It can connect ZigBee wireless signals and IR signals, so you can use smart phone or tablet to control the IR supported home appliances.
+It is easy to control all of your IR supported home appliances, this makes your life more convenient.
+
+
+The Features
+
+
+
+
+
+Easy to be install in ceiling, easy to use, safe and reliable.
+
+
+
+
+
+
+Encrypted dynamically by AES-128 keys, outstanding safety performance.
+
+
+
+
+
+
+Transmit infrared signal in 360 degrees, high sensitivity and high accuracy control.
+
+
+
+
+
+
+Thousands of infrared data storage space, more extensive adaptability.
+
+
+
+
+
+
+Expanding cloud IR code library, users can download the library according to their needs.
+
+
+
+
+
+
+Signal forwarded to each other, provide you a stable, reliable and safe wireless ZigBee network.
+
+
+
+
+
+
+
+The Product Parameter
+
+
+
+
+Operating Temperature
+
+
+-20- 85°C
+
+
+
+
+Operating Frequency
+
+
+2.4 GHZ
+
+
+
+
+Network Protocol   
+
+
+ZigBee IEEE 802.15.4
+
+
+
+
+Power Supply Mode
+
+
+AC 110-240V
+
+
+
+
+Wireless receiving sensitivity:
+
+
+<-90dBm
+
+
+
+
+Counts of wireless operating frequency:
+
+
+16
+
+
+
+
+IR transmitting power:
+
+
+1.2W
+
+
+
+
+Working environment:
+
+
+Temperature:0~70°C; Humidity:10%-95%
+
+
+
+       Outside Size
+       105*90*40.5(mm)
+
+
+       Weight
+       70(g)
+
+
+
+
+
+ZigBee Dimmer Controller For Smart Home AutomationZigBee Home automation 
+Place of Origin: Taiwan Taipei
+Communication Type : Zigbee 802.15
+Model number : NS30DIM
+ZIGBEE Chipset :TICC2530
+Frequency : 2.4G
+Power : 110V /220V AC
+OutPut : 110V /220V AC
+Max Load Power : 700W
+Dimmer Tech : TRAIC Control
+Dimmer Level : 0~100% 15 Level
+
+
+
+Abstract
+Zigbee dimmer is an important element in wireless e-home and power saving application . Our dimmer can be widely used in LED CCFL and other TRAIC compatible  dimming  lamps. 
+Vector ZIGBEE Dimmer has a very low power consumption, the power consumption itself is about 0.1W. But the output loading is up 700 W , it can effectively control  the lamp in a area. 
+
+
+The Application 
+Application 
+Vector currently offers three areas of application. 
+1 Use app to control : etouch provided by the Company will be automatically true measure where you are all the LAN controller, through Etouch APP, you can easily have a very low price to achieve remote control. Currently our Etouch APP, providing door openers, alarm, power controller 
+ 
+2 Ｐarking garage area  lighting system : 
+We provide a parking area lighting control system . This system will link  Micro-wave sensor ,and the lighting  dimmer  . When any  movement of people and vehicles was detected via the motion sensor ,  the lighting will be adjusted to the brightest lights in order to maintain safety. If no any motion was detected , the system will dim 20% to save the power.
+3 office lighting system : 
+Office Lighting power saving system will detect the human  through infrared sensors or motion sensors. In office , it will offer brightest light when there is someone in the office.
+And if people leave the sensor detecting area , the system will dim darker to save power energy.
+
+
+The Result
+影片
+
+
+
+
+Product/
+Specification
+
+
+NS30-
+Zigbee Dimmer
+
+
+
+
+
+
+Input Power
+
+
+110-240V AC
+
+
+
+
+Output
+
+
+110-240V AC
+3.3V DC
+5V DC
+
+
+
+
+Application
+
+
+Dimmable Lamps
+
+
+
+
+Plug Type
+
+
+US Specification
+EU Specification
+
+
+
+
+Internet Mode
+
+
+2.4GHz(IEEE 802.15.4 and Zigbee) Zigbee @2007
+
+
+
+
+DO
+
+
+None
+
+
+
+
+DI
+
+
+1
+
+
+
+
+Operating Temperature
+
+
+0-50 ℃
+
+
+
+
+Operating Humidity
+
+
+5-95RH
+
+
+
+
+Dimensions(mm)
+
+
+115*90*40
+
+
+
+
+Weight(g)
+
+
+ 
+
+
+
+
+Inter Compatibility
+
+
+IOS. Android
+
+
+
+
+Person limit
+
+
+None
+
+
+
+
+Bandwidth
+
+
+2.4~2.4835GHz
+
+
+
+
+Communication Distance
+
+
+Over 53meter (Open Area 50Meter，Indoor 10Meter，After Wall 5Meter)
+
+
+
+
+Power Consumption
+
+
+ CPU 2.1W (1~0.35W)
+
+
+
+
+Mounting height of Device
+
+
+Over 0.3Meter
+
+
+
+
+Initialize time
+
+
+Over 4 Second
+
+
+
+
+Overload 
+
+
+700W
+
+
+
+
+ 
+
+
+Internet-controlled Power BoxAutomation & Security
+Name :Internet Power Box
+APP Support  :  Android >2.3 , IOS 
+APP name: Etouch (Google play , App strore)
+User management : By manger APP; QR Code
+ 
+Vector Net switch , Remote Power Switch, is the ideal solution for remote reboot and many other remote power control applications. Vector Net switch series has 4 power outlets which can be independently controlled using a web app. Vector Net switch use DHCP and auto register to server . User just scan the QR code, then he can use the device.
+
+
+Abstract
+NS20-4P is a TCP/IP contorl box which is required to work with smartphone APP. Let you achieve automation easily, Power control, Home appliance control, switch control or Security..etc. 1. Power control: Four power control port (Click on the specification page View Details)
+2. Dimming control: adjust the lamp brightness or LED lights (Click on the specification page to view details)
+3. The door lock control: electronic door locks, such as cut the power to open electric lock or supply power to open electic locks.
+The NS20-4P installation is very simple. Only need to connect the power plugs to the socket of NS20-4P. NS20-4P supports network DHCP. Plug and play.
+
+
+Application 
+1.remote power on/off Machine.
+2.Reboot machine /IT equipment
+3.Schedule reboot.
+4. Auto Cut the Internet connection.
+5.Irrigation pumping motor
+6.Fish ponds oxygen supply
+
+
+Specifcation
+
+NS20-4P
+1) 4 Port Power control out put.  Plug for EU and US type both. 
+2) Overload protection : 10A.  When NS20-4P got the electricity over 10A, cut the power automatically.
+3) Size / weight :  15.8 * 10.5 * 3.9 cm , 0.4Kg
+4) Power: Input AC100-240V
+5) Operation Temperature : 0 ~ 65° C
+6) Operation Humidity : 5 ~ 95%RH
+7) Storage Temperature : -20 ~ 85°
+8) CE , FCC approval
+
+
+
+Bluetooth coin validatorSolution ＆Platform
+Date : 2016/01/25
+ 
+
+
+
+Abstract
+Bluetooth coin validator is a small electronic coin collector. Using bluetooth 2.0 and bluetooth 4.0 to control releasing and flushing. Due to its small size and weight, it can be stably and easily installed in various devices and environment. It also has over 95% acceptance rate and huge range of coin size.
+
+
+Coin size and communication distance
+This bluetooth coin validator can contain 5 coins at one time and set six different types of coin. The diameter of coin acceptance spans from 17mm to 33mm. The thickness of coin acceptance spans from 1.3mm to 3.2mm. It can solve the needs of different types of coins, like different countries or self-made coins. We also offer the sample code of Android and iOS. By using bluetooth 2.0, the best controlling distance can be up to 10 meters. User can control the validator at the distance of 100 meters if you use bluetooth 4.0.
+
+
+Application
+Payphone and beverage vendor are the most common application of coin validator. This validator can also be applied to other fields, like parking lots, coin-operated washing machine, amusement park facility or other one-time payment machines. Moreover, by using the Android and iOS sample code, the validator can be used extensively in lots of different fields.
+
+
+
+Technical specification
+ 
+
+
+Power
+DC 5V
+
+
+Amperage
+10~30mA, 15mA
+
+
+Surface
+
+Bluetooth 2.0
+Bluetooth 4.0
+
+
+
+Coin size
+
+Diameter 17mm~33mm
+Thickness 1.3mm~3.2mm
+
+
+
+Channel
+1
+
+
+Accepting speed
+Up to 2 coins per second
+
+
+Acceptance rate
+95% or greater
+
+
+Distance
+8 meters to 10 meters
+
+
+Initializing time
+Less than 1 second
+
+
+Dimension & Weight
+ 
+
+
+Dimension
+24.25(W)*17.6(D)*5.8(H)
+
+
+Weight
+800G
+
+
+Environment
+ 
+
+
+Operating Temp.
+-5°C~55°C
+
+
+Storage Temp.
+-15°C~65°C
+
+
+Humidity
+0%~90% Non-Condensing
+
+
+
+ 
+
+
+News
+Our recent activities and news
+
+Vector has been authorized for the highest API of Galileo!
+  We have devoted ourselves into software market for a long time. With strong software and sturdy system integration technology, we now have lots of clients and supports. At this time, due to our network technology of the airfare online booking system, Galileo has been appreciating our ability. Except for surely protecting user's information, our mixed class system, open jaw system and extremely fast searching speed are all our outstanding achievement. Therefore, Galileo has authorized us for highest API.
+  Only Vector has the authority of highest API in Taiwan. In the future, we can utilize Galileo other business, such as budget airline, ferry ticket, train ticket or hotels. After obtaining this API, we hope that we can develop and combine different kind of field in order to bring better environment of system. Besides, budget ticket enables users to buy cheaper tickets and have more choices!
+
+Innovative and convenient booking system
+Web Ticket
+  Using traditional online booking system often costs you a lot of time　but you are not likely to find your ideal tickets and it really wastes your time. However, Web Ticket not only can quickly filter the tickets, but also can book tickets according to your special needs.
+ 
+  Web Ticket features mixed-class and open-jaw ticket. You do not have to afford high airfare all the way in your trip. You can save money and make use of it in your trip! Open-jaw ticket also enables you to plan a more flexible schedule. There are many choices for those people who like to travel individually!
+ 
+Contact us:
+WebTicket: https://www.webticket.com.tw/
+Facebook: https://www.facebook.com/webticket
+
+Airfare online booking system
+We are seeking a partner of our online airfare booking system in your country .  A real online system can be visited at :
+http://www.webticket.com.tw/
+Comparsion with the other online booking system , this system not only provide and list all ticket's prices , and also show the available seat for booking.
+This system also provides Mixed-Class function , That means the 2-way ticket can be different Class and different price and normally the average price is lower than the general ticket price.
+This system can provide more cheaper price than traditional travel agent ( around 6%) , and will grab more Marketing Occupication .   So if you have any interested in this platform. please contact with us. 
+
+
+We have a partner "MIDI" in Laos
+
+ 
+Vector and Midi Sole Com have an Cooperative agreement  to provide High security card solution in  Laos. 
+In this agreement :
+
+MiDi is to take the responsibilities (hereinafter “MiDi’s Responsibilities”)
+	
+To establish, operate, and manage all the general business activities related or incidental, such as, but not limited to, securing and utilizing the place of business, securing and utilizing the business equipments, including computer hardware and computer software, and collecting payment of account receivable and making payment of account payable, maintaining accounting records, and abiding the Lao government’s regulations to carrying on the Co-operation.
+Be the contact point and represent the Co-operation, design solution for the Co-operation’s business, making decision, negotiation and is right to sign, agree, deal and contract any possible business on behalf of the Co-operation.
+Use the brand name MiDi to represent the Co-operation
+
+
+Vector is to take the responsibilities (hereinafter “Vector’s Responsibilities”)
+	
+To supply all necessary application, software, interface and technology to fulfill and carry on the Co-operation.
+To develop, configure, modify, and keep maintenance of the computer software and software applications to computer servers, to make all services of the Co-operation’s business reliable.
+
+
+
+
+Zigbee System release
+ 
+
+We have recently released  the following Zigbee products: 
+1. Zigbee light control switch: This switch is the e-Home of the most desired elements, through this element, the user can use the smartphone switch lights, and adjust the brightness of the light. 
+2. Zigbee Parking saving system: This system will automatically adjust the lighting of the parking space. For example , if  the system cannot dectect any people or moving vehicles, the lights will automatically adjust to 20% ~50% , so you can effectively save electricity. 
+3. Zigbee automatic daylight balanced system: This system automatically adjusts the lightings during daytime when there is sufficient daylight.Moreover, it automatically adjusts the lighting up when the light is not enough. 
+4. Zigbee door opener: Isn't is amazing to use a smart phone to open a door? In addition to this application, we also added a funtion of ant-theft system. When someone enters your office at night, your phone will receive an alert message.
+ 
+About UsVector Technology Corporation (VTC)
+is one of the leading
+suppliers
+of Telephony products in the world. Base on the
+experience in
+research and marketing of communication field for 18
+years. We have
+completely payphone, VOIP, security and vending
+machine products. As
+well as the professional software system
+engineers team to provide
+the system integration.
+
+Today Vector is a Solution Provider company. We architect the
+solutions for our clients. We call ourselves as solution architects
+instead of software architects is because we provide business
+centric software architecting services.
+Being specialized in the
+product development, we realize the importance
+of having right
+software architecture. Software architecture is a
+blue-print of the
+software; it is a foundation of the software.
+Architecture defines
+major components, their relationships,
+structure, behavior and
+rational behind it.
+Vector provides solution architecting
+consultancy to fulfill the needs of
+all the stakeholders from the
+solution architecture. It generally
+includes technology platform,
+physical architecture, software
+architecture, network architecture
+with all functional software
+requirements addressed.
+As a designer
+and manufacturer, the request of customer will be
+fulfilled in the
+best way and in the shortest time. With VTC's
+experienced team, our
+engineers work to find idea solutions to meet
+customers' demand and
+make us trustworthy. We also look to expand
+our business to serve
+more customers and to provide better services
+.
+We greatly appreciate
+supports from the customers worldwide.These
+customers include some
+telecommunication companies owned by their
+countries, mobile
+telecommunication companies and private
+telecommunication companies.
+Contact Us
+Are you have any problem or any suguesstion about us?
+
+Visit us, write to us or call us
+Drop us a lineNameEmailMessage
+Send Message
+Find Us
+8F., No.2, Lane. 122,
+Sec. 2, Ganyuan St., Shulin City,
+Taipei
+County 238, Taiwan
+
++886 - 2 - 2680 - 2050
+
++886 - 2 - 2680 - 2060
+Payphone@vector.com.twBusiness HoursMon - Fri : 
+9:00 am - 6:00 pm
+
+
+
+Welsum Technology Corporation -Products-Textile Auxiliaries-Fixing Agent of Acid Dye-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's Hot
+
+
+
+
+
+
+
+
+
+
+Certified products
+
+
+
+
+
+
+
+
+
+
+Commodity
+
+
+
+
+
+
+
+
+
+
+Textile Auxiliaries
+
+
+
+
+
+
+
+
+
+
+Paper Chemicals
+
+
+
+
+
+
+
+
+
+
+Wood Chemicals
+
+
+
+
+
+
+
+
+
+
+Leather Chemicals
+
+
+
+
+
+
+
+
+
+Ceramic Chemicals
+
+
+
+
+
+
+
+
+
+
+Paint Chemicals
+
+
+
+
+
+
+
+
+
+
+Metal Chemicals
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Textile Auxiliaries
+
+ 
+ 
+
+
+
+Home > Products > Textile Auxiliaries > Fixing Agent for Acid Dye
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fixing Agent for Acid Dye
+ 
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Product List
+
+
+
+
+
+
+
+
+
+Name
+Purpose
+Ingredient
+Ion
+Characteristic
+Application
+
+
+
+
+
+
+
+
+Wel Fixer AF-20 
+
+ 
+Acid Dye Fixing Agent
+Aromatic compound
+Anion
+
+
+
+
+
+
+
+1.
+Sufficiently improve the colorfastness to washing, perspiration, and sea water.
+
+
+2.
+No influence on original hand touch and wicking effect of treated fabrics, neglect color change issue.
+
+
+3.
+Contain no corrosive acid to damage machine or o-ring.
+
+
+4.
+Suitable for all kinds of dyeing machine or continuous dyeing machine.
+
+
+5.
+bluesign® approved.
+
+
+
+
+
+ 
+Nylon, Wool, Silk, Leather.
+
+
+
+
+
+
+
+
+Wel Fixer 
+                            AF-23 
+
+
+Acid Dye Fixing Agent
+Aromatic compound
+Anion
+
+
+
+
+
+
+
+1.
+Sufficiently improve the colorfastness to washing, perspiration, and sea water.
+
+
+2.
+No influence on original hand touch and wicking effect of treated fabrics, neglect color change issue.
+
+
+3.
+Contain no corrosive acid to damage machine or o-ring.
+
+
+4.
+Suitable for all kinds of dyeing machine or continuous dyeing machine.
+
+
+5.
+bluesign® approved.
+
+
+
+
+
+ 
+Nylon, Wool, Silk, Leather.
+
+
+
+
+
+
+
+
+Wel Fixer AF-26 
+
+
+Acid Dye Fixing Agent
+Aromatic compound
+Anion
+
+
+
+
+
+
+
+1.
+Sufficiently improve the colorfastness to washing, perspiration, and sea water.
+
+
+2.
+No influence on original hand touch and wicking effect of treated fabrics, neglect color change issue.
+
+
+3.
+Contain no corrosive acid to damage machine or o-ring.
+
+
+4.
+Suitable for all kinds of dyeing machine or continuous dyeing machine.
+
+
+5.
+bluesign® approved.
+
+
+
+
+
+ 
+Nylon, Wool, Silk, Leather.
+
+
+Wel Fixer AF-185 
+Acid Dye Fixing Agent
+Aromatic compounds
+Anion
+
+
+
+
+
+
+
+1.
+No need extra acid when fixing.
+
+
+2.
+Sufficiently improve the colorfastness to washing, perspiration, and rubbing.
+
+
+3.
+Suitable for all kinds of dyeing machine or continuous dyeing machine.
+
+
+
+
+
+ 
+Nylon, Wool, Silk, Leather.
+
+
+
+
+
+
+
+
+Wel Fixer AF-300NF 
+
+
+Acid Dye Fixing Agent
+Aromatic compound
+Anion
+
+
+
+
+
+
+
+1.
+Sufficiently improve the colorfastness to washing, perspiration and sea water.
+
+
+2.
+Neglect affection on chromatism, hand touch and absorbency.
+
+
+3.
+Contain no formaldehyde which is tested by certificated laboratory.
+
+
+4.
+Contain no strong corrosive acid to damage machine or o-ring.
+
+
+5.
+Suitable for all kinds of dyeing machine or continuous dyeing machine.
+
+
+6.
+bluesign® approved.
+
+
+
+
+
+ 
+Nylon, Wool, Silk, Leather.
+
+
+
+
+
+
+
+
+Wel Fixer 
+                          AF P-21
+
+
+Acid Dye 
+                        Fixing Agent (for Tenter)
+Aromatic compound
+Cation
+
+
+
+
+
+
+
+1.
+Efficiently enhance fastness to washing and perspiration.
+
+
+2.
+Applicable for finishing process.
+
+
+3.
+Well compatible with other auxiliaries.
+
+
+4.
+Deliver great effect for dark color fixing especially for black or navy blue.
+
+
+5.
+bluesign® approved.
+
+
+
+
+
+ 
+Nylon, Wool, Silk, Leather.
+
+
+Wel Fixer AF-CL
+Acid Dye Fixing Agent
+ 
+Anion
+
+
+
+
+
+
+
+1.
+Sufficiently improve the colorfastness to chlorine.
+
+
+2.
+No influence on original fastness to sunlight.
+
+
+3.
+Neglect affection on chromatism and hand 
+feeling of textile.
+
+
+
+
+
+ 
+Nylon, Wool, Silk.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+Products - Linear Technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Linear Technology
+
+
+
+
+
+
+ Chinese
+Japanese
+QUALITY
+CAREERS
+CONTACT
+MyLinear
+
+ 
+
+
+PRODUCTS
+SOLUTIONS
+DESIGN SUPPORT
+PURCHASE
+COMPANY
+
+
+
+
+
+
+
+
+
+
+
+Overview
+New & Featured
+Circuits Videos Blogs Tech Support
+
+
+
+Product Categories
+Linear Technology designs and manufactures a broad range of high performance analog integrated circuits.  To view information on our available products, click on any of the product families below.
+
+
+
+Featured
+LTC2862A - ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceiver with Level 4 IEC ESD
+LT4294 - IEEE 802.3bt PD Interface Controller
+LTC5553 - 3GHz to 20GHz Microwave Mixer
+LTC2358-18 - Buffered Octal, 18-Bit, 200ksps/Ch Differential ±10.24V ADC with 30VP-P Common Mode Range
+LTC4368 - 100V UV/OV and Reverse Protection Controller with Bidirectional Circuit Breaker
+LTM9100 - Anyside™ High Voltage Isolated Switch Controller with I2C Command and Telemetry
+View All
+
+LTM2895 - 100MHz Isolated DAC SPI Serial Interface
+LTC2500-32 - 32-Bit Over-Sampling ADC with Configurable Digital Filter
+LTC4279 - Single Port PoE/PoE+/ LTPoE++ PSE Controller
+LTC2944 - 60V Battery Gas Gauge with Temperature, Voltage and Current Measurement
+LTC5566 - 300MHz to 6GHz Dual Programmable Gain Downconverting Mixer
+LTM2887 - SPI/Digital or I2C μModule Isolator with Dual Adjustable 5V Regulators
+LTC2320-16 - Octal, 16-Bit, 1.5Msps/Ch Simultaneous Sampling ADC
+LTM2885 - 6500VRMS Isolated RS485/RS422 μModule Transceiver + Power
+LTC2512-24 - 24-Bit Over-Sampling ADC with Configurable Flat Passband Digital Filter
+LT8390 - 60V Synchronous 4-Switch Buck-Boost Controller with Spread Spectrum
+LTM2894 - Isolated USB Data Transceiver
+LTP5902-IPM - SmartMesh IP Wireless 802.15.4e PCBA Module with Antenna Connector
+LTP5901-IPM - SmartMesh IP Wireless 802.15.4e PCBA Module with Chip Antenna
+LTC5800-IPM - SmartMesh IP Wireless 802.15.4e System-on-Chip
+LTM2893 - 100MHz Isolated ADC Serial Interface
+LTC3126 - 42V, 2.5A Synchronous Step-Down Regulator with No-Loss Input PowerPath
+LTC5596 - 100MHz to 40GHz Linear-in-dB RMS Power Detector with 35dB Dynamic Range
+LTC3871 - Bidirectional PolyPhase® Synchronous Buck or Boost Controller
+LTM2886 - SPI/Digital or I2C μModule Isolator with Fixed ±5V and Adjustable 5V Regulated Power
+LT3922 - 36V, 2A Synchronous Step-Up LED Driver
+LTM8049 - Dual SEPIC or Inverting μModule DC/DC Converter
+LT8303 - 100Vin Micropower Isolated Flyback Converter with 150V/450mA Switch
+LTM2889 - Isolated CAN FD µModule Transceiver and Power
+LTC2986 - Multi-Sensor High Accuracy Digital Temperature Measurement System with EEPROM
+LTC2947 - 30A Power/Energy Monitor with Integrated Sense Resistor
+LTC4419 - 18V Dual Input Micropower PowerPath Prioritizer
+LTC4420 - 18V Dual Input Micropower PowerPath Prioritizer with Backup Supply Monitoring
+LTC3130 - 25V, 600mA Buck-Boost DC/DC Converter with 1.6µA Quiescent Current
+LTM4631 - Ultrathin Dual 10A or Single 20A DC/DC μModule Regulator
+LT4295 - IEEE 802.3bt PD Interface with Forward/Flyback Controller
+LTC3623 - 15V, ±5A Rail-to-Rail Synchronous Buck Regulator
+LTC3256 - Wide VIN Range Dual Output 350mA Step-Down Charge Pump with Watchdog Timer
+LTC2508-32 - 32-Bit Over-Sampling ADC with Configurable Digital Filter
+LTC6433-15 - Low Frequency to 1.4GHz 50Ω Gain Block IF Amplifier
+LT8335 - Low IQ Boost/SEPIC/ Inverting Converter with 2A, 28V Switch
+LTC5586 - 6GHz High Linearity I/Q Demodulator with Wideband IF Amplifier
+LTC5589 - 700MHz to 6GHz Low Power Direct Quadrature Modulator
+LTC4380 - Low Quiescent Current Surge Stopper
+LT8608 - 42V, 1.5A Synchronous Step-Down Regulator with 2.5μA Quiescent Current
+LTM4650-1 - Dual 25A or Single 50A µModule Regulator with 0.8% DC and 3% Transient Accuracy
+LTC3895 - 150V Low IQ, Synchronous Step-Down DC/DC Controller
+LTC6951 - Ultralow Jitter Multi-Output Clock Synthesizer with Integrated VCO
+LTC4371 - Dual Negative Voltage Ideal Diode-OR Controller and Monitor
+LTC5548 - 2GHz to 14GHz Microwave Mixer with Wideband DC–6GHz IF
+
+
+New
+LT8391A - 60V 2MHz Synchronous 4-Switch Buck-Boost LED Driver Controller
+LTC2324-14 - Quad, 14-Bit + Sign,  2Msps/Ch Simultaneous Sampling ADC
+LTC2324-12 - Quad, 12-Bit + Sign,  2Msps/Ch  Simultaneous Sampling ADC
+LTC5552 - 3GHz to 20GHz Microwave Mixer with Wideband DC to 6GHz IF
+LTC7150S - 20V, 20A Synchronous Step-Down Regulator
+LTC7004 - Fast 60V High Side NMOS Static Switch Driver
+View All New
+Popular
+LT8490 - High Voltage, High Current Buck-Boost Battery Charge Controller with Maximum Power Point Tracking (MPPT)
+LT8315 - 560VIN Micropower No-Opto Isolated Flyback Converter with 630V/300mA Switch
+LT1763 - 500mA, Low Noise, LDO Micropower Regulators
+LT1028 - Ultra Low Noise Precision High Speed Op Amps
+LT4320/LT4320-1 - Ideal Diode Bridge Controller
+LT3042 - 20V, 200mA, Ultralow Noise, Ultrahigh PSRR RF Linear Regulator
+
+
+
+
+
+Category Detail Page
+Parametric Table
+
+ Signal Conditioning
+  Operational Amplifiers (Op Amps)
+  Comparators
+  Filters
+  Voltage References
+  RMS-DC Conversion
+  Thermocouple Compensators
+  Switched Cap Building Blocks
+  Precision Resistor Network
+  Signal Chain µModule Receivers
+
+ Data Conversion
+  Analog-to-Digital Converters (ADC)
+  Digital-to-Analog Converters (DAC)
+  Switches and Multiplexers
+  Signal Chain µModule Receivers
+
+ Power Management
+  LDO Linear Regulators
+  Switching Regulator
+  µModule Regulators
+  PMIC & Multifunction
+  Inductorless (Charge Pump) DC/DC Converters
+  LED Driver ICs
+  Battery Management
+  Digital Power System Management
+  Current Sources
+  Energy Harvesting
+  Supercapacitor Chargers
+  Power Control
+
+ Monitor, Control and Protection
+  Digital Power System Management
+  Supervisory Circuits
+  Sequencers, Trackers, and Margining Controllers
+  Surge Stopper, Overvoltage & Overcurrent Protection
+  Hot Swap Controllers
+  Power-over-Ethernet (PoE) Interface Controllers
+  PowerPath Controllers & Ideal Diodes
+  Ideal Diode Bridge
+  High Side Switches & MOSFET Drivers
+  Power Monitors
+  Energy Monitors
+  Temperature Monitors
+  Pushbutton Controllers
+  Cable Drop Compensation
+  Thermoelectric Cooler Controller
+
+ Interface
+  RS232/RS562 Transceivers
+  RS485/RS422 Transceivers
+  Multiprotocol Transceivers
+  Isolated Transceivers
+  I2C and SMBus Bus Buffers and Accelerators
+  SIM Interface
+  IO-Link Transceivers
+  CAN Transceivers
+  Extended Temperature (H & MP) Interface
+
+ RF & Wireless
+  RF Power Detectors
+  Upconverting Mixers
+  Downconverting Mixers
+  I/Q Modulators
+  I/Q Demodulators
+  PLL Synthesizers & VCOs
+  IF Amplifiers / ADC Drivers
+  Variable Gain Amplifiers
+  Unity Gain Buffer Amplifiers
+  Wideband Active Filters
+  Low Power Transceivers
+  Power Amplifier Controllers
+  Optical Communications
+  Signal Chain µModule Receivers
+
+ Timing
+  Silicon Oscillators
+  TimerBlox
+  PLL Synthesizers & VCOs
+  Clock Generation and Distribution
+  Extended Temperature (H & MP) Timing
+
+ µModule Solutions
+  µModule Regulators
+  µModule LED Drivers
+  µModule Battery Chargers
+  µModule Isolated Transceivers
+  Signal Chain µModule Receivers
+
+ Space & Harsh Environment
+  Extended Temperature Plastic (H & MP)
+  Space Qualified Products
+  Military Hermetic (M)
+  X Grade Products
+
+ Wireless Sensor Networks
+  SmartMesh IP
+  SmartMesh WirelessHART
+
+
+
+
+
+
+Technical Support
+For immediate technical assistance, contact your local sales office or distributor or call 1-800-4-LINEAR (US customers only) or 408-432-1900. For less urgent requests, please complete our Technical Support Request Form.  Please allow 2-3 business days for reply. 
+
+
+
+
+
+Documentation
+
+
+User Guide
+LTpowerPlanner User Guide
+LT3965 GUI User Manual 
+VManager AP Bridge Integrator's Guide
+View all 9 
+
+Application Note
+AN166 - In Flight Update with Linduino
+AN165 - Multi-Part Clock Synchronization Methods for Large Data Acquisition Systems
+AN161 - LTC6951 Synchronization Manual Design Examples for EZSync, ParallelSync, EZParallelSync and EZ204Sync
+View all 160 
+
+Design Note
+DN566 - Quad IO-Link Master with Higher Current SIO Channels
+DN565 - Simple Power Backup Supply for a 3.3V Rail
+DN1043 - High Efficiency, High Density, Switched Capacitor  Converter Suitable for High Power Applications
+View all 635 
+
+Product Selector Card
+Low EMI μModule Regulators 
+5kVRMS Isolated Switch Controller with Telemetry
+60V Battery Gas Gauge
+View all 159 
+
+LT Journal
+Low Noise, Precision Op Amp Drives High Resolution SAR ADCs
+High Efficiency, 15V Rail-to-Rail Output Synchronous Step-Down Regulator Can Source or Sink 5A
+Electrolytic Capacitor-Based Data Backup Power Solution for a 12V System Regulated from 5V to 36V Input
+View all 904 
+
+Solutions Brochure
+Power Management Solutions for Xilinx FPGAs
+Power Management Solutions for NXP Processors
+Power Management Solutions for Altera FPGAs
+View all 33 
+
+Case Study
+TDG Improves Airport Fueling Safety
+Dust Networks Streamlines Semiconductor Fab
+CITRIS Measures Snow Pack
+View all 6 
+
+White Paper
+WP010 - Security & Reliability
+WP008 - Verifying >99.999% Data Reliability
+WP007 - WSN for the Industrial IoT
+View all 15 
+
+Find all documents for this category
+
+
+
+
+
+
+© 2017  Linear Technology
+
+Site Map
+Send Us Feedback
+Terms of Use
+Privacy Policy
+
+
+
+
+
+
+MYLINEAR LOGIN
+
+CART
+
+SAMPLES ( 0 )
+PURCHASE
+
+
+
+SHARE
+
+ FACEBOOK
+ TWITTER
+ EMAIL
+ MORE
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Linear Technology - Home Page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to navigation
+Skip to content
+Skip to sidebar
+
+
+
+Linear Technology
+
+
+
+
+
+
+ Chinese
+Japanese
+QUALITY
+CAREERS
+CONTACT
+MyLinear
+
+ 
+
+
+PRODUCTS
+SOLUTIONS
+DESIGN SUPPORT
+PURCHASE
+COMPANY
+
+
+
+
+
+
+Product Categories
+
+Signal Conditioning
+
+Operational Amplifiers (Op Amps)
+
+High Speed Amplifiers (GBW > 50MHz)
+Precision Amplifiers (Vos < 0.75mV)
+Low Power Amplifiers (Is < 1mA)
+Low Bias Current Amplifiers (Ib < 300pA)
+Low Noise Amplifiers
+Zero-Drift Amplifiers
+High Output Current Amplifiers
+Current Feedback Amplifiers
+Current Sense Amplifiers
+Instrumentation Amplifiers
+Programmable Gain Amplifiers
+Difference Amplifiers
+Differential Output Amplifiers
+IF Amplifiers / ADC Drivers
+Variable Gain Amplifiers
+Wideband Active Filters
+Unity Gain Buffer Amplifiers
+Video Functions
+Extended Temperature (H & MP) Op Amps
+
+
+Comparators
+
+High Speed Comparators
+Micropower Comparators
+Application Specific Comparators
+Extended Temperature (H & MP) Comparators
+
+
+Filters
+
+Filter Building Blocks
+Lowpass Filters
+Wideband Active Filters
+
+
+Voltage References
+
+Shunt Voltage References
+Series Voltage References
+Micropower Voltage References
+Reference Plus Comparator or Amplifier
+Extended Temperature (H & MP) Voltage References
+
+
+RMS-DC Conversion
+Thermocouple Compensators
+Switched Cap Building Blocks
+Precision Resistor Network
+Signal Chain µModule Receivers
+
+
+Data Conversion
+
+Analog-to-Digital Converters (ADC)
+
+High Speed ADCs (Fs >=10Msps)
+Precision ADCs (Fs < 10Msps)
+Extended Temperature (H & MP) ADCs
+
+
+Digital-to-Analog Converters (DAC)
+
+Voltage Output DACs
+Current Output DACs
+High Speed DACs
+Special Function DACs
+Extended Temperature (H & MP) DACs
+
+
+Switches and Multiplexers
+Signal Chain µModule Receivers
+
+
+Power Management
+
+LDO Linear Regulators
+
+Positive Linear Regulators (LDO)
+Negative Linear Regulators (LDO)
+Discrete Pass Element Linear Regulators (LDO)
+LDO Plus
+Extended Temperature (H & MP) Linear Regulators
+
+
+Switching Regulator
+
+Step-Up (Boost) Regulators
+
+Micropower Boost
+Internal Power Switch Boost
+Multiple Output Boost
+External Power Switch Boost
+
+
+Step-Down (Buck) Regulators
+
+Internal Power Switch Buck
+External Power Switch Buck Controllers
+µModule Buck Regulators
+Micropower Buck Regulators
+High Input Voltage Buck
+Multiple Output Buck
+Buck Regulator Plus LDO
+Digitally Programmable Regulators
+
+
+Buck-Boost Regulators
+
+Internal Power Switch Buck-Boost
+External Power Switch Buck-Boost
+µModule Buck-Boost Regulators
+
+
+Inverting Regulators
+SEPIC Regulators
+Multitopology DC/DC
+µModule Regulators
+
+µModule Buck Regulators
+µModule Buck-Boost Regulators
+µModule Battery Chargers
+Isolated µModule Converters
+Extended Temperature (H & MP) µModule Regulators
+
+
+Flyback, Forward and Isolated Controllers
+Digitally Programmable Regulators
+LCD/CCD/OLED Bias
+DDR Memory/Bus Termination
+Xenon Photoflash Charger
+Ultralow Noise Regulators
+Piezo Microactuator Driver
+Extended Temperature (H & MP) Switching Regulators
+
+
+µModule Regulators
+
+µModule Buck Regulators
+µModule Buck-Boost Regulators
+µModule Battery Chargers
+Isolated µModule Converters
+Extended Temperature (H & MP) µModule Regulators
+
+
+PMIC & Multifunction
+
+PMIC (DC/DC, PowerPath and Battery Charger)
+USB Power Manager (PowerPath, Battery Charger)
+Battery Charger Plus DC/DC
+Multitopology DC/DC
+
+
+Inductorless (Charge Pump) DC/DC Converters
+
+Regulated Step-Up Charge Pumps
+Regulated Step-Down Charge Pumps
+Regulated Buck-Boost Charge Pumps
+Regulated Inverting Charge Pumps
+Unregulated Doubling/Inverting Charge Pumps
+Inductorless (Charge Pump) LED Drivers
+High Voltage Charge Pumps
+GaAsFET Bias Generators
+Flash Memory Programming
+
+
+LED Driver ICs
+
+Step-Up (Boost) LED Drivers
+Step-Down (Buck) LED Drivers
+Buck-Boost LED Drivers
+Multitopology LED Driver
+µModule LED Drivers
+Offline LED Driver
+Inductorless (Charge Pump) LED Drivers
+LED Driver Support Functions
+Extended Temperature (H & MP) LED Drivers
+
+
+Battery Management
+
+Battery Charger IC
+
+Linear Battery Chargers
+Switching Battery Chargers
+µModule Battery Chargers
+Pulse Battery Chargers
+SMBus/I2C/SPI Controlled Battery Chargers
+Buck/Boost Battery Chargers
+
+
+PMIC (DC/DC, PowerPath and Battery Charger)
+USB Power Manager (PowerPath, Battery Charger)
+Battery Charger Plus DC/DC
+Coulomb Counter (Battery Fuel Gauge)
+Multicell Battery Stack Monitor
+Battery Cell Balancers
+Wireless Power Transfer
+
+
+Digital Power System Management
+Current Sources
+Energy Harvesting
+Supercapacitor Chargers
+Power Control
+
+VID Voltage Programmers
+Secondary Side Controllers
+Bridge Drivers
+PCMCIA Switches and Drivers
+PWM Controllers
+Offline Controllers/PFC
+Fan Speed Controllers
+
+
+
+
+Monitor, Control and Protection
+
+Digital Power System Management
+Supervisory Circuits
+
+Single Supply Monitors
+Dual Supply Monitors
+Triple Supply Monitors
+Quad or More Supply Monitors
+
+
+Sequencers, Trackers, and Margining Controllers
+Surge Stopper, Overvoltage & Overcurrent Protection
+Hot Swap Controllers
+
+High Voltage Hot Swap Controllers
+Low Voltage Hot Swap Controllers
+PCI Hot Swap Controllers
+
+
+Power-over-Ethernet (PoE) Interface Controllers
+
+PoE Power Sourcing Equipment (PSE)
+PoE Powered Device (PD)
+
+
+PowerPath Controllers & Ideal Diodes
+Ideal Diode Bridge
+High Side Switches & MOSFET Drivers
+Power Monitors
+Energy Monitors
+Temperature Monitors
+Pushbutton Controllers
+Cable Drop Compensation
+Thermoelectric Cooler Controller
+
+
+Interface
+
+RS232/RS562 Transceivers
+RS485/RS422 Transceivers
+Multiprotocol Transceivers
+Isolated Transceivers
+I2C and SMBus Bus Buffers and Accelerators
+SIM Interface
+IO-Link Transceivers
+CAN Transceivers
+Extended Temperature (H & MP) Interface
+
+
+RF & Wireless
+
+RF Power Detectors
+
+RF RMS Detectors
+RF Schottky Peak Detectors
+RF Log Detectors
+
+
+Upconverting Mixers
+Downconverting Mixers
+I/Q Modulators
+I/Q Demodulators
+PLL Synthesizers & VCOs
+IF Amplifiers / ADC Drivers
+Variable Gain Amplifiers
+Unity Gain Buffer Amplifiers
+Wideband Active Filters
+Low Power Transceivers
+Power Amplifier Controllers
+Optical Communications
+Signal Chain µModule Receivers
+
+
+Timing
+
+Silicon Oscillators
+TimerBlox
+PLL Synthesizers & VCOs
+Clock Generation and Distribution
+Extended Temperature (H & MP) Timing
+
+
+μModule Solutions
+
+µModule Regulators
+
+µModule Buck Regulators
+µModule Buck-Boost Regulators
+µModule Battery Chargers
+Isolated µModule Converters
+Extended Temperature (H & MP) µModule Regulators
+
+
+µModule LED Drivers
+µModule Battery Chargers
+µModule Isolated Transceivers
+Signal Chain µModule Receivers
+
+
+Space & Harsh Environment
+
+Extended Temperature Plastic (H & MP)
+
+Extended Temperature (H & MP) Op Amps
+Extended Temperature (H & MP) Comparators
+Extended Temperature (H & MP) Voltage References
+Extended Temperature (H & MP) ADCs
+Extended Temperature (H & MP) DACs
+Extended Temperature (H & MP) Linear Regulators
+Extended Temperature (H & MP) Switching Regulators
+Extended Temperature (H & MP) µModule Regulators
+Extended Temperature (H & MP) LED Drivers
+Extended Temperature (H & MP) Power Management
+Extended Temperature (H & MP) System Monitor
+Extended Temperature (H & MP) Interface
+Extended Temperature (H & MP) Timing
+
+
+Space Qualified Products
+
+Space Qualified Op Amps
+Space Qualified Comparators
+Space Qualified Linear Regulators
+Space Qualified Switching Regulators
+Space Qualified Voltage References
+Space Qualified Data Converters
+
+
+Military Hermetic (M)
+X Grade Products
+
+
+Wireless Sensor Networks
+
+SmartMesh IP
+SmartMesh WirelessHART
+
+
+
+
+
+
+Two Great Companies Become One
+Events Calendar
+
+
+
+
+
+
+ 
+
+
+
+Product Releases
+
+
+
+
+
+LTC5596
+LTC5596 - 100MHz to 40GHz Linear-in-dB RMS Power Detector with 35dB Dynamic Range
+
+
+LT8390
+LT8390 - 60V Synchronous 4-Switch Buck-Boost Controller with Spread Spectrum
+
+
+LTC3895
+LTC3895 - 150V Low IQ, Synchronous Step-Down DC/DC Controller
+
+
+LTC5553
+LTC5553 - 3GHz to 20GHz Microwave Mixer
+
+
+LTC3871
+LTC3871 - Bidirectional PolyPhase® Synchronous Buck or Boost Controller
+
+
+LTM2894
+LTM2894 - 7500VRMS Isolated USB 2.0 Transceiver with 17.4mm Creepage Distance
+
+
+LTM4631
+LTM4631 - Ultrathin Dual 10A or Single 20A DC/DC μModule Regulator
+
+
+LT6654
+LT6654 - SOT-23 Precision Wide Supply High Output Drive Low Noise Reference
+
+
+LTC3126
+LTC3126 - 42V, 2.5A Synchronous Step-Down Regulator with No-Loss Input PowerPath
+
+
+LTC6803-1 and -3
+LTC6803-1 and -3 - Multicell Battery Stack Monitor
+
+
+LTC4368
+LTC4368 - 100V UV/OV and Reverse Protection Controller with Bidirectional Circuit Breaker
+
+
+LTM8049
+LTM8049 - Dual SEPIC or Inverting μModule DC/DC Converter
+
+
+LTC6992
+LTC6992 - TimerBlox: Voltage-Controlled Pulse Width Modulator (PWM)
+
+
+LTC2944
+LTC2944 - 60V Battery Gas Gauge with Temperature, Voltage and Current Measurement
+
+
+LTC2512-24
+LTC2512-24 - 24-Bit Over-Sampling ADC with Configurable Flat Passband Digital Filter
+
+
+LTC3623
+LTC3623 - 15V, ±5A Rail-to-Rail Synchronous Buck Regulator
+
+
+LTC3256
+LTC3256 - Wide VIN Range Dual Output 350mA Step-Down Charge Pump with Watchdog Timer
+
+
+LTM2893
+LTM2893 - 100MHz Isolated ADC Serial Interface
+
+
+LTM4623
+LTM4623 - Ultrathin 20VIN, 3A Step-Down DC/DC μModule (Power Module) Regulator
+
+
+LT8303
+LT8303 - 100Vin Micropower Isolated Flyback Converter with 150V/450mA Switch
+
+
+LTM4650-1
+LTM4650-1 - Dual 25A or Single 50A µModule Regulator with 0.8% DC and 3% Transient Accuracy
+
+
+LT4295
+LT4295 - IEEE 802.3bt PD Interface with Forward/Flyback Controller, Supports 71W Power over Ethernet
+
+
+LTC6430-15
+LTC6430-15 - High Linearity Differential RF/IF Amplifier/ADC Driver
+
+
+LTC2358-16
+LTC2358-16 - Buffered Octal, 16-Bit, 200ksps/Ch Differential ±10.24V ADC with 30VP-P Common Mode Ran
+
+
+LTC2320-16
+LTC2320-16 - Octal, 16-Bit, 1.5Msps/Ch Simultaneous Sampling ADC
+
+
+LT8335
+LT8335 - Low IQ Boost/SEPIC/ Inverting Converter with 2A, 28V Switch
+
+
+LT8330
+LT8330 - Low IQ Boost/SEPIC/Inverting Converter with 1A, 60V Switch
+
+
+LT6016
+LT6016 - Dual 3.2MHz, 0.8V/μs Low Power, Over-The-Top Precision Op Amp
+
+
+LT8608
+LT8608 - 42V, 1.5A Synchronous Step-Down Regulator with 2.5μA Quiescent Current
+
+
+LT3922
+LT3922 - 36V, 2A Synchronous Step-Up LED Driver
+
+
+
+
+
+
+
+
+View releases for:
+
+ALL CATEGORIES
+Signal Conditioning
+Data Conversion
+Power Management
+Monitor, Control and Protection
+Interface
+RF & Wireless
+Timing
+µModule Solutions
+Space & Harsh Environment
+Wireless Sensor Networks
+
+Within: 
+1 WEEK
+1 MONTH
+6 MONTHS 
+
+
+
+
+FOLLOW US
+
+
+
+
+
+
+
+
+
+
+
+
+LTspice
+
+Download LTspice
+LTspice Demo Circuits
+LTspice Blog
+
+View All Software andSimulation Tools
+
+
+
+Videos
+
+
+
+
+
+Fast 150V Protected High Side Driver
+
+View All Videos
+
+
+
+Documentation
+
+Application Notes
+Solutions Brochures
+LT Journal
+Product Press Releases
+
+View All Technical Documents
+
+
+
+
+
+
+© 2017  Linear Technology
+
+Site Map
+Send Us Feedback
+Terms of Use
+Privacy Policy
+View Mobile Site
+
+
+
+
+
+MYLINEAR LOGIN
+
+CART
+
+SAMPLES ( 0 )
+PURCHASE
+
+
+
+SHARE
+
+ FACEBOOK
+ TWITTER
+ EMAIL
+ MORE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pioneering Technology Corporation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×Close
+Ordering For Multiple Units?
+
+
+If you would like to order for multiple units, please contact our Vice President of Sales:
+			
+Mr. Laird Comber
+1‐905‐712‐2061 ext. 230
+sales@pioneeringtech.com
+
+
+
+Close
+Go to Checkout
+
+
+
+
+
+
+
+Pioneering Technology Corporation
+ 
+
+
+
+
+ 
+
+It's time to start feeling safe in your own home. We'll show you how.
+
+
+
+
+ 
+
+We  make  products  that  help  prevent  cooking  fires.
+
+
+
+
+ 
+
+Did you know? The National Fire Protection Association reported in 2011 that cooking is the #1 cause of household fires and fire injuries.
+
+
+
+
+ 
+
+Pioneering Technology is the industry leader of fire prevention technologies and identifies, engineers and markets breakthrough solutions for existing mainstream appliances.
+
+
+
+
+
+
+
+Products to help save lives:
+
+Residential
+Commercial
+
+
+
+
+
+
+Pioneering  Technology  Corporation  is  a  technology  innovation  company  that  designs  and  produces  fire  prevention  solutions  that  save  lives,  time  and  energy.
+
+
+
+
+
+
+ 
+
+
+SmartBurner™ is a new, state‐of‐the art consumer version of the highly praised commercial product Safe-T-Element. Learn more
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+Safe T Sensor™ is engineered to help prevent microwave fires and nuisance/false alarms, saving lives, preventing injury and saving money. Learn more
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+RangeMinder™ is a new consumer product that helps prevent unattended cooking on gas, ceramic and electric coil stovetops. Learn more
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+What people are saying about our products...
+
+
+
+We will specify Safe T Element for all future projects to help provide a higher level of fire safety in the communities we manage.
+
+
+
+
+
+We would definitely recommend this to all housing authorities to help protect residents and properties from the dangerous risk of cooking fires.
+
+
+
+
+
+This technology does everything that it says it does and we are very pleased with the results.
+
+
+
+
+
+On 2 occasions, a tenant has put things on her stove and fallen asleep. The good news is that while the food burnt, no fire started due to the new Safe T Element.
+
+
+
+
+
+Without reservation, I strongly recommend the use of Safe T Elements for fire‐prevention in multi‐family developments.
+
+
+
+
+
+The Safe T Elements have lowered our electrical consumption and… will pay for themselves in 2 or 3 years.
+
+
+
+
+
+We would most definitely recommend this product to other housing authorities or apartment complexes.
+
+
+
+
+
+Norstar is using a product called Safe T Element… and has been extremely pleased with (the) results… This technology allows food to cook like always, yet helps prevent a fire from happening in the first place.
+
+
+
+
+
+We installed 642 STEs in 2 of our highest risk senior’s buildings. This product did exactly what it claimed to do and we are now taking active steps to expand the use of this technology in the Tampa Housing Authority properties.
+
+
+
+
+
+“This installation and safety initiative is proving to be a great benefit to protecting the people and property at RHA.  We would definetly recommend this technology to all housing authorities to help protect residents and properties from the dangerous risks of cooking fires.”
+
+
+
+
+
+The North Charleston Housing Authority has installed the Safe T Elements in all of its housing units since 2009. Since the installation we have not had one grease fire. Without doubt this product has proven itself to be an excellent fire prevention device.
+
+
+
+
+
+“Since Safe T Element was installed; we have more confidence of the level of fire safety in our group homes and have not experienced a single unattended cooking fire related incident.”
+
+
+
+
+
+
+
+
+
+The Latest
+
+What is RangeMinder?
+The Firefighter’s Friend
+View all resources
+
+
+
+Featured Video
+ Robert Scully interview with CEO Kevin Callahan
+View all videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electronic Component Manufacturers | Perfect Parts | Line Card
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+  Perfect Parts (866)-580-7283  
+  Feedback       
+ 
+
+
+
+
+
+
+
+
+All 
+Exact 
+Generic 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Contact 
+
+
+ submit Requirement  
+ Login 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ All Manufacturers
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+
+
+
+
+
+
+A-BRIGHT INDUSTRIAL CO LTD 
+
+
+
+
+A/D ELECTRONICS INC 
+
+
+
+
+A1 PROS CO LTD 
+
+
+
+
+AAREN TECHNOLOGY LTD 
+
+
+
+
+AAVID THERMALLOY LLC 
+
+
+
+
+AB CONNECTORS LTD 
+
+
+
+
+AB ELEKTRONIK SACHSEN GMBH 
+
+
+
+
+ABB SWITZERLAND LTD SEMICONDUCTORS 
+
+
+
+
+ABBOTT TECHNOLOGIES INC 
+
+
+
+
+ABC TAIWAN ELECTRONICS CORP 
+
+
+
+
+ABILIS SYSTEMS 
+
+
+
+
+ABL LTD 
+
+
+
+
+ABORN ELECTRONICS 
+
+
+
+
+ABRACON CORP 
+
+
+
+
+AC INTERFACE INC 
+
+
+
+
+AC PHOTONICS INC 
+
+
+
+
+ACAM MESSELECTRONIC GMBH 
+
+
+
+
+ACCORD SOFTWARE & SYSTEMS PVT LTD 
+
+
+
+
+ACCULIN INC 
+
+
+
+
+ACCUTEK MICROCIRCUIT CORP 
+
+
+
+
+ACME TRANSFORMER 
+
+
+
+
+ACMELUX CO LTD 
+
+
+
+
+ACON INC 
+
+
+
+
+ACOPIAN TECHNICAL CO 
+
+
+
+
+ACTEL CORP 
+
+
+
+
+ACTIONS SEMICONDUCTOR CO LTD 
+
+
+
+
+ACTISYS CORP 
+
+
+
+
+ACTIVE-SEMI INC 
+
+
+
+
+ADAM TECHNOLOGIES INC 
+
+
+
+
+ADAMANT KOGYO CO LTD 
+
+
+
+
+ADAPTIVE NETWORKS INC 
+
+
+
+
+ADC 
+
+
+
+
+ADDA CORP 
+
+
+
+
+ADESTO TECHNOLOGIES CORP 
+
+
+
+
+ADVANCED ANALOG 
+
+
+
+
+ADVANCED ANALOGIC TECHNOLOGIES INC 
+
+
+
+
+ADVANCED CERAMIC X CORP 
+
+
+
+
+ADVANCED CONTROL COMPONENTS INC 
+
+
+
+
+ADVANCED CRYSTAL TECHNOLOGY 
+
+
+
+
+ADVANCED ELECTRONIC PACKAGING 
+
+
+
+
+ADVANCED INTERCONNECTIONS CORP 
+
+
+
+
+ADVANCED LINEAR DEVICES INC 
+
+
+
+
+ADVANCED MICRO DEVICES INC 
+
+
+
+
+ADVANCED MICRO SYSTEMS INC 
+
+
+
+
+ADVANCED MICROELECTRONIC PRODUCTS INC 
+
+
+
+
+ADVANCED MILLIWAVE LABORATORIES INC 
+
+
+
+
+ADVANCED MONOLITHIC SYSTEMS INC 
+
+
+
+
+ADVANCED OPTOELECTRONICS (APPLIED SOLAR) 
+
+
+
+
+ADVANCED PHOTONIX INC 
+
+
+
+
+ADVANCED POWER ELECTRONICS CORP 
+
+
+
+
+ADVANCED POWER SOLUTIONS 
+
+
+
+
+ADVANCED POWER TECHNOLOGY INC 
+
+
+
+
+ADVANCED PRINTED CIRCUIT TECHNOLOGY 
+
+
+
+
+ADVANCED SEMICONDUCTOR INC 
+
+
+
+
+ADVANCED TECHNICAL MATERIALS INC 
+
+
+
+
+ADVANCED THERMAL SOLUTIONS INC 
+
+
+
+
+ADVANCED-CONNECTEK INC 
+
+
+
+
+AEL CRYSTALS LTD 
+
+
+
+
+AEM INC 
+
+
+
+
+AERO ELECTRIC CONNECTOR INC 
+
+
+
+
+AERO-ELECTRIC CONNECTOR INC 
+
+
+
+
+AEROFLEX COLORADO SPRINGS 
+
+
+
+
+AEROFLEX CONTROL COMPONENTS INC 
+
+
+
+
+AEROFLEX MICROELECTRONIC SOLUTIONS 
+
+
+
+
+AEROFLEX PLAINVIEW 
+
+
+
+
+AEROFLEX RAD 
+
+
+
+
+AEROFLEX/INMET INC 
+
+
+
+
+AEROFLEX/KDI INC 
+
+
+
+
+AEROFLEX/METELICS INC 
+
+
+
+
+AEROFLEX/MICROMETRICS 
+
+
+
+
+AEROFLEX/WEINSCHEL INC 
+
+
+
+
+AEROVOX CORP 
+
+
+
+
+AGAMEM MICROELECTRONICS INC 
+
+
+
+
+AGERE SYSTEMS INC 
+
+
+
+
+AGILENT TECHNOLOGIES INC 
+
+
+
+
+AICHI MICRO INTELLIGENT CORP 
+
+
+
+
+AIMTEC INC 
+
+
+
+
+AIRBORN INC 
+
+
+
+
+AIXIN OPTO-ELECTRICAL TECHNOLOGY CO LTD 
+
+
+
+
+AKAHANE ELECTRONICS IND CORP 
+
+
+
+
+AKER TECHNOLOGY CO LTD 
+
+
+
+
+AKUSTICA INC 
+
+
+
+
+ALCATEL MICROELECTRONICS N V 
+
+
+
+
+ALCOR MICRO CORP 
+
+
+
+
+ALEPH AMERICA CORP 
+
+
+
+
+ALFRED TRONSER GMBH 
+
+
+
+
+ALI CORP 
+
+
+
+
+ALL BEST ELECTRONICS CO LTD 
+
+
+
+
+ALLEGRO MICROSYSTEMS LLC 
+
+
+
+
+ALLEN AVIONICS INC 
+
+
+
+
+ALLEN-BRADLEY CO INC 
+
+
+
+
+ALLIANCE FIBER OPTICS PRODUCTS INC 
+
+
+
+
+ALLIANCE MEMORY INC 
+
+
+
+
+ALLIANCE SEMICONDUCTOR CORP 
+
+
+
+
+ALLIED COMPONENTS INTERNATIONAL 
+
+
+
+
+ALLIED CONTROLS INC 
+
+
+
+
+ALLIED ELECTRONIC & SEMICONDUCTOR TECHNOLOGY INC 
+
+
+
+
+ALLIED SIGNAL AEROSPACE CO 
+
+
+
+
+ALLWINNER TECHNOLOGY CO LTD 
+
+
+
+
+ALOGICS CO LTD 
+
+
+
+
+ALPHA & OMEGA SEMICONDUCTOR LTD 
+
+
+
+
+ALPHA CO LTD 
+
+
+
+
+ALPHA INDUSTRIES INC 
+
+
+
+
+ALPHA MICROELECTRONICS GMBH 
+
+
+
+
+ALPHA PRODUCTS INC 
+
+
+
+
+ALPHA SEMICONDUCTOR 
+
+
+
+
+ALPS ELECTRIC (USA) INC 
+
+
+
+
+ALPS ELECTRIC CO LTD 
+
+
+
+
+ALPWISE 
+
+
+
+
+ALTECH CORP 
+
+
+
+
+ALTERA CORP 
+
+
+
+
+ALUTRONIC KUHLKORPER GMBH & CO KG 
+
+
+
+
+AMAZING MICROELECTRONIC CORP 
+
+
+
+
+AMCO TEC INTERNATIONAL INC 
+
+
+
+
+AMCOM COMMUNICATIONS INC 
+
+
+
+
+AME INC 
+
+
+
+
+AMECON INC 
+
+
+
+
+AMERICA SEMICONDUCTOR LLC 
+
+
+
+
+AMERICAN ACCURATE COMPONENTS INC 
+
+
+
+
+AMERICAN BRIGHT OPTOELECTRONICS CORP 
+
+
+
+
+AMERICAN MICROSEMICONDUCTOR INC 
+
+
+
+
+AMERICAN POWER DESIGN INC 
+
+
+
+
+AMERICAN POWER DEVICES INC 
+
+
+
+
+AMERICAN POWER MANAGEMENT INC 
+
+
+
+
+AMERICAN RELAYS INC 
+
+
+
+
+AMERICAN RESEARCH & ENGINEERING 
+
+
+
+
+AMERICAN TECHNICAL CERAMICS CORP 
+
+
+
+
+AMERICAN ZETTLER INC 
+
+
+
+
+AMETEK 
+
+
+
+
+AMI SEMICONDUCTOR 
+
+
+
+
+AMIC TECHNOLOGY CORP 
+
+
+
+
+AMIDON ASSOCIATES INC 
+
+
+
+
+AMPHENOL CORP 
+
+
+
+
+AMPHENOL NEXUS TECHNOLOGIES INC 
+
+
+
+
+AMPHION SEMICONDUCTOR LTD 
+
+
+
+
+AMPIRE CO LTD 
+
+
+
+
+AMPLIFONIX 
+
+
+
+
+AMPLITRONIX LLC 
+
+
+
+
+AMPTEK INC 
+
+
+
+
+AMS AG 
+
+
+
+
+AMS-TAOS USA INC 
+
+
+
+
+AMTEK SEMICONDUCTORS CO LTD 
+
+
+
+
+AMULET TECHNOLOGIES LLC 
+
+
+
+
+AMVECO MAGNETICS INC 
+
+
+
+
+ANACHIP CORP 
+
+
+
+
+ANADIGICS INC 
+
+
+
+
+ANADIGM INC 
+
+
+
+
+ANAHEIM AUTOMATION 
+
+
+
+
+ANALOG DEVICES INC 
+
+
+
+
+ANALOG INTEGRATIONS CORP 
+
+
+
+
+ANALOG MICROELECTRONICS GMBH 
+
+
+
+
+ANALOG MODULES INC 
+
+
+
+
+ANALOG POWER INC 
+
+
+
+
+ANALOG SYSTEMS 
+
+
+
+
+ANALOG TECHNOLOGIES INC 
+
+
+
+
+ANALOGIC CORP 
+
+
+
+
+ANALOGIX SEMICONDUCTOR INC 
+
+
+
+
+ANAREN INC 
+
+
+
+
+ANDERS ELECTRONICS 
+
+
+
+
+ANDERSEN LABORATORIES INC 
+
+
+
+
+ANDERSON POWER PRODUCTS 
+
+
+
+
+ANDHRA ELECTRONICS LIMITED 
+
+
+
+
+ANPEC ELECTRONICS CORP 
+
+
+
+
+ANRITSU CORP 
+
+
+
+
+ANSALDO S P A - DIV ELECTRONICA 
+
+
+
+
+ANTCOM CORP 
+
+
+
+
+ANTEL OPTRONICS INC 
+
+
+
+
+ANTENOVA LTD 
+
+
+
+
+APAC OPTO ELECTRONICS INC 
+
+
+
+
+APACER TECHNOLOGY INC 
+
+
+
+
+APEM COMPONENTS INC 
+
+
+
+
+APEX MICROTECHNOLOGY INC 
+
+
+
+
+APEX SCIENCE & ENGINEERING CORP 
+
+
+
+
+API DELEVAN 
+
+
+
+
+API ELECTRONICS GROUP INC 
+
+
+
+
+APLUS FLASH TECHNOLOGY INC 
+
+
+
+
+APLUS INTEGRATED CIRCUITS INC 
+
+
+
+
+APPLIED ENGINEERING PRODUCTS 
+
+
+
+
+APPLIED MICRO CIRCUITS CORP 
+
+
+
+
+APPLIED OPTOELECTRONICS INC 
+
+
+
+
+APPOINTECH INC 
+
+
+
+
+APTA GROUP INC 
+
+
+
+
+APTEK WILLIAMS INC 
+
+
+
+
+APTINA IMAGING CORP 
+
+
+
+
+APX TECHNOLOGIES 
+
+
+
+
+APX-CRYSTAL 
+
+
+
+
+ARCEL 
+
+
+
+
+ARCO ELECTRONICS 
+
+
+
+
+ARCOLECTRIC 
+
+
+
+
+ARGUS-ET 
+
+
+
+
+ARIES ELECTRONICS INC 
+
+
+
+
+ARIZONA MICROTEK INC 
+
+
+
+
+ARLITECH ELECTRONIC CORP 
+
+
+
+
+ARM LTD 
+
+
+
+
+AROMAT CORP 
+
+
+
+
+ARRA INC 
+
+
+
+
+ARRAY CONNECTOR CORP 
+
+
+
+
+ARRAY MICROSYSTEMS INC 
+
+
+
+
+ARTESYN TECHNOLOGIES INC 
+
+
+
+
+ASAHI KASEI MICRODEVICES CORP 
+
+
+
+
+ASAHI KASEI POWER DEVICES CORP 
+
+
+
+
+ASB INC 
+
+
+
+
+ASC CAPACITORS 
+
+
+
+
+ASCEND FREQUENCY DEVICES 
+
+
+
+
+ASIX ELECTRONICS CORP 
+
+
+
+
+ASJ COMPONENTS INC 
+
+
+
+
+ASMEDIA TECHNOLOGY INC 
+
+
+
+
+ASPEED TECHNOLOGY INC 
+
+
+
+
+ASSMANN ELECTRONICS INC 
+
+
+
+
+ASSOCIATED COMPONENTS TECHNOLOGY INC 
+
+
+
+
+ASSOCIATED ENTERPRISES 
+
+
+
+
+ASTEC AMERICA INC 
+
+
+
+
+ASTEC STANDARD POWER 
+
+
+
+
+ASTEMA 
+
+
+
+
+ASTRODYNE INC 
+
+
+
+
+ASTROLAB INC 
+
+
+
+
+ASTRON TECHNOLOGY CORP 
+
+
+
+
+AT & T MICROELECTRONICS 
+
+
+
+
+ATC DIVERSIFIED ELECTRONICS 
+
+
+
+
+ATE ELECTRONICS SRL 
+
+
+
+
+ATECH OEM INC 
+
+
+
+
+ATI-INTERCO 
+
+
+
+
+ATLANTIC MAGNETICS INC 
+
+
+
+
+ATLANTIC MICROWAVE LTD 
+
+
+
+
+ATMEL CORP 
+
+
+
+
+ATMEL GRENOBLE 
+
+
+
+
+ATMEL WIRELESS & MICROCONTROLLERS 
+
+
+
+
+AUCTOR CORP 
+
+
+
+
+AUDIENCE INC 
+
+
+
+
+AUK CONTRACTORS CO LTD 
+
+
+
+
+AURIS GMBH 
+
+
+
+
+AUSTIN SEMICONDUCTOR INC 
+
+
+
+
+AUTHENTEC INC 
+
+
+
+
+AUTOMATIC CONNECTOR 
+
+
+
+
+AVAGO TECHNOLOGIES INC 
+
+
+
+
+AVANT TECHNOLOGY 
+
+
+
+
+AVANTEK INC 
+
+
+
+
+AVASEM 
+
+
+
+
+AVED MEMORY PRODUCTS 
+
+
+
+
+AVEL LINDBERG 
+
+
+
+
+AVERLOGIC TECHNOLOGIES CORP 
+
+
+
+
+AVX CORP 
+
+
+
+
+AXELITE TECHNOLOGY CO LTD 
+
+
+
+
+AXON CABLE SAS 
+
+
+
+
+AZOTEQ LTD 
+
+
+
+
+
+
+
+
+BABCOCK INC 
+
+
+
+
+BAE SYSTEMS 
+
+
+
+
+BAE SYSTEMS PLC 
+
+
+
+
+BALLUFF INC 
+
+
+
+
+BARKER MICROFARADS INC 
+
+
+
+
+BARNBROOK SYSTEMS LTD 
+
+
+
+
+BARRY INDUSTRIES INC 
+
+
+
+
+BAUMER ELECTRIC AG 
+
+
+
+
+BCD SEMICONDUCTOR MANUFACTURING LTD 
+
+
+
+
+BECK IPC GMBH 
+
+
+
+
+BECKHOFF AUTOMATION GMBH 
+
+
+
+
+BEDFORD OPTO TECHNOLOGY LTD 
+
+
+
+
+BEI DUNCAN ELECTRONICS 
+
+
+
+
+BEI SENSORS 
+
+
+
+
+BEIJING CRYSTAL ELECTRONICS CO LTD 
+
+
+
+
+BEL FUSE INC 
+
+
+
+
+BELDEN INC 
+
+
+
+
+BENCHMARQ MICROELECTRONICS INC 
+
+
+
+
+BERG ELECTRONICS 
+
+
+
+
+BERNSTEIN LTD 
+
+
+
+
+BETA DYNE INC 
+
+
+
+
+BETA TRANSFORMER TECHNOLOGY CORP 
+
+
+
+
+BH ELECTRONICS 
+
+
+
+
+BHARAT ELECTRONICS LTD 
+
+
+
+
+BI TECHNOLOGIES CORP 
+
+
+
+
+BIAS POWER INC 
+
+
+
+
+BIG-SUN ELECTRONICS CO LTD 
+
+
+
+
+BIRD ELECTRONIC CORP 
+
+
+
+
+BIVAR INC 
+
+
+
+
+BIWIN TECHNOLOGIES CO LTD 
+
+
+
+
+BKC SEMICONDUCTORS INC 
+
+
+
+
+BLACK & DECKER CORP 
+
+
+
+
+BLACK BOX NETWORK SERVICES UK LTD 
+
+
+
+
+BLILEY TECHNOLOGIES INC 
+
+
+
+
+BLOCK TRANSFORMATOREN ELEKTRONIK GMBH & CO 
+
+
+
+
+BLOCKMASTER ELECTRONICS INC 
+
+
+
+
+BLUE SEA SYSTEMS 
+
+
+
+
+BLUE SKY RESEARCH 
+
+
+
+
+BLUERADIOS INC 
+
+
+
+
+BOCA SEMICONDUCTOR CORP 
+
+
+
+
+BOMAR INTERCONNECT PRODUCTS INC 
+
+
+
+
+BOTHHAND ENTERPRISE INC 
+
+
+
+
+BOTHHAND USA 
+
+
+
+
+BOURNS INC 
+
+
+
+
+BOWEI INTEGRATED CIRCUITS CO LTD 
+
+
+
+
+BREL INTERNATIONAL INC 
+
+
+
+
+BREN-TRONICS INC 
+
+
+
+
+BRIGHT LED ELECTRONICS CORP 
+
+
+
+
+BRIGHTKING INC 
+
+
+
+
+BROADCOM CORP 
+
+
+
+
+BROADLAKE CO LTD 
+
+
+
+
+BROOKTREE CORP 
+
+
+
+
+BULGIN COMPONENTS PLC 
+
+
+
+
+BULL MICRAL OF AMERICA INC 
+
+
+
+
+BURNDY CORP 
+
+
+
+
+BURR-BROWN CORP 
+
+
+
+
+BYTESONIC ELECTRONICS CO LTD 
+
+
+
+
+
+
+
+
+C & K COMPONENTS INC 
+
+
+
+
+C&D TECHNOLOGIES INC 
+
+
+
+
+C-CUBE MICROSYSTEMS 
+
+
+
+
+C-MAC MICROTECHNOLOGY 
+
+
+
+
+C-MEDIA ELECTRONICS INC 
+
+
+
+
+C-ONE TECHNOLOGY CORP 
+
+
+
+
+CADDELL BURNS MFG CO INC 
+
+
+
+
+CADDOCK ELECTRONICS INC 
+
+
+
+
+CADEKA MICROCIRCUITS LLC 
+
+
+
+
+CAL CRYSTAL LAB / COMCLOK INC 
+
+
+
+
+CAL-CHIP ELECTRONICS INC 
+
+
+
+
+CALEX MFG CO INC 
+
+
+
+
+CALIBER ELECTRONICS INC 
+
+
+
+
+CALIFORNIA EASTERN LABORATORIES 
+
+
+
+
+CALIFORNIA MICRO DEVICES CORP 
+
+
+
+
+CALMOS SYSTEMS INC 
+
+
+
+
+CALMOS TECHNOLOGY INC 
+
+
+
+
+CALOGIC LLC 
+
+
+
+
+CALTRON DEVICES LTD 
+
+
+
+
+CAMBRIDGE ELECTRONIC INDUSTRIES LTD 
+
+
+
+
+CAMDEN ELECTRONICS LTD 
+
+
+
+
+CANADIAN THERMOSTATS & CONTROL DEVICES LTD 
+
+
+
+
+CANARE ELECTRIC CO LTD 
+
+
+
+
+CAP-XX PTY LTD 
+
+
+
+
+CAPAX TECHNOLOGIES INC 
+
+
+
+
+CAPITAL EQUIPMENT CORP 
+
+
+
+
+CARDINAL COMPONENTS INC 
+
+
+
+
+CARLING TECHNOLOGIES INC 
+
+
+
+
+CARLINGSWITCH INC 
+
+
+
+
+CARLISLE INTERCONNECT TECHNOLOGIES 
+
+
+
+
+CARLO GAVAZZI INC 
+
+
+
+
+CARROLL & MEYNELL TRANSFORMERS LTD 
+
+
+
+
+CATALYST SEMICONDUCTOR INC 
+
+
+
+
+CAVIUM NETWORKS 
+
+
+
+
+CAYWOOD ELECTRONICS INC 
+
+
+
+
+CELDUC RELAIS 
+
+
+
+
+CELERITEK INC 
+
+
+
+
+CELESTICA INC 
+
+
+
+
+CENTELLAX INC 
+
+
+
+
+CENTRAL COMPONENTS MANUFACTURING 
+
+
+
+
+CENTRAL SEMICONDUCTOR CORP 
+
+
+
+
+CENTRAL TECHNOLOGIES 
+
+
+
+
+CENTRONIC INC E-O DIV 
+
+
+
+
+CENTRONIC LTD 
+
+
+
+
+CEPHOS ELECTRONIC CIRCUITS LTD 
+
+
+
+
+CERAMATE TECHNICAL CO LTD 
+
+
+
+
+CERATECH CORP 
+
+
+
+
+CERMATE TECHNICAL CO LTD 
+
+
+
+
+CERMETEK MICROELECTRONICS INC 
+
+
+
+
+CHAMPION MICROELECTRONIC CORP 
+
+
+
+
+CHAMPION TECHNOLOGIES INC 
+
+
+
+
+CHAMPS TECHNOLOGIES CO LTD 
+
+
+
+
+CHANGJIANG CONNECTORS CO LTD 
+
+
+
+
+CHANGZHOU PIONEER ELECTRONIC CO LTD 
+
+
+
+
+CHAOZHOU THREE-CIRCLE (GROUP) CO LTD 
+
+
+
+
+CHEN YANG TECHNOLOGIES GMBH & CO KG 
+
+
+
+
+CHENG-YI ELECTRONIC CO LTD 
+
+
+
+
+CHENGDU SINO MICROELECTRONICS SYSTEM CO LTD 
+
+
+
+
+CHENGDU SINO MICROELECTRONICS TECHNOLOGY CO LTD 
+
+
+
+
+CHENMKO ENTERPRISE CO LTD 
+
+
+
+
+CHERRY ELECTRICAL PRODUCTS 
+
+
+
+
+CHERRY SEMICONDUCTOR CORP 
+
+
+
+
+CHESEN ELECTRONICS CORP 
+
+
+
+
+CHICAGO MINIATURE LIGHTING LLC 
+
+
+
+
+CHIEFDOM ELECTRONIC CO LTD 
+
+
+
+
+CHILISIN ELECTRONICS CORP 
+
+
+
+
+CHINA SEMICONDUCTOR CORP 
+
+
+
+
+CHINFA ELECTRONICS IND CO LTD 
+
+
+
+
+CHINGIS TECHNOLOGY CORP 
+
+
+
+
+CHINO-EXCEL TECHNOLOGY CO LTD 
+
+
+
+
+CHIPCON AS 
+
+
+
+
+CHIPHOMER TECHNOLOGY LTD 
+
+
+
+
+CHIPLUS SEMICONDUCTOR CORP 
+
+
+
+
+CHRONTEL 
+
+
+
+
+CII TECHNOLOGY 
+
+
+
+
+CINCH CONNECTIVITY SOLUTIONS 
+
+
+
+
+CINCH CONNECTORS 
+
+
+
+
+CINCON ELECTRONICS CO LTD 
+
+
+
+
+CINETECH IND CO LTD 
+
+
+
+
+CIRCUIT ASSEMBLY CORP 
+
+
+
+
+CIRCUIT TECHNOLOGY INC 
+
+
+
+
+CIRRUS LOGIC INC 
+
+
+
+
+CISSOID S A 
+
+
+
+
+CIT RELAY & SWITCH 
+
+
+
+
+CITIZEN ELECTRONICS CO LTD 
+
+
+
+
+CITIZEN FINEDEVICE CO LTD 
+
+
+
+
+CLAIREX TECHNOLOGIES INC 
+
+
+
+
+CLAROSTAT SENSORS AND CONTROLS INC 
+
+
+
+
+CLIFF ELECTRONIC COMPONENTS LTD 
+
+
+
+
+CLOVER DISPLAY LTD 
+
+
+
+
+CMD TECHNOLOGY INC 
+
+
+
+
+CML MICROCIRCUITS LTD 
+
+
+
+
+CML MICROSYSTEMS PLC 
+
+
+
+
+CML TECHNOLOGIES GMBH & CO KG 
+
+
+
+
+CMOS SENSOR INC 
+
+
+
+
+COAST ADVANCED CHIP MAGNETICS 
+
+
+
+
+COAXIAL COMPONENTS CORP 
+
+
+
+
+COBHAM PLC 
+
+
+
+
+CODE MERCENARIES 
+
+
+
+
+COFAN USA INC 
+
+
+
+
+COIL WINDING SPECIALIST INC 
+
+
+
+
+COILCRAFT INC 
+
+
+
+
+COILMASTER ELECTRONICS CO LTD 
+
+
+
+
+COILTRONICS INC 
+
+
+
+
+COLE INSTRUMENT CORP 
+
+
+
+
+COLIBRYS SA 
+
+
+
+
+COLLINS ELECTRONICS CORP 
+
+
+
+
+COLOGNE CHIP AG 
+
+
+
+
+COM SEMICONDUCTORS 
+
+
+
+
+COMAIR ROTRON 
+
+
+
+
+COMAT AG 
+
+
+
+
+COMAX INDUSTRIAL CO LTD 
+
+
+
+
+COMCHIP TECHNOLOGY CORP 
+
+
+
+
+COMET PLASMA CONTROL TECHNOLOGIES 
+
+
+
+
+COMLINEAR CORP 
+
+
+
+
+COMMSCOPE INC 
+
+
+
+
+COMMUNICATIONS & POWER INDUSTRIES 
+
+
+
+
+COMPEL ELECTRONICS SPA 
+
+
+
+
+COMPENSATED DEVICES INC 
+
+
+
+
+COMPEX CORP 
+
+
+
+
+COMPONENT GENERAL INC 
+
+
+
+
+COMPUTER CONVERSIONS CORP 
+
+
+
+
+COMSET SEMICONDUCTORS 
+
+
+
+
+COMTECH AHA CORP 
+
+
+
+
+COMUS INTERNATIONAL 
+
+
+
+
+CONCORD ELECTRONICS CORP 
+
+
+
+
+CONCORD SEMICONDUCTOR CORP 
+
+
+
+
+CONDITIONING SEMICONDUCTOR DEVICES CORP 
+
+
+
+
+CONEC CORP 
+
+
+
+
+CONEXANT SYSTEMS 
+
+
+
+
+CONEXCON GROUP 
+
+
+
+
+CONNECT ONE SEMICONDUCTORS INC 
+
+
+
+
+CONNECT-TECH PRODUCTS CORP 
+
+
+
+
+CONNECTEURS ELECTRIQUES DEUTSCH 
+
+
+
+
+CONNOR WINFIELD CORP 
+
+
+
+
+CONQUER ELECTRONICS CO LTD 
+
+
+
+
+CONTINENTAL DEVICE INDIA LTD 
+
+
+
+
+CONTROL SCIENCES INC 
+
+
+
+
+COOL INNOVATIONS INC 
+
+
+
+
+COOL SHIELD INC 
+
+
+
+
+COOPER ELECTRONIC TECHNOLOGIES 
+
+
+
+
+COOPER INDUSTRIES 
+
+
+
+
+COORS COMPONENTS INC 
+
+
+
+
+CORCOM INC 
+
+
+
+
+CORETEK OPTO CORP 
+
+
+
+
+CORNELL-DUBILIER ELECTRONICS INC 
+
+
+
+
+CORNING CABLE SYSTEMS 
+
+
+
+
+CORNING FREQUENCY CONTROL INC 
+
+
+
+
+CORNING GILBERT INC 
+
+
+
+
+CORNING INC 
+
+
+
+
+CORNING LASERTRON INC 
+
+
+
+
+CORPORATION SONEET 
+
+
+
+
+CORTINA SYSTEMS INC 
+
+
+
+
+COSEL CO LTD 
+
+
+
+
+COSEL USA INC 
+
+
+
+
+COSMO ELECTRONICS CORP 
+
+
+
+
+COTO TECHNOLOGY INC 
+
+
+
+
+COTSWORKS LLC 
+
+
+
+
+CR MAGNETICS INC 
+
+
+
+
+CRAMER COIL AND TRANSFORMER CO INC 
+
+
+
+
+CRANE CONNECTORS 
+
+
+
+
+CRANE ELECTRONICS INC 
+
+
+
+
+CREE INC 
+
+
+
+
+CRESCENIC TECHNOLOGY INC 
+
+
+
+
+CRIMSON SEMICONDUCTOR INC 
+
+
+
+
+CRISTEK INTERCONNECTS INC 
+
+
+
+
+CROSSPOINT SOLUTIONS 
+
+
+
+
+CROUZET CORP/GORDOS 
+
+
+
+
+CROUZET LTD 
+
+
+
+
+CRYDOM INC 
+
+
+
+
+CRYSTAL CLEAR TECHNOLOGY SDN BHD 
+
+
+
+
+CRYSTAL SEMICONDUCTOR CORP 
+
+
+
+
+CRYSTALFONTZ AMERICA INC 
+
+
+
+
+CRYSTALONICS INC 
+
+
+
+
+CRYSTEK CRYSTALS CORP 
+
+
+
+
+CSR PLC 
+
+
+
+
+CTS CORP 
+
+
+
+
+CTS VALPEY CORP 
+
+
+
+
+CTT INC 
+
+
+
+
+CUI INC 
+
+
+
+
+CURTIS INSTRUMENTS INC 
+
+
+
+
+CUSTOM COMPONENTS INC 
+
+
+
+
+CUSTOM MICRO SYSTEMS INC 
+
+
+
+
+CUSTOM MMIC DESIGN SERVICES INC 
+
+
+
+
+CVILUX CORP 
+
+
+
+
+CW INDUSTRIES 
+
+
+
+
+CYBERNETIC MICRO SYSTEMS 
+
+
+
+
+CYGNAL INTEGRATED PRODUCTS INC 
+
+
+
+
+CYMBET CORP 
+
+
+
+
+CYNERGY3 COMPONENTS LTD 
+
+
+
+
+CYOPTICS INC 
+
+
+
+
+CYPRESS SEMICONDUCTOR CORP 
+
+
+
+
+CYRIX CORP 
+
+
+
+
+CYRUSTEK CORP 
+
+
+
+
+
+
+
+
+DACO SEMICONDUCTOR CO LTD 
+
+
+
+
+DAICO INDUSTRIES INC 
+
+
+
+
+DAILY SILVER IMP MICROELECTRONICS CO LTD 
+
+
+
+
+DAISHINKU CORP 
+
+
+
+
+DALLAS SEMICONDUCTOR 
+
+
+
+
+DATA DELAY DEVICES INC 
+
+
+
+
+DATA DEVICE CORP 
+
+
+
+
+DATA DISPLAY PRODUCTS 
+
+
+
+
+DATAKEY ELECTRONICS 
+
+
+
+
+DATALINEAR 
+
+
+
+
+DATATRONIC DISTRIBUTION INC 
+
+
+
+
+DATATRONICS LTD 
+
+
+
+
+DATEL INC 
+
+
+
+
+DAU SEMICONDUCTOR INC 
+
+
+
+
+DAVICOM SEMICONDUCTOR INC 
+
+
+
+
+DAWN ELECTRONICS INC 
+
+
+
+
+DB LECTRO INC 
+
+
+
+
+DC COMPONENTS CO LTD 
+
+
+
+
+DDK LTD 
+
+
+
+
+DEARBORN ELECTRONICS INC 
+
+
+
+
+DEFENSE LOGISTICS AGENCY 
+
+
+
+
+DELKIN DEVICES INC 
+
+
+
+
+DELPHI CONNECTION SYSTEMS 
+
+
+
+
+DELTA ELECTRONICS INC 
+
+
+
+
+DELTA ELECTRONICS MANUFACTURING CORP 
+
+
+
+
+DELTA SYSTEMS INC 
+
+
+
+
+DELTROL CONTROLS 
+
+
+
+
+DELTRON AG 
+
+
+
+
+DEM MANUFACTURING LTD 
+
+
+
+
+DENSITRON TECHNOLOGIES PLC 
+
+
+
+
+DENYO EUROPA GMBH 
+
+
+
+
+DEUTRON ELECTRONICS CORP 
+
+
+
+
+DEUTRONIC ELEKTRONIK GMBH 
+
+
+
+
+DEUTSCH CORP 
+
+
+
+
+DEVASYS EMBEDDED SYSTEMS 
+
+
+
+
+DEVICE ENGINEERING INC 
+
+
+
+
+DEXTER RESEARCH CENTER INC 
+
+
+
+
+DIALIGHT BLP COMPONENTS LTD 
+
+
+
+
+DIALIGHT CORP 
+
+
+
+
+DIALOG SEMICONDUCTOR GMBH 
+
+
+
+
+DIAMOND SA 
+
+
+
+
+DICON FIBEROPTICS INC 
+
+
+
+
+DICONEX 
+
+
+
+
+DIELECTRIC LABORATORIES INC 
+
+
+
+
+DIGI INTERNATIONAL INC 
+
+
+
+
+DIGITAL VOICE SYSTEMS INC 
+
+
+
+
+DIGITRAN 
+
+
+
+
+DIGITRON ELECTRONIC CORP 
+
+
+
+
+DIODES INC 
+
+
+
+
+DIONICS-USA INC 
+
+
+
+
+DIOTEC ELECTRONICS CORP 
+
+
+
+
+DIOTEC SEMICONDUCTOR AG 
+
+
+
+
+DIPTRONICS MANUFACTURING INC 
+
+
+
+
+DIRECTED ENERGY INC 
+
+
+
+
+DISCERA INC 
+
+
+
+
+DISCRETE SEMICONDUCTOR INDUSTRIES 
+
+
+
+
+DISPLAYS INC 
+
+
+
+
+DISPLAYTECH LTD 
+
+
+
+
+DL INSTRUMENTS LLC 
+
+
+
+
+DMC CO LTD 
+
+
+
+
+DOESTEK CO LTD 
+
+
+
+
+DOLPHIN INTERCONNECT SOLUTIONS ASA 
+
+
+
+
+DOMINANT OPTO TECHNOLOGIES SDN BHD 
+
+
+
+
+DON CONNEX ELECTRONICS CO LTD 
+
+
+
+
+DONGGUAN HONGRU CONNECTORS CO LTD 
+
+
+
+
+DONGJIN TECHNOLOGY INNOVATION CO LTD 
+
+
+
+
+DONGWOON ANATECH 
+
+
+
+
+DOW-KEY MICROWAVE CORP 
+
+
+
+
+DPA COMPONENTS INTERNATIONAL 
+
+
+
+
+DPAC TECHNOLOGIES CORP 
+
+
+
+
+DRI RELAYS INC 
+
+
+
+
+DSP GROUP INC 
+
+
+
+
+DUBILIER 
+
+
+
+
+DUCOMMUN TECHNOLOGIES INC 
+
+
+
+
+DYMEC INC 
+
+
+
+
+DYNACHIP CORP 
+
+
+
+
+DYNAWAVE INC 
+
+
+
+
+DYNEX SEMICONDUCTOR LTD 
+
+
+
+
+DYTRAN INSTRUMENTS INC 
+
+
+
+
+
+
+
+
+E & E MAGNETIC PRODUCTS LTD 
+
+
+
+
+E-ONE MOLI ENERGY CORP 
+
+
+
+
+E-SWITCH INC 
+
+
+
+
+E-T-A ELEKTROTECHNISCHE APPARATE GMBH 
+
+
+
+
+E-TEC INTERCONNECT LTD 
+
+
+
+
+E2V TECHNOLOGIES PLC 
+
+
+
+
+EAGLEPICHER TECHNOLOGIES 
+
+
+
+
+EAO CORP 
+
+
+
+
+EAST TEXAS INTEGRATED CIRCUITS 
+
+
+
+
+EASY MAGNET CORP 
+
+
+
+
+EATON CORP 
+
+
+
+
+EBM-PAPST INC 
+
+
+
+
+EBY CO 
+
+
+
+
+ECHELON CORP 
+
+
+
+
+ECHO ELECTRIC CO LTD 
+
+
+
+
+ECI 
+
+
+
+
+ECLIPTEK CORP 
+
+
+
+
+ECM ELECTRONICS LTD 
+
+
+
+
+ECS INC INTERNATIONAL 
+
+
+
+
+EDAC INC 
+
+
+
+
+EDAL INDUSTRIES INC 
+
+
+
+
+EECO SWITCH 
+
+
+
+
+EEMB CO LTD 
+
+
+
+
+EF JOHNSON CO 
+
+
+
+
+EFFICIENT POWER CONVERSION CORP 
+
+
+
+
+EG & G INC 
+
+
+
+
+EIC CORPORATION 
+
+
+
+
+EIC SEMICONDUCTOR INC 
+
+
+
+
+ELAN MICROELECTRONICS CORP 
+
+
+
+
+ELANTEC 
+
+
+
+
+ELCOS AG 
+
+
+
+
+ELECTECH ELECTRONICS 
+
+
+
+
+ELECTRO SWITCH CORP 
+
+
+
+
+ELECTRO TECHNIK INDUSTRIES 
+
+
+
+
+ELECTRO-OPTICAL SYSTEMS INC 
+
+
+
+
+ELECTRO-SENSORS INC 
+
+
+
+
+ELECTROCHEM SOLUTIONS INC 
+
+
+
+
+ELECTROCUBE INC 
+
+
+
+
+ELECTRONIC ASSEMBLY GMBH 
+
+
+
+
+ELECTRONIC CABLE SPECIALISTS INC 
+
+
+
+
+ELECTRONIC CONCEPTS INC 
+
+
+
+
+ELECTRONIC DESIGNS INC 
+
+
+
+
+ELECTRONIC DEVICES INC 
+
+
+
+
+ELECTRONIC FILM CAPACITORS INC 
+
+
+
+
+ELESTA GMBH ELECTRONIK 
+
+
+
+
+ELESTA RELAYS GMBH 
+
+
+
+
+ELITE SEMICONDUCTOR PRODUCTS INC 
+
+
+
+
+ELM TECHNOLOGY CORP 
+
+
+
+
+ELMA ELECTRONIC INC 
+
+
+
+
+ELMEC TECHNOLOGY OF AMERICA INC 
+
+
+
+
+ELNA AMERICA INC 
+
+
+
+
+ELO TOUCH SOLUTIONS 
+
+
+
+
+ELPAC COMPONENTS 
+
+
+
+
+ELPIDA MEMORY INC 
+
+
+
+
+EM MICROELECTRONIC 
+
+
+
+
+EMC TECHNOLOGY & FLORIDA RF LABS 
+
+
+
+
+EMCO HIGH VOLTAGE CORP 
+
+
+
+
+EMCORE CORP 
+
+
+
+
+EMEMORY TECHNOLOGY INC 
+
+
+
+
+EMERGING DISPLAY TECHNOLOGIES CORP 
+
+
+
+
+EMERSON ELECTRIC CO 
+
+
+
+
+EMERSON NETWORK POWER 
+
+
+
+
+EMHISER RESEARCH INC 
+
+
+
+
+ENDICOTT RESEARCH GROUP INC 
+
+
+
+
+ENERCORP INSTRUMENTS LTD 
+
+
+
+
+ENERDOOR INC 
+
+
+
+
+ENERGIZER HOLDINGS INC 
+
+
+
+
+ENERGY MICRO AS 
+
+
+
+
+ENERGY SCIENCE AMPLOC 
+
+
+
+
+ENGINEERED COMPONENTS CO 
+
+
+
+
+ENHANCED MEMORY SYSTEMS INC 
+
+
+
+
+ENOVA TECHNOLOGY CORP 
+
+
+
+
+ENOVATION CONTROLS LLC 
+
+
+
+
+ENPIRION INC 
+
+
+
+
+EON SILICON SOLUTION INC 
+
+
+
+
+EOREX CORP 
+
+
+
+
+EPCOS AG 
+
+
+
+
+EPITEX INC 
+
+
+
+
+EPSON TOYOCOM CORP 
+
+
+
+
+EPT GMBH 
+
+
+
+
+ERA TRANSFORMERS 
+
+
+
+
+ERICSSON POWER MODULES AB 
+
+
+
+
+ERNI ELECTRONICS INC 
+
+
+
+
+ESKA ERICH SCHWEIZER GMBH 
+
+
+
+
+ESS TECHNOLOGY INC 
+
+
+
+
+ESSEN DEINKI 
+
+
+
+
+ESSENTRA COMPONENTS AMERICAS 
+
+
+
+
+ESTERLINE TECHNOLOGIES CORP 
+
+
+
+
+ETAL GROUP AB 
+
+
+
+
+ETEQ MICROSYSTEMS INC 
+
+
+
+
+ETHERTRONICS INC 
+
+
+
+
+ETRON TECHNOLOGY INC 
+
+
+
+
+ETTINGER GMBH 
+
+
+
+
+EUDYNA DEVICES INC 
+
+
+
+
+EUPEC GMBH & CO KG 
+
+
+
+
+EUROFARAD 
+
+
+
+
+EUROQUARTZ LTD 
+
+
+
+
+EUROSIL ELECTRONICS LTD 
+
+
+
+
+EUROTECHNIQUE 
+
+
+
+
+EUTECH MICROELECTRONICS INC 
+
+
+
+
+EUVIS INC 
+
+
+
+
+EVANS CAPACITOR CO 
+
+
+
+
+EVERLIGHT ELECTRONICS CO LTD 
+
+
+
+
+EVERSPIN TECHNOLOGIES INC 
+
+
+
+
+EVOX RIFA GROUP OYJ 
+
+
+
+
+EWC CONTROLS INC 
+
+
+
+
+EXAR CORP 
+
+
+
+
+EXCEL (SUZHOU) SEMICONDUCTOR CO LTD 
+
+
+
+
+EXCEL CELL ELECTRONIC CO LTD 
+
+
+
+
+EXCEL-DISPLAY CORP 
+
+
+
+
+EXCELFORE CORP 
+
+
+
+
+EXCELIGHT COMMUNICATIONS INC 
+
+
+
+
+EXCELITAS TECHNOLOGIES CORP 
+
+
+
+
+EXCELLENCE OPTOELECTRONICS INC 
+
+
+
+
+EXCLARA INC 
+
+
+
+
+EXEL MICROELECTRONICS INC 
+
+
+
+
+EXPLORE MICROELECTRONICS INC 
+
+
+
+
+EZCHIP TECHNOLOGIES LTD 
+
+
+
+
+
+
+
+
+FABRIMEX AG 
+
+
+
+
+FAGOR ELECTRONICA S COOP 
+
+
+
+
+FAIR-RITE PRODUCTS CORP 
+
+
+
+
+FAIRCHILD IMAGING 
+
+
+
+
+FAIRCHILD SEMICONDUCTOR CORP 
+
+
+
+
+FAIRVIEW MICROWAVE INC 
+
+
+
+
+FALCO ELECTRONICS 
+
+
+
+
+FARADAY ELECTRONICS INC 
+
+
+
+
+FASTRON ELECTRONICS INC 
+
+
+
+
+FCI 
+
+
+
+
+FCI INC 
+
+
+
+
+FCT ELECTRONIC GMBH 
+
+
+
+
+FDK CORP 
+
+
+
+
+FEECO INTERNATIONAL INC 
+
+
+
+
+FEELING TECHNOLOGY CORP 
+
+
+
+
+FEM A ELECTRONICS CORP 
+
+
+
+
+FEMA ELECTRONICS CORP 
+
+
+
+
+FENFA ELECTRONICS LTD 
+
+
+
+
+FENGHUA ADVANCED TECHNOLOGY 
+
+
+
+
+FERMIONICS CORP 
+
+
+
+
+FERRAZ SHAWMUT 
+
+
+
+
+FERROPERM UK LTD 
+
+
+
+
+FERROPERM-EMC APS 
+
+
+
+
+FERROXCUBE INTERNATIONAL HOLDING B V 
+
+
+
+
+FIBER OPTIC COMMUNICATIONS INC 
+
+
+
+
+FIBER OPTIC DEVICES LTD 
+
+
+
+
+FIBREFAB LTD 
+
+
+
+
+FIDELIX CO LTD 
+
+
+
+
+FILM MICROELECTRONICS INC 
+
+
+
+
+FILTRAN LTD 
+
+
+
+
+FILTRONETICS INC 
+
+
+
+
+FILTRONIC COMPOUND SEMICONDUCTOR 
+
+
+
+
+FINDER SPA 
+
+
+
+
+FINISAR CORP 
+
+
+
+
+FIRADEC 
+
+
+
+
+FIRECRON LTD 
+
+
+
+
+FIRST COMPONENTS INTERNATIONAL 
+
+
+
+
+FIRST SENSOR AG 
+
+
+
+
+FISCHER CONNECTORS SA 
+
+
+
+
+FISCHER ELECTRONIK GMBH & CO KG 
+
+
+
+
+FLOETH ELECTRONIC LTD 
+
+
+
+
+FLORIDA RF LABS INC 
+
+
+
+
+FONG YA ENTERPRISE CO LTD 
+
+
+
+
+FORCE TECHNOLOGIES LTD 
+
+
+
+
+FORD AEROSPACE & COMMUNICATIONS CORP 
+
+
+
+
+FORDAHL SA 
+
+
+
+
+FORGE EUROPA LTD 
+
+
+
+
+FORMOSA MICROSEMI CO LTD 
+
+
+
+
+FORTASA MEMORY SYSTEMS 
+
+
+
+
+FORTIMING CORP 
+
+
+
+
+FORTUNE SEMICONDUCTOR CORP 
+
+
+
+
+FOX ELECTRONICS 
+
+
+
+
+FRANZ BINDER GMBH & CO 
+
+
+
+
+FREE2MOVE AB 
+
+
+
+
+FREEPORT RESOURCES ENTERPRISES CORP 
+
+
+
+
+FREESCALE SEMICONDUCTOR INC 
+
+
+
+
+FREQUENCY DEVICES INC 
+
+
+
+
+FREQUENCY ELECTRONICS INC 
+
+
+
+
+FREQUENCY MANAGEMENT INTERNATIONAL 
+
+
+
+
+FREQUENCY SOURCES 
+
+
+
+
+FRONTER ELECTRONICS CO LTD 
+
+
+
+
+FRONTIER ELECTRONICS CO LTD 
+
+
+
+
+FUCHANCE ENTERPRISE CO LTD 
+
+
+
+
+FUJI ELECTRIC CO LTD 
+
+
+
+
+FUJIKURA LTD 
+
+
+
+
+FUJISOKU CORP 
+
+
+
+
+FUJITSU COMPONENT LTD 
+
+
+
+
+FUJITSU LTD 
+
+
+
+
+FUJITSU SEMICONDUCTOR AMERICA INC 
+
+
+
+
+FULLYWELL SEMICONDUCTOR CO LTD 
+
+
+
+
+FURUKAWA ELECTRIC CO LTD 
+
+
+
+
+FUTABA CORP 
+
+
+
+
+FUTABA ELECTRIC CO LTD 
+
+
+
+
+FUTURE TECHNOLOGY DEVICES INTERNATIONAL LTD 
+
+
+
+
+
+
+
+
+G-LINK TECHNOLOGY 
+
+
+
+
+G-MAG USA 
+
+
+
+
+G-TWO INC 
+
+
+
+
+GAIA CONVERTER INC 
+
+
+
+
+GAINSPAN CORP 
+
+
+
+
+GALAXY SEMI-CONDUCTOR CO LTD 
+
+
+
+
+GALIL MOTION CONTROL INC 
+
+
+
+
+GAZELLE MICROCIRCUITS INC 
+
+
+
+
+GCI TECHNOLOGIES 
+
+
+
+
+GD RECTIFIERS LTD 
+
+
+
+
+GE INDUSTRIAL SOLUTIONS 
+
+
+
+
+GE POWER ELECTRONICS INC 
+
+
+
+
+GEC PLESSEY SEMICONDUCTORS 
+
+
+
+
+GEMS SENSORS & CONTROLS 
+
+
+
+
+GENERAL ELECTRIC CO ELECTRO OPTICS 
+
+
+
+
+GENERAL ELECTRIC SOLID STATE 
+
+
+
+
+GENERAL ELECTRONIC DEVICES 
+
+
+
+
+GENERAL INSTRUMENT OPTOELECTRONICS 
+
+
+
+
+GENERAL SEMICONDUCTOR INC 
+
+
+
+
+GENERAL TRANSISTOR CORP 
+
+
+
+
+GENERALPLUS TECHNOLOGY INC 
+
+
+
+
+GENESIC SEMICONDUCTOR INC 
+
+
+
+
+GENESIS MICROCHIP 
+
+
+
+
+GENESYS LOGIC INC 
+
+
+
+
+GENNUM CORP 
+
+
+
+
+GENTRON CORP 
+
+
+
+
+GEO SEMICONDUCTOR INC 
+
+
+
+
+GESELLSCHAFT FUR MIKROELEKTRONIKANWENDUNG CHEMNITZ 
+
+
+
+
+GEYER ELECTRONIC 
+
+
+
+
+GHZ TECHNOLOGY INC 
+
+
+
+
+GIANTEC SEMICONDUCTOR INC 
+
+
+
+
+GIGA 
+
+
+
+
+GIGABIT LOGIC INC 
+
+
+
+
+GIGAVAC LLC 
+
+
+
+
+GIGOPTIX INC 
+
+
+
+
+GILWAY TECHNICAL LAMP 
+
+
+
+
+GLENAIR INC 
+
+
+
+
+GLOBAL CONNECTOR TECHNOLOGY INC 
+
+
+
+
+GLOBAL MIXED-MODE TECHNOLOGY INC 
+
+
+
+
+GLOBALTECH SEMICONDUCTOR CO LTD 
+
+
+
+
+GLOBE MOTORS 
+
+
+
+
+GLOW-LITE CORP 
+
+
+
+
+GOLDENTECH DISCRETE SEMICONDUCTOR INC 
+
+
+
+
+GOLLEDGE ELECTRONICS LTD 
+
+
+
+
+GOOD SKY ELECTRIC CO LTD 
+
+
+
+
+GOOD-ARK ELECTRONICS CO LTD 
+
+
+
+
+GOODWORK SEMICONDUCTOR CO LTD 
+
+
+
+
+GOTREND TECHNOLOGY CO LTD 
+
+
+
+
+GOULD TECHNOLOGY LLC 
+
+
+
+
+GOWANDA ELECTRONICS CORP 
+
+
+
+
+GPD OPTOELECTRONICS CORP 
+
+
+
+
+GRANDE ELECTRONICS LTD 
+
+
+
+
+GRASEN TECHNOLOGY LLC 
+
+
+
+
+GRAYHILL INC 
+
+
+
+
+GREENLIANT SYSTEMS INC 
+
+
+
+
+GREENLIANT SYSTEMS LTD 
+
+
+
+
+GREENRAY INDUSTRIES INC 
+
+
+
+
+GREENWICH INSTRUMENTS LTD 
+
+
+
+
+GRENERGY OPTO INC 
+
+
+
+
+GSI TECHNOLOGY 
+
+
+
+
+GTE MICROCIRCUITS 
+
+
+
+
+GTK UK LTD 
+
+
+
+
+GUANGDONG KEXIN INDUSTRIAL CO LTD 
+
+
+
+
+GUANGZHOU HONGLI OPTO-ELECTRONIC CO LTD 
+
+
+
+
+GUANGZHOU HONGLI TRONIC CO LTD 
+
+
+
+
+GUANGZHOU MARKYN BATTERY CO LTD 
+
+
+
+
+GULF SEMICONDUCTOR LTD 
+
+
+
+
+GUNZE LTD ELECTRONIC COMPONENTS DIVISION 
+
+
+
+
+
+
+
+
+HAHN GMBH AND CO KG 
+
+
+
+
+HALO ELECTRONICS INC 
+
+
+
+
+HAMAMATSU PHOTONICS KK 
+
+
+
+
+HAMLIN ELECTRONICS EUROPE LTD 
+
+
+
+
+HAMMOND MANUFACTURING CO LTD 
+
+
+
+
+HAMMOND MANUFACTURING COMPANY LTD 
+
+
+
+
+HANBIT ELECTROINCS CO LTD 
+
+
+
+
+HANDOK CO LTD 
+
+
+
+
+HANGZHOU SILAN MICROELECTRONICS CO LTD 
+
+
+
+
+HANGZHOU YOUWANG ELECTRONICS CO LTD 
+
+
+
+
+HANRUN ELECTRONICS CO LTD 
+
+
+
+
+HANS TURCK GMBH & CO KG 
+
+
+
+
+HANTRONIX INC 
+
+
+
+
+HARRIS SEMICONDUCTOR 
+
+
+
+
+HARTING ELECTRONICS GMBH & CO KG 
+
+
+
+
+HARTMANN CODIER GMBH 
+
+
+
+
+HARVATEK CORP 
+
+
+
+
+HARWIN PLC 
+
+
+
+
+HASCO COMPONENTS INTERNATIONAL CORP 
+
+
+
+
+HBCONTROLS INC 
+
+
+
+
+HCC INDUSTRIES 
+
+
+
+
+HD COMMUNICATIONS CORP 
+
+
+
+
+HEC INC 
+
+
+
+
+HEIMANN OPTOELECTRONICS GMBH 
+
+
+
+
+HENDON SEMICONDUCTORS PTY LTD 
+
+
+
+
+HENGSTLER GMBH 
+
+
+
+
+HERAEUS HOLDINGS GMBH 
+
+
+
+
+HERLEY INDUSTRIES INC 
+
+
+
+
+HEROTEK INC 
+
+
+
+
+HEWLETT PACKARD CO 
+
+
+
+
+HEXAWAVE INC 
+
+
+
+
+HI-LIGHT ELECTRONIC CO LTD 
+
+
+
+
+HI-REL COMPONENTS 
+
+
+
+
+HI-SINCERITY MICROELECTRONICS CORP 
+
+
+
+
+HI-TECH RESISTORS PVT LTD 
+
+
+
+
+HI-TRON SEMICONDUCTOR CORP 
+
+
+
+
+HI-WIT ELECTRONICS CO LTD 
+
+
+
+
+HIFN 
+
+
+
+
+HIGH GENERATION SRL 
+
+
+
+
+HIGH TECH CHIPS INC 
+
+
+
+
+HIGH VOLTAGE POWER SOLUTIONS INC 
+
+
+
+
+HIGHLAND ELECTRONICS CO LTD 
+
+
+
+
+HIND RECTIFIERS LTD 
+
+
+
+
+HIRAKAWA HEWTECH CORP 
+
+
+
+
+HIREL SYSTEMS LLC 
+
+
+
+
+HIROSE ELECTRIC CO LTD 
+
+
+
+
+HIRSCHMANN ELECTRONICS GMBH & CO KG 
+
+
+
+
+HITACHI LTD 
+
+
+
+
+HITACHI METALS LTD 
+
+
+
+
+HITANO ENTERPRISE CORP 
+
+
+
+
+HITTITE MICROWAVE CORP 
+
+
+
+
+HMC INC 
+
+
+
+
+HO CHIEN ELECTRONICS GROUP INC 
+
+
+
+
+HOKURIKU ELECTRIC INDUSTRY CO LTD 
+
+
+
+
+HOLLYLAND (CHINA) ELECTRONICS TECHNOLOGY CORP LTD 
+
+
+
+
+HOLT INTEGRATED CIRCUITS INC 
+
+
+
+
+HOLTEK SEMICONDUCTOR INC 
+
+
+
+
+HOLY STONE POLYTECH CO LTD 
+
+
+
+
+HON HAI PRECISION INDUSTRY CO LTD 
+
+
+
+
+HONDA TSUSHIN KOGYO CO LTD 
+
+
+
+
+HONEYWELL MICROELECTRONICS AND PRECISION SENSORS 
+
+
+
+
+HONEYWELL SENSING AND CONTROL 
+
+
+
+
+HONG KONG X'TALS LTD 
+
+
+
+
+HORNG CHIH CORP 
+
+
+
+
+HOSIDEN CORP 
+
+
+
+
+HOSONIC ELECTRONICS CO LTD 
+
+
+
+
+HPC TECHNOLOGY INC 
+
+
+
+
+HSMC CORP 
+
+
+
+
+HUA JIE (TAIWAN) CORP 
+
+
+
+
+HUA KO ELECTRONICS CO LTD 
+
+
+
+
+HUALON MICROELECTRONICS CORP 
+
+
+
+
+HUBBELL INC 
+
+
+
+
+HUBEI DONGGUANG ELECTRONICS CO LTD 
+
+
+
+
+HUBER+SUHNER INC 
+
+
+
+
+HUEY JANN ELECTRONICS INDUSTRY CO LTD 
+
+
+
+
+HUNTINGTON ELECTRIC INC 
+
+
+
+
+HUTSON INDUSTRIES 
+
+
+
+
+HV COMPONENT ASSOCIATES INC 
+
+
+
+
+HY ELECTRONIC CORP 
+
+
+
+
+HY-Q INTERNATIONAL USA INC 
+
+
+
+
+HYBRID DESIGN ASSOCIATES LLC 
+
+
+
+
+HYBRID MEMORY PRODUCTS LTD 
+
+
+
+
+HYBRID SYSTEMS CORP 
+
+
+
+
+HYCOMP INC 
+
+
+
+
+HYOSUNG ELECTRONICS AMERICA 
+
+
+
+
+HYPERSTONE AG 
+
+
+
+
+HYPERTAC LTD 
+
+
+
+
+HYPERTRONICS CORP 
+
+
+
+
+HYTRONICS CORP 
+
+
+
+
+
+
+
+
+I F ENGINEERING CORP 
+
+
+
+
+I&C TECHNOLOGY CO LTD 
+
+
+
+
+I'M INTELLIGENT MEMORY LTD 
+
+
+
+
+I-CUBE INC 
+
+
+
+
+I-PEX CO LTD 
+
+
+
+
+I/O INTERCONNECT 
+
+
+
+
+IBM MICROELECTRONICS 
+
+
+
+
+IC DESIGNS INC 
+
+
+
+
+IC MICROSYSTEMS SDN BHD 
+
+
+
+
+IC PLUS CORP 
+
+
+
+
+IC SENSORS 
+
+
+
+
+IC WORKS INC 
+
+
+
+
+IC-HAUS CORP 
+
+
+
+
+IC-HAUS GMBH 
+
+
+
+
+ICE COMPONENTS INC 
+
+
+
+
+ICM INTERNATIONAL CONTROLS & MEASUREMENTS CORP 
+
+
+
+
+ICREATE TECHNOLOGIES CORP 
+
+
+
+
+ID MOS SA 
+
+
+
+
+IDEA INC 
+
+
+
+
+IDEC CORP 
+
+
+
+
+IDX SYSTEM TECHNOLOGY INC 
+
+
+
+
+IEH CORP 
+
+
+
+
+IET LABS INC 
+
+
+
+
+ILLINOIS CAPACITOR INC 
+
+
+
+
+ILSI AMERICA LLC 
+
+
+
+
+IMAGIS CO LTD 
+
+
+
+
+IMO ELECTRONICS LTD 
+
+
+
+
+IMO PRECISION CONTROLS LTD 
+
+
+
+
+IMPACT LLC 
+
+
+
+
+IMPALA LINEAR CORP 
+
+
+
+
+IMPERIAL STAR CORP 
+
+
+
+
+IMS CONNECTOR SYSTEMS GMBH 
+
+
+
+
+INCHANGE SEMICONDUCTOR CO LTD 
+
+
+
+
+INCON INC 
+
+
+
+
+INDUCTIVE TECHNOLOGIES LLC 
+
+
+
+
+INDUCTOR SUPPLY INC 
+
+
+
+
+INDUSTRIAL DEVICES INC 
+
+
+
+
+INDUSTRIAL ELECTRONIC ENGINEERS INC 
+
+
+
+
+INDUSTRIAL FIBER OPTICS 
+
+
+
+
+INFINEON TECHNOLOGIES AG 
+
+
+
+
+INFINEON-ADMTEK CO LTD 
+
+
+
+
+INFORMATION STORAGE DEVICES 
+
+
+
+
+INFRARED INDUSTRIES INC 
+
+
+
+
+INLAND MOTOR 
+
+
+
+
+INMOS 
+
+
+
+
+INNODISK CORP 
+
+
+
+
+INNOVASIC INC 
+
+
+
+
+INNOVATIVE POWER PRODUCTS INC 
+
+
+
+
+INNOVATIVE SENSOR TECHNOLOGY AG 
+
+
+
+
+INOVA SEMICONDUCTORS GMBH 
+
+
+
+
+INPAQ TECHNOLOGY CO LTD 
+
+
+
+
+INPHI CORP 
+
+
+
+
+INSIDE SECURE 
+
+
+
+
+INSTRUMENT DESIGN ENGINEERING ASSOCIATES 
+
+
+
+
+INTEGRA TECHNOLOGIES INC 
+
+
+
+
+INTEGRAL RESEARCH AND PRODUCTION CORP 
+
+
+
+
+INTEGRATED CIRCUIT SOLUTION INC 
+
+
+
+
+INTEGRATED CIRCUIT SYSTEMS INC 
+
+
+
+
+INTEGRATED CIRCUIT TECHNOLOGY CORP 
+
+
+
+
+INTEGRATED CIRCUITS INC 
+
+
+
+
+INTEGRATED DEVICE TECHNOLOGY INC 
+
+
+
+
+INTEGRATED MICROWAVE CORP 
+
+
+
+
+INTEGRATED PHOTOMATRIX LTD 
+
+
+
+
+INTEGRATED POWER SEMICONDUCTORS LTD 
+
+
+
+
+INTEGRATED SILICON SOLUTION INC 
+
+
+
+
+INTEGRATED TECHNOLOGY EXPRESS INC 
+
+
+
+
+INTEGRATED TELECOM TECHNOLOGY INC 
+
+
+
+
+INTEL CORP 
+
+
+
+
+INTELLIGENT MOTION SYSTEMS INC 
+
+
+
+
+INTER F E T CORP 
+
+
+
+
+INTERGRAPH CORP ADVANCED PROCESSOR DIVISION 
+
+
+
+
+INTERNATIONAL CRYSTAL MANUFACTURING CO INC 
+
+
+
+
+INTERNATIONAL DIODE CORP 
+
+
+
+
+INTERNATIONAL MANUFACTURING SERVICES INC 
+
+
+
+
+INTERNATIONAL MICROCIRCUITS INC 
+
+
+
+
+INTERNATIONAL POWER DEVICES INC 
+
+
+
+
+INTERNATIONAL RECTIFIER CORP 
+
+
+
+
+INTERNATIONAL RECTIFIER HIREL PRODUCTS LLC 
+
+
+
+
+INTERNATIONAL RESISTIVE CO INC 
+
+
+
+
+INTERNATIONAL SEMICONDUCTOR INC 
+
+
+
+
+INTEROPTICS 
+
+
+
+
+INTERPION SEMICONDUCTOR 
+
+
+
+
+INTERPOINT CORP 
+
+
+
+
+INTERPOWER CORP 
+
+
+
+
+INTERSIL CORP 
+
+
+
+
+INTRONICS POWER INC 
+
+
+
+
+INVENSENSE INC 
+
+
+
+
+INVENSYS SENSOR SYSTEMS 
+
+
+
+
+INVENTEK SYSTEMS LLC 
+
+
+
+
+ION BEAM MILLING INC 
+
+
+
+
+IQD FREQUENCY PRODUCTS LTD 
+
+
+
+
+IRISO ELECTRONICS CO LTD 
+
+
+
+
+ISABELLENHUTTE HEUSLER GMBH & CO KG 
+
+
+
+
+ISAHAYA ELECTRONICS CORP 
+
+
+
+
+ISOCOM COMPONENTS LTD 
+
+
+
+
+ISOCOM LTD 
+
+
+
+
+ISOLINK INC 
+
+
+
+
+ITAC HYBRID TECHNOLOGY 
+
+
+
+
+ITE TECHNOLOGIES INC 
+
+
+
+
+ITF LABORATORIES INC 
+
+
+
+
+ITS ELECTRONICS INC 
+
+
+
+
+ITT CANNON 
+
+
+
+
+ITT COMPONENTS 
+
+
+
+
+ITT GTC 
+
+
+
+
+ITT SEMICONDUCTOR 
+
+
+
+
+ITT VEAM LLC 
+
+
+
+
+ITTI 
+
+
+
+
+ITTI CO LTD 
+
+
+
+
+ITW ERG COMPONENTS 
+
+
+
+
+ITW MCMURDO CONNECTORS 
+
+
+
+
+ITW PAKTRON 
+
+
+
+
+ITW PANCON 
+
+
+
+
+ITW SWITCHES 
+
+
+
+
+IWATT 
+
+
+
+
+IXYS CORP 
+
+
+
+
+IXYS INTEGRATED CIRCUITS DIVISION 
+
+
+
+
+
+
+
+
+J S T MFG CO LTD 
+
+
+
+
+JALCO CO LTD 
+
+
+
+
+JANCO CORP 
+
+
+
+
+JAPAN AVIATION ELECTRONICS INDUSTRY LTD 
+
+
+
+
+JAUCH QUARTZ GMBH 
+
+
+
+
+JBM ELECTRONICS INC 
+
+
+
+
+JDS UNIPHASE CORP 
+
+
+
+
+JEILIN TECHNOLOGY CORP LTD 
+
+
+
+
+JENNINGS TECHNOLOGY 
+
+
+
+
+JENSEN TRANSFORMERS INC 
+
+
+
+
+JERRIK CONNECTING DEVICES 
+
+
+
+
+JFW INDUSTRIES INC 
+
+
+
+
+JIANGMEN CHANGLI OPTOELECTRONIC TECHNOLOGY CO LTD 
+
+
+
+
+JIANGSU CHANGJIANG ELECTRONICS TECHNOLOGY CO LTD 
+
+
+
+
+JIANGSU WENRUN OPTOELECTRONIC CO LTD 
+
+
+
+
+JIANN WA ELECTRONICS CO LTD 
+
+
+
+
+JINAN GUDE ELECTRONIC DEVICE CO LTD 
+
+
+
+
+JINAN JINGHENG ELECTRONICS CO LTD 
+
+
+
+
+JK MULTILAYER TECHNOLOGY CO LTD 
+
+
+
+
+JM TRANSFORMER CO INC 
+
+
+
+
+JMICRON TECHNOLOGY CORP 
+
+
+
+
+JOEMASTER SYSTEMS LTD 
+
+
+
+
+JOHANSON DIELECTRICS INC 
+
+
+
+
+JOHANSON MANUFACTURING 
+
+
+
+
+JOHANSON TECHNOLOGY INC 
+
+
+
+
+JOHNSON COMPONENTS INC 
+
+
+
+
+JOHNSON ELECTRIC GROUP 
+
+
+
+
+JOSLYN SUNBANK COMPANY LLC 
+
+
+
+
+JQL ELECTRONICS INC 
+
+
+
+
+JST 
+
+
+
+
+JW MILLER MAGNETICS 
+
+
+
+
+JYEBAO CO LTD 
+
+
+
+
+
+
+
+
+K AND L MICROWAVE INC 
+
+
+
+
+KAGA ELECTRONICS CO LTD 
+
+
+
+
+KAIPING PRODUCTWELL PRECISION ELECT CO LTD 
+
+
+
+
+KAMAYA ELECTRIC CO LTD 
+
+
+
+
+KANTHAL GLOBAR 
+
+
+
+
+KAPPA NETWORKS INC 
+
+
+
+
+KASCHKE COMPONENTS GMBH 
+
+
+
+
+KAWASAKI LSI USA INC 
+
+
+
+
+KAWASAKI MICROELECTRONICS INC 
+
+
+
+
+KEC CORP 
+
+
+
+
+KEL CORP 
+
+
+
+
+KEMET ELECTRONICS CORP 
+
+
+
+
+KETEREX INC 
+
+
+
+
+KEY TECHNOLOGY CORP 
+
+
+
+
+KEYSIGHT TECHNOLOGIES INC 
+
+
+
+
+KEYSTONE ELECTRONICS CORP 
+
+
+
+
+KHATOD OPTOELECTRONIC SRL 
+
+
+
+
+KINDWIN TECHNOLOGY (HK) LTD 
+
+
+
+
+KING CORE ELECTRONICS INC 
+
+
+
+
+KINGBRIGHT CORP 
+
+
+
+
+KINGBRIGHT ELECTRONIC CO LTD 
+
+
+
+
+KINGS ELECTRONICS CO INC 
+
+
+
+
+KINGSTON TECHNOLOGY COMPANY INC 
+
+
+
+
+KIONIX INC 
+
+
+
+
+KISSLING ELECTROTEC INC 
+
+
+
+
+KITAGAWA ELECTRONICS PTE LTD 
+
+
+
+
+KIWI SEMICONDUCTOR LTD 
+
+
+
+
+KNCTEK CO LTD 
+
+
+
+
+KNIGHT ELECTRONICS INC 
+
+
+
+
+KNITTER-SWITCH 
+
+
+
+
+KNOWLES CORP 
+
+
+
+
+KNOX SEMICONDUCTORS INC 
+
+
+
+
+KOA CORP 
+
+
+
+
+KOA SPEER ELECTRONICS INC 
+
+
+
+
+KODAK IMAGE SENSOR SOLUTIONS 
+
+
+
+
+KODENSHI AUK CORP 
+
+
+
+
+KODENSHI CORP 
+
+
+
+
+KORCHIP CORP 
+
+
+
+
+KOTA MICROCIRCUITS INC 
+
+
+
+
+KR ELECTRONICS INC 
+
+
+
+
+KRATOS DEFENCE & SECURITY SOLUTIONS INC 
+
+
+
+
+KRL/BANTRY COMPONENTS INC 
+
+
+
+
+KRYTAR INC 
+
+
+
+
+KSL MICRODEVICES INC 
+
+
+
+
+KUNG DAR ELECTRONICS CO LTD 
+
+
+
+
+KUNZE FOLIEN GMBH 
+
+
+
+
+KUON YI INDUSTRIAL CORP 
+
+
+
+
+KVG QUARTZ CRYSTAL TECHNOLOGY 
+
+
+
+
+KYCON INC 
+
+
+
+
+KYOCERA CONNECTOR PRODUCTS CORP 
+
+
+
+
+KYOCERA CORP 
+
+
+
+
+KYOSEMI CORP 
+
+
+
+
+KYUSHU DENTSU COMPANY LTD 
+
+
+
+
+
+
+
+
+L-3 COMMUNICATIONS HOLDINGS INC 
+
+
+
+
+L-COM INC 
+
+
+
+
+LAIRD TECHNOLOGIES 
+
+
+
+
+LAIRD TECHNOLOGIES INC 
+
+
+
+
+LAMBDA ADVANCED ANALOG INC 
+
+
+
+
+LAMBDA SEMICONDUCTORS 
+
+
+
+
+LANSDALE SEMICONDUCTOR INC 
+
+
+
+
+LANTIQ 
+
+
+
+
+LAPIS SEMICONDUCTOR CO LTD 
+
+
+
+
+LAPP USA INC 
+
+
+
+
+LARK ENGINEERING CO 
+
+
+
+
+LARSEN ELECTRONICS INC 
+
+
+
+
+LASCAR ELECTRONICS LTD 
+
+
+
+
+LASER COMPONENTS GMBH 
+
+
+
+
+LASER DIODE INC 
+
+
+
+
+LATTICE SEMICONDUCTOR CORP 
+
+
+
+
+LAUBE TECHNOLOGY 
+
+
+
+
+LCF ENTERPRISES 
+
+
+
+
+LCR CAPACITORS LTD 
+
+
+
+
+LEACH INTERNATIONAL CORP 
+
+
+
+
+LEADIS TECHNOLOGY INC 
+
+
+
+
+LEADTREND TECHNOLOGY CORP 
+
+
+
+
+LEAMAX ENTERPRISE CO LTD 
+
+
+
+
+LECLANCHE SA 
+
+
+
+
+LED TECHNOLOGY LTD 
+
+
+
+
+LEDEX INC LUCAS PRODUCTS 
+
+
+
+
+LEDMAN OPTOELECTRONIC CO LTD 
+
+
+
+
+LEDTECH ELECTRONICS CORP 
+
+
+
+
+LEDTRONICS INC 
+
+
+
+
+LEGERITY INC 
+
+
+
+
+LEM HOLDING SA 
+
+
+
+
+LEMO USA INC 
+
+
+
+
+LENCO ELECTRONICS INC 
+
+
+
+
+LEOCO CORP 
+
+
+
+
+LESHAN RADIO CO LTD 
+
+
+
+
+LEVEL ONE 
+
+
+
+
+LEVITON MFG CO INC 
+
+
+
+
+LEXOR 
+
+
+
+
+LG CHEM LTD 
+
+
+
+
+LG SEMICON CO LTD 
+
+
+
+
+LIGENT PHOTONICS INC 
+
+
+
+
+LIGHT IN MOTION LLC 
+
+
+
+
+LIGHTEL TECHNOLOGIES INC 
+
+
+
+
+LIGHTHORSE TECHNOLOGIES INC 
+
+
+
+
+LIH SHENG PRECISION IND CO LTD 
+
+
+
+
+LINEAR INTEGRATED SYSTEMS INC 
+
+
+
+
+LINEAR TECHNOLOGY CORP 
+
+
+
+
+LINFINITY MICROELECTRONICS 
+
+
+
+
+LINK-PP INT'L TECHNOLOGY CO LTD 
+
+
+
+
+LINKCOM MANUFACTURING CO LTD 
+
+
+
+
+LINX TECHNOLOGIES INC 
+
+
+
+
+LION ENTERPRISES CORP 
+
+
+
+
+LISION TECHNOLOGY INC 
+
+
+
+
+LITE-ON SEMICONDUCTOR CORP 
+
+
+
+
+LITE-ON TECHNOLOGY CORP 
+
+
+
+
+LITTELFUSE INC 
+
+
+
+
+LITTON INDUSTRIES 
+
+
+
+
+LIVERAGE TECHNOLOGY INC 
+
+
+
+
+LOCKHEED MARTIN MICROWAVE 
+
+
+
+
+LOGIC DEVICES INC 
+
+
+
+
+LOGICAL SOLUTIONS TECHNOLOGY INC 
+
+
+
+
+LONGWELL CO 
+
+
+
+
+LORAS INDUSTRIES INC 
+
+
+
+
+LORCH MICROWAVE 
+
+
+
+
+LORLIN ELECTRONICS LTD 
+
+
+
+
+LS RESEARCH 
+
+
+
+
+LSI COMPUTER SYSTEMS INC 
+
+
+
+
+LSI CORP 
+
+
+
+
+LUCENT TECHNOLOGIES INC 
+
+
+
+
+LUCIDPORT TECHNOLOGY INC 
+
+
+
+
+LUCKY LIGHT ELECTRONICS CO LTD 
+
+
+
+
+LUMBERG CONNECT GMBH 
+
+
+
+
+LUMEX INC 
+
+
+
+
+LUMIMAX OPTOELECTRONIC TECHNOLOGY 
+
+
+
+
+LUMINARY MICRO INC 
+
+
+
+
+LUMINENT OIC INC 
+
+
+
+
+LUNDAHL TRANSFORMERS AB 
+
+
+
+
+LYONTEK INC 
+
+
+
+
+
+
+
+
+M+R MULTITRONIK GMBH 
+
+
+
+
+M-PULSE MICROWAVE INC 
+
+
+
+
+M-TRON INDUSTRIES INC 
+
+
+
+
+M/A-COM INC 
+
+
+
+
+M/A-COM INC BURLINGTON SEMICONDUCTOR OPERATION 
+
+
+
+
+M/A-COM INC/ ANZAC DIV 
+
+
+
+
+M/A-COM TECHNOLOGY SOLUTIONS INC 
+
+
+
+
+MAC EIGHT CO LTD 
+
+
+
+
+MACRO IMAGE TECHNOLOGY 
+
+
+
+
+MACROBLOCK INC 
+
+
+
+
+MACRONIX INTERNATIONAL CO LTD 
+
+
+
+
+MAGIC POWER TECHNOLOGY CO LTD 
+
+
+
+
+MAGLAYERS SCIENTIFIC-TECHNICS CO LTD 
+
+
+
+
+MAGNACHIP SEMICONDUCTOR LTD 
+
+
+
+
+MAGNECRAFT 
+
+
+
+
+MAGNESPEC INC 
+
+
+
+
+MAGNETEK INC 
+
+
+
+
+MAGNETIC CIRCUIT ELEMENTS INC 
+
+
+
+
+MALICO INC 
+
+
+
+
+MALLORY AC CAPACITOR LLC 
+
+
+
+
+MANUTECH INC 
+
+
+
+
+MARC ENTERPRISES 
+
+
+
+
+MARCONI CIRCUIT TECHNOLOGY INC 
+
+
+
+
+MARCONI ELECTRONIC DEVICES INC 
+
+
+
+
+MARKI MICROWAVE INC 
+
+
+
+
+MARKTECH OPTOELECTRONICS 
+
+
+
+
+MARL INTERNATIONAL LTD 
+
+
+
+
+MARQUARDT GMBH 
+
+
+
+
+MARTEK POWER INC 
+
+
+
+
+MARUSHIN ELECTRIC MFG CO LTD 
+
+
+
+
+MARUWA CO LTD 
+
+
+
+
+MARVELL SEMICONDUCTOR INC 
+
+
+
+
+MASACH TECHNOLOGIES 
+
+
+
+
+MASSACHUSETTS BAY TECHNOLOGIES 
+
+
+
+
+MASTER INSTRUMENT CORP 
+
+
+
+
+MATEL SAS 
+
+
+
+
+MATRA DESIGN SEMICONDUCTOR 
+
+
+
+
+MATROX ELECTRONIC SYSTEMS LTD 
+
+
+
+
+MATSUO ELECTRIC CO LTD 
+
+
+
+
+MAUREY MICROWAVE CORP 
+
+
+
+
+MAX-LION CORP 
+
+
+
+
+MAXCONN INC 
+
+
+
+
+MAXECHO TECHNOLOGIES CORP 
+
+
+
+
+MAXELL ASIA (SINGAPORE) PTE LTD 
+
+
+
+
+MAXIM INTEGRATED PRODUCTS INC 
+
+
+
+
+MAXTENA INC 
+
+
+
+
+MAXWELL TECHNOLOGIES INC 
+
+
+
+
+MAZET INC 
+
+
+
+
+MC DEVICES INC 
+
+
+
+
+MC GUIRK ELECTRONICS CO INC 
+
+
+
+
+MCE / KDI TRIANGLE ELECTRONICS 
+
+
+
+
+MCI TRANSFORMER CORP 
+
+
+
+
+MDE SEMICONDUCTOR INC 
+
+
+
+
+MEAN WELL ENTERPRISES CO LTD 
+
+
+
+
+MEASUREMENT SPECIALTIES INC 
+
+
+
+
+MEC A/S 
+
+
+
+
+MECHATRONICS INC 
+
+
+
+
+MEDER ELECTRONIC AG 
+
+
+
+
+MEDTRONIC INC MICRO-REL DIVISION 
+
+
+
+
+MEGA ELECTRONICS INC 
+
+
+
+
+MEGADYNE CORP 
+
+
+
+
+MEGAWIN TECHNOLOGY CO LTD 
+
+
+
+
+MEGGITT ELECTRONIC COMPONENTS LTD 
+
+
+
+
+MELEXIS N V 
+
+
+
+
+MEMPHIS ELECTRONIC AG 
+
+
+
+
+MEMSIC INC 
+
+
+
+
+MEMTECH TECHNOLOGIES 
+
+
+
+
+MENTOR GMBH & CO PRAZISIONS BAUTEILE KG 
+
+
+
+
+MERCURY ELECTRONIC INDUSTRIAL CO LTD 
+
+
+
+
+MERET INC 
+
+
+
+
+MERITEK ELECTRONICS CORP 
+
+
+
+
+MERRIMAC INDUSTRIES INC 
+
+
+
+
+MERSEN 
+
+
+
+
+MESOSTATE LCD INDUSTRIES CO LTD 
+
+
+
+
+METADESIGN SEMICONDUCTORS 
+
+
+
+
+METHEUS CORP 
+
+
+
+
+METHODE ELECTRONICS INC 
+
+
+
+
+METICOM GMBH 
+
+
+
+
+METROFUNK KABEL-UNION GMBH 
+
+
+
+
+METUCHEN CAPACITORS INC 
+
+
+
+
+MF ELECTRONICS CORP 
+
+
+
+
+MICREL INC 
+
+
+
+
+MICRO ANALOG SYSTEMS OY 
+
+
+
+
+MICRO COMMERCIAL COMPONENTS 
+
+
+
+
+MICRO CRYSTAL AG 
+
+
+
+
+MICRO ELECTRONICS LTD 
+
+
+
+
+MICRO LAMPS INC 
+
+
+
+
+MICRO LINEAR CORP 
+
+
+
+
+MICRO NETWORKS CORP 
+
+
+
+
+MICRO QUALITY SEMICONDUCTOR INC 
+
+
+
+
+MICRO-EPSILON 
+
+
+
+
+MICRO-MODE PRODUCTS INC 
+
+
+
+
+MICRO-OHM CORP 
+
+
+
+
+MICRO-PRECISION TECHNOLOGIES INC 
+
+
+
+
+MICROCHIP TECHNOLOGY INC 
+
+
+
+
+MICROCOM DEVICES LTD 
+
+
+
+
+MICROMETRICS INC 
+
+
+
+
+MICRON INDUSTRIES CORP 
+
+
+
+
+MICRON TECHNOLOGY INC 
+
+
+
+
+MICRONAS SEMICONDUCTOR HOLDING AG 
+
+
+
+
+MICRONEL AG 
+
+
+
+
+MICRONETICS INC 
+
+
+
+
+MICROPAC INDUSTRIES INC 
+
+
+
+
+MICROPOWER DIRECT 
+
+
+
+
+MICROPRECISION ELECTRONICS SA 
+
+
+
+
+MICROPRIDE LTD 
+
+
+
+
+MICROSEMI - COMMUNICATION MEDICAL PRODUCT GROUP 
+
+
+
+
+MICROSEMI COMMERCIAL BUSINESS UNIT 
+
+
+
+
+MICROSEMI CORP 
+
+
+
+
+MICROSEMI CORP-ANALOG MIXED SIGNAL GROUP 
+
+
+
+
+MICROSEMI CORP-COLORADO 
+
+
+
+
+MICROSEMI CORP-IRELAND 
+
+
+
+
+MICROSEMI CORP-LAWRENCE 
+
+
+
+
+MICROSEMI CORP-LOWELL 
+
+
+
+
+MICROSEMI CORP-PMG MICROELECTRONICS 
+
+
+
+
+MICROSEMI CORP-SCOTTSDALE 
+
+
+
+
+MICROSEMI POWER PRODUCTS GROUP 
+
+
+
+
+MICROSEMI SOC PRODUCTS GROUP 
+
+
+
+
+MICROSPIRE 
+
+
+
+
+MICROSS COMPONENTS 
+
+
+
+
+MICROTECH SEMICONDUCTORS 
+
+
+
+
+MICROTIPS TECHNOLOGY INC 
+
+
+
+
+MICROWAVE DIODE CORP 
+
+
+
+
+MICROWAVE SEMICONDUCTOR CORP 
+
+
+
+
+MICROWAVE TECHNOLOGY INC 
+
+
+
+
+MIDWEST MICROWAVE 
+
+
+
+
+MIL ELECTRONICS INC 
+
+
+
+
+MIL-CON INC 
+
+
+
+
+MILITARY SPECIFICATIONS 
+
+
+
+
+MILL-MAX MFG CORP 
+
+
+
+
+MILLER TECHNOLOGY INC 
+
+
+
+
+MILLOGIC LTD 
+
+
+
+
+MIMIX BROADBAND INC 
+
+
+
+
+MINCO PRODUCTS INC 
+
+
+
+
+MINCO TECHNOLOGY LABS INC 
+
+
+
+
+MINCO TECHNOLOGY LABS LLC 
+
+
+
+
+MINDSPEED TECHNOLOGIES INC 
+
+
+
+
+MINI-CIRCUITS 
+
+
+
+
+MINI-SYSTEMS INC 
+
+
+
+
+MINILOGIC DEVICE CORP 
+
+
+
+
+MINIRF INC 
+
+
+
+
+MINMAX TECHNOLOGY CO LTD 
+
+
+
+
+MIPS TECHNOLOGIES INC 
+
+
+
+
+MITECH CORP 
+
+
+
+
+MITEL SEMICONDUCTOR 
+
+
+
+
+MITEQ INC 
+
+
+
+
+MITSUBISHI ELECTRIC CORP 
+
+
+
+
+MITSUBISHI MATERIALS CORP 
+
+
+
+
+MITSUMI ELECTRIC CO LTD 
+
+
+
+
+MIXED SIGNAL INTEGRATION CORP 
+
+
+
+
+MMD COMPONENTS 
+
+
+
+
+MMT MACHRONE CORP 
+
+
+
+
+MOBILE MARK 
+
+
+
+
+MODCO INC 
+
+
+
+
+MODULAR DEVICES INC 
+
+
+
+
+MOLECTRON DETECTOR INC 
+
+
+
+
+MOLEX INC 
+
+
+
+
+MONOLITHIC MEMORIES 
+
+
+
+
+MONOLITHIC POWER SYSTEMS INC 
+
+
+
+
+MOOG COMPONENTS GROUP 
+
+
+
+
+MORETHANALL CO LTD 
+
+
+
+
+MORNSUN GUANGZHOU SCIENCE & TECHNOLOGY LTD 
+
+
+
+
+MOS ELECTRONICS CORP 
+
+
+
+
+MOS ELECTRONICS TAIWAN CORP 
+
+
+
+
+MOSA ELECTRONICS CORP 
+
+
+
+
+MOSAIC SEMICONDUCTOR INC 
+
+
+
+
+MOSAID INC 
+
+
+
+
+MOSDESIGN SEMICONDUCTOR CORP 
+
+
+
+
+MOSPEC SEMICONDUCTOR CORP 
+
+
+
+
+MOSYS INC 
+
+
+
+
+MOTIEN TECHNOLOGY CO LTD 
+
+
+
+
+MOTOROLA INC 
+
+
+
+
+MOTOROLA SEMICONDUCTOR PRODUCTS 
+
+
+
+
+MOXA INC 
+
+
+
+
+MPS INDUSTRIES 
+
+
+
+
+MRV COMMUNICATIONS 
+
+
+
+
+MS KENNEDY CORP 
+
+
+
+
+MSI ELECTRONICS INC 
+
+
+
+
+MTRONPTI 
+
+
+
+
+MTS SYSTEMS CORP 
+
+
+
+
+MUELLER ELECTRIC CO 
+
+
+
+
+MULTI CONTACT AG 
+
+
+
+
+MURATA ELECTRONICS OY 
+
+
+
+
+MURATA MANUFACTURING CO LTD 
+
+
+
+
+MURATA POWER SOLUTIONS INC 
+
+
+
+
+MUSIC SEMICONDUCTORS INC 
+
+
+
+
+MX COM INC 
+
+
+
+
+MYRRA SAS 
+
+
+
+
+MYSON CENTURY INC 
+
+
+
+
+
+
+
+
+NANOAMP SOLUTIONS INC 
+
+
+
+
+NANOTEC ELECTRONIC GMBH & CO KG 
+
+
+
+
+NANYA TECHNOLOGY CORP 
+
+
+
+
+NASCENTECHNOLOGY INC 
+
+
+
+
+NATEL ENGINEERING CO INC 
+
+
+
+
+NATIONAL ELECTRONICS INC 
+
+
+
+
+NATIONAL HYBRID INC 
+
+
+
+
+NATIONAL INSTRUMENTS CORP 
+
+
+
+
+NATIONAL SEMICONDUCTOR CORP 
+
+
+
+
+NAVITAR INC 
+
+
+
+
+NAVMAN WIRELESS 
+
+
+
+
+NEC COMPOUND SEMICONDUCTOR DEVICES LTD 
+
+
+
+
+NEC CORP 
+
+
+
+
+NEC ELECTRONICS AMERICA INC 
+
+
+
+
+NEC ELECTRONICS CORP 
+
+
+
+
+NEC TOKIN CORP 
+
+
+
+
+NEL FREQUENCY CONTROLS INC 
+
+
+
+
+NEOPHOTONICS CORP 
+
+
+
+
+NEOSID PEMETZRIEDER GMBH & CO 
+
+
+
+
+NETCOM INC 
+
+
+
+
+NETERGY MICROELECTRONICS 
+
+
+
+
+NETLOGIC MICROSYSTEMS INC 
+
+
+
+
+NEUTRIK AG 
+
+
+
+
+NEW ENGLAND MICROWAVE CORP 
+
+
+
+
+NEW ENGLAND PHOTOCONDUCTOR 
+
+
+
+
+NEW ENGLAND SEMICONDUCTOR 
+
+
+
+
+NEW JAPAN RADIO CO LTD 
+
+
+
+
+NEW JERSEY SEMICONDUCTOR PRODUCTS INC 
+
+
+
+
+NEWAVA TECHNOLOGY INC 
+
+
+
+
+NEWHAVEN DISPLAY INTERNATIONAL INC 
+
+
+
+
+NEWPORT COMPONENTS LTD 
+
+
+
+
+NEXFLASH TECHNOLOGIES INC 
+
+
+
+
+NEXUS COMPONENTS GMBH 
+
+
+
+
+NIAGARA THERMAL PRODUCTS LLC 
+
+
+
+
+NIC COMPONENTS CORP 
+
+
+
+
+NICHIA CHEMICAL INDUSTRIES LTD 
+
+
+
+
+NICHIA CORP 
+
+
+
+
+NICHICON CORP 
+
+
+
+
+NIDEC AMERICA CORP/ POWER GENERAL DIV 
+
+
+
+
+NIDEC COPAL ELECTRONICS CORP 
+
+
+
+
+NIHON DEMPA KOGYO CO LTD 
+
+
+
+
+NIHON INTER ELECTRONICS CORP 
+
+
+
+
+NIHON KAIHEIKI IND CO LTD 
+
+
+
+
+NIMBUS TECHNOLOGY 
+
+
+
+
+NINGBO FORWARD RELAY CORP LTD 
+
+
+
+
+NINGBO HKE IMP&EXP CO LTD 
+
+
+
+
+NINGBO LISHUNDA ELECTRONICS CO LTD 
+
+
+
+
+NIPPON CERAMIC CO LTD 
+
+
+
+
+NIPPON CHEMI-CON CORP 
+
+
+
+
+NIPPON PRECISION CIRCUITS INC 
+
+
+
+
+NIPPON PULSE MOTOR CO LTD 
+
+
+
+
+NISSEI ELECTRIC CO LTD 
+
+
+
+
+NITRON INC 
+
+
+
+
+NITRONEX CORP 
+
+
+
+
+NITSUKO ELECTRONICS CORP 
+
+
+
+
+NKK SWITCHES OF AMERICA INC 
+
+
+
+
+NMB TECHNOLOGIES CORP 
+
+
+
+
+NOBLE USA INC 
+
+
+
+
+NOISE COM 
+
+
+
+
+NOISEWAVE CORP 
+
+
+
+
+NORDIC SEMICONDUCTOR ASA 
+
+
+
+
+NORITAKE ITRON CORP 
+
+
+
+
+NORTH AMERICAN PHILIPS DISCRETE PRODUCTS DIV 
+
+
+
+
+NORTH HILLS SIGNAL PROCESSING CORP 
+
+
+
+
+NORTHROP GRUMMAN ELECTRONIC SYSTEMS 
+
+
+
+
+NOVACAP 
+
+
+
+
+NOVATEK MICROELECTRONICS CORP 
+
+
+
+
+NOVATEK MICROELECTRONICS CORP LTD 
+
+
+
+
+NTE ELECTRONICS INC 
+
+
+
+
+NTT ELECTRONICS TECHNOLOGY CORP 
+
+
+
+
+NTT INC 
+
+
+
+
+NUMA TECHNOLOGIES 
+
+
+
+
+NUMERIK JENA GMBH 
+
+
+
+
+NUMONYX 
+
+
+
+
+NUVOTEM TALEMA 
+
+
+
+
+NUVOTON TECHNOLOGY CORP 
+
+
+
+
+NVE CORP 
+
+
+
+
+NXP SEMICONDUCTORS 
+
+
+
+
+NYTRONICS INC 
+
+
+
+
+
+
+
+
+O-NET COMMUNICATION LTD 
+
+
+
+
+O2MICRO INTERNATIONAL LTD 
+
+
+
+
+OASIS SILICON SYSTEMS AG 
+
+
+
+
+OBJECTIVE TECH CO LTD 
+
+
+
+
+OCLARO INC 
+
+
+
+
+OCTASIC INC 
+
+
+
+
+ODU STECKVERBINDUNGSSYSTEME GMBH & CO KG 
+
+
+
+
+OEP WALTERS GROUP HOLDINGS LTD 
+
+
+
+
+OHIO SEMITRONICS INC 
+
+
+
+
+OHMITE MANUFACTURING CO 
+
+
+
+
+OKAYA ELECTRIC INDUSTRIES CO LTD 
+
+
+
+
+OKI ELECTRIC INDUSTRY CO LTD 
+
+
+
+
+OKITA WORKS CO LTD 
+
+
+
+
+OLSON TECHNOLOGY INC 
+
+
+
+
+OMEGA ENGINEERING INC 
+
+
+
+
+OMMIC 
+
+
+
+
+OMNIREL CORP 
+
+
+
+
+OMNIVISION TECHNOLOGIES INC 
+
+
+
+
+OMNIYIG INC 
+
+
+
+
+OMRON CORP 
+
+
+
+
+OMRON ELECTRONICS INC 
+
+
+
+
+ON CHIP SYSTEMS 
+
+
+
+
+ON SEMICONDUCTOR 
+
+
+
+
+ON SHORE TECHNOLOGY INC 
+
+
+
+
+ON-BRIGHT ELECTRONICS CO LTD 
+
+
+
+
+ONCHIP DEVICES INC 
+
+
+
+
+ONSPEC ELECTRONIC INC 
+
+
+
+
+OPNEXT INC 
+
+
+
+
+OPTEK TECHNOLOGY INC 
+
+
+
+
+OPTI TECHNOLOGIES INC 
+
+
+
+
+OPTICAL COMMUNICATION PRODUCTS INC 
+
+
+
+
+OPTICAL ELECTRONICS INC 
+
+
+
+
+OPTIFUSE 
+
+
+
+
+OPTIMA PRECISION INC 
+
+
+
+
+OPTIMUM SEMICONDUCTOR 
+
+
+
+
+OPTO DIODE CORP 
+
+
+
+
+OPTO TWENTY-TWO (22) 
+
+
+
+
+OPTO-SENSOR FUCHANCE ENTERPRISES CO LTD 
+
+
+
+
+OPTOCOM CORP 
+
+
+
+
+OPTOTEK LTD 
+
+
+
+
+OPTOWAY TECHNOLOGY INC 
+
+
+
+
+OPTREX CORP 
+
+
+
+
+ORIEL CORP 
+
+
+
+
+ORIGIN ELECTRIC CO LTD 
+
+
+
+
+ORIGINGPS LTD 
+
+
+
+
+ORTEL CORP 
+
+
+
+
+OSCILENT CORP 
+
+
+
+
+OSI OPTOELECTRONICS 
+
+
+
+
+OSLO SWITCH INC 
+
+
+
+
+OSRAM OPTO SEMICONDUCTORS GMBH 
+
+
+
+
+OTAX CORP 
+
+
+
+
+OTTO ENGINEERING INC 
+
+
+
+
+OUPIIN AMERICA INC 
+
+
+
+
+OXFORD SEMICONDUCTOR INC 
+
+
+
+
+OXLEY DEVELOPMENTS CO LTD 
+
+
+
+
+
+
+
+
+PACE ELECTRONIC PRODUCTS 
+
+
+
+
+PACER TECHNOLOGY CO LTD 
+
+
+
+
+PACIFIC DISPLAY DEVICES 
+
+
+
+
+PACIFIC ENGINEERING CORP 
+
+
+
+
+PACIFIC MONOLITHICS 
+
+
+
+
+PACIFIC TRANSFORMER INC 
+
+
+
+
+PALCONN 
+
+
+
+
+PAN JIT INTERNATIONAL INC 
+
+
+
+
+PAN-INTERNATIONAL INDUSTRIAL CORP 
+
+
+
+
+PANASONIC CORP 
+
+
+
+
+PANASONIC ELECTRIC WORKS CORP OF AMERICA 
+
+
+
+
+PANAVISION IMAGING LLC 
+
+
+
+
+PANDUIT CORP 
+
+
+
+
+PANEL COMPONENTS CORP 
+
+
+
+
+PARA LIGHT ELECTRONICS CO LTD 
+
+
+
+
+PARADE TECHONOLOGIES INC 
+
+
+
+
+PARADIGM TECHNOLOGY INC 
+
+
+
+
+PARALLAX INC 
+
+
+
+
+PASCALL ELECTRONICS LTD 
+
+
+
+
+PASTERNACK ENTERPRISES INC 
+
+
+
+
+PATCO ELECTRONICS INC 
+
+
+
+
+PATRIOT MEMORY LLC 
+
+
+
+
+PCA ELECTRONICS INC 
+
+
+
+
+PD&E ELECTRONICS LLC 
+
+
+
+
+PD-LD INC 
+
+
+
+
+PEAK ELECTRONICS GMBH 
+
+
+
+
+PEREGRINE SEMICONDUCTOR CORP 
+
+
+
+
+PERFORMANCE MOTION DEVICES INC 
+
+
+
+
+PERFORMANCE SEMICONDUCTOR CORP 
+
+
+
+
+PERICOM SEMICONDUCTOR CORP 
+
+
+
+
+PERICOM TECHNOLOGY INC 
+
+
+
+
+PERKINELMER INC 
+
+
+
+
+PHASELINK CORP 
+
+
+
+
+PHILIPS COMPONENTS 
+
+
+
+
+PHILIPS E C G INC 
+
+
+
+
+PHILIPS LUMILEDS LIGHTING CO 
+
+
+
+
+PHILIPS SEMICONDUCTORS 
+
+
+
+
+PHISON ELECTRONICS CORP 
+
+
+
+
+PHOENIX CONTACT GMBH & CO KG 
+
+
+
+
+PHOTRON SEMICONDUCTOR CORP 
+
+
+
+
+PHYCOMP HOLDING B V 
+
+
+
+
+PICKER COMPONENTS 
+
+
+
+
+PICKERING ELECTRONICS LTD 
+
+
+
+
+PICKERING INTERFACES LTD 
+
+
+
+
+PICO ELECTRONICS INC 
+
+
+
+
+PICOLIGHT INC 
+
+
+
+
+PICONICS INC 
+
+
+
+
+PIEZO TECHNOLOGY INC 
+
+
+
+
+PIHER SENSORS AND CONTROLS SA 
+
+
+
+
+PILKOR ELECTRONICS CO LTD 
+
+
+
+
+PIXEL SEMICONDUCTOR 
+
+
+
+
+PLANETA SEMICONDUCTOR 
+
+
+
+
+PLANK OPTOELECTRONICS INC 
+
+
+
+
+PLESSEY RESEARCH CASWELL LTD 
+
+
+
+
+PLESSEY SEMICONDUCTORS 
+
+
+
+
+PLESSEY SEMICONDUCTORS DISCRETE COMPONENTS DIV 
+
+
+
+
+PLESSEY SEMICONDUCTORS LTD 
+
+
+
+
+PLETRONICS INC 
+
+
+
+
+PLX TECHNOLOGY INC 
+
+
+
+
+PMC-SIERRA INC 
+
+
+
+
+POLARA ENGINEERING INC 
+
+
+
+
+POLYCORE RF DEVICES 
+
+
+
+
+POLYFET R F DEVICES 
+
+
+
+
+POLYTRON DEVICES INC 
+
+
+
+
+POLYTRONIX INC 
+
+
+
+
+POMONA ELECTRONICS 
+
+
+
+
+POSITEK LTD 
+
+
+
+
+POSITRONIC INDUSTRIES INC 
+
+
+
+
+POTATO SEMICONDUCTOR CORP 
+
+
+
+
+POTTER & BRUMFIELD INC 
+
+
+
+
+POWER CONVERTIBLES 
+
+
+
+
+POWER DYNAMICS INC 
+
+
+
+
+POWER INNOVATIONS LTD 
+
+
+
+
+POWER INTEGRATIONS INC 
+
+
+
+
+POWER MATE TECHNOLOGY CO LTD 
+
+
+
+
+POWER SEMICONDUCTORS INC 
+
+
+
+
+POWER TRENDS INC 
+
+
+
+
+POWER-ONE INC 
+
+
+
+
+POWERBOX INC 
+
+
+
+
+POWERCUBE 
+
+
+
+
+POWEREX INC 
+
+
+
+
+POWEROHM RESISTORS INC 
+
+
+
+
+POWERTECH INC 
+
+
+
+
+POWERTIP TECHNOLOGY CORP 
+
+
+
+
+POWERTRONIX 
+
+
+
+
+POWERWAY ELECTRONICS CO LTD 
+
+
+
+
+PRECI-DIP SA 
+
+
+
+
+PRECISION DEVICES INC 
+
+
+
+
+PRECISION MONOLITHICS INC 
+
+
+
+
+PREH-WERKE GMBH & CO KG 
+
+
+
+
+PREM MAGNETICS INC 
+
+
+
+
+PREMA SEMICONDUCTOR GMBH 
+
+
+
+
+PREMIER DEVICES INC 
+
+
+
+
+PREMIER MAGNETICS INC 
+
+
+
+
+PREMO S L 
+
+
+
+
+PRESIDIO COMPONENTS INC 
+
+
+
+
+PRINCETON TECHNOLOGY CORP 
+
+
+
+
+PRO-AN ELECTRONIC CO LTD 
+
+
+
+
+PROCONN TECHNOLOGY CO LTD 
+
+
+
+
+PROCTER & GAMBLE 
+
+
+
+
+PROFESSIONAL COMPUTER TECHNOLOGY LTD 
+
+
+
+
+PROFICHIP GMBH 
+
+
+
+
+PROGRAMMABLE MICROELECTRONICS CORP 
+
+
+
+
+PROLIFIC TECHNOLOGY INC 
+
+
+
+
+PROLIGHT OPTO TECHNOLOGY CORP 
+
+
+
+
+PROMOS TECHNOLOGIES INC 
+
+
+
+
+PROSPERITY DIELECTRICS CO LTD 
+
+
+
+
+PROSPERITY ELECTRONICS CO LTD 
+
+
+
+
+PROTECHNIC ELECTRIC CO LTD 
+
+
+
+
+PROTECTRON ELECTROMECH PVT LTD 
+
+
+
+
+PROTEK DEVICES 
+
+
+
+
+PULSAR MICROWAVE CORP 
+
+
+
+
+PULSE ELECTRONICS CORP 
+
+
+
+
+PULSE SPECIALTY COMPONENTS 
+
+
+
+
+PULSECORE SEMICONDUCTOR 
+
+
+
+
+PULSUS TECHNOLOGIES 
+
+
+
+
+PURDY ELECTRONICS CORP 
+
+
+
+
+PYRAMID SEMICONDUCTOR CORP 
+
+
+
+
+
+
+
+
+Q MICROWAVE 
+
+
+
+
+Q-TECH CORP 
+
+
+
+
+QLOGIC CORP 
+
+
+
+
+QP SEMICONDUCTOR INC 
+
+
+
+
+QT OPTOELECTRONICS 
+
+
+
+
+QT-BRIGHTEK CORP 
+
+
+
+
+QUALCOMM 
+
+
+
+
+QUALCOMM ATHEROS INC 
+
+
+
+
+QUALITY SEMICONDUCTOR INC 
+
+
+
+
+QUALITY THERMISTOR INC 
+
+
+
+
+QUALTEK ELECTRONICS CORP 
+
+
+
+
+QUANTUM EFFECT DEVICES 
+
+
+
+
+QUICKLOGIC CORP 
+
+
+
+
+QVS TECH INC 
+
+
+
+
+
+
+
+
+R & E INTERNATIONAL INC 
+
+
+
+
+RADIALL S A 
+
+
+
+
+RADIAN THERMAL PRODUCTS INC 
+
+
+
+
+RADIO FREQUENCY SYSTEMS 
+
+
+
+
+RADIOCRAFTS AS 
+
+
+
+
+RADISYS CORP 
+
+
+
+
+RAFI GMBH & CO KG 
+
+
+
+
+RAIO TECHNOLOGY INC 
+
+
+
+
+RAKON LTD 
+
+
+
+
+RALTRON ELECTRONICS CORP 
+
+
+
+
+RAMBUS INC 
+
+
+
+
+RAMTRON INTERNATIONAL CORP 
+
+
+
+
+RATIOPLAST-ELECTRONICS 
+
+
+
+
+RAYCHEM CORP 
+
+
+
+
+RAYOVAC 
+
+
+
+
+RAYTHEON RF COMPONENTS 
+
+
+
+
+RAYTHEON SEMICONDUCTOR 
+
+
+
+
+RAZA MICROELECTRONICS INC 
+
+
+
+
+RCA CORP DISTRIBUTOR & SPECIAL PRODUCTS DIV 
+
+
+
+
+RCA INC ELECTRO OPTICS 
+
+
+
+
+RCA SOLID STATE 
+
+
+
+
+RCD COMPONENTS INC 
+
+
+
+
+RCL SEMICONDUCTORS LTD 
+
+
+
+
+RDA MICROELECTRONICS INC 
+
+
+
+
+RDC SEMICONDUCTOR CO LTD 
+
+
+
+
+RDI INC 
+
+
+
+
+REALTEK SEMICONDUCTOR CORP 
+
+
+
+
+RECOM INTERNATIONAL POWER GMBH 
+
+
+
+
+RECTRON LTD 
+
+
+
+
+REDPINE SIGNALS INC 
+
+
+
+
+REGAL ELECTRONICS INC 
+
+
+
+
+REL-LABS INC 
+
+
+
+
+RELIABILITY POWER INC 
+
+
+
+
+RELIABLE CAPACITORS CO 
+
+
+
+
+REMEC DEFENSE & SPACE INC 
+
+
+
+
+RENAISSANCE ELECTRONICS & COMMUNICATIONS LLC 
+
+
+
+
+RENATA SA 
+
+
+
+
+RENCO ELECTRONICS INC 
+
+
+
+
+RENESAS ELECTRONICS CORP 
+
+
+
+
+RENESAS TECHNOLOGY CORP 
+
+
+
+
+RENISHAW PLC 
+
+
+
+
+RF INDUSTRIES 
+
+
+
+
+RF INTERGRATED CORP 
+
+
+
+
+RF MICRO DEVICES INC 
+
+
+
+
+RF MONOLITHICS INC 
+
+
+
+
+RF PRIME CORP 
+
+
+
+
+RF TEC MFG INC 
+
+
+
+
+RFE INTERNATIONAL INC 
+
+
+
+
+RFHIC CORP 
+
+
+
+
+RHOMBUS INDUSTRIES INC 
+
+
+
+
+RICHARDSON ELECTRONICS LTD 
+
+
+
+
+RICHCO INC 
+
+
+
+
+RICHTEK TECHNOLOGY CORP 
+
+
+
+
+RICOH CO LTD 
+
+
+
+
+RIFA CAPACITORS 
+
+
+
+
+RLC ELECTRONICS INC 
+
+
+
+
+RLS DOO 
+
+
+
+
+RMC LTD POWER SEMICONDUCOR DIVISION 
+
+
+
+
+ROBERT BOSCH GMBH 
+
+
+
+
+ROCHESTER ELECTRONICS INC 
+
+
+
+
+ROCHESTER ELECTRONICS LLC 
+
+
+
+
+ROCKCHIP ELECTRONICS CO LTD 
+
+
+
+
+ROCKWELL AUTOMATION 
+
+
+
+
+ROCKWELL COLLINS INC 
+
+
+
+
+ROGERS CORP 
+
+
+
+
+ROGERS CORP DUREL DIVISION 
+
+
+
+
+ROHM CO LTD 
+
+
+
+
+ROITHNER LASERTECHNIK GMBH 
+
+
+
+
+ROSENBERGER HOCHFREQUENZTECHNIK GMBH & CO KG 
+
+
+
+
+ROYAL ELECTRONIC FTY CO LTD 
+
+
+
+
+RPM MICRO 
+
+
+
+
+RS COMPONENTS LTD 
+
+
+
+
+RUBYCON CORP 
+
+
+
+
+RUGAO DACHANG ELECTRONIC CO LTD 
+
+
+
+
+
+
+
+
+SABRITEC 
+
+
+
+
+SAFT SA 
+
+
+
+
+SAGE LABORATORIES INC 
+
+
+
+
+SAKATA U S A CORP 
+
+
+
+
+SALECOM ELECTRONICS CO LTD 
+
+
+
+
+SAMHOP MICROELECTRONICS CORP 
+
+
+
+
+SAMSUNG ELECTRO-MECHANICS 
+
+
+
+
+SAMSUNG SEMICONDUCTOR INC 
+
+
+
+
+SAMTEC INC 
+
+
+
+
+SAMWHA CAPACITOR GROUP 
+
+
+
+
+SAN-TRON INC 
+
+
+
+
+SANDISK CORP 
+
+
+
+
+SANGDEST MICROELECTRONICS (NANJING) CO LTD 
+
+
+
+
+SANKEN ELECTRIC CO LTD 
+
+
+
+
+SANKOSHA USA INC 
+
+
+
+
+SANREX CORP 
+
+
+
+
+SANSHA ELECTRIC MFG CO LTD 
+
+
+
+
+SANSHIN ELECTRIC CO LTD 
+
+
+
+
+SANYO DENKI AMERICA INC 
+
+
+
+
+SANYO ELECTRIC CO LTD 
+
+
+
+
+SANYO ENERGY CORP 
+
+
+
+
+SANYO SEMICONDUCTOR CO LTD 
+
+
+
+
+SANYOU ELECTRICAL APPLIANCES 2011 INC 
+
+
+
+
+SANYU ELECTRIC INC 
+
+
+
+
+SARONIX 
+
+
+
+
+SATCON ELECTRONICS 
+
+
+
+
+SAWNICS INC 
+
+
+
+
+SAWTEK INC 
+
+
+
+
+SCHAFFNER EMV AG 
+
+
+
+
+SCHNEIDER ELECTRIC SA 
+
+
+
+
+SCHOTT MAGNETICS 
+
+
+
+
+SCHURTER AG 
+
+
+
+
+SCINTERA NETWORKS INC 
+
+
+
+
+SCITEQ ELECTRONICS INC 
+
+
+
+
+SDI INC 
+
+
+
+
+SEAGATE MICROELECTRONICS LTD 
+
+
+
+
+SEAWARD ELECTRONICS INC 
+
+
+
+
+SECOS CORP 
+
+
+
+
+SEEQ TECHNOLOGY INC 
+
+
+
+
+SEGOR-OPTOELECTRONIQUE 
+
+
+
+
+SEIFERT ELECTRONIC GMBH & CO KG 
+
+
+
+
+SEIKO EPSON CORP 
+
+
+
+
+SEIKO INSTRUMENTS USA INC 
+
+
+
+
+SEIKO NPC CORP 
+
+
+
+
+SELCO PRODUCTS CO 
+
+
+
+
+SEMELAB LTD 
+
+
+
+
+SEMICOA CORP 
+
+
+
+
+SEMICONDUCTOR CIRCUITS INC 
+
+
+
+
+SEMICONDUCTOR COMPONENTS INC 
+
+
+
+
+SEMICONDUCTOR TECHNOLOGY INC 
+
+
+
+
+SEMICONDUCTORS INC 
+
+
+
+
+SEMICONWELL 
+
+
+
+
+SEMICUSTOM LOGIC INC 
+
+
+
+
+SEMIKRON INTERNATIONAL 
+
+
+
+
+SEMITEC CORP 
+
+
+
+
+SEMITEL ELECTRONICS 
+
+
+
+
+SEMITRON 
+
+
+
+
+SEMITRONICS CORP 
+
+
+
+
+SEMTECH CORP 
+
+
+
+
+SEMTECH LTD 
+
+
+
+
+SENIOR INDUSTRIES INC 
+
+
+
+
+SENKO ADVANCED COMPONENTS INC 
+
+
+
+
+SENSATA-AIRPAX 
+
+
+
+
+SENSIRION AG 
+
+
+
+
+SENSITEC GMBH 
+
+
+
+
+SENSITRON SEMICONDUCTOR 
+
+
+
+
+SENSOR SCIENTIFIC INC 
+
+
+
+
+SENTRY MFG CO 
+
+
+
+
+SEOUL SEMICONDUCTOR CO LTD 
+
+
+
+
+SEP ELECTRONIC CORP 
+
+
+
+
+SEPA EUROPE GMBH 
+
+
+
+
+SEPONIX CORP 
+
+
+
+
+SERCALO MICROTECHNOLOGY LTD 
+
+
+
+
+SG MICRO CORP 
+
+
+
+
+SGMC MICROWAVE 
+
+
+
+
+SHAHGHAI HUI HUI ELECTRONICS CO LTD 
+
+
+
+
+SHANGHAI BELLING CO LTD 
+
+
+
+
+SHANGHAI FUDAN MICROELECTRONICS CO LTD 
+
+
+
+
+SHANGHAI LUNSURE ELECTRONIC TECHNOLOGY CO LTD 
+
+
+
+
+SHANGHAI SHU MULTI-CHIP ELECTRONIC CO LTD 
+
+
+
+
+SHANTOU HUASHAN ELECTRONIC DEVICES CO LTD 
+
+
+
+
+SHAOXING SILICORE TECHNOLOGY CO LTD 
+
+
+
+
+SHARLIGHT ELECTRONICS 
+
+
+
+
+SHARP CORP 
+
+
+
+
+SHELLY ASSOCIATES INC 
+
+
+
+
+SHENZEN BENCENT ELECTRONICS CO LTD 
+
+
+
+
+SHENZHEN CHANGYUNTONG IC DESIGN CO LTD 
+
+
+
+
+SHENZHEN CRYSTAL TECHNOLOGY INDUSTRIAL CO LTD 
+
+
+
+
+SHENZHEN GREAT ELECTRONICS CO LTD 
+
+
+
+
+SHENZHEN HI-OPTEL TECHNOLOGLY CO LTD 
+
+
+
+
+SHENZHEN SUNLORD ELECTRONICS CO LTD 
+
+
+
+
+SHENZHEN TITAN MICRO ELECTRONICS CO LTD 
+
+
+
+
+SHIAN YIH ELECTRONIC 
+
+
+
+
+SHINDENGEN ELECTRIC MANUFACTURING CO LTD 
+
+
+
+
+SHINMEI ELECTRIC CO LTD 
+
+
+
+
+SHOGYO INTERNATIONAL CORP 
+
+
+
+
+SHOKAI FAR EAST LTD 
+
+
+
+
+SHOULDER ELECTRONICS LTD 
+
+
+
+
+SI SEMICONDUCTORS CO LTD 
+
+
+
+
+SI-EN TECHNOLOGY INC 
+
+
+
+
+SIBA GMBH & CO KG 
+
+
+
+
+SID MICROELETRONICA S/A 
+
+
+
+
+SIEMENS A G 
+
+
+
+
+SIGE SEMICONDUCTOR INC 
+
+
+
+
+SIGNAL PROCESSING TECHNOLOGIES 
+
+
+
+
+SIGNAL TECHNOLOGY CORP CALIFORNIA OPERATIONS 
+
+
+
+
+SIGNAL TRANSFORMER CO INC 
+
+
+
+
+SILEGO TECHNOLOGY 
+
+
+
+
+SILICON COMPOSERS 
+
+
+
+
+SILICON CONNECTIONS CORP 
+
+
+
+
+SILICON DESIGNS INC 
+
+
+
+
+SILICON DETECTOR CORP 
+
+
+
+
+SILICON GROUP INC 
+
+
+
+
+SILICON IMAGE INC 
+
+
+
+
+SILICON INTEGRATED SYSTEMS CORP 
+
+
+
+
+SILICON LABORATORIES INC 
+
+
+
+
+SILICON LABS ISOLATION INC 
+
+
+
+
+SILICON LOGIC INC 
+
+
+
+
+SILICON MITUS 
+
+
+
+
+SILICON MOTION INC 
+
+
+
+
+SILICON MOTION TECHNOLOGY CORP 
+
+
+
+
+SILICON POWER CORP 
+
+
+
+
+SILICON POWER CUBE CORP 
+
+
+
+
+SILICON SENSING SYSTEMS LIMITED 
+
+
+
+
+SILICON SENSORS INC 
+
+
+
+
+SILICON STANDARD CORP 
+
+
+
+
+SILICON STORAGE TECHNOLOGY INC 
+
+
+
+
+SILICON SYSTEMS INC 
+
+
+
+
+SILICON TOUCH TECHNOLOGY INC 
+
+
+
+
+SILICON TRANSISTOR CORP 
+
+
+
+
+SILICON-BASED TECHNOLOGY CORP 
+
+
+
+
+SILICON360 
+
+
+
+
+SILICONBLUE TECHNOLOGIES CORP 
+
+
+
+
+SILICONIX INC 
+
+
+
+
+SILITEK CORP 
+
+
+
+
+SILONEX INC 
+
+
+
+
+SILTRONICS LTD 
+
+
+
+
+SILVERLIGHT LTD 
+
+
+
+
+SIMTEK CORP 
+
+
+
+
+SIMULEX CORP 
+
+
+
+
+SINGATRON ENTERPRISE CO LTD 
+
+
+
+
+SINO WEALTH ELECTRONIC LTD 
+
+
+
+
+SINOPOWER SEMICONDUCTOR INC 
+
+
+
+
+SIPEX CORP 
+
+
+
+
+SIRENZA MICRODEVICES INC 
+
+
+
+
+SIRIO ELETTRONICA S R L 
+
+
+
+
+SITAL TECHNOLOGY LTD 
+
+
+
+
+SITEK ELECTRO OPTICS AB 
+
+
+
+
+SITIME CORP 
+
+
+
+
+SITRONIX TECHNOLOGY CO LTD 
+
+
+
+
+SIWARD CRYSTAL TECHNOLOGY CO LTD 
+
+
+
+
+SK HYNIX INC 
+
+
+
+
+SKYWORKS SOLUTIONS INC 
+
+
+
+
+SL POWER ELECTRONICS CORP 
+
+
+
+
+SLOANLED 
+
+
+
+
+SMAR RESEARCH CORP 
+
+
+
+
+SMART MODULAR TECHNOLOGIES 
+
+
+
+
+SMARTEC BV 
+
+
+
+
+SMI INC 
+
+
+
+
+SMK CORP 
+
+
+
+
+SMP TECHNOLOGY INC 
+
+
+
+
+SOC CORP 
+
+
+
+
+SOLAR ELECTRONICS COMPANY 
+
+
+
+
+SOLID POWER CORP 
+
+
+
+
+SOLID STATE DEVICES INC 
+
+
+
+
+SOLID STATE ELECTRONICS 
+
+
+
+
+SOLID STATE INC 
+
+
+
+
+SOLID STATE OPTRONICS INC 
+
+
+
+
+SOLITRON DEVICES INC 
+
+
+
+
+SOLOMON GOLDENTEK DISPLAY CORP 
+
+
+
+
+SOLOMON SYSTECH LTD 
+
+
+
+
+SONG CHUAN PRECISION CO LTD 
+
+
+
+
+SONTHEIMER ELEKTROGERATE GMBH 
+
+
+
+
+SONY CORP 
+
+
+
+
+SORENSON LIGHTED CONTROLS INC 
+
+
+
+
+SOREP S A 
+
+
+
+
+SOSHIN ELECTRIC CO LTD 
+
+
+
+
+SOURCE PHOTONICS INC 
+
+
+
+
+SOURIAU INC 
+
+
+
+
+SOUTH AFRICAN MICRO-ELECTRONIC SYSTEMS LTD 
+
+
+
+
+SOUTH MIDLANDS COMMUNICATIONS LTD 
+
+
+
+
+SOUTHWEST MICROWAVE INC 
+
+
+
+
+SPACE ELECTRONICS INC 
+
+
+
+
+SPANSION INC 
+
+
+
+
+SPC TECHNOLOGY/ MULTICOMP 
+
+
+
+
+SPECTEK 
+
+
+
+
+SPECTRA DIODE LABORATORIES INC 
+
+
+
+
+SPECTRALINEAR INC 
+
+
+
+
+SPECTRIAN 
+
+
+
+
+SPECTRUM CONTROL INC 
+
+
+
+
+SPECTRUM DEVICES 
+
+
+
+
+SPINNER GMBH 
+
+
+
+
+SPRAGUE ELECTRIC CO 
+
+
+
+
+SPRAGUE-GOODMAN ELECTRONICS INC 
+
+
+
+
+SQUARE D CO 
+
+
+
+
+SRI CONNECTOR GAGE CO 
+
+
+
+
+SRI INTERNATIONAL 
+
+
+
+
+SRT RESISTOR TECHNOLOGY GMBH 
+
+
+
+
+ST OLEKTRON CORP 
+
+
+
+
+ST-ERICSSON 
+
+
+
+
+STAC ELECTRONICS 
+
+
+
+
+STACKPOLE ELECTRONICS INC 
+
+
+
+
+STACO ENERGY PRODUCTS CO 
+
+
+
+
+STANCOR PRODUCTS 
+
+
+
+
+STANDARD CRYSTAL CORP 
+
+
+
+
+STANDARD MICROSYSTEMS CORP 
+
+
+
+
+STANDEX ELECTRONICS 
+
+
+
+
+STANDEX-MEDER ELECTRONICS 
+
+
+
+
+STANDISH L C D 
+
+
+
+
+STANFORD TELECOMMUNICATIONS INC 
+
+
+
+
+STANLEY ELECTRIC CO LTD 
+
+
+
+
+STAR SEMICONDUCTOR CORP 
+
+
+
+
+STARGEN 
+
+
+
+
+STARTECH SEMICONDUCTOR INC 
+
+
+
+
+STATE OF THE ART INC 
+
+
+
+
+STATEK CORP 
+
+
+
+
+STC DEFENCE SYSTEMS 
+
+
+
+
+STD FASTENER 
+
+
+
+
+STEC INC 
+
+
+
+
+STELVIO KONTEK SPA 
+
+
+
+
+STETRON INTERNATIONAL INC 
+
+
+
+
+STEVENS WATER MONITORING SYSTEMS INC 
+
+
+
+
+STEWARD INC 
+
+
+
+
+STEWART CONNECTOR SYSTEMS INC 
+
+
+
+
+STMICROELECTRONICS 
+
+
+
+
+STOCKO CONTACT GMBH & CO KG 
+
+
+
+
+STPI GROUP 
+
+
+
+
+STRATOS INTERNATIONAL INC 
+
+
+
+
+STROBE DATA INC 
+
+
+
+
+STRUTHERS DUNN INC 
+
+
+
+
+SULLINS CONNECTOR SOLUTIONS INC 
+
+
+
+
+SUMIDA CORP 
+
+
+
+
+SUMITOMO ELECTRIC DEVICE INNOVATIONS USA INC 
+
+
+
+
+SUMITOMO ELECTRIC INDUSTRIES LTD 
+
+
+
+
+SUMMIT MICROELECTRONICS INC 
+
+
+
+
+SUMMIT SEMICONDUCTOR LLC 
+
+
+
+
+SUN ELECTRONIC INDUSTRIES CORP 
+
+
+
+
+SUNLED CO LTD 
+
+
+
+
+SUNLIKE DISPLAY TECH CORP 
+
+
+
+
+SUNNY ELECTRONICS CORP 
+
+
+
+
+SUNON INC 
+
+
+
+
+SUNPLUS TECHNOLOGY CO LTD 
+
+
+
+
+SUNTSU FREQUENCY CONTROL INC 
+
+
+
+
+SUPER BRIGHT INDUSTRIAL LTD 
+
+
+
+
+SUPER LINK ELECTRONICS CO LTD 
+
+
+
+
+SUPERTEX INC 
+
+
+
+
+SUPERWORLD HOLDINGS (S) PTE LTD 
+
+
+
+
+SURFACE MOUNTABLE ELECTRONIC COMPONENTS INC 
+
+
+
+
+SURGE COMPONENTS INC 
+
+
+
+
+SURGETECH LTD 
+
+
+
+
+SUSSEX SEMICONDUCTOR INC 
+
+
+
+
+SUSUMU CO LTD 
+
+
+
+
+SUYIN CORP 
+
+
+
+
+SV MICROWAVE INC 
+
+
+
+
+SWAGELOK CO 
+
+
+
+
+SWAMPSCOTT ELECTRONICS CO INC 
+
+
+
+
+SWISSBIT AG 
+
+
+
+
+SWITCHCRAFT INC 
+
+
+
+
+SWITCHTECH ENTERPRISE LTD 
+
+
+
+
+SWITRONIC INDUSTRIAL CORP 
+
+
+
+
+SYFER TECHNOLOGY LTD 
+
+
+
+
+SYMBIOS LOGIC 
+
+
+
+
+SYMBIOS SEMICONDUCTORS 
+
+
+
+
+SYNC POWER CORP 
+
+
+
+
+SYNCMOS TECHNOLOGIES INC 
+
+
+
+
+SYNERGY MICROWAVE CORP 
+
+
+
+
+SYNERGY SEMICONDUCTOR CORP 
+
+
+
+
+SYNERTEK INC 
+
+
+
+
+SYNQOR INC 
+
+
+
+
+SYNSEMI INC 
+
+
+
+
+SYNTEK SEMICONDUCTOR CO LTD 
+
+
+
+
+SYNTON-TECH CORP 
+
+
+
+
+SYSTEM GENERAL CORP 
+
+
+
+
+SYSTRONIX INC 
+
+
+
+
+SYVANTEK MICROELECTRONICS CORP 
+
+
+
+
+
+
+
+
+T-CERAM SRO 
+
+
+
+
+TA-I TECHNOLOGY CO LTD 
+
+
+
+
+TACHONICS INC 
+
+
+
+
+TADIRAN 
+
+
+
+
+TAG SEMICONDUCTORS LTD 
+
+
+
+
+TAI-PULSAR INDUSTRIAL CORP 
+
+
+
+
+TAI-SAW TECHNOLOGY CO LTD 
+
+
+
+
+TAI-TECH ADVANCED ELECTRONICS CO LTD 
+
+
+
+
+TAIKO-DENKI CO LTD 
+
+
+
+
+TAIMAG CORP 
+
+
+
+
+TAITIEN ELECTRONICS CO LTD 
+
+
+
+
+TAITRON COMPONENTS INC 
+
+
+
+
+TAIWAN MICROELECTRONICS TECHNOLOGIES INC 
+
+
+
+
+TAIWAN MISAKI ELECTRONICS CO LTD 
+
+
+
+
+TAIWAN SEMICONDUCTOR CO LTD 
+
+
+
+
+TAIYO YUDEN CO LTD 
+
+
+
+
+TAIYOSHA ELECTRIC CO LTD 
+
+
+
+
+TAK CHEONG ELECTRONICS HOLDINGS CO LTD 
+
+
+
+
+TAMURA CORP OF AMERICA 
+
+
+
+
+TAOGLAS LTD 
+
+
+
+
+TDK CORP 
+
+
+
+
+TDK-LAMBDA CORP 
+
+
+
+
+TE CONNECTIVITY LTD 
+
+
+
+
+TECAL CORP 
+
+
+
+
+TECATE INDUSTRIES INC 
+
+
+
+
+TECCOR ELECTRONICS INC 
+
+
+
+
+TECHNITROL INC 
+
+
+
+
+TEKA INTERCONNECTION SYSTEMS 
+
+
+
+
+TEKMOS 
+
+
+
+
+TEKMOS INC 
+
+
+
+
+TELCOM SEMICONDUCTOR INC 
+
+
+
+
+TELCONA AG 
+
+
+
+
+TELE-TECH CORP 
+
+
+
+
+TELEDYNE COMPONENTS 
+
+
+
+
+TELEDYNE COUGAR INC 
+
+
+
+
+TELEDYNE DALSA INC 
+
+
+
+
+TELEDYNE TECHNOLOGIES INC 
+
+
+
+
+TELEFUNKEN MICROELECTRONICS GMBH 
+
+
+
+
+TELEFUNKEN SEMICONDUCTOR GMBH & CO KG 
+
+
+
+
+TELEGARTNER KARL GARTNER GMBH 
+
+
+
+
+TELIT COMMUNICATIONS PLC 
+
+
+
+
+TELLURIAN TECHNOLOGIES INC 
+
+
+
+
+TELTONE CORP 
+
+
+
+
+TEMEX CERAMICS 
+
+
+
+
+TEMEX COMPONENTS 
+
+
+
+
+TEMIC SEMICONDUCTORS 
+
+
+
+
+TEMPO SEMICONDUCTOR INC 
+
+
+
+
+TEMWELL CORP 
+
+
+
+
+TENX TECHNOLOGY INC 
+
+
+
+
+TERIDIAN SEMICONDUCTOR CORP 
+
+
+
+
+TERRY SEMICONDUCTOR INC 
+
+
+
+
+TESLA ELEKTRONICKE SOUCASTKY 
+
+
+
+
+TESOEL AB 
+
+
+
+
+TEXAS COMPONENTS CORP 
+
+
+
+
+TEXAS INSTRUMENTS INC 
+
+
+
+
+THALES COMPONENTS CORP 
+
+
+
+
+THAT CORP 
+
+
+
+
+THE CHERRY CORP 
+
+
+
+
+THE PHOENIX COMPANY OF CHICAGO INC 
+
+
+
+
+THE SWATCH GROUP LTD 
+
+
+
+
+THERM-O-DISC INC 
+
+
+
+
+THERMOMETRICS 
+
+
+
+
+THIN FILM TECHNOLOGY CORP 
+
+
+
+
+THINE ELECTRONICS INC 
+
+
+
+
+THINKING ELECTRONIC INDUSTRIAL CO LTD 
+
+
+
+
+THIRD DOMAIN INC 
+
+
+
+
+THOMAS & BETTS CORP 
+
+
+
+
+THOMSON COMPONENTS-MOSTEK CORP 
+
+
+
+
+THOMSON ELECTRON TUBES & DEVICES CORP 
+
+
+
+
+THOMSON PASSIVE COMPONENTS 
+
+
+
+
+THOMSON-CSF COMPSANTS SPECIFIC 
+
+
+
+
+THOMSON-CSF SEMICONDUCTORS 
+
+
+
+
+THORDARSON MEISSNER INC 
+
+
+
+
+THORLABS INC 
+
+
+
+
+TIMES MICROWAVE SYSTEMS 
+
+
+
+
+TLSI INC 
+
+
+
+
+TM TECHNOLOGY INC 
+
+
+
+
+TOKO INC 
+
+
+
+
+TOKYO COSMOS ELECTRIC CO LTD 
+
+
+
+
+TOKYO DENPA CO LTD 
+
+
+
+
+TOKYO ELECTRON DEVICE LTD 
+
+
+
+
+TOP MAGNETICS CORP 
+
+
+
+
+TOPAZ SEMICONDUCTOR 
+
+
+
+
+TOPRO TECHNOLOGY INC 
+
+
+
+
+TOREX SEMICONDUCTOR LTD 
+
+
+
+
+TOROTEL PRODUCTS INC 
+
+
+
+
+TORTRAN INC 
+
+
+
+
+TOSHIBA AMERICA ELECTRONIC COMPONENTS INC 
+
+
+
+
+TOSHIBA CORP 
+
+
+
+
+TOTAL POWER INTERNATIONAL INC 
+
+
+
+
+TOUCHSTONE SEMICONDUCTOR 
+
+
+
+
+TOYO COMMUNICATION EQUIPMENT CO LTD 
+
+
+
+
+TOYOCOM U S A INC 
+
+
+
+
+TOYODA GOSEI CO LTD 
+
+
+
+
+TRACO ELECTRONIC AG 
+
+
+
+
+TRAK MICROWAVE CORP 
+
+
+
+
+TRANS TECH INC 
+
+
+
+
+TRANSCEND INFORMATION INC 
+
+
+
+
+TRANSCOM INC 
+
+
+
+
+TRANSISTOR & ELECTRONIC CO 
+
+
+
+
+TRANSITRONIX 
+
+
+
+
+TRANSYS ELECTRONICS LTD 
+
+
+
+
+TRI TECH MICROELECTRONICS 
+
+
+
+
+TRI-MAG INC 
+
+
+
+
+TRI-STAR ELECTRONICS INTERNATIONAL INC 
+
+
+
+
+TRIAD MAGNETICS 
+
+
+
+
+TRIDENT MICROSYSTEMS INC 
+
+
+
+
+TRILITHIC 
+
+
+
+
+TRIMBLE NAVIGATION LTD 
+
+
+
+
+TRINAMIC MOTION CONTROL GMBH & CO KG 
+
+
+
+
+TRIQUINT SEMICONDUCTOR INC 
+
+
+
+
+TRIUNE SYSTEMS 
+
+
+
+
+TROMPETER ELECTRONICS INC 
+
+
+
+
+TRU CORP 
+
+
+
+
+TRUESENSE IMAGING INC 
+
+
+
+
+TRULY INTERNATIONAL HOLDINGS LTD 
+
+
+
+
+TRW LSI PRODUCTS INC 
+
+
+
+
+TRW MICROWAVE INC 
+
+
+
+
+TSC INTERNATIONAL 
+
+
+
+
+TSENGLABS INTERNATIONAL CO LTD 
+
+
+
+
+TUNDRA SEMICONDUCTOR CORP 
+
+
+
+
+TUSONIX INC 
+
+
+
+
+TWILIGHT TECHNOLOGY INC 
+
+
+
+
+TXC CORP 
+
+
+
+
+TY-OHM ELECTRONIC WORKS CO LTD 
+
+
+
+
+TYCO ELECTRONICS ALCOSWITCH 
+
+
+
+
+TYCO ELECTRONICS AMP 
+
+
+
+
+TYCO ELECTRONICS CII 
+
+
+
+
+TYCO ELECTRONICS COMPONENTS 
+
+
+
+
+TYCO ELECTRONICS ELCON 
+
+
+
+
+TYCO ELECTRONICS M/A-COM 
+
+
+
+
+TYNTEK CORP 
+
+
+
+
+
+
+
+
+U-BLOX AG 
+
+
+
+
+U-FO TOP-TECH CO LTD 
+
+
+
+
+U2T PHOTONICS AG 
+
+
+
+
+UBICOM INC 
+
+
+
+
+UCHIHASHI ESTEC CO LTD 
+
+
+
+
+UCTECH LTD 
+
+
+
+
+UDE CORP 
+
+
+
+
+UDT SENSORS INC 
+
+
+
+
+ULTRALIFE CORP 
+
+
+
+
+UNICOM ELECTRONIC CORP 
+
+
+
+
+UNIGEN CORP 
+
+
+
+
+UNIOHM CORP 
+
+
+
+
+UNION OPTRONICS CORP 
+
+
+
+
+UNION SEMICONDUCTOR INC 
+
+
+
+
+UNION TECHNOLOGY CORP 
+
+
+
+
+UNISONIC TECHNOLOGIES CO LTD 
+
+
+
+
+UNITED DETECTOR TECHNOLOGY 
+
+
+
+
+UNITED MICROELECTRONICS CORP 
+
+
+
+
+UNITED MONOLITHIC SEMICONDUCTOR SAS 
+
+
+
+
+UNITED MONOLITHIC SEMICONDUCTORS 
+
+
+
+
+UNITRODE CORP 
+
+
+
+
+UNITY OPTO TECHNOLOGY CO LTD 
+
+
+
+
+UNIVERSAL MICROELECTRONICS CO LTD 
+
+
+
+
+UNIVERSAL MICROWAVE COMPONENTS CORP 
+
+
+
+
+UNIVERSAL MICROWAVE CORP 
+
+
+
+
+UNIVERSAL SEMICONDUCTOR INC 
+
+
+
+
+UPI SEMICONDUCTOR CORP 
+
+
+
+
+US CONEC LTD 
+
+
+
+
+US DIGITAL CORP 
+
+
+
+
+US RELAYS AND TECHNOLOGY INC 
+
+
+
+
+US SENSOR CORP 
+
+
+
+
+USAR SYSTEMS 
+
+
+
+
+USHA LTD 
+
+
+
+
+UTK COMPONENT 
+
+
+
+
+
+
+
+
+V-INFINITY LLC 
+
+
+
+
+V3 SEMICONDUCTOR 
+
+
+
+
+VACUUMSCHMELZE GMBH & CO KG 
+
+
+
+
+VADEM CORP 
+
+
+
+
+VALENCE TECHNOLOGY INC 
+
+
+
+
+VALOR ELECTRONICS INC 
+
+
+
+
+VALPEY-FISHER CORP 
+
+
+
+
+VALTRONIC INC 
+
+
+
+
+VANGUARD ELECTRONICS CO 
+
+
+
+
+VANGUARD SEMICONDUCTOR 
+
+
+
+
+VANLONG TECHNOLOGY CO LTD 
+
+
+
+
+VANTIS CORP 
+
+
+
+
+VARI-L CO INC 
+
+
+
+
+VARITRONIX LTD 
+
+
+
+
+VARO QUALITY SEMICONDUCTOR INC 
+
+
+
+
+VARTA MICROBATTERY GMBH 
+
+
+
+
+VCA ASSOCIATES 
+
+
+
+
+VCH INC 
+
+
+
+
+VECTRON INTERNATIONAL 
+
+
+
+
+VENKEL LTD 
+
+
+
+
+VENTRONICS INC 
+
+
+
+
+VERMONT MICROSYSTEMS 
+
+
+
+
+VERO TECHNOLOGIES LTD 
+
+
+
+
+VERSATILE SEMICONDUCTOR 
+
+
+
+
+VIA LABS INC 
+
+
+
+
+VIA TECHNOLOGIES INC 
+
+
+
+
+VICOR CORP 
+
+
+
+
+VIKING TECH CORP 
+
+
+
+
+VIKING TECHNOLOGY 
+
+
+
+
+VINCOTECH GMBH 
+
+
+
+
+VIRGINIA PANEL CORP 
+
+
+
+
+VIRTIUM TECHNOLOGY INC 
+
+
+
+
+VISHAY BC COMPONENTS 
+
+
+
+
+VISHAY BEYSCHLAG 
+
+
+
+
+VISHAY DALE 
+
+
+
+
+VISHAY INTERTECHNOLOGY INC 
+
+
+
+
+VISHAY PRECISION GROUP INC 
+
+
+
+
+VISHAY SEMICONDUCTORS 
+
+
+
+
+VISHAY SFERNICE 
+
+
+
+
+VISHAY SILICONIX 
+
+
+
+
+VISHAY SPECTROL 
+
+
+
+
+VISHAY SPRAGUE 
+
+
+
+
+VISHAY TELEFUNKEN 
+
+
+
+
+VISHAY THIN FILM 
+
+
+
+
+VISUAL COMMUNICATIONS COMPANY LLC 
+
+
+
+
+VITAREL MICROELECTRONICS 
+
+
+
+
+VITEC ELECTRONICS CORP 
+
+
+
+
+VITELEC ELECTRONICS LTD 
+
+
+
+
+VITESSE SEMICONDUCTOR CORP 
+
+
+
+
+VITROHM 
+
+
+
+
+VITZROCELL CO 
+
+
+
+
+VLSI SOLUTION OY 
+
+
+
+
+VLSI TECHNOLOGY INC 
+
+
+
+
+VOLTAGE MULTIPLIERS INC 
+
+
+
+
+VOLTARC TECHNOLOGIES INC 
+
+
+
+
+VOLTRONICS CORP 
+
+
+
+
+VPT INC 
+
+
+
+
+VTI INSTRUMENTS CORP 
+
+
+
+
+VTI TECHNOLOGIES OY 
+
+
+
+
+
+
+
+
+W L GORE & ASSOCIATES INC 
+
+
+
+
+W+P PRODUCTS GMBH 
+
+
+
+
+WAFERSCALE INTEGRATION INC 
+
+
+
+
+WAGO CORP 
+
+
+
+
+WAKA MANUFACTURING CO LTD 
+
+
+
+
+WAKEFIELD-VETTE INC 
+
+
+
+
+WALL INDUSTRIES INC 
+
+
+
+
+WALMSLEY MICROSYSTEMS LTD 
+
+
+
+
+WALSIN TECHNOLOGY CORP 
+
+
+
+
+WAMCO INC 
+
+
+
+
+WAVELENGTH ELECTRONICS INC 
+
+
+
+
+WAY-TECH ENTERPRISE CO LTD 
+
+
+
+
+WEALD ELECTRONICS LTD 
+
+
+
+
+WEARNES CAMBION LTD 
+
+
+
+
+WEIDMULLER 
+
+
+
+
+WEITRON TECHNOLOGY CO LTD 
+
+
+
+
+WEITRONIC ENTERPRISE CO LTD 
+
+
+
+
+WEKANG CO LTD 
+
+
+
+
+WELL BUYING INDUSTRIAL CO LTD 
+
+
+
+
+WELTREND SEMICONDUCTOR INC 
+
+
+
+
+WELWYN COMPONENTS LTD 
+
+
+
+
+WENZEL ASSOCIATES INC 
+
+
+
+
+WERLATONE INC 
+
+
+
+
+WEST COAST MAGNETICS 
+
+
+
+
+WESTCODE SEMICONDUCTORS LTD 
+
+
+
+
+WESTERN DESIGN CENTER INC 
+
+
+
+
+WESTERN DIGITAL CORP 
+
+
+
+
+WETHERILL ASSOCIATES INC (WAI) 
+
+
+
+
+WHITE ELECTRONIC DESIGNS CORP 
+
+
+
+
+WHITE MICROELECTRONICS 
+
+
+
+
+WI2WI INC 
+
+
+
+
+WICKMANN USA 
+
+
+
+
+WIELAND ELECTRIC INC 
+
+
+
+
+WIESON TECHNOLOGIES CO LTD 
+
+
+
+
+WILBRECHT ELECTRONICS INC 
+
+
+
+
+WIMA 
+
+
+
+
+WIN WIN PRECISION INDUSTRIAL CO LTD 
+
+
+
+
+WINBOND ELECTRONICS CORP 
+
+
+
+
+WINCHESTER ELECTRONICS CORP 
+
+
+
+
+WINSLOW ADAPTICS LTD 
+
+
+
+
+WINSON SEMICONDUCTOR CORP 
+
+
+
+
+WINSTAR DISPLAY CO LTD 
+
+
+
+
+WISPRY INC 
+
+
+
+
+WIZNET CO INC 
+
+
+
+
+WJ COMMUNICATIONS INC 
+
+
+
+
+WOLFSON MICROELECTRONICS LTD 
+
+
+
+
+WON-TOP ELECTRONICS CO LTD 
+
+
+
+
+WORLD PRODUCTS INC 
+
+
+
+
+WORLD PRODUCTS LLC 
+
+
+
+
+WORLD STAR TECH 
+
+
+
+
+WURTH ELEKTRONIK GMBH & CO KG 
+
+
+
+
+WUXI CHINA RESOURCES HUAJING MICROELECTRONICS CO 
+
+
+
+
+WUXI XUYANG ELECTRONIC CO LTD 
+
+
+
+
+WUXI YOUDA ELECTRONICS CO LTD 
+
+
+
+
+
+
+
+
+X-REL SEMICONDUCTOR SAS 
+
+
+
+
+XECOM INC 
+
+
+
+
+XFMRS INC 
+
+
+
+
+XI'AN SWIP CO LTD 
+
+
+
+
+XIAMEN HONGFA ELECTROACOUSTIC CO LTD 
+
+
+
+
+XIAN CONNECTOR TECHNOLOGY LTD 
+
+
+
+
+XICON PASSIVE COMPONENTS 
+
+
+
+
+XICOR INC 
+
+
+
+
+XILINX INC 
+
+
+
+
+XMA CORP 
+
+
+
+
+XMULTIPLE TECHNOLOGIES INC 
+
+
+
+
+XP POWER LTD 
+
+
+
+
+XSIS ELECTRONICS INC 
+
+
+
+
+XTREME SEMICONDUCTOR 
+
+
+
+
+
+
+
+
+YAGEO CORP 
+
+
+
+
+YAMAHA CORP 
+
+
+
+
+YAMAICHI ELECTRONICS CO LTD 
+
+
+
+
+YANGZHOU YANGJIE ELECTRONICS CO LTD 
+
+
+
+
+YAZAKI CORP 
+
+
+
+
+YCL ELECTRONICS CO LTD 
+
+
+
+
+YELLOW STONE CORP 
+
+
+
+
+YEN SUN TECHNOLOGY CORP 
+
+
+
+
+YOUNG YAK ENTERPRISE CO LTD 
+
+
+
+
+YUAN DEAN SCIENTIFIC CO LTD 
+
+
+
+
+
+
+
+
+Z-COMMUNICATIONS INC 
+
+
+
+
+ZARLINK SEMICONDUCTOR INC 
+
+
+
+
+ZELLERTECH INC 
+
+
+
+
+ZETEX PLC 
+
+
+
+
+ZETTLER MAGNETICS INC 
+
+
+
+
+ZHONGSHAN SILSMART OPTOELECTRONICS CO LTD 
+
+
+
+
+ZILLTEK TECHNOLOGY CORP 
+
+
+
+
+ZILOG INC 
+
+
+
+
+ZMD AG 
+
+
+
+
+ZOWIE TECHNOLOGY CORP 
+
+
+
+
+ZYWYN CORP 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Privacy Policy| Terms and Conditions  
+
+
+Copyright © 2017 Perfect Parts Corp
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+

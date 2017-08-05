@@ -1,0 +1,8049 @@
+Bons de commande Lite - Google Play Android 應用程式                                            我的帳戶搜尋地圖YouTubePlay新聞Gmail雲端硬碟日曆Google+翻譯相片更多文件Blogger聯絡人HangoutsKeep更多 Google 應用程式登入隱藏的欄位搜尋            應用程式     我的應用程式   購物    遊戲   家庭   編輯精選          電影     我的電影   購物    製片公司          圖書     我的書籍   購物          書報攤     我的書報攤   購物          裝置     購物          娛樂         帳戶    兌換   我的願望清單   我的 Play 動態   家長指南                 類別              工具  天氣  生活品味  生產應用  地圖與導航  汽車與車輛  房屋與房產  社交  活動票券  約會交友  美妝造型  美食佳飲  音樂與音效  個人化  娛樂  旅遊與地方資訊  財經  健康塑身  商業  教育  通訊  程式庫與試用程式  新聞與雜誌  運動  圖書與參考資源  漫畫  影片播放與編輯  購物  醫療  懷孕與育兒  藝術與設計  攝影  Android Wear       遊戲    休閒  角色扮演  冒險  拼字  音樂  益智  紙牌  動作  教育  博奕  棋類遊戲  策略  街機  解謎  模擬  賽車遊戲  體育競技       家庭    5 歲以下  6-8 歲  9 歲以上  角色扮演遊戲  音樂和影片  益智遊戲  動作和冒險  教育  創意                        首頁            熱門排行榜            最新發佈                                       設定      Android 裝置管理員                       Bons de commande Lite           4        MICRO DATA SARL   生產應用                正在載入裝置相容性...                  加入願望清單 新增中... 已加入願望清單 移除 移除中...    已將商品加入願望清單。   已將商品從願望清單中移除。      1                安裝                                                                                                                      使用 Google 翻譯將說明譯成中文？ 將說明翻譯回法语 翻譯    Votre téléphone ou votre tablette vous permettent à tout moment de passer vos commande à vos fournisseurs. Vous pouvez scanner un code-barre prendre des photos, ajouter des commentaires. Puis toutes ces information parviennent au personnes concernés par e-mail. 您的手機或平板電腦，你可以隨時到您的訂單傳遞給你的供應商。您可以掃描條形碼拍照，添加註釋。然後，所有這些信息到達受電子郵件的人。     閱讀完整內容                我的評論                             的評論                                         評論      3.8       總評分次數：4     5   1   4   2   3   0   2   1   1   0       實用性      最新  評分  實用性          評論已刪除       新功能 La possibilité d'être acheteur ou fournisseur, le champ commentaire est agrandit plus autres petites corrections ...   閱讀完整內容             其他資訊    發佈日期 2016年6月1日   安裝次數  100 - 500    目前版本  0.0.2.0     Android 最低版本需求      3.2 以上      內容分級 3 歲以上 瞭解詳情   權限 查看詳細資訊   報告 檢舉不當內容   提供者 MICRO DATA SARL   開發人員  造訪網站 將電子郵件寄到 vkru157fr@gmail.com MICRO DATA - 8 BOULEVARD DES FAÏENCERIES - 57200 SARREGUEMINES - FRANCE            類似內容                已預購           Inventory Management    Inventory Releases    1  免費       庫存管理應用程序是一個簡單的應用程序來記錄你的庫存信息。                  1  免費                   相同開發人員的其他項目                已預購           Bons de commande    MICRO DATA SARL    1  $301.00       從手機或平板電腦花你為了你的供應商                  1  $301.00                     已預購           Receipt Digital Lite    MICRO DATA SARL    1  免費       收到您的手機上。註冊，拍照，發送。                  1  免費                     已預購           Receipt Digital    MICRO DATA SARL    1  $118.00       收到您的手機上。註冊，拍照，發送。                  1  $118.00                     已預購           Delivery notes - Lite    MICRO DATA SARL    1  免費       送貨單您的手機上。註冊，拍照，發送。                  1  免費                     已預購           Delivery notes    MICRO DATA SARL    1  $320.00       送貨單您的手機上。註冊，拍照，發送。                  1  $320.00               顯示更多    ©2017 Google 網站服務條款 隱私權 開發人員 Google 完全手冊 所有價格均含加值稅。  購買這個項目即表示您同意與 Google Payments 進行交易並接受 Google Payments《服務條款》和《隱私權聲明》。       
+
+
+
+Service - schema.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+schema.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+Documentation
+
+
+Schemas
+
+
+Home
+
+
+
+
+
+
+
+
+
+
+
+Service
+Canonical URL: http://schema.org/ServiceThing > Intangible > Service
+
+A service provided by an organization, e.g. delivery service, print services, etc.
+Usage: Between 1000 and 10,000 domains
+
+
+PropertyExpected TypeDescription
+
+
+
+[more...]
+
+Leave public feedback on this term 💬Check for open issues.'Service' is mentioned in layer: core'Service' is mentioned in extension layer: pending
+
+
+
+Properties from Service
+
+
+
+
+aggregateRating
+
+
+AggregateRating The overall rating, based on a collection of reviews or ratings, of the item.
+
+areaServed
+
+
+AdministrativeArea  or  GeoShape  or  Place  or  Text The geographic area where a service or offered item is provided. Supersedes serviceArea.
+
+audience
+
+
+Audience An intended audience, i.e. a group for whom something was created. Supersedes serviceAudience.
+
+availableChannel
+
+
+ServiceChannel A means of accessing the service (e.g. a phone bank, a web site, a location, etc.).
+
+award
+
+
+Text An award won by or for this item. Supersedes awards.
+
+brand
+
+
+Brand  or  Organization The brand(s) associated with a product or service, or the brand(s) maintained by an organization or business person.
+
+broker
+
+
+Organization  or  Person An entity that arranges for an exchange between a buyer and a seller.  In most cases a broker never acquires or releases ownership of a product or service involved in an exchange.  If it is not clear whether an entity is a broker, seller, or buyer, the latter two terms are preferred. Supersedes bookingAgent.
+
+category
+
+
+Text  or  Thing A category for the item. Greater signs or slashes can be used to informally indicate a category hierarchy.
+
+hasOfferCatalog
+
+
+OfferCatalog Indicates an OfferCatalog listing for this Organization, Person, or Service.
+
+hoursAvailable
+
+
+OpeningHoursSpecification The hours during which this service or contact is available.
+
+isRelatedTo
+
+
+Product  or  Service A pointer to another, somehow related product (or multiple products).
+
+isSimilarTo
+
+
+Product  or  Service A pointer to another, functionally similar product (or multiple products).
+
+logo
+
+
+ImageObject  or  URL An associated logo.
+
+offers
+
+
+Offer An offer to provide this item—for example, an offer to sell a product, rent the DVD of a movie, perform a service, or give away tickets to an event.
+
+provider
+
+
+Organization  or  Person The service provider, service operator, or service performer; the goods producer. Another party (a seller) may offer those services or goods on behalf of the provider. A provider may also serve as the seller. Supersedes carrier.
+
+providerMobility
+
+
+Text Indicates the mobility of a provided service (e.g. 'static', 'dynamic').
+
+review
+
+
+Review A review of the item. Supersedes reviews.
+
+serviceOutput
+
+
+Thing The tangible thing generated by the service, e.g. a passport, permit, etc. Supersedes produces.
+
+serviceType
+
+
+Text The type of service being offered, e.g. veterans' benefits, emergency relief, etc.
+Properties from Thing
+
+
+
+
+additionalType
+
+
+URL An additional type for the item, typically used for adding more specific types from external vocabularies in microdata syntax. This is a relationship between something and a class that the thing is in. In RDFa syntax, it is better to use the native RDFa syntax - the 'typeof' attribute - for multiple types. Schema.org tools may have only weaker understanding of extra types, in particular those defined externally.
+
+alternateName
+
+
+Text An alias for the item.
+
+description
+
+
+Text A description of the item.
+
+disambiguatingDescription
+
+
+Text A sub property of description. A short description of the item used to disambiguate from other, similar items. Information from other properties (in particular, name) may be necessary for the description to be useful for disambiguation.
+
+identifier
+
+
+PropertyValue  or  Text  or  URL The identifier property represents any kind of identifier for any kind of Thing, such as ISBNs, GTIN codes, UUIDs etc. Schema.org provides dedicated properties for representing many of these, either as textual strings or as URL (URI) links. See background notes for more details.
+
+image
+
+
+ImageObject  or  URL An image of the item. This can be a URL or a fully described ImageObject.
+
+mainEntityOfPage
+
+
+CreativeWork  or  URL Indicates a page (or other CreativeWork) for which this thing is the main entity being described. See background notes for details. Inverse property: mainEntity.
+
+name
+
+
+Text The name of the item.
+
+potentialAction
+
+
+Action Indicates a potential Action, which describes an idealized action in which this thing would play an 'object' role.
+
+sameAs
+
+
+URL URL of a reference Web page that unambiguously indicates the item's identity. E.g. the URL of the item's Wikipedia page, Wikidata entry, or official website.
+
+url
+
+
+URL URL of the item.
+
+Instances of Service may appear as values for the following properties
+
+PropertyOn TypesDescription
+
+
+
+
+isRelatedTo
+
+
+Product  or Service A pointer to another, somehow related product (or multiple products). 
+
+isSimilarTo
+
+
+Product  or Service A pointer to another, functionally similar product (or multiple products). 
+
+issuedThrough
+
+
+Permit The service through with the permit was granted. 
+
+itemOffered
+
+
+Demand  or Offer The item being offered. 
+
+providesService
+
+
+ServiceChannel The service provided by this channel. 
+
+typeOfGood
+
+
+OwnershipInfo  or TypeAndQuantityNode The product that this structured value is referring to. 
+Available properties in extensionsFor Service in the pending extension:  termsOfService
+More specific Types BroadcastService  CableOrSatelliteService  FinancialProduct  FoodService  GovernmentService  TaxiService More specific Types available in extensionsWebAPIExamples
+Example 1
+
+Without Markup
+Microdata
+RDFa
+JSON-LD
+
+An example of a invoice for a purchase and installation.
+ACME Home Heating
+Bill for: New furnace and installation
+Customer: Jane Doe
+payment due: 2015-01-30
+minimum payment: $0.00
+total due: $0.00
+payment status: paid
+order: furnace model ABC123
+order: installation labor
+
+<div itemscope itemtype="http://schema.org/Invoice">
+  <h1 itemprop="description">New furnace and installation</h1>
+  <div itemprop="broker" itemscope itemtype="http://schema.org/LocalBusiness">
+    <b itemprop="name">ACME Home Heating</b>
+  </div>
+  <div itemprop="customer" itemscope itemtype="http://schema.org/Person">
+    <b itemprop="name">Jane Doe</b>
+  </div>
+  <time itemprop="paymentDueDate">2015-01-30</time>
+  <div itemprop="minimumPaymentDue" itemscope itemtype="http://schema.org/PriceSpecification">
+    <span itemprop="price">0.00</span>
+    <span itemprop="priceCurrency">USD</span>
+  </div>
+  <div itemprop="totalPaymentDue" itemscope itemtype="http://schema.org/PriceSpecification">
+    <span itemprop="price">0.00</span>
+    <span itemprop="priceCurrency">USD</span>
+  </div>
+  <link itemprop="paymentStatus" href="http://schema.org/PaymentComplete" />
+  <div itemprop="referencesOrder" itemscope itemtype="http://schema.org/Order">
+    <span itemprop="description">furnace</span>
+    <time itemprop="orderDate">2014-12-01</time>
+    <span itemprop="orderNumber">123ABC</span>
+    <div itemprop="orderedItem" itemscope itemtype="http://schema.org/Product">
+      <span itemprop="name">ACME Furnace 3000</span>
+      <meta itemprop="productId" content="ABC123" />
+    </div>
+  </div>
+  <div itemprop="referencesOrder" itemscope itemtype="http://schema.org/Order">
+    <span itemprop="description">furnace installation</span>
+    <time itemprop="orderDate">2014-12-02</time>
+    <div itemprop="orderedItem" itemscope itemtype="http://schema.org/Service">
+      <span itemprop="description">furnace installation</span>
+    </div>
+  </div>
+</div>
+
+<div vocab="http://schema.org/" typeof="Invoice">
+  <h1 property="description">New furnace and installation</h1>
+  <div property="broker" typeof="/LocalBusiness">
+    <b property="name">ACME Home Heating</b>
+  </div>
+  <div property="customer" typeof="Person">
+    <b property="name">Jane Doe</b>
+  </div>
+  <time property="paymentDueDate">2015-01-30</time>
+  <div property="minimumPaymentDue" typeof="PriceSpecification">
+    <span property="price">0.00</span>
+    <span property="priceCurrency">USD</span>
+  </div>
+  <div property="totalPaymentDue" typeof="PriceSpecification">
+    <span property="price">0.00</span>
+    <span property="priceCurrency">USD</span>
+  </div>
+  <meta itemprop="paymentStatus" content="PaymentComplete" />
+  <div property="referencesOrder" typeof="Order">
+    <span property="description">furnace</span>
+    <time property="orderDate">2014-12-01</time>
+    <span property="orderNumber">123ABC</span>
+    <div property="orderedItem" typeof="Product">
+      <span property="name">ACME Furnace 3000</span>
+      <meta property="productId" content="ABC123" />
+    </div>
+  </div>
+  <div property="referencesOrder" typeof="Order">
+    <span property="description">furnace installation</span>
+    <time property="orderDate">2014-12-02</time>
+    <div property="orderedItem" typeof="Service">
+      <span property="description">furnace installation</span>
+    </div>
+  </div>
+</div>
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org/",
+    "@type": "Invoice",
+    "broker": {
+      "@type": "LocalBusiness",
+      "name": "ACME Home Heating"
+    },
+    "accountId": "xxxx-xxxx-xxxx-1234",
+    "customer": {
+      "@type": "Person",
+      "name": "Jane Doe"
+    },
+    "paymentDueDate": "2015-01-30",
+    "minimumPaymentDue": {
+      "@type": "PriceSpecification",
+      "price": 0.00,
+      "priceCurrency": "USD"
+    },
+    "totalPaymentDue": {
+      "@type": "PriceSpecification",
+      "price": 0.00,
+      "priceCurrency": "USD"
+    },
+    "paymentStatus": "http://schema.org/PaymentComplete",
+    "referencesOrder": [
+      {
+        "@type": "Order",
+        "description": "furnace",
+        "orderDate": "2014-12-01",
+        "orderNumber": "123ABC",
+        "paymentMethod": "http://purl.org/goodrelations/v1#ByInvoice",
+        "orderedItem": {
+          "@type": "Product",
+          "name": "ACME Furnace 3000",
+          "productId": "ABC123"
+        }
+      },
+      {
+        "@type": "Order",
+        "description": "furnace installation",
+        "orderDate": "2014-12-02",
+        "paymentMethod": "http://purl.org/goodrelations/v1#ByInvoice",
+        "orderedItem": {
+          "@type": "Service",
+          "description": "furnace installation"
+        }
+      }
+    ]
+}
+</script>
+
+
+Example 2
+
+Without Markup
+Microdata
+RDFa
+JSON-LD
+
+ACME Home Cleaning offers a variety of services in Massachusetts, including:
+<ul>
+  <li>House cleaning</li>
+  <ul>
+    <li>Apartment light cleaning</li>
+    <li>House light cleaning up to 2 bedrooms</li>
+    <li>House light cleaning 3+ bedrooms</li>
+  </ul>
+  <li>One-time services</li>
+  <ul>
+    <li>Window washing</li>
+    <li>Carpet deep cleaning</li>
+    <li>Move in/out cleaning</li>
+  </ul>
+</ul>
+
+<div itemscope itemtype="http://schema.org/Service">
+  <meta itemprop="serviceType" content="Home cleaning" />
+  <span itemprop="provider" itemscope itemtype="http://schema.org/LocalBusiness">
+    <span itemprop="name">ACME Home Cleaning</span>
+  </span>
+  offers a variety of services in
+  <span itemprop="areaServed" itemscope itemtype="http://schema.org/State">
+    <span itemprop="name">Massachusetts</span>, including
+  </span>
+  <ul itemprop="hasOfferCatalog" itemscope itemtype="http://schema.org/OfferCatalog">
+    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/OfferCatalog">
+      <span itemprop="name">House cleaning</span>
+      <ul itemprop="itemListElement" itemscope itemtype="http://schema.org/OfferCatalog">
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/Offer">
+          <div itemprop="itemOffered" itemscope itemtype="http://schema.org/Service">
+            <span itemprop="name">Apartment light cleaning</span>
+          </div>
+        </li>
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/Offer">
+          <div itemprop="itemOffered" itemscope itemtype="http://schema.org/Service">
+            <span itemprop="name">House light cleaning up to 2 bedrooms</span>
+          </div>
+        </li>
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/Offer">
+          <div itemprop="itemOffered" itemscope itemtype="http://schema.org/Service">
+            <span itemprop="name">House light cleaning 3+ bedrooms</span>
+          </div>
+        </li>
+      </ul>
+    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/OfferCatalog">
+      <span itemprop="name">One-time services</span>
+      <ul itemprop="itemListElement" itemscope itemtype="http://schema.org/OfferCatalog">
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/Offer">
+          <div itemprop="itemOffered" itemscope itemtype="http://schema.org/Service">
+            <span itemprop="name">Window washing</span>
+          </div>
+        </li>
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/Offer">
+          <div itemprop="itemOffered" itemscope itemtype="http://schema.org/Service">
+            <span itemprop="name">Carpet deep cleaning</span>
+          </div>
+        </li>
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/Offer">
+          <div itemprop="itemOffered" itemscope itemtype="http://schema.org/Service">
+            <span itemprop="name">Move in/out cleaning</span>
+          </div>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+
+<div vocab="http://schema.org/" typeof="Service">
+  <meta property="serviceType" content="Home cleaning" />
+  <span property="provider" typeof="LocalBusiness">
+    <span property="name">ACME Home Cleaning</span>
+  </span>
+  offers a variety of services in
+  <span property="areaServed" typeof="State">
+    <span property="name">Massachusetts</span>, including
+  </span>
+  <ul property="hasOfferCatalog" typeof="OfferCatalog">
+    <li property="itemListElement" typeof="OfferCatalog">
+      <span property="name">House cleaning</span>
+      <ul property="itemListElement" typeof="OfferCatalog">
+        <li property="itemListElement" typeof="Offer">
+          <div property="itemOffered" typeof="Service">
+            <span property="name">Apartment light cleaning</span>
+          </div>
+        </li>
+        <li property="itemListElement" typeof="Offer">
+          <div property="itemOffered" typeof="Service">
+            <span property="name">House light cleaning up to 2 bedrooms</span>
+          </div>
+        </li>
+        <li property="itemListElement" typeof="Offer">
+          <div property="itemOffered" typeof="Service">
+            <span property="name">House light cleaning 3+ bedrooms</span>
+          </div>
+        </li>
+      </ul>
+    <li property="itemListElement" typeof="OfferCatalog">
+      <span property="name">One-time services</span>
+      <ul property="itemListElement" typeof="OfferCatalog">
+        <li property="itemListElement" typeof="Offer">
+          <div property="itemOffered" typeof="Service">
+            <span property="name">Window washing</span>
+          </div>
+        </li>
+        <li property="itemListElement" typeof="Offer">
+          <div property="itemOffered" typeof="Service">
+            <span property="name">Carpet deep cleaning</span>
+          </div>
+        </li>
+        <li property="itemListElement" typeof="Offer">
+          <div property="itemOffered" typeof="Service">
+            <span property="name">Move in/out cleaning</span>
+          </div>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Service",
+  "serviceType": "Weekly home cleaning",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "ACME Home Cleaning"
+  },
+  "areaServed": {
+    "@type": "State",
+    "name": "Massachusetts"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Cleaning services",
+    "itemListElement": [
+      {
+        "@type": "OfferCatalog",
+        "name": "House Cleaning",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Apartment light cleaning"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "House light cleaning up to 2 bedrooms"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "House light cleaning 3+ bedrooms"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "One-time services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Window washing"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Carpet cleaning"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Move in/out cleaning"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
+</script>
+
+
+Example 3
+
+Without Markup
+Microdata
+RDFa
+JSON-LD
+
+Car for hire driver #123 is within 50 meters of a given location, but is moving.
+
+<div itemscope itemtype="http://schema.org/TaxiService">
+  <div itemprop="provider" itemscope itemtype="http://schema.org/LocalBusiness">
+    <span itemprop="name">driver #123</span>
+    <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+      <div itemprop="geo" itemscope itemtype="http://schema.org/GeoCircle">
+        <div itemprop="geoMidpoint" itemscope itemtype="http://schema.org/GeoCoordinates">
+          <meta itemprop="latitude" content="42.362757" />
+          <meta itemprop="longitude" content="-71.087109" />
+        </div>
+        <meta itemprop="geoRadius" content="50" />
+      </div>
+    </div>
+  </div>
+  <meta itemprop="providerMobility" content="dynamic" />
+</div>
+
+<div vocab="http://schema.org/" typeof="TaxiService">
+  <div property="provider" typeof="LocalBusiness">
+    <span property="name">driver #123</span>
+    <div property="location" typeof="Place">
+      <div property="geo" typeof="GeoCircle">
+        <div property="geoMidpoint" typeof="GeoCoordinates">
+          <meta property="latitude" content="42.362757" />
+          <meta property="longitude" content="-71.087109" />
+        </div>
+        <meta property="geoRadius" content="50" />
+      </div>
+    </div>
+  </div>
+  <meta property="providerMobility" content="dynamic" />
+</div>
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org/",
+    "@type": "TaxiService",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "driver #123",
+      "location": {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoCircle",
+          "geoMidpoint": {
+            "@type": "GeoCoordinates",
+            "latitude": "42.362757",
+            "longitude": "-71.087109"
+          },
+          "geoRadius": "50"
+        }
+      }
+    },
+    "providerMobility": "dynamic"
+  }
+</script>
+
+
+Schema Version 3.2
+
+
+
+
+
+
+
+
+
+HP Service Center Information | HP® Customer Support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBM WebSphere Portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBM Logo
+
+
+
+
+
+Sign Up
+
+
+Log In
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome   
+
+
+Sign out
+    	 | 
+    	Edit profile
+
+
+
+Sign out
+Edit profile
+
+
+
+
+
+ 
+
+
+
+
+Z6_M0I02JG0KGSS30ACT8MPG200G1
+
+
+
+
+
+
+
+Error:
+Javascript is disabled in this browser. This page requires Javascript. Modify your browser's settings to allow Javascript to execute. See your browser's documentation for specific instructions.
+
+
+
+
+
+{}
+
+
+
+
+
+
+
+
+
+Z7_3054ICK0KGTE30AQO5O3KA30U5
+
+
+
+
+
+
+hp-support-head-portlet
+
+
+
+Actions
+
+
+
+
+
+${title}
+
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Welcome to HP Customer Support
+
+
+
+
+
+
+
+
+
+
+
+Z7_3054ICK0KGTE30AQO5O3KA30U7
+
+
+
+
+
+
+hp-contact-secondary-navigation-portlet
+
+
+
+Actions
+
+
+
+
+
+${title}
+
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ HP Customer Support
+			
+			
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+						Select your Model
+					
+
+
+
+
+
+
+
+
+							Let HP find my products
+						
+Identify now
+
+
+							HP can identify most HP products and recommend possible solutions.
+						
+How does HP install software and gather data?
+
+
+
+
+
+
+Privacy Policy © Copyright 2017 HP Development Company, L.P.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Z7_M0I02JG0KONJ30ACBBF8MM1084
+
+
+
+
+
+
+hp-hero-support-search
+
+
+
+Actions
+
+
+
+
+
+${title}
+
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Search all support 
+
+
+All Support
+
+Software, Drivers and Updates
+
+Troubleshooting
+
+How to
+
+Product Information
+
+User Guides
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cancel
+
+Example: “Laserjet P1102w driver” or “HP Pavilion 17-f002na will not turn on”
+
+
+
+
+Loading Results
+
+
+
+
+
+
+
+Z7_3054ICK0KGTE30AQO5O3KA3014
+
+
+
+
+
+
+hp-share-print-widget-portlet
+
+
+
+Actions
+
+
+
+
+
+${title}
+
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				    		
+				    		
+				    			Information
+				    		
+				    	
+
+
+HP fraudulent caller alert - protect yourself from scams
+Learn what to do if you are contacted by fraudulent callers posing as HP representatives. This could be a scam; do not provide any personal information.
+
+				                  		View article
+				                  	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Z7_3054ICK0KGTE30AQO5O3KA30N0
+
+
+
+
+
+
+hp-concentra-wrapper-portlet
+
+
+
+Actions
+
+
+
+
+
+${title}
+
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+HP Service Center Information
+
+
+Algeria
+
+
+Angola
+
+
+Benin
+
+
+Botswana
+
+
+Burkina Faso
+
+
+Cameroon
+
+
+Congo
+
+
+Cote D'Ivoire
+
+
+Ethiopia
+
+
+French Guyana
+
+
+French Polynesia
+
+
+Gabon
+
+
+Ghana
+
+
+Guadeloupe
+
+
+Guinea
+
+
+Kenya
+
+
+Lesotho
+
+
+Libya
+
+
+Madagascar
+
+
+Malawi
+
+
+Mali
+
+
+Martinique
+
+
+Mauritius
+
+
+Mayotte
+
+
+Morocco
+
+
+Mozambique
+
+
+Namibia
+
+
+New Caledonia
+
+
+Niger
+
+
+Nigeria
+
+
+Reunion
+
+
+Rwanda
+
+
+Senegal
+
+
+Swaziland
+
+
+Tanzania
+
+
+Togo
+
+
+Tunisia
+
+
+Uganda
+
+
+Zambia
+
+
+Zimbabwe
+
+
+
+
+
+
+
+
+This document is for those looking for Service Center information for Africa.
+
+
+
+Figure : Africa Country Service Partners
+
+
+
+
+
+
+Algeria
+
+
+
+
+HP Service Delivery:
+
+Name: Algeria Business Multimedia
+
+
+
+
+	Address: 16040 , Algeria Chemin Fernane Hanafi n° 45A, Hussein Dey
+16040, Algeria
+
+
+
+	Telephone: (+213) 021 772751/57/81
+
+
+
+
+Name: INFORCA
+
+
+
+
+Address: 06 Boulevard Ben Boulaid 06000 Bejaia,
+Algeria
+
+
+
+Telephone: (+33) 180875745
+
+
+
+Email: Contact@inforca-Algerie.com / bt@ndcpro.fr
+
+
+
+
+
+
+
+
+HP Partner:
+
+Name: RTI Algeria
+
+
+
+
+Address: 06B, Rue les Cretes
+Hydra - Algiers
+00241, Algeria
+
+
+
+Telephone: (+213) 0770907508
+
+
+
+
+
+
+
+
+Angola
+
+
+
+
+HP Partners:
+
+Name: Sintese Sociedade Comercial, Lda
+
+
+
+
+Address: Av. 1 Congresso no 7/9, Luanda, Angola (PC & scanners) Via R9, Talatona Park – Luanda - Angola (printers & DesignJets)
+
+
+
+Telephone: +244 222338641 (PC & scanners) 
++244 222338641 (printers & DesignJets)
+
+
+
+
+Name: RCS Angola
+
+
+
+
+Address: RCS Angola LDA; Rua Ernesto Marecos nº63; Luanda
+
+
+
+Telephone: (+244) 932 896 206)
+
+
+
+
+
+
+
+
+Benin
+
+
+
+
+HP Partner:
+
+Name: CIS Coast & Sahel
+
+
+
+
+Address: Zone résidentielle Lot 118 nord 
+Von du PNUD face SNV, Benin
+
+
+
+Telephone: (+229) 21317516
+
+
+
+
+
+
+
+
+Botswana
+
+
+
+
+HP Service Delivery:
+
+Name: Caption Enterprise
+
+
+
+
+	Address: Plot 157, Unit 7, GICP, Gaborone
+
+
+
+	Telephone: (+267) 861826000
+
+
+
+
+
+
+
+
+HP Partner:
+
+Name: RA Consulting Services
+
+
+
+
+Address: Plot 156, Unit 1&2 , International Commerce Park, Gaborone, Botswana
+
+
+
+Telephone: (+213) 0770907508
+
+
+
+
+
+
+
+
+Burkina Faso
+
+
+
+
+HP Partners:
+
+Name: Softnet Burkina
+
+
+
+
+Address: 1017, Avenua Kwame N'Kruma
+Ouagadougou BP 1018CMS Ouagadougou, Burkina Faso
+
+
+
+Telephone: (+226) 50301941/70217170 /75525350  
+
+
+
+
+Name: CIS Coast & Sahel
+
+
+
+
+Address: Zougouna-1200, Logements, Porte 08, Ouagadougou, Burkina Faso
+
+
+
+Telephone: (+226) 70290193
+
+
+
+
+
+
+
+
+Cameroon
+
+
+
+
+HP Partners:
+
+Name: Socitech Cameroon
+
+
+
+
+Address: 8 Avenue Jamot, Immeuble Exercam 2ème étage, Face Pharmacie Trinité, BP 15155 Akwa Douala- Cameroun
+
+
+
+Telephone: (+237) 33 181 549 /75525350  
+
+
+
+
+Name: Informatique Support
+
+
+
+
+Address: Immeuble Clinique Mere et Enfant,Douala, 12244, Cameroon
+
+
+
+Telephone: (+237) 33 42 66 68 / 77 77 25 42
+
+
+
+
+Name: CIS Cameroon
+
+
+
+
+Address: Résidence La Rose, rue Victoria
+Douala 12914, Cameroon
+
+
+
+Telephone: (+237) 33 42 55 44
+
+
+
+
+
+
+
+
+Congo
+
+
+
+
+HP Partners:
+
+Name: CIS Brazazaville Congo
+
+
+
+
+Address: Avenue Paul Doumer – Centre Ville, P.O. Box 13804, Brazzaville, République du Congo
+
+
+
+Telephone: (+242) 066609191  
+
+
+
+
+Name: CIS Congo
+
+
+
+
+Address: 108 Avenue Denis Goma, Pointe Noire, Congo, PO BOX 1140, République du Congo
+
+
+
+Telephone: (+242) 06 667 07 07
+
+
+
+
+Name: ETS Orange Congo
+
+
+
+
+Address: 19 AV equateur –Gombe, Congo
+
+
+
+Telephone: (+243) 896636728
+
+
+
+
+
+
+
+
+Cote D'Ivoire
+
+
+
+
+HP Partners:
+
+Name: Socitech Cote D'Ivoire
+
+
+
+
+Address: Bd Angoulvant, Imm Neuilly- RDC Abidjan Plateau- 27 BP 711 Abidjan Cote D'Ivoire
+
+
+
+Telephone: (+225) 22528510 / 22528520
+
+
+
+
+Name: MC3 Cote D’Ivoire
+
+
+
+
+Address: 89 Boulevard De Marseille, 1er étage Imm. SCICLA, Abidjan, West and Central Africa, 30 BP 730 ABJ 30, Côte D' Ivoire
+
+
+
+Telephone: (+225) 21 21 38 18
+
+
+
+
+Name: CIS Cote D’Ivoire
+
+
+
+
+Address: 01 BP 1942 Abidjan 01,Tour Alpha 2000.
+Plateau Cote D’Ivoire
+
+
+
+Telephone: (+225) 20219216
+
+
+
+
+
+
+
+
+Ethiopia
+
+
+
+
+HP Service Delivery:
+
+Name: Align IT Solutions PLC
+
+
+
+
+	Address: Addis Ababa Haile Gebresellasie Street PO Box 20258
+
+
+
+	Telephone: (+251) 911440279
+
+
+
+
+
+
+
+
+HP Partners:
+
+Name: SNAP Trading & Industry PLC
+
+
+
+
+Address: Bole Road, Alem Building
+Addis Ababa, 1433
+
+
+
+Telephone: (+251) 115 518278
+
+
+
+
+Name: United System Integrations PLC
+
+
+
+
+Address: Haile G/Selassie Avenue| Haile G/Selassie Building 6th floor , Addis Ababa Ethiopia
+
+
+
+Telephone: (+251) 11 6625266
+
+
+
+
+
+
+
+
+French Guyana
+
+
+
+
+HP Service Delivery:
+
+Name: IS2 French Guyana
+
+
+
+
+	Address: 12 Lotissement Marengo – ZI Collery II, 97300 French Guiana
+
+
+
+	Telephone: (+594)  384250
+
+
+
+
+
+
+
+
+HP Partner:
+
+Name: GIE Info-Dom
+
+
+
+
+Address: ZI Collery II Centre Plaza Marengo Cayenne 97300 ,Guyana
+
+
+
+Telephone: (+594) 313134
+
+
+
+
+
+
+
+
+French Polynesia
+
+
+
+
+HP Service Delivery:
+
+Name: IS2 French Polynesia
+
+
+
+
+	Address: Voie D ZI Punaruu, 98713, Punaauia
+
+
+
+	Telephone: (+40) 531137
+
+
+
+
+
+
+
+
+Gabon
+
+
+
+
+HP Partners:
+
+Name: CIS Gabon
+
+
+
+
+Address: Face base Navale, Port Gentil, 20000, Gabon
+
+
+
+Telephone: (+241) 562744
+
+
+
+
+Name: Gabon Meca
+
+
+
+
+Address: 38 avenue du Marquis de Compiènes, Libreville, Gabon
+
+
+
+Telephone: (+241) 05 301199 / 017695 08 / 1764499
+
+
+
+
+
+
+
+
+Ghana
+
+
+
+
+HP Service Delivery:
+
+Name: Ensure Ghana
+
+
+
+
+	Address: Samora Michel Road, Accra
+
+
+
+	Telephone: (+234) 8077098035
+
+
+
+
+
+
+
+
+HP Partners:
+
+Name: CIS Ghana
+
+
+
+
+Address: 132 Royale Castle Road, Kokomlemle, PMB, CT120, Cantonments, Accra, Ghana
+
+
+
+Telephone: (+233) 244332178
+
+
+
+
+Name: Intercom Programming Manufacturing
+
+
+
+
+Address: 62 Kojo Thompson RD. Adabraka Accra North
+
+
+
+Telephone: (+233) 202019783
+
+
+
+
+Name: GDS Africa
+
+
+
+
+Address: Block 1A, 16 Dadeban Road, North Industrial Area, PMB AN 364 Accra North – Ghana
+
+
+
+Telephone: +233 302 232116
+
+
+
+
+
+
+
+
+Guadeloupe
+
+
+
+
+HP Service Delivery:
+
+Name: IS2 Guadeloupe
+
+
+
+
+	Address: 21 Rue Nobel, Jarry.Baie Mahault
+97122, Guadeloupe
+
+
+
+	Telephone: (+254) 20 3747279 / 3746078
+
+
+
+
+
+
+
+
+HP Partner:
+
+Name: GIE Info-Dom Guadeloupe
+
+
+
+
+Address: Immeuble L’Amiral Rond Point De Moudong, Baie-Mahault, 97122, Guadeloupe
+
+
+
+Telephone: (+590)590326015
+
+
+
+
+
+
+
+
+Guinea
+
+
+
+
+HP Partner:
+
+Name: Socitech Guinea
+
+
+
+
+Address: 6e Avenue de la Republique, Kaloum Immeuble Union 1er Etage APT. 104 Conarky
+
+
+
+Telephone: (+224) 69390006
+
+
+
+
+
+
+
+
+Kenya
+
+
+
+
+HP Service Delivery:
+
+Name: Ensure Technical Services Kenya
+
+
+
+
+	Address: School Lane, Near Sun Africa Hotel, Westlands, Nairobi, Kenya
+
+
+
+	Telephone: (+254) 728606427
+
+
+
+
+
+
+
+
+HP Partners:
+
+Name: Computech Limited
+
+
+
+
+Address: Opposite Lion Place, Waiyaki Way,Nairobi 
+00200
+
+
+
+
+Telephone: (+254) 20 4443291-3 / 254 20 4442934-7 / 254 724 444451/254 737 485249/ 254 732 823155/ 254 725 011004
+
+
+
+
+Name: Sight & Sound Computers LTD
+
+
+
+
+Address: PO Box 66711, Mayfair Office Suits
+Nairobi, 00800
+
+
+
+Telephone: (+254) 20 3747279 / 3746078
+
+
+
+
+Name: Crecent Technologies Limited
+
+
+
+
+Address: 2nd Floor, Mpaka Plaza, Mpaka Road - 08, Westlands, Nairobi
+
+
+
+Telephone: (+254) 20 4440719 / 4449378
+
+
+
+
+Name: Techbiz
+
+
+
+
+Address: Laxcon HSE FL4 Limuru Rd Parklands, Nairobi, 100
+
+
+
+Telephone: (+254) 721411175
+
+
+
+
+
+
+
+
+Lesotho
+
+
+
+
+HP Service Delivery:
+
+Name: Ensure Technical Services Kenya
+
+
+
+
+	Address: Corner of Kingsway and Maluti Road, Maseru, Lesotho
+
+
+
+	Telephone: (+254) 728606427
+
+
+
+
+
+
+
+
+Libya
+
+
+
+
+HP Partners:
+
+Name: Estishari Computers
+
+
+
+
+Address: 23 Julio Street, Sidi Hussain area - Office # 2, Building # 1, near to Tepesty Hotel, 5176 BEN, Bengazi. Libya
+
+
+
+Telephone: (+218) 21 7272727
+
+
+
+
+Name: Afaq Al-Nama for Computer Impo
+
+
+
+
+Address: Ben Al-Bashir Street- Ben Aashoor -Tripoli-Libya
+
+
+
+Telephone: (+218) 21 362 1130
+
+
+
+
+
+
+
+
+Madagascar
+
+
+
+
+HP Service Delivery:
+
+Name: MC3 Madagascar
+
+
+
+
+	Address: Lot 27 Tana Waterfront, Ambodivona, 101 Antananarivo, Madagascar
+
+
+
+Telephone: (+261) 20 2236067
+
+
+
+
+
+
+
+
+HP Partner:
+
+Name: IT Solve Madagascar.
+
+
+
+
+Address: Immeuble Ariae 5B Zone Galaxey, Rue Dr. Raseta, Andraharo Antananarivo 101, Madagascar
+
+
+
+Telephone: (+261) 20 236 1534
+
+
+
+
+
+
+
+
+Malawi
+
+
+
+
+HP Partners:
+
+Name: Business Computer Services (BCS)
+
+
+
+
+Address: Chilembwe Road, Plot Number, Blantyre, Malawi
+
+
+
+Telephone: (+265) 8 88 370819
+
+
+
+
+Name: IT Center
+
+
+
+
+Address: Cnr Glyn Jones & Sharpe R, Namiwawa
+Blantyre, Malawi
+
+
+
+Telephone: (+265) 1 824 902
+
+
+
+
+
+
+
+
+Mali
+
+
+
+
+HP Partner:
+
+Name: Platform Technologies S.A
+
+
+
+
+Address: Hamdallaye ACI 2000
+Bamako, Mali
+
+
+
+Email: bakary.diakhite@platform.sn
+
+
+
+
+
+
+
+
+Martinique
+
+
+
+
+HP Service Delivery:
+
+Name: IS2 Martinique
+
+
+
+
+	Address: Bat F5 Zac Dd La Riviere Roche
+Fort De France 97200, Martinique
+
+
+
+	Telephone: (+596) 428121
+
+
+
+
+
+
+
+
+HP Partner:
+
+Name: GIE Info-Dom Martinique
+
+
+
+
+Address: CIO Computerland
+Zi Acajou Californie
+97232, Martinique
+
+
+
+Telephone: (+596) 508585
+
+
+
+
+
+
+
+
+Mauritius
+
+
+
+
+HP Partners:
+
+Name: IT Solve LTD
+
+
+
+
+Address: Complex Max Industry
+Anse Courtois, Pailles, Mauritius
+
+
+
+Telephone: (+230) 465 8080
+
+
+
+
+Name: Enterprise Information Solutions
+
+
+
+
+Address: 1st Floor, Rogers House
+5 President John Kennedy Street
+Port-Louis, Mauritius
+
+
+
+
+Name: Leal Communications
+
+
+
+
+Address: M2 Motorway,Pailles
+Port Louis, Mauritius
+
+
+
+Telephone: (+230) 207 22 00
+
+
+
+
+Name: Hiperdist Mauritius
+
+
+
+
+Address: Maxcity Anse Courtois Pailles
+
+
+
+Telephone: (+230) 5 286 9000
+
+
+
+
+Name: Harel Mallac Technologies LTD
+
+
+
+
+Address: 18 Edith Cavell Street, Port Louis, 230 Port Louis, Mauritius
+
+
+
+Telephone: (+230) 5 251 9433
+
+
+
+
+
+
+
+
+Mayotte
+
+
+
+
+HP Service Delivery:
+
+Name: IS2 Mayotte
+
+
+
+
+	Address: Bât Somibat, B.P.472 Kaweni. Mamoudzou. 97600. Mayotte
+
+
+
+	Telephone: (+269) 606735
+
+
+
+
+
+
+
+
+Morocco
+
+
+
+
+HP Service Delivery:
+
+Name: Ensure Services Morocco Ltd
+
+
+
+
+	Address: 2 Rue IBN Jaouzi (Ex Rue Beckmans)
+Quartier des Hopitaux
+20100 Casablanca, El Maarif Maroc
+
+
+
+
+Name: Ensure Services Morocco Ltd
+
+
+
+
+	Address: Magasin No 86, Centre Commerce Kays, Place RabÃ, Al Adaouia, Agdal Rabat, Morocco
+
+
+
+
+
+
+
+
+HP Partners:
+
+Name: Medasys
+
+
+
+
+Address: 05, Rue Harroun Errachid Agdal Rabat Maroc
+
+
+
+Telephone: (+212) 537670553
+
+
+
+
+Name: Macsi
+
+
+
+
+Address: Macsi, 131 bd d’Anfa, Casablanca, Morocco
+
+
+
+Telephone: (+212) 522204568/69
+
+
+
+
+Name: Munisys S.A.
+
+
+
+
+Address: Bâtiment B2, Parc industriel Indusparc, Chemin Tertiaire 1015, Sidi Moumen, 20400 Casablanca
+
+
+
+Telephone: (+212) 522768101
+
+
+
+
+Name: First Informatique
+
+
+
+
+Address: Tour atlas - Place Zallaqa, 20000 , Casablanca, Morocco
+
+
+
+Telephone: (+212) 5 22 44 44 94
+
+
+
+
+Name: Microdata Sarl
+
+
+
+
+Address: 1 Rue Beaumarchais-Racine
+Casablanca, Morocco
+
+
+
+
+Telephone: (+212) 529009494
+
+
+
+
+
+
+
+
+Mozambique
+
+
+
+
+HP Service Delivery:
+
+Name: C/o Bytes & Pieces
+
+
+
+
+	Address: Rau da Unami No 21, Maputo, Mozambique
+
+
+
+Telephone: (+258) 21400446
+
+
+
+
+
+
+
+
+HP Partner:
+
+Name: Dataserv LDA
+
+
+
+
+Address: AV 24 De Julho 1580, Mozambique
+
+
+
+Telephone: (+258) 21300600
+
+
+
+
+
+
+
+
+Namibia
+
+
+
+
+HP Service Delivery:
+
+Name: Pentech Support CC
+
+
+
+
+	Address: Unit 2, Southern Industrial Park; Windhoek
+
+
+
+Telephone: (+264) 861826000
+
+
+
+
+
+
+
+
+HP Partner:
+
+Name: Cornastone Namibia
+
+
+
+
+Address: Armstrong str,Erf 7354,Shop E
+Windhoek, 7252 , Namibia
+
+
+
+Telephone: (+264) 61237773
+
+
+
+
+
+
+
+
+New Caledonia
+
+
+
+
+HP Service Delivery:
+
+Name: IS2 Nouvelle Caledonie
+
+
+
+
+	Address: 52 rue Papeete, Ducos, BP15107, Noumea, 98804, New Caledonia
+
+
+
+Telephone: (+687) 25 29 30
+
+
+
+
+
+
+
+
+HP Partner:
+
+Name: ABI Sharp Center
+
+
+
+
+Address: 4 Route De L'Anse Vata
+Noumea, 98800 Noumea, New Caledonia
+
+
+
+Telephone: (+687) 25 00 25
+
+
+
+
+
+
+
+
+Niger
+
+
+
+
+HP Partner:
+
+Name: Socitech Niger
+
+
+
+
+Address: Lot 521 Issa Beri, Avenue Maurice, Delens, Plateau 2, BP 10927 Niamey
+
+
+
+Telephone: (+227) 90 47 74 71
+
+
+
+
+
+
+
+
+Nigeria
+
+
+
+
+HP Service Delivery:
+
+
+
+
+	Address: 1ST Floor, Awolowo House, 29/31 Obafemi Awolowo Way, Ikeja, Lagos, Nigeria
+
+
+
+Telephone: (+234) (1)27 11 999 / 08149836904
+
+
+
+
+
+
+
+	Address: Beko Building, Plot 642c, Akin Adesola Street, Victoria Island, Lagos, Nigeria
+
+
+
+Telephone: (+234) (1)27 11 999 / 08166210168
+
+
+
+
+
+
+
+	Address: Plot 765, Samuel Ademulegun Street besides Arewa suites, Masallachi junction, Central Business District Abuja FCT Nigeria 
+
+
+
+Telephone: (+234) (1)27 11 999 / 08146063123
+
+
+
+
+
+
+
+	Address: 36 Isiokpo St., D/Line, Port Harcourt, Nigeria.
+
+
+
+Telephone: (+234) (1)27 11 999 / 08184811382
+
+
+
+
+Name: Ensure Solutions Nigeria Ltd
+
+
+
+
+	Address: 122-132 Oshodi-Apapa Expressway; Lagos; 3623
+
+
+
+Telephone: (+234) 807 709 8035
+
+
+
+
+
+
+
+
+HP Partners:
+
+Name: Jetlink / Nigeria
+
+
+
+
+Address: Plot 115, Block 18 T. F., Kuboye Street
+Off New Mkt Road by Oniru Shopping Complex
+Lekki Penisula Scheme 1, Lekki, Lagos 105102
+
+
+
+Telephone: (+234) 702 611 7442
+
+
+
+
+Name: Allied Computers Limited
+
+
+
+
+Address: 227, Ikorodu Road, Ilupeju, Lagos, Nigeria
+
+
+
+Telephone: (+234) 807 709 8035
+
+
+
+
+Name: Task Systems Limited
+
+
+
+
+Address: No 1, Redemption road Gbagada. Lagos. Nigeria
+
+
+
+Telephone: (+234) 222121594 / 5
+
+
+
+
+
+
+
+
+Reunion
+
+
+
+
+HP Service Delivery:
+
+Name: IS2 Reunion
+
+
+
+
+	Address: Zone d'Activités de la Mare.
+36 Rue Coco Robert, Sainte Marie. 97438
+Réunion
+
+
+
+Telephone: (+262) 97 68 78
+
+
+
+
+Name: Hiperdist Reunion
+
+
+
+
+	Address: 6, rue Melvil Commins, ZAE de la Mare, 97438 Ste-Marie, Ile de la Reunion
+
+
+
+Telephone: (+262) 97 43 12
+
+
+
+
+
+
+
+
+HP Partner:
+
+Name: Infodom Reunion
+
+
+
+
+Address: 14 Rue Helene Boucher
+Zone Aeroportuaire Saint Exupery
+97438 Sainte Marie
+
+
+
+Telephone: (+262) 37 37 30
+
+
+
+
+
+
+
+
+Rwanda
+
+
+
+
+HP Service Delivery:
+
+Name: DataTronics LTD
+
+
+
+
+	Address: Street KN, 78, Near BCK Super Market, Kigali, Rwanda
+
+
+
+Telephone: (+250) 788899966 / 783108555
+
+
+
+
+
+
+
+
+Senegal
+
+
+
+
+HP Service Delivery:
+
+Name: MC3 Senegal
+
+
+
+
+	Address: Villa No. 42. Les Almadies. Dakar. Senegal
+
+
+
+Telephone: (+221) 33 8276426
+
+
+
+
+Name: Socitech Senegal
+
+
+
+
+	Address: Sacré Coeur 2, Immeuble Mamou Tall,
+Medina – Dakar, BP 48158 Dakar
+Sénégal
+
+
+
+Telephone: (+221) 33 824 36 37 / 3 824 36 38
+
+
+
+
+
+
+
+
+Swaziland
+
+
+
+
+HP Partner:
+
+Name: Netcomm Swaziland
+
+
+
+
+Address: Shop No.2, Plot 574 2nd Street
+Matsapha, M202 , Swaziland
+
+
+
+Telephone: (+268) 2518 7891
+
+
+
+
+
+
+
+
+Tanzania
+
+
+
+
+HP Service Delivery:
+
+Name: Live Solutions
+
+
+
+
+	Address: SF 28, 2nd Floor,
+City Mall, Dar es Salaam, Tanzania.
+
+
+
+Telephone: (+255) 68 916 8694
+
+
+
+
+
+
+
+
+HP Partner:
+
+Name: Simply Computers
+
+
+
+
+Address: Ground Floor, Zahra Towers, Dar Es Salaam, 22775
+
+
+
+Telephone: (+255) 787505050
+
+
+
+
+
+
+
+
+Togo
+
+
+
+
+HP Partner:
+
+Name: Societe Togolaise De Nouvelles Technologies
+
+
+
+
+Address: 33 rue des fourgeres , Tokoin Ramco
+
+
+
+Telephone: (+228) 22 22 25 43 / 98 55 0505
+
+
+
+
+
+
+
+
+Tunisia
+
+
+
+
+HP Service Delivery:
+
+Name: Smart / Simop Tunisie
+
+
+
+
+	Address: 9 Bis, Impasse Nr. 3, Rue 8612
+Tunis, 2035 , Tunisia
+
+
+
+Telephone: (+216) 71115710
+
+
+
+
+Name: Disway Tunisie S.A
+
+
+
+
+	Address: 25 Rue De L'Energie Solaire Charguia 1 Tunis
+
+
+
+Telephone: (+216) 95122227
+
+
+
+
+
+
+
+
+Uganda
+
+
+
+
+HP Service Delivery:
+
+Name: Ensure Services Uganda Limited
+
+
+
+
+	Address: Plot No 15, Mulwana Road; Kampala
+
+
+
+Telephone: (+256) 793677770
+
+
+
+
+
+
+
+
+Zambia
+
+
+
+
+HP Service Delivery:
+
+Name: Complete Enterprise Solutions
+
+
+
+
+	Address: Unit 2 La Belva Court, 417 Chindo R; Lusaka
+
+
+
+Telephone: (+260) 861826000
+
+
+
+
+
+
+
+
+HP Partners:
+
+Name: Business Connexion Zambia
+
+
+
+
+Address: 12 Kalembwe Close, Rhodes Park
+Lusaka, Zambia 82 Kabundi Road
+Chingola, Zambia
+
+
+
+Telephone: (+260) 211 256346 / 7
+
+
+
+
+Name: Reliance Technology Limited
+
+
+
+
+Address: Reliance House, Plot No. 35374, Thabo Mbeki Road, Lusaka, Zambia P.O. Box 32158, Lusaka, Zambia
+
+
+
+Telephone: (+260) 211 256011 / 13 / 14
+
+
+
+
+
+
+
+
+Zimbabwe
+
+
+
+
+HP Service Delivery:
+
+Name: Ovalquad Enterprises
+
+
+
+
+	Address: 168 Chinhoyi Street, Harare
+
+
+
+Telephone: (+263) 861826000
+
+
+
+
+
+
+
+
+HP Partner:
+
+Name: First Pack
+
+
+
+
+Address: 127 Masotsha Ndlovu Way Cnr Seke Road, Hatfield, PO BOX WGT6, Harare
+
+
+
+Telephone: (+263) 4576287
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Z7_3054ICK0KGTE30AQO5O3KA3016
+
+
+
+
+
+
+hp-feedback-input-portlet
+
+
+
+Actions
+
+
+
+
+
+${title}
+
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Z7_3054ICK0KGTE30AQO5O3KA3015
+
+
+
+
+
+
+hp-online-communities-portlet
+
+
+
+Actions
+
+
+
+
+
+${title}
+
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Ask the community!
+
+
+
+
+
+
+
+
+
+
+            Support Forum
+            
+Join the conversation! Find Solutions, ask questions, and share advice with other HP product owners. 
+                Visit now
+
+
+
+
+
+
+
+
+
+
+
+Z7_3054ICK0KGTE30AQO5O3KA30H4
+
+
+
+
+
+
+hp-feedback-banner-portlet
+
+
+
+Actions
+
+
+
+
+
+${title}
+
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Z7_3054ICK0KGTE30AQO5O3KA30H5
+
+
+
+
+
+
+hp-country-locator-portlet
+
+
+
+Actions
+
+
+
+
+
+${title}
+
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Country:
+
+United States
+
+
+
+
+
+
+
+
+
+
+
+
+
+Select a location
+
+
+
+
+
+
+Americas
+
+
+
+
+Europe, Middle East, Africa
+
+
+
+
+Asia Pacific and Oceania
+
+
+
+
+
+
+
+
+
+
+
+Select a language
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Confirm 
+Back
+
+
+
+
+
+
+
+
+
+
+
+
+
+Z7_M0I02JG0KOT530A6KJKFRQ0816
+
+
+
+
+
+
+hp-detect-load-my-device-portlet
+
+
+
+Actions
+
+
+
+
+
+${title}
+
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dl5/d5/L2dBISEvZ0FBIS9nQSEh/pw/Z7_M0I02JG0KOT530A6KJKFRQ0816/res/id=updateGlobalDataLayer/c=cacheLevelPage/=/
+
+
+
+
+
+
+
+
+Now detecting devices
+
+
+
+
+
+
+
+
+
+
+Loading...
+
+
+
+
+
+
+
+
+Privacy Policy
+© Copyright 2017 HP Development Company, L.P.
+
+
+
+
+
+
+
+Verifying your product
+
+
+
+
+
+
+
+
+
+
+
+Privacy Policy
+© Copyright 2017 HP Development Company, L.P.
+
+
+
+
+
+
+
+
+Devices detected 
+
+
+
+
+
+
+Local:
+
+
+
+
+Connected:
+
+
+
+
+Network:
+
+
+
+
+
+Don't see your product? Why HP may not be able to find your product.
+
+
+
+
+
+
+
+Privacy Policy
+© Copyright 2017 HP Development Company, L.P.
+
+
+
+
+
+
+
+
+Devices detected (0)
+
+
+Product not found
+HP was unable to find your product: 
+
+
+
+
+
+Don't see your product? Why HP may not be able to find your product.
+
+
+
+
+
+Privacy Policy
+© Copyright 2017 HP Development Company, L.P.
+
+
+
+
+
+
+
+
+Automatic Detection - Product Not Detected
+
+
+
+
+
+Why was my product not detected?
+Possible reasons why the results might have not been as expected:
+
+Your HP Product is not supported by this tool. See list below.
+Your directly connected product is turned off.
+Your directly connected product is in sleep mode.
+The USB or parallel cable is not connected.
+Your wireless printer is not turned on or properly connected on the product.
+Product name/number is close but does not match what is shown on the product.
+Products appear in the list that you no longer use or are no longer connected or networked.
+
+Note: After checking and/or correcting the items above, please click the "Retry" button.
+
+
+HP Products not supported
+The following product categories are not included at this time:
+
+Digital cameras
+non-iPAQ Handhelds/Smartphones
+Calculators
+Keyboards, accessories, and options
+Monitors and flat panels
+Printer supplies
+Servers
+Software
+Storage
+
+Note:Some older products may not be supported at this time.
+Some browser settings may prevent you from using this and other ActiveX-based tools.
+Handhelds are detected through PC-based ActiveSync.
+Requirements:
+
+Operating System -  Windows 7, Windows 8, Windows 8.1, Windows 10
+Browser - Google Chrome 10+, Internet Explorer (IE)10.0+, and Firefox 3.6.x, 12.0+
+
+
+
+
+
+Privacy Policy
+© Copyright 2017 HP Development Company, L.P.
+
+
+
+
+
+
+
+Service Check
+
+
+
+
+
+Checking for the latest service version. Please wait...
+This should take less than 1 minute depending on your computer and your connection speed.
+
+
+
+
+
+Privacy Policy
+© Copyright 2017 HP Development Company, L.P.
+
+
+
+
+
+
+
+Load Software
+
+
+
+
+
+Additional software is needed to continue
+This will take approximately 2 minutes
+
+Click the button to install and then follow the on-screen instructions below. 
+
+Note: This tool detects HP Printers and PCs running Windows 7, 8 and 10
+Install
+
+
+Having installation problems? See the full instructions
+
+
+
+
+
+Privacy Policy
+© Copyright 2017 HP Development Company, L.P.
+
+
+
+
+
+
+
+Verifying your product
+Your product is being detected. Please wait
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+
+
+
+
+
+
+
+
+Privacy Policy
+© Copyright 2017 HP Development Company, L.P.
+
+
+
+
+
+
+
+
+
+
+We detected the devices below:
+
+Local:
+
+
+
+
+Connected:
+
+
+
+
+Network:
+
+
+
+
+
+Don't see your product? Why HP may not be able to find your product.
+
+
+
+
+
+
+
+Privacy Policy
+© Copyright 2017 HP Development Company, L.P.
+
+
+
+
+
+
+
+Scanning for solutions
+HP is compiling your results. This could take up to 3 minutes, depending on your computer and connection speed. Thank you for your patience.
+
+
+
+
+
+
+
+
+Privacy Policy
+© Copyright 2017 HP Development Company, L.P.
+
+
+
+
+
+
+
+
+
+
+
+
+Solution and Diagnostic Data Collection
+
+
+
+
+
+This product detection tool installs software on your Microsoft Windows device that allows HP to detect and gather data about your HP and Compaq products to provide quick access to support information and solutions. Technical data is gathered for the products supported by this tool and is used to identify products, provide relevant solutions and automatically update this tool, to improve our products, solutions, services, and your experience as our customer.
+Note: This tool applies to Microsoft Windows PC's only. This tool will detect HP PCs and HP printers. 
+Data gathered:
+
+Operating system
+Browser version
+Computer vendor
+Product name/number
+Serial number
+Connection port
+Driver/device description
+Computer and/or printer configuration
+Hardware and software diagnostics
+HP/Non-HP ink and/or HP/Non-HP Toner
+Number of pages printed
+
+Installed Software Details:
+
+HP Support Solutions Framework - Windows Service, localhost Web server, and Software 
+
+Removing Installed Software:
+
+Remove "HP Support Solutions Framework" through Add/Remove programs on PC 
+
+Requirements:
+
+Operating System -  Windows 7, Windows 8, Windows 8.1, Windows 10
+Browser - Google Chrome 10+, Internet Explorer (IE)10.0+, and Firefox 3.6.x, 12.0+
+
+
+
+
+
+Privacy Policy
+© Copyright 2017 HP Development Company, L.P.
+
+
+
+
+
+
+
+
+
+
+
+
+Retired Products
+
+
+
+
+
+The product you have selected is retired, and support services for it have not been available from HP for several years.
+                  Once a product has reached the end of its support life, all official HP support content (troubleshooting articles, user guides, how-to videos, etc.) for that product is removed from the HP web site.
+Please note: Additional support content may still be available via the HP Forums or from third-party web sites; however, HP takes no responsibility for content authored by third-parties.
+Want to see a list of retired products by category?
+Visit the HP Retired Products page >
+Back to product list >
+
+
+
+
+
+Privacy Policy
+© Copyright 2017 HP Development Company, L.P.
+
+
+
+
+
+
+
+
+Model #:
+Serial #:
+Find Solutions
+Select
+or
+
+
+
+Let HP find my products
+Identify now
+
+HP can identify most HP products and recommend possible solutions.
+How does HP install software and gather data?
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Complementary Content
+
+
+
+
+
+
+
+
+
+
+Hassane Amor - Chairman & Chief Executive Officer at Microdata SA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      NEWS HOME
+                    
+
+Advertising
+Board and Executive Moves
+Energy
+Health Care
+Hedge Funds
+M & A
+Private Equity
+Technology
+
+
+
+
+
+
+
+
+            You have  
+            
+9 free profiles
+
+              left this month   
+			      
+
+                Start Your Free Trial ➤
+              
+
+
+
+
+
+
+
+
+            Hey, we noticed you're a RelSci Pro subscriber! Would you like to view the page there?
+            
+
+                View on RelSci Pro ➤
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+Google+
+
+
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+
+Reddit
+
+
+
+
+
+Permalink
+
+
+
+
+
+Hassane Amor
+Chairman & Chief Executive Officer at Microdata SA
+
+
+
+Overview
+Relationships Paths
+Career History Boards & Committees 
+
+
+Hassane Amor
+Chairman & Chief Executive Officer at Microdata SA
+
+
+
+ Overview
+
+
+
+Notable Companies
+
+
+Microdata SA
+
+
+
+
+Board Seats
+
+
+
+1
+
+
+
+
+
+Number of Relationships
+
+
+
+                This person is connected to 7 people.
+              
+
+
+
+
+
+
+ Relationships
+              See Details
+
+
+
+
+Mounia ben Addou Idrissi
+
+Director at Microdata SA
+
+
+
+
+Hanadi Homsi
+
+Director at Microdata SA
+
+
+
+
+
+Ilham Kessab
+
+Director at Microdata SA
+
+
+
+
+Farid Amor
+
+Finance Director & Head-Investor Relations at Microdata SA
+
+
+
+
+
+Salim El Jaï
+
+Head-Press Relations at Microdata SA
+
+
+
+
+Mohamed Al-Nakeeb
+
+Former Director at Microdata SA
+
+
+
+
+
+Malika Lechguar
+
+Former Director & Director-Administration at Microdata SA
+
+
+
+
+
+
+ Paths to Hassane Amor
+
+
+
+            Hassane Amor          
+
+
+
+
+ You
+
+
+
+ Connections via Relationship Science
+
+
+
+ Hassane Amor
+
+
+
+
+
+
+Sync your contacts to see how you can connect with Hassane Amor.
+
+Start My Free Trial ➤
+
+
+
+
+
+
+
+
+See  More 
+
+
+ 
+
+
+ Career History
+
+
+
+Chairman & Chief Executive Officer
+
+                                    1991 - Current                
+
+
+Microdata SA
+
+
+                  Microdata SARL provides information technology integration, support, and consulting services. The firm specializes in cloud, mobile computing, and infrastructure virtualization. The company was founded by Hassane Amor in 1991 and is headquartered in Casablanca, Morocco.                
+
+
+
+
+
+ Boards & Committees
+
+
+
+Corporate Boards ▾
+
+
+
+
+Chairman & Chief Executive Officer
+
+                    1991 - Current                  
+
+
+Microdata SA
+
+                    Microdata SARL provides information technology integration, support, and consulting services. The firm specializes in cloud, mobile computing, and infrastructure virtualization. The company was founded by Hassane Amor in 1991 and is headquartered in Casablanca, Morocco.                  
+
+
+
+
+
+ Other Affiliations
+
+
+
+
+              Hassane Amor is affiliated with
+                            Microdata SA, Microdata SA.
+            
+
+
+
+
+You've reached your 10 free profiles limit this month.
+Upgrade to RelSci Pro today to enjoy unlimited article views and much more!
+
+Start My Free Trial  ➤
+
+Still not convinced? Check out our full listing of features here.
+
+
+
+
+
+
+
+
+
+
+
+
+Are you a RelSci Pro Subscriber?
+
+Login to RelSci Pro 
+                        ➤
+
+
+Not a Pro Subscriber? Log in here to manage your alerts
+
+
+
+
+
+
+
+
+
+ Keep me signed in.
+        
+
+Login  ➤
+
+
+
+        Forgot your Password?
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I have read the LexisNexis terms & conditions
+
+
+
+
+Sign Me Up  ➤
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+M2M Group SA, M2M:CAS summary - FT.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+Sign In
+
+
+
+
+
+
+
+
+Menu
+
+
+Search
+
+
+
+
+Financial Times
+
+
+
+
+myFT
+
+
+
+
+
+
+
+
+
+
+Search the FT
+
+
+					Search
+				
+
+
+
+
+
+
+Search the FT
+
+
+					Search
+				
+
+Close
+
+
+
+
+
+
+
+
+
+MarketsMarkets DataEquities
+
+
+
+
+
+
+
+Financial TimesCloseSearch theFTSearch
+
+Equities
+
+
+M2M Group SAM2M:CASSelect symbolMoroccoM2M:CASCasablanca Stock ExchangeM2M Group SAActionsAdd to watchlistAdd to portfolioAdd an alertTechnologySoftware & Computer ServicesPrice (MAD)285.50Today's Change-0.50 / -0.17%Shares traded50.001 Year change-1.55%Beta0.6573Data delayed at least 20 minutes, as of Aug 03 2017 09:30 BST.More ▼ApplyCancelActionsAdd to Your WatchlistsNew watchlistNameCancelAddAdd to Your PortfolioNew portfolioNameCurrencySelect a currencyUK Pound (GBP)Argentinian Nuevo Peso (ARS)Australian Dollar (AUD)Bahraini Dinar (BHD)Brunei Dollar (BND)Brazilian Real (BRL)Canadian Dollar (CAD)Chilean Peso (CLP)Chinese Yuan Renminbi (CNY)Czech Koruna (CZK)Danish Krone (DKK)Egyptian Pound (EGP)Euro (EUR)Fiji Dollar (FJD)Hong Kong Dollar (HKD)Hungarian Forint (HUF)Israeli Shekel (ILS)Indian Rupee (INR)Indonesian Rupiah (IDR)Japanese Yen (JPY)Kuwaiti Dinar (KWD)Sri Lankan Rupee (LKR)Moroccan Dirham (MAD)Malaysian Ringgit (MYR)Mexican New Peso (MXN)New Zealand Dollar (NZD)Norwegian Krone (NOK)Omani Rial (OMR)Peruvian New Sol (PEN)Papua New Guinean Kina (PGK)Philippine Peso (PHP)Pakistani Rupee (PKR)Polish New Zloty (PLN)Russian Ruble (RUB)Saudi Riyal (SAR)Solomon Islands Dollar (SBD)Seychelles Rupee (SCR)Singapore Dollar (SGD)South African Rand (ZAR)Republic of Korean Won (KRW)Swedish Krona (SEK)Swiss Franc (CHF)Tongan Pa'anga (TOP)Taiwan Dollar (TWD)Thai Baht (THB)Turkish Lira (TRY)UAE Dirham (AED)Vietnamese Dong (VND)Vanuatu Vatu (VUV)Samoan Tala (WST)French Pacific Franc (XPF)US Dollar (USD)Ghana Cedi (GHS)Nigeria Naira (NGN)Ukraine Hryvnia (UAH)Kenya Shilling (KES)CancelContinueYour alertsDoneYou must be a registered user to save alerts.  Please sign in or register.
+
+
+
+
+
+
+
+1D3D1W1M6M1Y3Y5YCompar ApplyCancelComparisonsMake up to three selections, then save.0 of 3 selected0 of 3 selectedSuggested ComparisonsKalanit Carmon Services Ltd.Synel MLL Payway LtdTrendline Info & Communication ServicesMicrodata SARLSaveClearKey statisticsOn Thursday, M2M Group SA (M2M:CAS) closed at 285.50, 5.70% above its 52-week low of 270.10, set on Sep 22, 2016.52-week rangeToday270.10Sep 22 2016378.35Dec 02 2016Open285.50High285.50Low285.50Bid285.50Offer290.00Previous close286.00Average volume46.67Shares outstanding647.78kFree float136.11kP/E (TTM)23.82Market cap185.26m MADEPS (TTM)12.01  MADAnnual div (ADY)--Annual div yield (ADY)--Div ex-dateSep 21 2016Div pay-dateSep 30 2016Data delayed at least 20 minutes, as of Aug 03 2017 09:30 BST.More ▼ 
+About the companyM2M Group SA is a Morocco-based company that specializes in secured electronic transactions processing solutions. Its product portfolio includes solution packages, a modular software suite designed for banks and financial institutions, which allows both issuing and acquiring transactions in an interbank, multichannel, multi-currency and cross-border environment; a product set designed to meet specific needs of governments in terms of processing electronic identity documents and acquiring of alphanumeric and biometric date. In addition, the Company offers solutions for clients in such sectors as transportation, telecommunications and healthcare, as well as financial institutions, among others. FT Lexicon{0}{0}{2}{0}{0}{2}For more information, visit the FT LexiconLexicon on this pageExplore our toolsAlertsData archivePortfolioWorld marketsEquities screenerFunds overview
+
+
+
+ © Thomson Reuters Click for restrictions
+All markets data located on FT.com is subject to the FT Terms & ConditionsAll content on FT.com is for your general information and use only and is not intended to address your particular requirements. In particular, the content does not constitute any form of advice, recommendation, representation, endorsement or arrangement by FT and is not intended to be relied upon by users in making (or refraining from making) any specific investment or other decisions.Any information that you receive via FT.com is at best delayed intraday data and not "real time". Share price information may be rounded up/down and therefore not entirely accurate. FT is not responsible for any use of content by you outside its scope as stated in the FT Terms & Conditions.
+Markit Short Selling Activity © Markit. All rights reserved.Although Markit has made every effort to ensure this data is correct, nevertheless no guarantee is given to the accuracy or completeness. Any opinions or estimates expressed herein are those of Markit on the date of preparation and are subject to change without notice; however no such opinions or estimates constitute legal, investment or other advice. You must therefore seek independent legal, investment or other appropriate advice from a suitably qualified and/or authorised and regulated advisor prior to making any legal, investment or other decision. This is intended for information purposes only and is not intended as an offer or recommendation to buy, sell or otherwise deal in securities.
+
+
+
+
+
+
+
+					Welcome to the FT.com Markets Data
+				
+
+					We’re constantly improving and would like to hear from you.
+				
+
+
+Provide Feedback
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Northgate Information Solutions - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Northgate Information Solutions
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2014) (Learn how and when to remove this template message)
+
+
+
+Northgate Information Solutions
+
+
+
+
+Industry
+Human resources & payroll
+software and services.
+Kohlberg Kravis Roberts subsidiary.
+
+
+Founded
+1969
+
+
+
+Area served
+
+Worldwide,
+based in the United Kingdom.
+
+
+
+Key people
+
+Adel Al-Saleh (Group CEO)
+
+
+Products
+Former computer manufacturer
+
+
+
+Number of employees
+
+8500
+
+
+Website
+www.northgate-is.com
+
+
+Northgate Information Solutions Limited (Northgate) is the holding company of NGA Human Resources, a provider of specialist software and outsourcing services for human resources (HR) and payroll, based in the United Kingdom.
+It has more than 8,500 staff in 35 countries. Following the sale of two business divisions, Northgate has only one division: NGA Human Resources. Specialising in services to the Public Sector, Northgate Public Services was acquired by Cinven in December 2014. Northgate Managed Services, specialising in managed information technology services to the UK mid-market, was acquired by Capita in February 2013.
+
+
+
+Contents
+
+
+1 History
+
+1.1 Early years
+1.2 1990s
+1.3 2000s
+
+1.3.1 Hertfordshire Oil Storage Terminal fire
+
+
+
+
+2 See also
+3 References
+4 External links
+
+
+
+History[edit]
+Early years[edit]
+The company was founded as CMC, or Computer Machinery Company Limited, on 18 September 1969 by Ray Parry. They were originally distributors and subsequently manufacturers of key to disk computer systems made by the US-based Computer Machinery Corporation. The CMC key to disk systems were used by companies and government departments for data capture. In 1976, CMC developed a bit-slice based intelligent terminal—the P99—which it used both as a front end processor to the key to disk systems and as a terminal in its own right. It then evolved the CMC P99 into the P141—a true front-end processor, which it used to implement a new data capture system call Sovereign. This was used in manufacturing companies such as Rolls-Royce plc, British Steel Corporation and various government departments including providing data capture for the DHSS at Newcastle upon Tyne. It later evolved into the M8000 system, based on Intel-processor-based systems.[1]
+In 1976, CMC merged with Microdata Corporation, a California-based computer company, whose 1973-released Reality operating and database environment product CMC was also distributing. The companies continued to use separate trading names in their respective regions until 1981. The Reality name was given to Microdata's computer system and the operating system—a version of the Pick operating system. At the time, Microdata owned rights to the Pick Operating system in parallel with Dick Pick – who had developed it with Microdata. CMC Leasing Limited (the official trading name) then changed its name to Microdata UK limited, aka MUK. The company then started UK manufacture of the Reality range of computer systems in its manufacturing factory in Maxted Road, Hemel Hempstead. Microdata was purchased by McDonnell Douglas Corporation in 1985 and the company was re-branded as McDonnell Douglas Information Systems Limited (MDIS).[1]
+The company introduced the M9000 (called Sequoia in U.S.) which offered dynamic performance using soft loaded firmware and processor performance keys using the same hardware components to minimise sparing and maximise cost effectiveness, (although 1Mb memory sold for 25,000 GBP in those days). A new manufacturing and office complex was built in Boundary Way, Hemel Hempstead. Work started virtually as soon as the building opened to double its size, so they became known as 'Phase 1 and 2' internally but 'Maylands Park' externally. The company then produced the UK designed Spirit processor which was launched as a lower-end Reality product as the M6000. Later the company developed the Series 19 (aka Pegasus) successor to the Sequoia using a worldwide development team spanning the two engineering facilities in Hemel Hempstead, UK and Irvine, California.[1]
+In 1989, the second new building, known as Marylands Park South, was completed at Boundary Way to accommodate the thousand staff then at the head office location. At the time, the company was thought to have one of the largest company car fleets in the UK (Hertz).[citation needed]
+1990s[edit]
+1992 was the last year MDIS made a computer system from scratch, which meant the end of UK manufacturing for the company. It continued its hardware and systems integration work at Maylands Park North. It could do this because it had produced RealityX, an open platform Reality environment (internally known for a time as CORA). This was the result of several years of development taking the Reality operating system (ROS) and re-engineering into a Unix application capable of running on non-MDIS computers. RealityX provided not only end user/application compatibility but also provided it at the developer assembler level. The same source code was used for RealityX and the original Reality implementations. RealityX allowed the Reality operating environment and applications developed for Reality to continue to be sold and maintained under the SeriesX name.
+Initially MDIS used UNIX systems from Encore Computer, then from Motorola Computer Systems and Data General—all using M88k RISC processors and UnixSystem V. Later they moved to run on Solaris-based systems from Sun Microsystems. The open approach eventually led to a Microsoft Windows platform in 1995 and continued feature enhancements that are still being developed as of 2007[update]. As a corollary to this operating environment, MDIS acquired and developed its PROIV fourth generation language (4GL), which was used worldwide by companies including Fujitsu. A variant was implemented on REALITY called ALL (Application Language Liberator).
+In 1993, a management buyout occurred. At this time, and with the end of the Cold War, the parent company McDonnell Douglas was realising that they didn't have another Microsoft on their hands and were susceptible to a cash offer.[original research?] 29 Senior Managers and Directors of the company, under the leadership of Jerry Causley CEO, and through Barings Bank, purchased the company from McDonnell Douglas in 1993.
+In 1994, the company was floated on the London Stock Exchange under the MDIS banner. Shares were sold, at the flotation, for 260 pence each. Unfortunately within two months the shares were worth less than one pound.
+Through the latter part of the 1990s, most of the original directors and senior managers left the company, to be replaced by a new management group. The new CEO, John Klien, took the reins after the company issued yet another profit warning to the stock exchange. The company's key application products (Human Resources) were re-implemented in PRO-IV to improve product availability and functionality.
+In 1998, the Maylands Park South Building was sold to 3Com. This complex had accommodated about 600 staff, who were either re-located to the other Maylands Park building or, with others in the group, made redundant.
+In 1999, Chris Stone was appointed as a new CEO. At this time the company was losing about £100m per year and several years of downsizing and rationalisation followed. The company re-focused on its core, local Government and Public Sector (police, fire, and ambulance) markets and application products (Payroll, Pensions and HR systems). Services such as hardware maintenance and managed services were also offered.
+2000s[edit]
+To rebrand the company, and shed the old loss making image, the company changed its name to its current name, Northgate Information Solutions, in 2000. This was actually the name of a small software house which the old MDIS company purchased years earlier.
+Through "re-focusing", and the loss of about two-thirds of the original MDIS staff, the business finally regains its profitability in 2001. Through the sale of the Health business unit, the company raises capital for acquisitions. At the company head office, now located in the original phase 1 and 2 three-storey building, consolidate onto two floors.
+In 2002, Northgate acquired Prolog, payroll outsourcing & solutions. In 2003, To expand core business and to gain access to a wider range of clients, the company acquire CaraPeople, (payroll outsourcing), blue8, (location and citizen centric IT systems for emergency services), Hays CSG, (data management information systems (police) and consulting), PWA Group, (HR applications).
+From 2004 and on, the company continues its rapid growth. No longer a company stuck in the glory days of its history, struggling to re-shape to the changing business needs of its markets, it aggressively acquires business after business. In a significant move in focussing on application-led business, it acquires Rebus (previously Peterborough Software), one of its main competitors (HR Group, which provides HR and payroll solutions), and CIM Systems (communication technologies for control room environments). As a result of its larger capitalisation, it became listed on the London Stock Exchange FTSE 250 Index.
+The company acquired the companies Sx3 and MVM Holdings Limited in 2005. A number of staff felt that they were now working for Sx3, due to the integration of their senior managers.
+In November 2008, Northgate Information Solutions UK Ltd acquired Anite Public Sector Holdings Ltd from Anite plc. Convergys sold its Human Resources Management line of business to NorthgateArinso in 2010.
+Northgate Managed Services, specialising in Managed IT Services to the UK mid-market, was acquired by Capita in February 2013.
+Northgate Public Services was acquired by Cinven in December 2014.
+Hertfordshire Oil Storage Terminal fire[edit]
+On Sunday, 11 December 2005, a major explosion and fire at the Buncefield oil depot immediately adjacent to the NIS building, effectively destroyed the Hemel Hempstead Head office complex. Fortunately the two managed services staff manning the Data Centre escaped unharmed. Other Hemel Hempstead based staff were told to report to offices in Oxford and Peterborough the following week. The share price dipped on the first trading day afterwards, but recovered by lunchtime. Fortunately the company had a well-practised Disaster Recovery programme, and the company moved its Managed Services customer system backups (which were stored off-site) to run on systems based at a site in Hounslow, where a number of Northgate staff ran these during the next few months. This included a full managed network for hospitals in East Anglia. Despite this taking place in December, when payrolls are usually run earlier than normal, every payroll for all Northgate's customers was run on time. The company became known as one that had successfully passed through a major physical disaster, and CEO Chris Stone was invited to speak at various venues on commercial disaster recovery.
+In October 2006, the share price fluctuated, and the company announced that they were subject to an unsolicited takeover approach.[2] It has since been announced that this has amounted to nothing.[citation needed]
+In June 2007, Northgate bought ARINSO to create NorthgateArinso (NGA) [1]. NorthgateArinso went on to become a global leader in HR services and in 2011 and 2012 was acknowledged as a leader in HR and Payroll Outsourcing by industry analysts such as Gartner, IDC and Everest Research.
+In December 2007, Kohlberg Kravis Roberts agreed to buy the company for £593 million.[3]
+In March 2008, Northgate Information Systems plc is de-listed from the London Stock Exchange following completion of the purchase by KKR.[4] The next month, Northgate achieved a position of forty-seventh out of one hundred in 'Britain's Top Employer 2008'.[5]
+Northgate Public Services was acquired by Cinven in December 2014. Northgate Managed Services, specialising in Managed IT Services to the UK mid-market, was acquired by Capita in February 2013.
+See also[edit]
+
+MultiValue — the original NoSQL database predating Oracle + SQL Server
+
+References[edit]
+
+
+
+^ a b c Elleray, Dick (16 July 1986). "The Reality Operating System Revealed (1986/09)". Project Management Bulletin (paper original)|format= requires |url= (help). Project Management Group, McDonnell Douglas Information Systems Group.  |access-date= requires |url= (help)
+^ http://www.northgate-is.com/press_centre/item.php?item_id=715
+^ Wray, Richard (21 December 2007). "KKR to buy Northgate for £593m". Guardian Unlimited. London. Retrieved 13 January 2008. 
+^ "Northgate Information Solutions Acquired by KKR". Reuters Business Wire. 11 March 2008. Retrieved 28 April 2008. 
+^ "Top Employer 2008" (PDF). 
+
+
+
+External links[edit]
+
+Northgate Information Solutions Limited website
+www.ngahr.com
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Kohlberg Kravis Roberts
+
+
+
+Founders
+
+
+
+Jerome Kohlberg Jr.
+Henry Kravis
+George R. Roberts
+
+
+
+
+
+Selected current investments
+
+
+
+Academy Sports + Outdoors
+Aricent Group
+Bharti Enterprises
+Capsugel
+CICC
+Café Coffee Day
+Colonial Pipeline
+Del Monte Foods
+Dollar General
+Eastman Kodak
+El Paso Corp.
+Energy Future Holdings
+First Data
+Hospital Corporation of America
+KION Group
+Laureate Education
+Legg Mason
+Legrand
+Magma Fincorp
+Maxeda
+Nielsen Holdings
+Northgate Information Solutions
+NXP Semiconductors
+Oriental Brewery
+Pets at Home
+ProSiebenSat.1 Media
+Sealy Corporation
+Seven West Media
+TDC A/S
+Toys "R" Us
+US Foods
+Visma
+Wild
+Yageo
+Zhone Technologies
+
+
+
+
+
+
+
+
+ Category
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Northgate_Information_Solutions&oldid=788487360"					
+Categories: Human resource management consulting firmsHuman resource management softwareSoftware companies of the United KingdomDefunct computer companiesDefunct computer hardware companiesDefunct manufacturing companies of the United KingdomKohlberg Kravis Roberts companiesMcDonnell Douglas mergers and acquisitionsComputer companies established in 1969Software companies established in 1969Technology companies established in 1969Holding companies established in 2014Manufacturing companies disestablished in 1992Hemel Hempstead1969 establishments in the United KingdomHidden categories: Pages using citations with format and no URLPages using citations with accessdate and no URLArticles needing additional references from September 2014All articles needing additional referencesEngvarB from October 2013Use dmy dates from October 2013Pages using deprecated image syntaxAll articles with unsourced statementsArticles with unsourced statements from October 2009Articles containing potentially dated statements from 2007All articles containing potentially dated statementsAll articles that may contain original researchArticles that may contain original research from October 2009 
+
+
+
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+
+Add links 
+
+
+
+
+
+ This page was last edited on 1 July 2017, at 18:12.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+MicroData Beverly MA IT Outsourcing & Managed Services
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+978.326.8205 Inquiries | 978.921.0926 Support
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get Rid of Your IT 
+		Hardware and Software. MicroData Infrastructure-as-a-Service.
+Whether you have 
+		On-Premises, Cloud, Private Cloud, or a Hybrid Cloud environment, MicroData's 
+		IaaS frees you from buying, upgrading, and maintaining your 
+		infrastructure forever. For one low monthly fee, you'll never need to 
+		think about your IT infrastructure again. Learn more
+FREE Report! 
+		"8 Strategic Benefits of MicroData's IaaS for Small and Mid-Sized 
+		Business"
+
+
+
+
+
+
+
+
+
+
+
+
+
+Network Problems?
+Is your company suffering with poor performance, drop-outs, 
+			crashes? Has your current provider told you there's nothing that can 
+			be done or it's someone else's fault? We can fix that...guaranteed 
+			or you pay nothing.
+Read More
+
+
+Trusted Support
+We work with many companies - both profit and not-for-profit 
+			- throughout the Boston 495 & New England area. Read through some 
+			case studies and testimonials to hear what our customers say about 
+			us.
+Read More
+
+
+Peace of Mind
+When you partner with MicroData, you'll get a dynamic team of 
+			technical experts who will ensure you get a real return on your IT 
+			investment. For a flat-rate fee, our innovative solutions and solid 
+			24/7 support will lower costs while sending your productivity 
+			soaring.
+Read More
+
+
+
+
+About Us
+Founded in 1992, MicroData is located on Boston's North Shore in 
+			Beverly.
+MicroData specializes in providing IaaS, Outsourced, and Hybrid-Cloud 
+			solutions to small and mid-sized businesses (5-50 users).
+MicroData is a Microsoft Silver Midmarket Partner, an IBM 
+			Business Partner, an HP Preferred Partner, a Dell Partner, plus many 
+			more.
+ 
+
+
+Questions?
+
+Call us!
+ 
+			978.921.0990
+
+
+Case Studies
+MicroData has probably assisted a company just like yours. 
+			Learn 
+			more.
+
+
+
+Solutions
+1 Ready for a change but don't 
+			want to get tied-in to a long term contract? All MicroData service 
+			plans are available on a simple month-to-month basis. 
+2 Heard about 
+			 Hybrid Cloud? If 
+			you're frustrated with slow DropBox, Office 365, or general Cloud performance, 
+			let's talk!
+3 We have a range of 
+			Managed and 
+			Outsourced IT services to work with any organization and budget.
+
+
+
+
+Testimonials
+
+
+
+
+LocalMediaLink
+"Glenn 
+						and his company, MicroData, have provided the highest 
+						quality of service in the IT Consulting arena. They are 
+						knowledgeable, trustworthy, diligent, and punctual. 
+At LocalMediaLink, he and his staff encouraged us to 
+						upgrade in careful ways, lending thoughtfulness to our 
+						company's budget, while providing excellent backup and 
+						the ability for future and forward thinking. They 
+						exceeded all my expectations in output, image, and 
+						creativity."
+
+
+						Bob Nolan, CFO
+
+
+
+
+
+Cornerstone Financial Partners:
+
+"Glenn 
+						and his team guided us through all of our IT needs with 
+						exceptional efficiency during the start up of our firm 
+						in 2011. When you don't have to think about your 
+						technology, you know something is going right!"
+
+
+						Carlie Dugan, Managing Partner
+
+
+
+
+Latitude Research:
+"I 
+						just wanted you to know that I'm very pleased with our 
+						work together. MicroData has been great on all levels, 
+						and working with you has allowed us to go to a much 
+						higher place in terms of our data management and 
+						communications."
+
+
+						Steve Mushkin, President & CEO
+
+
+
+The Cavan Group:
+"We 
+						have been working with MicroData since April 2008. As 
+						one of their Complete Care clients, we feel they have 
+						gone above and beyond to service our technology needs. 
+						Their demonstrated commitment to customer service 
+						provides us with the knowledge that they will be there 
+						when we need them."
+
+
+						Judy Skeffington, Director of Operations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TCS Acquires microDATA GIS for $37m to Enhance 9-1-1 Solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				 Home
+			 
+
+
+
+				 About
+			 
+
+
+
+				 Contact
+			 
+
+
+
+				 Advertise
+			 
+
+
+
+				 Terms & Conditions
+			 
+
+
+
+				 RSS
+			 
+
+
+
+				 Subscribe
+			 
+
+
+
+				 Newsletter
+			 
+
+
+
+				 Twitter
+			 
+
+
+
+				 Events
+			 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				 Google
+			 
+
+
+
+				 Apple
+			 
+
+
+
+				 Indoor LBS
+			 
+
+
+
+				 Traffic
+			 
+
+
+
+				 Speedcam
+			 
+
+
+
+				 Insurance Telematics
+			 
+
+
+
+				 Location-Based Ads
+			 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				 Nav & Telematics
+			 
+
+
+
+				 Sport and Outdoor
+			 
+
+
+
+				 Location Based Services
+			 
+
+
+
+				 Tech & Innovation
+			 
+
+
+
+				 Market Data
+			 
+
+
+
+				 Finance & Legal
+			 
+
+
+
+				 People and Jobs
+			 
+
+
+
+				 Voices of the industry
+			 
+
+
+
+				 Press Releases
+			 
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+Advanced search
+
+
+
+
+
+
+
+
+
+
+Login
+
+Password
+ 
+
+Forgot password?
+
+Subscribe now!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+ > 
+Finance & Legal
+
+
+
+
+
+
+				 TCS Acquires microDATA GIS for $37m to Enhance 9-1-1 Solutions
+			 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					 911 Dispatch center in NYC
+				 
+
+
+
+					 TeleCommunication Systems, Inc. (TCS) last week announced it has acquired privately-held microDATA GIS, Inc., a provider of Next Generation 9-1-1 (NG9-1-1) software and solutions.					 
+
+					 “The aggregate acquisition consideration is approximately $37 million, comprised of $20 million in cash at closing, plus $14 million in promissory notes and performance-based earn-out opportunities,“ wrote TCS in a statement.					 
+
+					 microDATA has a GIS product and tools suite dedicated to Public Safety Answering Point (PSAP). The company also provides equipments to PSAP, including computer-aided dispatch integration, dashboards and call management products.					 
+
+					 microDATA expects to generate more than $20 million in systems and services revenue in CY 2012, with EBITDA of 30- 35%.
+				 
+
+
+
+
+
+
+
+
+
+
+
+Related articles
+
+
+
+
+Comtech Launches Cloud-Based Hybrid Positioning Engine
+
+
+
+
+TCS at MWC: Focus on LBS for Enterprise, Indoor & IoT Networks (Video)
+
+
+
+
+TCS & Intersec Expand their Common LBS Offerings Worldwide
+
+
+
+
+Comtech Acquires TCS for $430.8 Million
+
+
+
+
+
+
+
+
+					 "The E9-1-1 business is a foundation stone of our Commercial segment, providing us with stable, growing and recurring revenue and cash flow," said Maurice B. Tose, TCS chairman and CEO. 					 
+
+					 "We know that this business, and particularly Next Generation 9-1-1, has high barriers to entry, because state-level homeland security departments and public safety jurisdictions have rigorous selection criteria and processes for 9-1-1 equipment procurement. microDATA has been very successful at winning contracts, including with the Department of Defense, using its standards-based solutions that are engineered in a manner that is highly complementary to our technology."
+				 
+
+
+
+
+
+
+Monday, July 9th 2012
+
+
+Ludovic Privat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ Home page			   
+ send to a friend			   
+ print 
+
+
+
+
+
+
+Please add a comment
+
+
+
+
+
+Nav & Telematics
+ | 
+Sport and Outdoor
+ | 
+Location Based Services
+ | 
+Tech & Innovation
+ | 
+Market Data
+ | 
+Finance & Legal
+ | 
+People and Jobs
+ | 
+Voices of the industry
+ | 
+Press Releases
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IN THE NEWS
+
+
+
+
+Call for Speaker Opened for ConnecteDriver & Smart Mobility 2018
+
+
+
+
+Location Tracking Startup CROWDLOC Received Innovation Award at Geo IoT World
+
+
+
+
+HERE & Pioneer Enter into Strategic Map Partnership
+
+
+
+
+PSA Launching Car Sharing Aggregator with Free2Move App
+
+
+
+
+Indoor Location Technology in 2017
+
+
+
+
+Indoor location Panel discussion (Video) with Connexient, Schneider Electric, Unibail Rodamco, SNCF & Pole Star
+
+
+
+
+NDrive Launches Built-in & Brought-in Nav for Automotive
+
+
+
+
+SNCF, Schneider Electric, Unibail Rodamco & Connexient Speaking on Indoor Location
+
+
+
+
+Navads Selected by Shell as Global Provider of Location Data Management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		 Copyright 2014 - Business News & Events SARL
+	 
+
+Members' area
+ | 
+Powered by WM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Metrofile Holdings Limited - Research and Markets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABOUT US
+BLOG
+CONTACT US
+FAQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+USD
+EUR
+GBP
+
+
+
+USD 
+▼
+
+USD
+EUR
+GBP
+
+
+
+
+
+
+€
+EUR
+$
+USD
+£
+GBP
+
+
+
+
+
+
+
++353-1-416-8900REST OF WORLD
+
+
+
+1-800-526-8630U.S. (TOLL FREE)
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Advanced
+
+
+
+
+
+
+
+
+Price:
+€75EUR$92USD£70GBP 
+View Pricing
+
+
+
+
+
+
+ Home
+/
+
+
+
+
+
+
+Categories
+/
+
+
+
+
+
+
+Company Reports
+
+
+
+
+
+
+
+
+
+
+
+ 
+SELECT A FORMAT
+
+
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+                                                        Single User
+                                                         Electronic (PDF)
+
+
+
+
+
+
+                                                                            
+                                                                            This is a single user license, allowing one specific user access to the product. The report will be emailed to you.  The report is sent in PDF format. 
+
+                                                
+
+
+
+
+
+
+
+  ADD TO BASKET
+
+
+
+
+                                                                        order by fax
+                                        
+
+                                            need a quote ?
+                                        
+
+
+
+ 
+
+OUR CLIENTS
+
+
+
+
+
+
+
+
+
+
+
+
+HAVE A QUESTION?
+EMAIL US
+VIEW FAQs
+
+
+
+RECENTLY VIEWED PRODUCTS
+
+
+
+
+
+
+
+
+
+
+
+Partner of Research and MarketsVACCINATING 40,000 CHILDREN IN 2017
+
+
+
+
+
+WHY CHOOSE RESEARCH AND MARKETS?
+
+
+
+WORLD'S LARGEST SELECTION
+
+
+
+
+TRUSTED BY THE BEST
+
+
+
+
+CUSTOMER FOCUSED
+
+
+
+
+SAFE & SECURE
+
+
+
+
+
+
+
+Research and Markets provided us with the highest quality service. Should we need to obtain current and
+
+                         accurate information in the future, we will be using Research and Markets.
+
+
+
+
+                            READ MORE
+                        
+
+
+Mr Vladimir Matyushechkin
+Patent Specialist
+United Research and Development Center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Metrofile Holdings Limited
+
+
+
+ID: 643717
+Company Profile
+July 2017
+67 Pages
+
+Wright Investors Service                                
+
+
+
+
+
+
+
+
+
+
+
+DESCRIPTION
+
+
+TABLE OF CONTENTS
+
+
+SAMPLES
+
+
+
+                                                                COUNTRIES COVERED
+                                                            
+
+
+FORMATS
+
+
+
+
+
+
+
+1 of 5
+
+
+
+
+
+
+
+
+                            LOGIN TO ACCESS EXECUTIVE SUMMARY
+                        
+
+
+
+                            PRINTER FRIENDLY
+                        
+
+
+
+                            PRINTABLE PDF BROCHURE
+                        
+
+SEND TO A FRIEND
+
+
+
+
+
+
+                                                                                A textual analysis of the financial results for Metrofile Holdings Limited  compared to selected competitors. Also included are quantitative analyses of the company's financial statements, extensive ratio analyses and up to 10-year history of sales, earnings, dividends and security pricing. A business description of the company, including contact information, senior officers and Wright Quality Rating analyses is also provided.Quantitative analyses of financial statements (Income Statement, Balance Sheet and Sources of Capital), extensive ratio tables (Accounting, Asset Utilization, Employee Efficiency, Fixed Charges Coverage, Leverage Analysis, Liquidity Analysis, Per-share Data and Profitability Analysis) and proprietary Wright Quality Rating® analyses tables. The Wright Quality Rating measures the liquidity of the stock and the financial strength, profitability and corporate growth characteristics of Metrofile Holdings Limited A textual review of the financial results of Metrofile Holdings Limited versus AdaptIT Holdings Limited, Mix Telematics Ltd and Microdata SARL is includedrepo.   The comparative analysis,of these companies,compares Sales, Company Valuations and Financial Position. Also included for Metrofile Holdings Limited are: Company Description, Recent Stock Performance, Profitability Analysis, Dividend Analysis, and key data items. Additional research for Metrofile Holdings Limited includes tables with up to 10-years of history of computed ratios, sales, earnings, and security prices. The company’s financial results are compared in a series of reports (i.e. financial statements, sales, key ratios, etc.) to global industry averages.
+                                                                            
+
+Note: Product cover images may vary from those shown
+
+
+
+
+2 of 5
+
+
+
+
+
+
+
+                            LOGIN TO ACCESS EXECUTIVE SUMMARY
+                        
+
+
+
+                            PRINTER FRIENDLY
+                        
+
+
+
+                            PRINTABLE PDF BROCHURE
+                        
+
+SEND TO A FRIEND
+
+
+
+
+
+
+                                                                    Company FundamentalsCompany ProfileComparative Business AnalysisSummary Analysis per ShareSales AnalysisPrice AnalysisEarnings and Dividends AnalysisFinancial Statement AnalysesBalance Sheet - Common SizeBalance Sheet - Year-Year Percent ChangeBalance Sheet - Five-Year AveragesIncome Statement - Common SizeIncome Statement - Year-Year Percent ChangeIncome Statement - Five-Year AveragesSources of CapitalFinancial Ratio AnalysesAccounting RatiosAsset UtilizationEmployee EfficiencyFixed Charges CoverageLeverage AnalysisLiquidity AnalysisPer-Share DataProfitability AnalysisWright Quality Rating AnalysesInvestment AcceptanceFinancial StrengthProfitability and StabilityCorporate Growth
+
+Note: Product cover images may vary from those shown
+
+
+
+
+3 of 5
+
+
+
+
+
+LOADING...
+
+
+
+
+
+
+
+4 of 5
+
+
+
+
+
+
+
+                            LOGIN TO ACCESS EXECUTIVE SUMMARY
+                        
+
+
+
+                            PRINTER FRIENDLY
+                        
+
+
+
+                            PRINTABLE PDF BROCHURE
+                        
+
+SEND TO A FRIEND
+
+
+
+
+
+
+                                                                                    South Africa
+                                                                                
+Note: Product cover images may vary from those shown
+
+
+
+
+5 of 5
+
+
+
+
+
+
+Note: Product cover images may vary from those shown
+
+
+
+
+
+
+
+
+RELATED PRODUCTS 
+
+
+
+
+
+
+
+AdaptIT Holdings Limited
+
+
+ Company Profile
+67 Pages
+July 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Mix Telematics Ltd
+
+
+ Company Profile
+67 Pages
+June 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Metrofile Holdings Limited - Company Profile and Financial Analysis
+
+
+ Company Profile
+June 2015
+
+
+
+
+FROM
+
+
+€87EUR$99USD£78GBP
+
+
+
+
+
+
+
+Datacentrix Holdings Limited
+
+
+ Company Profile
+67 Pages
+February 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Gijima Group Limited
+
+
+ Company Profile
+54 Pages
+April 2015
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Sygnity S.A.
+
+
+ Company Profile
+67 Pages
+July 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Suyog Telematics Limited
+
+
+ Company Profile
+65 Pages
+July 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Geely Automobile Holdings Limited
+
+
+ Company Profile
+68 Pages
+February 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Chocoladefabriken Lindt & Spruengli AG
+
+
+ Company Profile
+68 Pages
+June 2017
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+Woolworths Holdings Limited
+
+
+ Company Profile
+67 Pages
+July 2017
+Region: South Africa
+
+
+
+
+
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+
+ close
+
+Metrofile Holdings Limited
+
+
+
+ close
+
+ASK A QUESTION
+
+*Required Information
+ 
+Product: Metrofile Holdings Limited
+
+
+YOUR QUESTION*
+
+
+
+
+
+
+
+YOUR CONTACT DETAILS*
+
+Title
+Mr
+Mrs
+Dr
+Miss
+Ms
+Prof
+
+
+
+
+First Name
+
+
+
+
+Last Name
+
+
+
+
+Email Address
+
+
+
+
+Country
+Please Select
+------------------------------
+United States
+United Kingdom
+Germany
+Canada
+Australia
+------------------------------
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica-Casey
+Antarctica-Scott
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Ascension Island
+Ashmore and Cartier Islands
+Atlantic East
+Atlantic West
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Clipperton Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaco 
+Cyprus
+Czech Republic
+Democratic Republic of Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Islas Malvinas)
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guiana
+French Polynesia
+Gabon
+Gambia
+Gaza Strip
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Ivory Coast
+Ivory Coast (Cote d'Ivoire)
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte Islands
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Islands
+North Korea
+Northern Ireland
+Northern Marianas
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Christopher Nevis
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome
+Saudi Arabia
+Scotland
+Senegal
+Serbia
+Serbia and Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Tahiti
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City (Holy See)
+Venezuela
+Vietnam
+Virgin Islands
+Wallis And Futuna
+West Bank
+West Indies
+Western Sahara
+Yemen
+Yugoslavia
+Zaire
+Zambia
+Zimbabwe
+
+
+
+
+Phone Number
+
+
+
++1
++11
++1-242
++1-246
++1-264
++1-268
++1-284
++1-345
++1-441
++1-473
++1-649
++1-664
++1-670
++1-671
++1-684
++1-758
++1-767
++1-784
++1-787
++1-809
++1-868
++1-869
++1-876
++20
++212
++213
++216
++218
++220
++221
++222
++224
++225
++226
++227
++228
++229
++23
++230
++231
++232
++233
++234
++235
++236
++237
++238
++239
++240
++241
++242
++243
++244
++245
++247
++248
++249
++250
++251
++252
++253
++254
++255
++256
++257
++258
++260
++261
++263
++264
++265
++266
++267
++268
++269
++27
++284
++290
++291
++297
++298
++299
++30
++31
++32
++33
++34
++350
++351
++352
++353
++354
++355
++356
++357
++358
++359
++36
++370
++371
++372
++373
++374
++375
++376
++377
++378
++379
++380
++381
++382
++385
++386
++387
++389
++39
++40
++41
++420
++421
++423
++43
++44
++45
++46
++47
++48
++49
++500
++501
++502
++503
++504
++505
++506
++507
++509
++51
++52
++53
++54
++55
++56
++57
++58
++590
++591
++592
++593
++594
++595
++596
++597
++598
++599
++60
++61
++6101
++62
++63
++64
++65
++66
++670
++672
++673
++674
++675
++677
++678
++679
++680
++681
++682
++683
++685
++686
++687
++688
++689
++691
++692
++7
++81
++82
++84
++850
++852
++853
++855
++856
++86
++869
++871
++874
++880
++886
++90
++91
++92
++93
++94
++95
++960
++961
++962
++963
++964
++965
++966
++967
++968
++970
++971
++972
++973
++974
++975
++976
++977
++98
++992
++993
++994
++995
++996
++998
+
+
+
+
+
+
+
+
+
+
+
+
+We request your telephone number so we can contact you in the event we have difficulty reaching you via email.
+                    We aim to respond to all questions on the same business day.
+
+
+
+
+
+ 
+
+
+
+ close
+
+SEND TO A FRIEND
+
+* Required Information
+ FRIEND'S DETAILS
+
+Full Name*
+
+
+
+
+Email Address*
+
+
+
+
+Message to friend
+
+
+
+
+YOUR CONTACT DETAILS
+
+Full Name*
+
+
+
+
+Email Address*
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ close
+
+Request a Quote
+
+ 
+Please complete the below form and click "send request" to obtain a pdf quotation and order form.
+This document will be available for immediate download and will also be emailed to you.
+            
+* Required Information
+
+
+YOUR ADDRESS
+
+Address 1*
+
+
+
+
+Address 2
+
+
+
+
+Address 3
+
+
+
+
+City*
+
+
+
+
+Postal/ZIP Code
+
+
+
+
+Country*
+Please Select
+------------------------------
+United States
+United Kingdom
+Germany
+Canada
+Australia
+------------------------------
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica-Casey
+Antarctica-Scott
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Ascension Island
+Ashmore and Cartier Islands
+Atlantic East
+Atlantic West
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Clipperton Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curaco 
+Cyprus
+Czech Republic
+Democratic Republic of Congo
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Islas Malvinas)
+Faroe Islands
+Fiji Islands
+Finland
+France
+French Guiana
+French Polynesia
+Gabon
+Gambia
+Gaza Strip
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Ivory Coast
+Ivory Coast (Cote d'Ivoire)
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte Islands
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Islands
+North Korea
+Northern Ireland
+Northern Marianas
+Norway
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Christopher Nevis
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome
+Saudi Arabia
+Scotland
+Senegal
+Serbia
+Serbia and Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syria
+Tahiti
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City (Holy See)
+Venezuela
+Vietnam
+Virgin Islands
+Wallis And Futuna
+West Bank
+West Indies
+Western Sahara
+Yemen
+Yugoslavia
+Zaire
+Zambia
+Zimbabwe
+
+
+
+
+State
+
+
+
+
+
+YOUR DETAILS
+
+Title*
+Mr
+Mrs
+Dr
+Miss
+Ms
+Prof
+
+
+
+
+First Name*
+
+
+
+
+Last Name*
+
+
+
+
+Organisation*
+
+
+
+
+Email Address*
+
+
+
+
+Phone Number*
+
+
+
++1
++11
++1-242
++1-246
++1-264
++1-268
++1-284
++1-345
++1-441
++1-473
++1-649
++1-664
++1-670
++1-671
++1-684
++1-758
++1-767
++1-784
++1-787
++1-809
++1-868
++1-869
++1-876
++20
++212
++213
++216
++218
++220
++221
++222
++224
++225
++226
++227
++228
++229
++23
++230
++231
++232
++233
++234
++235
++236
++237
++238
++239
++240
++241
++242
++243
++244
++245
++247
++248
++249
++250
++251
++252
++253
++254
++255
++256
++257
++258
++260
++261
++263
++264
++265
++266
++267
++268
++269
++27
++284
++290
++291
++297
++298
++299
++30
++31
++32
++33
++34
++350
++351
++352
++353
++354
++355
++356
++357
++358
++359
++36
++370
++371
++372
++373
++374
++375
++376
++377
++378
++379
++380
++381
++382
++385
++386
++387
++389
++39
++40
++41
++420
++421
++423
++43
++44
++45
++46
++47
++48
++49
++500
++501
++502
++503
++504
++505
++506
++507
++509
++51
++52
++53
++54
++55
++56
++57
++58
++590
++591
++592
++593
++594
++595
++596
++597
++598
++599
++60
++61
++6101
++62
++63
++64
++65
++66
++670
++672
++673
++674
++675
++677
++678
++679
++680
++681
++682
++683
++685
++686
++687
++688
++689
++691
++692
++7
++81
++82
++84
++850
++852
++853
++855
++856
++86
++869
++871
++874
++880
++886
++90
++91
++92
++93
++94
++95
++960
++961
++962
++963
++964
++965
++966
++967
++968
++970
++971
++972
++973
++974
++975
++976
++977
++98
++992
++993
++994
++995
++996
++998
+
+
+
+
+
+
+
+
+
+
+
+                                PO Number
+                                (if applicable)
+
+
+
+
+
+
+
+PRODUCT FORMAT
+
+
+
+
+License
+Format
+Properties
+Price
+
+
+
+
+ 
+SINGLE USER Electronic (PDF)                                                
+
+
+
+                                            The report will be emailed to you.  The report is sent in PDF format. 
+                                        
+
+                                            This is a single user license, allowing one specific user access to the product.
+                                        
+
+€75EUR$92USD£70GBP
+
+
+
+
+
+
+
+* The price quoted above is only valid for 30 days. Please submit your order within that time frame to avail of this price as all prices are subject to change.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agricultural land (% of land area) | DataDataThis page in:EnglishEspañolFrançaisالعربية中文Agricultural land (% of land area)Food and Agriculture Organization, electronic files and web site.License: OpenLabelArable land (hectares per person)Arable land (% of land area)Land under cereal production (hectares)Permanent cropland (% of land area)Land area where elevation is below 5 meters (% of total land area)Forest area (sq. km)Forest area (% of land area)Agricultural irrigated land (% of total agricultural land)DownloadCSVXMLEXCELDataBankOnline tool for visualization and analysisWDI TablesThematic data tables from WDIAll Countries and EconomiesCountry19612014Help us improve this siteHelp / FeedbackIBRDIDAIFCMIGAICSIDLegalAccess to InformationJobsContact© 2017 The World Bank Group, All Rights Reserved.REPORT FRAUD OR CORRUPTION

@@ -1,0 +1,1250 @@
+
+
+
+
+
+Products - Kobelco Eco-Solutions Co.,Ltd.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HOME > Products
+
+
+
+
+
+
+
+
+
+
+Kobelco Eco-Solutions' products beneficial for the society.
+
+
+
+
+
+
+Industrial district
+
+Water treatment for LCD/Semiconductor
+
+Industrial water treatment
+
+
+
+
+
+
+
+
+Water treatment plants
+
+Water treatment process
+
+
+
+
+
+
+
+
+Waste final disposal plants
+
+Leachate treatment
+
+
+
+
+
+
+
+
+
+Sewage disposal plants
+
+Sewage treatment (water treatment)
+Sewage treatment (sludge treatment)
+Biomass Utilization
+
+
+
+
+
+
+
+
+Waste treatment plants
+
+Waste treatment
+
+
+
+
+
+
+
+
+Recycle factory
+
+PCB /Dioxin treatment (detoxification)
+
+
+
+
+
+
+
+
+Steel plants
+
+Industrial water treatment
+Cooling tower
+
+
+
+
+
+
+
+
+Chemical plants
+
+Process equipment
+Cooling tower
+Industrial water treatment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Back to Top
+
+
+
+
+
+
+>>Privacy Policy
+
+
+
+Copyright © 2007 KOBELCO ECO-SOLUTIONS Co.,Ltd. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kobe Steel Ltd. - Case Studies - UNIRITA Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				web
+				
+
+				unirita.co.jp
+
+
+
+
+mainmenu
+
+HOME
+Products
+
+Product & Services
+LMIS
+Consolidation
+Job management
+Report management
+
+Case studies
+Support
+Users Group
+
+
+Corporate Profile
+
+Corporate Profile
+BSP Group
+BSP Solutions
+BSP Shanghai
+Our Mission
+Overview
+History
+Office Locations
+
+
+Investor Relations
+
+Investor Relations
+
+
+Careers
+
+Careers
+
+
+
+
+
+Top > Products & Services > Case Studies > Kobe Steel Ltd.
+
+
+
+* The company names and the contents of the case studies are given as of the time of the interview.
+
+
+
+
+
+		Kobe Steel, Ltd.
+
+		Kobelco SystemsCorporation
+
+Kobe Steel, Ltd. (hereafter "Kobe Steel"), has been a leading iron and steel producer in Japanese and global markets since its foundation in 1905. It holds the largest share in various industrial segments, ranging from iron and steel and welding products (such as steel plates and wire rods) to aluminum and copper, industrial machinery, and construction machines.
+One of its group companies, Kobelco Systems Corporation (hereafter "Kobelco Systems), provides a variety of IT services, such as consulting, system integration, and outsourcing in various areas including product design, production planning, and logistics of the products Kobe Steel produces. Kobelco Systems also has strength in IT infrastructure solutions, including data center solution.
+Kobe Steel is currently collaborating with Kobelco Systems on the transition of its headquarters' business systems to open systems. In 2006, as a part of the project, it began a major shift of the headquarters accounting system to a new system that uses BSP's job scheduling software, A-AUTO. This shift took only about a year. Regarding the project, BSP has recently interviewed Mr. Nobutaka Koga and Mr. Masahiro Kanto of the IT Planning Department of Kobe Steel and Mr. Masaki Nakanishi and Mr. Seiji Okubo of the Strategic Outsourcing Group of Kobelco Systems headquarters.
+
+
+
+
+
+		Mr. Nobutaka Koga
+IT Planning Department
+Kobe Steel, Ltd.
+
+Kobe Steel headquarters is working to renovate its IT infrastructure by migrating from its mainframe-based system to open systems by the end of March 2012. In the former system environment, every revision of applicable laws and regulations required a modification, which entailed high costs for maintenance. Another major problem was that the many changes and modifications had made the system so complicated that overall control and management were difficult.
+Taking all this into consideration, the company determined to place open systems taking the maximum advantage of application packages as a core of the new system, and set a goal to establish an IT infrastructure that would offer high availability, low operational cost, and the ability to adapt flexibly to future modifications and extensions.
+The company launched full-scale discussions for the renovation of the accounting system in 2006, and began planning and designing a new system architecture based on application packages. In April 2007, Kobe Steel set up a test environment and the preparation for the full-scale development phase started.
+A-AUTO was selected for the job management of the new accounting system. Said Mr. Koga, "Internally developed operation tools had been used on the mainframe, but as part of our move to the open systems we had already adopted A-AUTO to manage jobs on open systems, such as those on financial and HR systems. Our choice for the new accounting system was also A-AUTO. Because so far we have encountered no problems in operations management, we believe that there is no reason to install any job scheduling software other than A-AUTO."
+
+
+
+
+
+		Mr. Masahiro Kanto
+IT Planning Department
+Kobe Steel, Ltd.
+
+In the migration project, the highest emphasis was placed on establishing the framework, by preparing thoroughly and selecting the team members carefully. It was very important to ensure that all of those involved in the project would achieve a consensus and a common awareness in the transition process.
+"The project was expected to involve 100 to 200 members at the peak period," said Mr. Nakanishi. "We believed that it would succeed only if all members united their efforts. Because we prepared as carefully, and devoted all of the time and effort needed, the system development was completed in about six months." Mr. Nakanishi commented.
+The hardest part of the development was to validate the output from the new system. They needed to be compared every day against the output from the current system. All these checks required much time and patience. Having them done by a single staff member could easily have led to mistakes or low performance, and the validation would have taken two or three months. Therefore, the project team developed a procedure by which the workload was shared by multiple staff members, in cooperation with operation staff of the old system.
+Reflecting on the difficulties he faced, Mr. Kanto said, "A-AUTO was adopted in the expectation that it would work as an effective tool for job management covering the interface processing between multiple systems. We needed some efforts to control EAI tool. At the beginning of the project, we did not plan to have a test environment for A-AUTO but we ended up to set up one and tested job scheduling carefully before going into the production."
+The support services provided by BSP made a large contribution to the success of the project. Mr. Okubo rated BSP's services highly, commenting, "When I sent an e-mail to my BSP contact asking questions on something I did not dunderstand, I received a prompt reply within 20 to 30 minutes. Thanks to the quick, kind, and complete responses to my e-mails, I was able to bring the project forward smoothly without delaying the validation processes.
+
+
+
+
+
+
+		Mr. Masaki Nakanishi
+Section Chief
+Headquarters TechnicalDevelopment Office
+Service Business Division
+Strategic Outsourcing Group,Department I
+Kobelco Systems Corporation
+
+		Mr. Seiji Okubo
+Headquarters TechnicalDevelopment Office
+Service Business Division
+Strategic Outsourcing Group,Department I
+Kobelco Systems Corporation
+
+In April 2008, the project was about to switch over to the production phase. This was the final stage of the project, allowing no mistake. To migrate all the data for the full-year financial closing to the new system, Kobe Steel planned to process its financial data on the old system up to the account-closing transactions for the term ending March 2008, and therefore, keep the old system operating even after the cutover of the new system. That means that two systems would be running in parallel.
+The migration process was tackled by a carefully chosen team, in which the operation and development staff of the old system collaborated closely with the project team. As the project was handled mainly by people fully familiar with both systems, operations of the new system after migration went smoothly. This was the key to the success of the migration.
+In May 2008, the complete migration to the new accounting system was finished in a short time, without any major problem. It was an excellent accomplishment. Its success was due to the careful and detailed making of plans and selection of team members, and the enthusiastic efforts of all of those involved.
+With this project successfully completed, Kobe Steel is now working on a second one, scheduled for completion in April 2010. The next goal is to standardize the format of all data connections among the companies in headquarters. This will lead to the integration of the systems of all of these companies, and ultimately that of the entire Group. The challenges of Kobe Steel and Kobelco Systems are far from over, but past performance makes success seem assured.
+
+
+
+
+
+
+
+
+【Corporate Profile】
+			Company Name: Kobe Steel, Ltd.
+Founded: 1905
+Description of Business: Iron and steel products,wholesale power supply, aluminum and copper products,machinery, construction machinery, real estate and other businesses.
+URL : http://www.kobelco.co.jp/english/
+
+
+【Corporate Profile】
+			Company Name: Kobelco Systems Corporation
+Founded: 1983
+Description of Business: Consulting services, design, development, and maintenance for business systems and networks,outsourcing and other services
+URL : http://www.kobelcosys.co.jp/
+
+
+
+
+【Product】
+A-AUTO
+
+
+
+
+Category Menu
+
+Case Studies
+
+
+
+PAGE TOP
+
+
+Trademark | 
+Privacy Policy | 
+
+Copyright (c) UNIRITA Inc. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#TITLE# || KOBELCO - KOBE STEEL, LTD. -
+
+
+
+
+
+
+
+
+
+
+EnglishportuguêsEspañolрусский
+
+
+
+
+
+
+COMPANY
+
+About us
+Introduction to Kobe Steel 
+Introduction Catalog
+
+Management Philosophy
+Business Segment
+KOBELCO Welding Worldwide
+Group company
+
+
+
+PRODUCTS
+
+Main Products
+Welding Consumables
+Arc welding robots
+Industries - Recommended Materials
+Welding Handbook Quick View
+Product Quick View & Highlights
+For HEAT-RESISTANT STEEL
+For STAINLESS STEEL
+For LOW-TEMPERATURE STEEL
+Product Highlight
+Catalog 
+Technical Highlights
+Certification
+ARCMAN
+Welding Robot
+Software
+
+
+
+EDUCATION CENTER
+
+The ABC’s of Arc Welding
+Fundamentals of CO2 Arc Welding
+Welding of Medium / High Carbon Steels and Special Steels
+Welding of Stainless Steel
+Welding References
+Textbooks of Welding
+
+
+
+EVENTS
+
+Schedule
+Archive
+
+
+
+LIBRARY
+
+Introduction Catalog
+Textbooks of Welding
+Catalog 
+
+
+
+
+
+Home >Company >About us >
+
+
+
+About us
+Introduction to the Welding Business
+The Welding Business is one of the business units managed by Kobe Steel, Ltd. Since the covered electrodes for mild steel were first produced in 1942, the product range has expanded to include covered electrodes, solid wires, flux-cored wires, and welding fluxes for such materials as mild steel, high strength steel, low temperature steel, heat-resistant low-alloy steel, stainless steel, nickel-based alloy, and cast iron. In addition to such welding consumables, the Welding Business offers highly efficient welding processes and designs and produces high performance equipment such as welding robots, welding power sources, peripheral devices, and the optimized welding systems tailored for individual customers.
+Introduction to Kobe Steel
+Click here to enter KOBELCO's corporate website.
+Page Top
+
+
+
+Company
+
+About us
+Introduction to Kobe Steel 
+Introduction Catalog
+Management Philosophy
+Business Segment
+KOBELCO Welding Worldwide
+Group company
+
+
+
+
+
+
+
+
+
+
+HOMECOMPANYPRODUCTSEDUCATION CENTER
+EVENTSLIBRARYCONTACT US
+
+
+Copyright © 1995-2012 KOBE STEEL., LTD. All rights reserved.
+
+
+
+
+
+
+
+
+
+Kobe Steel - Wikipedia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Kobe Steel
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+For the construction equipment subsidiary, see Kobelco Construction Machinery America.
+
+Kobe Steel, Ltd.
+株式会社神戸製鋼所
+
+
+
+
+
+Type
+
+Public KK
+
+
+Traded as
+TYO: 5406
+OSE: 5406
+NAG: 5406
+OTC Pink: KBSTY
+Nikkei 225 Component
+
+
+Industry
+Steel
+
+
+Founded
+Kobe, Japan
+(September 1, 1905; 111 years ago (1905-09-01))
+
+
+Headquarters
+2-4, Wakinohama-Kaigandori 2-chome, Chūō-ku, Kobe, Hyōgo, 651-8585, Japan
+
+
+
+Key people
+
+Hiroya Kawasaki, (CEO and President)
+
+
+Products
+
+
+
+Steel products
+Titanium products
+Welding robots and systems
+Aluminum and copper products
+Construction and industrial machinery
+Cranes
+
+
+
+
+
+Revenue
+
+$ 17.92 billion (FY 2012)
+(¥ 1.685 billion) (FY 2012)
+
+
+
+Net income
+
+
+$ -286 million (FY 2012)
+(¥ -26.976 billion) (FY 2012)
+
+
+
+Number of employees
+
+36,018 (consolidated) (as of March 31, 2013)
+
+
+Website
+Official website
+
+
+Footnotes / references
+[1][2]
+
+
+Kobe Steel, Ltd. (株式会社神戸製鋼所, Kabushiki-gaisha Kōbe Seikō-sho), operating worldwide under the brand Kobelco, is a major Japanese steel manufacturer headquartered in Chūō-ku, Kobe. Kobe Steel also has a stake in Osaka Titanium Technologies.[3]
+It was formed on September 1, 1905. Its location in a major city port was useful for importing and exporting iron ore and coal. Kobe Steel is the owner of the rugby team Kobe Steel Kobelco Steelers.
+The company is listed on the Tokyo and Nagoya Stock Exchange, on the Osaka Securities Exchange and is a constituent of the Nikkei 225 stock index.[4] As of March 31, 2014, the company had 208 subsidiary and 62 affiliated companies across Japan, Asia, Europe, the Middle East and the US.[1]
+Kobe Steel is a member of the Mitsubishi UFJ Financial Group (MUFJ) keiretsu.
+
+
+
+Contents
+
+
+1 Business segments and products
+2 Manufacturing locations
+3 Gallery
+4 See also
+5 References
+6 External links
+
+
+
+Business segments and products[edit]
+
+Iron & Steel: ordinary wire rod, specialty steel wire rod, specialty steel wire, ordinary steel bar, specialty steel bar, heavy plate, medium plate and sheet (hot-rolled, coldrolled, surface treated), titanium and titanium alloys, foundry pig iron and pig iron for steelmaking, stainless steel tube, specialty steel products, wholesale electric power supply
+Welding: covered welding electrodes, welding wire for automatic and semi-automatic welding, flux, welding robots and welding robot systems, welding power sources, welding-related testing, analysis and consulting
+Aluminum & Copper: aluminum can stock, aluminum sheet for heat exchangers and automotive use, aluminum extrusions, aluminum disk material for HDDs, aluminum foil, copper sheet and strip for semiconductors, copper sheet and strip for terminals, aluminum alloy and magnesium alloy castings and forgings
+Machinery: equipment for nuclear power plants, equipment for energy and chemical fields, tire and rubber machinery, plastic processing machinery, metalworking machinery
+Engineering: ironmaking plants (direct reduction), other plants and equipment (pelletizing, petrochemical, etc.), nuclear power-related plants, erosion control and disaster prevention structures, civil engineering, advanced urban transit systems
+Kobelco Eco-Solutions: industrial water plants, water and sewage plants, ultrapure and pure water, industrial water and waste water treatment equipment, recycling plants for processing organic waste materials (sewage sludge and foodstuffs), municipal waste incineration and melting plants, Bulky waste recycling facilities for bulky waste, Polychlorinated biphenyl waste treatment facilities, brewing equipment, hydrogen oxygen generator, environmental analysis
+Kobelco Construction Machinery: hydraulic excavators, mini excavators, wheel loaders, road-building equipment, demolition machines
+Kobelco Cranes:crawler cranes, rough terrain cranes, work vessels
+Other: sputtering targets, superconducting products, real estate services, administration of public facilities[5][6]
+
+Manufacturing locations[edit]
+
+Kakogawa, Hyōgo
+Kobe, Hyogo
+Takasago, Hyōgo
+Fujisawa, Kanagawa
+Ibaraki, Osaka
+Nishijo, Higashihiroshima, Hiroshima
+Mooka, Tochigi
+Chofu, Shimonoseki, Yamaguchi
+Daian, Inabe, Mie
+Harima, Hyōgo
+Moore, South Carolina
+Hayward, California (Kobe Precision, Inc.)[7]
+
+Gallery[edit]
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kakogawa Works 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kobe Steel headquarters 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Entrance to Kobe Works 
+
+
+
+
+
+
+See also[edit]
+
+
+Japan portal
+Engineering portal
+Companies portal
+
+
+
+Kobeseiko Te-Gō
+
+References[edit]
+
+
+
+^ a b "Corporate Profile". Retrieved April 13, 2014. 
+^ "Consolidated Financial Results for Fiscal 2012" (PDF). Retrieved April 13, 2014. 
+^ "Key events". Osaka Titanium Technologies. Retrieved 15 August 2011. 
+^ "Components:Nikkei Stock Average". Nikkei Inc. Retrieved April 13, 2014. 
+^ "Business Activities". Retrieved April 13, 2014. 
+^ "Facts & Figures Report 2012" (PDF). Archived from the original (PDF) on December 3, 2012. Retrieved April 13, 2014. 
+^ "Kobe Precision Introduces Copper Wafer Recycling Process". Laboratory Network.com. July 14, 1999. Retrieved April 13, 2014. 
+
+
+
+External links[edit]
+
+Official global website (in English)
+Kobe Steel Group of Companies
+History of Kobe Steel Group
+Kobelco Construction Machinery Europe
+
+
+
+
+
+
+
+v
+t
+e
+
+
+ Nikkei 225 companies of Japan
+
+
+
+
+
+
+7&i
+Advantest
+ÆON
+AGC
+Ajinomoto
+Alps
+ANA
+Amada
+Aozora Bank
+Asahi Breweries
+Asahi Kasei
+Astellas
+Bridgestone
+Canon
+Casio
+Chiba Bank
+Chiyoda
+Chuden
+Chugai
+Citizen
+Comsys
+Concordia Financial
+Credit Saison
+Dai-ichi Life
+Daiichi Sankyo
+Daikin
+Dainippon Screen
+Dainippon Sumitomo Pharma
+Daiwa House
+Daiwa Securities
+Denka
+Denso
+Dentsu
+DNP
+Dowa
+Ebara
+Eisai
+Fanuc
+Fast Retailing
+Fuji Electric
+Fuji Heavy Industries
+Fujifilm
+Fujikura
+Fujitsu
+Fukuoka Financial
+Furukawa Co., Ltd.
+Furukawa Electric
+GS Yuasa
+Heiwa Real Estate
+Hino
+Hitachi
+Hitachi Construction Machinery
+Hitz
+Hokuetsu Paper
+Honda
+IHI
+INPEX
+Isetan-Mitsukoshi
+Isuzu
+Itochu
+JFE
+J. Front Retailing
+JGC
+JR Central
+JR East
+JR West
+JSW
+JT
+JTEKT
+JXTG
+Kajima
+KEPCO
+Kao
+Kawasaki
+KDDI
+Keio
+Keisei
+Kikkoman
+Kirin
+K Line
+Kobelco
+Komatsu
+Konami
+Konica Minolta
+Kubota
+Kuraray
+Kyocera
+Kyowa Hakko Kirin
+Marubeni
+Maruha Nichiro
+Marui
+Matsui Securities
+Mazda
+Meidensha
+Meiji Holdings
+MES
+Minebea
+Mitsubishi Chemical
+Mitsubishi Corporation
+Mitsubishi Electric
+Mitsubishi Estate
+Mitsubishi Heavy Industries
+Mitsubishi Logistics
+Mitsubishi Materials
+Mitsubishi Motors
+Mitsui & Co.
+Mitsui Chemicals
+Mitsui Fudosan
+Mitsui Kinzoku
+Mitsumi Electric
+Mizuho
+MOL
+MS&AD
+MUFG
+NEC
+NEG
+NGK
+Nichirei
+Nikon
+Nippon Express
+Nippon Kayaku
+Nippon Light Metal
+Nippon Ham
+Nippon Paper Industries
+Nippon Soda
+Nippon Suisan
+Nissan
+Nissan Chemical
+Nisshin Seifun
+Nisshin Steel
+Nisshinbo
+Nittobo
+Nitto Denko
+Sompo Japan Nipponkoa Holdings
+Nomura
+NSG
+NSK
+NSSMC
+NTN
+NTT
+NTT Data
+NTT DoCoMo
+NYK
+Obayashi
+Odakyu
+Oji Holdings Corporation
+OKI
+Okuma
+Olympus
+Osaka Gas
+Pacific Metals
+Panasonic
+Pioneer
+Resona
+Ricoh
+Sapporo Holdings
+Secom
+Sekisui House
+Sharp
+Shimz
+Shin-Etsu
+Shinsei Bank
+Shionogi
+Shiseido
+Shizuoka Bank
+Showa Denko
+Showa Shell
+SKY Perfect JSAT
+SoftBank
+Sojitz
+Sony
+Sony Financial
+SUMCO
+Sumitomo Chemical
+Sumitomo Corporation
+Sumitomo Electric
+Sumitomo Heavy Industries
+Sumitomo Metal Mining
+Sumitomo Mitsui Financial
+Sumitomo Mitsui Trust
+Sumitomo Osaka Cement
+Sumitomo Realty
+Suzuki
+T&D
+Taiheiyo Cement
+Taisei
+Taiyo Yuden
+Takara
+Takashimaya
+Takeda
+TDK
+Teijin
+TEPCO
+Terumo
+Tobu
+Toho
+Toho Zinc
+Tokai Carbon
+Tokuyama Corporation
+Toyo Seikan
+Tokio Marine
+Tokyo Dome
+Tokyo Electron
+Tokyo Gas
+Tokyo Tatemono
+Tokyu
+Tokyu Land
+Toppan
+Toray
+Toshiba
+Tosoh
+Toto
+Toyobo
+Toyota
+Toyota Tsusho
+Trend Micro
+Ube
+Unitika
+Uny
+Yahoo! Japan
+Yamaha
+Yamato Transport
+Yasakawa
+Yokogawa Electric
+Yokohama Rubber
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 163475770
+ISNI: 0000 0001 1223 999X
+GND: 129985-2
+NDL: 00287876
+
+
+
+
+
+
+
+
+
+This article about a Japanese corporation– or company–related topic is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Kobe_Steel&oldid=786365583"					
+Categories: Nikkei 225Steel companies of JapanCrane manufacturersConstruction equipment manufacturersCompanies listed on the Tokyo Stock ExchangeCompanies listed on the Nagoya Stock ExchangeCompanies listed on the Osaka Securities ExchangeManufacturing companies based in KobeManufacturing companies established in 19051905 establishments in JapanDefense companies of JapanJapanese brandsCompanies traded over-the-counter in the United StatesMidori-kaiJapanese company stubsHidden categories: Pages using deprecated image syntaxOfficial website different in Wikidata and WikipediaArticles containing Japanese-language textWikipedia articles with VIAF identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersAll stub articles 
+
+
+
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+Wikimedia Commons 
+
+
+
+Languages
+
+
+DeutschفارسیFrançais한국어ՀայերենBahasa Indonesia日本語PolskiPortuguêsРусскийSvenskaTürkçeУкраїнська 
+Edit links 
+
+
+
+
+
+ This page was last edited on 19 June 2017, at 00:47.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+
+
+

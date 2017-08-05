@@ -1,0 +1,4290 @@
+
+
+
+PCIe to PCI Bridge Controller | GENESYS LOGIC, INC. | CENS.com
+
+
+
+
+
+
+
+
+
+
+
+My CENS | Member Login
+
+Trade Magazines | Taiwan Industry Updates | CENS at Trade Shows | Webmaster
+		| 繁體首頁
+简体首页
+
+
+
+
+
+
+
+
+
+
+
+
+Product
+Company
+News
+
+
+
+
+
+Customized Sourcing
+
+
+Advanced Search
+
+
+
+
+
+
+
+
+
+
+CENS
+
+          > Electronics and Computers
+
+          > Computer Parts, Components, and Accessories
+
+          > Chip Sets
+
+          > Product Details
+
+
+        
+
+
+
+GENESYS LOGIC, INC.
+
+
+
+
+
+
+
+Product Categories
+
+
+Chip Sets  (5) 
+All Product List
+Company Profile / Information
+Advertisement Pages
+Send Inquiry Now
+CENS Global PassMulti-lingual EDM
+Product RSS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCIe to PCI Bridge Controller
+
+Model:
+GL9701
+
+
+Inquire this product
+Add to Cart
+
+
+
+
+
+
+Detail Specifications / Descriptions
+
+  
+
+		  
+		  	Genesys Logic's GL9701 PCI Express to PCI Bridge is a single-chip, high-performance bridge for connection between PCI Express and PCI bus domains.  By supporting concurrent operation on both buses, GL9701 increase utilization in various system configurations.  Through GL9701, customers can provide PCI add-in card by using newly developed PCI Express controller. 
+
+GL9701 supports enhanced 4KB configuration space defined in PCI Express Base Specification, and the register in enhanced configuration space controls its advanced features such as Virtual Channel, Advanced Error Report, and Device Serial Number.  Software utility is provided for customers to access advanced feature in both normal bridge mode and reverse bridge mode. 
+
+With integrated silicon-proven PCI Express physical layer controller (PCI Express PHY), GL9701 provides a cost-effective solution for system vendors.
+		  
+
+  
+ 
+
+
+
+Related Products
+
+
+ 
+
+USB 2.0 to ATA/ATAPI Bridge Controller
+
+
+USB 2.0 On-The-Go Controller
+
+
+PCI Express 1-lane 2.5 Gbps PHY
+
+
+PCI Express 4-lane 10 Gbps PHY
+
+  
+
+
+   
+ 
+		
+
+
+Company:
+GENESYS LOGIC, INC.
+
+
+ Send inquiry to this company
+I'm interested in your products, please offer me more information:
+
+
+
+
+
+
+
+
+Facebook
+Linkedin
+
+
+
+Get to Know Us
+About Us
+Business Partners
+Follow Us on Facebook
+
+
+Services & Products
+Customized Sourcing Services
+Trade Magazines / eBooks
+Taiwan Industry Updates
+Global Trade Shows
+Global Pass
+
+
+My CENS Join Free Now
+Registration
+Account Management
+Log in
+Inquiry Cart
+
+
+Help
+FAQ
+Contact Us
+Site Map
+
+
+
+
+
+
+            ©1995-2006 Copyright China Economic News Service All Rights Reserved.
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Genesys Logic, Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Genesy
+Press Center
+Products
+Investors
+
+
+
+
+
+繁
+简
+En
+日
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Storage Products
+
+ATA / SATA Bridge Controller
+Card Reader Controller
+
+
+Scanner Products
+
+Scanner Controller
+
+
+USB Hub Products
+
+Hub Controller
+
+
+USB Camera Products
+
+PC Camera Controller
+
+
+Silicon Intellectual Properties
+
+High Speed Connectivity IPs
+
+
+Others
+
+USB Host Charger Controller 
+PCIe x 1 PHY, PCIe x 4 PHY
+
+
+Applications
+
+Application Fields
+
+Computing
+Display
+
+
+Reference
+
+
+Support
+
+
+ > Products
+
+
+
+
+
+Storage Products
+
+
+ATA / SATA Bridge Controller
+Card Reader Controller
+
+
+
+
+
+
+
+
+Scanner Products
+
+
+Scanner Controller
+
+
+
+
+
+
+
+
+USB Hub Products
+
+
+Hub Controller
+
+
+
+
+
+
+
+
+USB Camera Products
+
+
+PC Camera Controller
+
+
+
+
+
+
+
+
+Silicon Intellectual Properties
+
+
+High Speed Connectivity IPs
+
+
+
+
+
+
+
+
+Others
+
+
+USB Host Charger Controller 
+PCIe x 1 PHY, PCIe x 4 PHY
+
+
+
+
+
+
+
+
+
+Copyright ◎2017 創惟科技股份有限公司 All Rights Reserved. 
+
+
+
+
+
+Genesys Logic, Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Genesy
+Press Center
+Products
+Investors
+
+
+
+
+
+繁
+简
+En
+日
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Corporate Overview
+Organization
+Milestones
+Vision & Business Philosophy
+Environmental & Quality Policy
+Contact Us
+
+
+
+ > About Genesys > Corporate Overview
+
+
+
+
+
+Genesys Logic specializes in the design, manufacturing, testing, and selling of ICs for PC peripherals and related products, and provides comprehensive solutions for consumer electronics and systems manufacturers. Our core competency lies in the development and application of high-speed SerDes technology. In addition to USB 3.1 Gen 1 technology, we have put a lot of effort into researching and developing high-speed SerDes interface technology to keep up with the trend of the new cross-disciplines and cross-platform technologies, and grasp the opportunities in the application markets.
+
+
+ 
+
+
+Genesys Logic is planning a complete range of products based on the USB 3.1 Gen 1, SD 3.0/4.0, SATA 3.0 interfaces for multiple application areas. We continuously live up to the market leadership and product innovation, and actively develop high-end manufacturing processes, and diverse niche products with high added values, in addition to further deployment of our USB 3.1 Gen 1 controllers into related application areas. We are also gradually expanding the applications of our products in the niche market through specification differentiation, improved product quality, and higher implementation to enrich our product lines and improve margins for better market competitiveness.
+
+
+ 
+
+
+To maintain a competitive advantage in our products and help our customers gain more product advantages, Genesys Logic is continuously introducing more advanced process technology and implementing copper process in our main products. In the future, we will build a more close relation with the industry chain in the semiconductor ecosystem and integrate our strategic partners' resources to expand our market share in the vertical application market and quickly deliver added-values to end customers.
+
+
+
+
+
+Download
+
+
+
+
+
+
+
+Copyright ◎2017 創惟科技股份有限公司 All Rights Reserved. 
+
+
+
+
+
+Genesys Logic, Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Genesy
+Press Center
+Products
+Investors
+
+
+
+
+
+繁
+简
+En
+日
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Storage Products
+
+ATA / SATA Bridge Controller
+Card Reader Controller
+
+
+Scanner Products
+
+Scanner Controller
+
+
+USB Hub Products
+
+Hub Controller
+
+
+USB Camera Products
+
+PC Camera Controller
+
+
+Silicon Intellectual Properties
+
+High Speed Connectivity IPs
+
+
+Others
+
+USB Host Charger Controller 
+PCIe x 1 PHY, PCIe x 4 PHY
+
+
+Applications
+
+Application Fields
+
+Computing
+Display
+
+
+Reference
+
+
+Support
+
+
+ > Products > Storage Products > Card Reader Controller
+
+
+GL827L
+
+OverviewThe GL827L is USB 2.0 SD/MMC/MS Flash Card Reader single chip. It supports USB 2.0 high-speed transmission to Secure DigitalTM (SD), SDHC, Mini SDTM, Micro SDTM , T-Flash , MultiMediaCardTM(MMC), RS MultiMediaCardTM (RS MMC), MMC Micro , HS-MMC, MMC-Mobile , Memory StickTM (MS), Memory Stick DuoTM (MS Duo), High Speed Memory StickTM (HS MS), Memory Stick PROTM (MS PRO), Memory Stick PROTM Duo (MS PRO Duo), Memory Stick PRO-HG (MS PRO-HG), Memory Stick ROM, MS PRO Micro (M2) on one chip. As a single chip solution for USB 2.0 flash card reader, the GL827L complies with Universal Serial Bus specification rev. 2.0, USB Storage Class specification ver.1.0, and each flash card interface specification.
+
+The GL827L integrates a high speed 8051 microprocessor and a high efficiency hardware engine for the best data transfer performance between USB and flash card interfaces. Its’ pin assignment design fits to card sockets to provide easier PCB layout. 
+
+The GL827L is packaged with 28-pin SSOP (150mil) and 24-pin QFN for up to 1 LUN (SD/MMC, MS).
+
+
+
+
+
+
+
+
+Features
+Block Diagram
+Download
+
+
+
+● USB specification compliance
+- Comply with 480Mbps Universal Serial Bus specification rev. 2.0
+- Comply with USB Storage Class specification rev. 1.0
+- Support 1 device address and up to 4 endpoints: Control (0)/ Bulk Read (1)/ Bulk Write (2)/Interrupt (3)
+● Integrated USB building blocks
+- USB2.0 transceiver macro (UTM), Serial Interface Engine (SIE), Build-in power-on reset (POR) and
+low-voltage detector (LVD)
+● Embedded 8051 micro-controller
+- Operate @ 60 MHz clock, 12 clocks per instruction cycle
+- Embedded 32K Byte mask ROM and internal 256 byte SRAM
+- Embedded 2K Byte external SRAM
+● Secure DigitalTM and MultiMediaCardTM
+- Supports SD specification v1.0 / v1.1 / v2.0
+- Supports MMC specification v3.X / v4.0 / v4.1 / v4.2
+- x1 / x4 / x8 data transmission. (For QFN24 up to x4)
+- Automatic CRC7 generation for command and CRC7 verification for response on CMD
+- Support automatic CRC16 generation and verification on DAT0:7
+- In addition to full packet transaction, optional single byte / bit operation on both CMD and DAT line /
+lines
+- Process data in block or byte
+● Memory StickTM / Memory Stick PROTM / Memory Stick PRO DuoTM / Memory Stick PRO-HG/ Memory
+Stick Micro
+- Comply with Memory Stick specification: MS 1.43, MSPRO 1.02, MSPRO-HG 1.01 with 4-bit data
+bus
+- Support INS signal
+- Support automatic CRC16 generation and verification
+● On board 12 MHz Crystal driver circuit or 12 MHz Clock input
+● On-Chip 5V to 3.3V regulator. No external regulator required
+● On-Chip power MOSFETs for supplying flash media card power
+● Available in 28-pin SSOP (150mil) package
+● Available in 24-pin QFN package
+
+
+
+
+
+
+
+Features
+Block Diagram
+Download
+
+
+
+
+
+
+
+
+
+
+Features
+Block Diagram
+Download
+
+
+
+
+TitleDownload
+
+
+
+
+Back
+
+
+
+
+Copyright ◎2017 創惟科技股份有限公司 All Rights Reserved. 
+
+
+
+
+	Genesys Logic, Inc. on Taiwan's Largest ICT B2B Marketplace - computex.biz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+About
+
+Computex.biz
+TCA
+Privacy Policy
+Partners
+
+
+
+Membership
+
+Buyer   Sign in   Join Free !
+Upgrade to Supplier
+Supplier   Sign in
+
+
+
+Contact Us
+
+
+Buyer Service  |  FAQ
+
+
+Supplier Service  |  FAQ
+
+ 
+
+Newsletter
+
+COMPUTEX Newsletter
+
+
+
+Recommended Channels
+
+CES 2016 Highlights
+BC Award of COMPUTEX TAIPEI
+Taiwan Excellent 3C Product
+Embedded Technology (Japan)
+
+
+
+Trade Shows
+
+COMPUTEX TAIPEI
+Worldwide Trade Show
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+COMPUTEX TAIPEI  (Visitor /
+                    Exhibitor)
+
+BC Award
+
+
+
+
+
+
+
+
+
+
+
+Sitemap
+
+
+
+
+ 
+
+
+
+
+
+Products
+
+Product Wall
+Hot Products
+Recently Updated
+Product Directory
+Post My Products
+
+
+Suppliers
+
+Supplier Wall
+Hot Suppliers
+Newly Arrived
+Active Suppliers
+Become a Supplier
+
+
+Videos
+
+COMPUTEX 2017
+Video Wall
+Recently Updated
+COMPUTEX 2016
+
+
+News
+
+News Wall
+Industry News
+Headline News
+Special Interview
+Post My News
+
+
+
+My Office
+
+Inquiry
+
+
+My Product Basket
+My Company Basket
+Sent Inquiry
+Received Inquiry
+
+
+Buyer Services
+
+Trade Alert
+ePaper
+User Profile
+FAQ
+
+
+Supplier Services
+
+Post a New Product
+Post a New News
+Manage Products Data
+Manage Company Data
+Manage News Data
+Settings
+Advertisement
+FAQ
+
+
+
+
+
+
+Language
+
+English
+繁體中文
+简体中文
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+Suppliers
+Videos
+News
+
+
+
+
+
+Hot Keywords:
+
+CCTV Camera
+cctv
+PE3B
+UPS
+fingerprint flash drive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Forget Password?
+Help
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Genesys Logic, Inc.
+            
+
+
+
+                GL
+            
+
+
+
+Active Supplier :
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    General Info
+                    
+                
+
+
+
+                    Background
+                    
+                
+
+
+                    Products
+                
+
+
+                    Contact
+                
+
+
+
+
+
+
+
+
+
+
+Consumer IC(4)
+                                    
+
+
+
+DSP(1)
+                                    
+
+
+
+IP Camera(1)
+                                    
+
+
+
+Scanner(1)
+                                    
+
+
+
+
+
+USB Device Controller IC(1)
+                                    
+
+
+
+USB Hub(1)
+                                    
+
+
+
+
+
+
+
+
+
+
+Select All
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GL127
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GL860A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GL852GX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Core i7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GL850G
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GL826
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GL9714
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GL9701
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GL9711
+
+
+
+
+
+
+1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Produce by  Copyright Notice © 2015 Taipei Computer Association. All rights reserved.  Any type of unauthorized reproduction is prohibited.  Legal and Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Loading, please wait …
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Omnichannel Customer Experience – Cloud & On Premise | Genesys
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  +1.888.436.3797
+       Support
+     Login
+   Select Region
+   Try for Free
+   Search
+
+
+
+
+
+Omnichannel
+
+Meet Kate
+Customer Experience
+Contact Center Modernization
+Industries
+
+
+Solutions
+
+Customer Engagement
+
+Self-Service
+Inbound
+Outbound
+Digital
+
+
+Employee Engagement
+
+Workforce Optimization
+Omnichannel Desktop
+Collaboration
+Performance Management
+
+
+Business Optimization
+
+Workload Management
+Integration
+Analytics
+Platform
+
+
+
+
+CX Platform
+
+Cloud
+
+PureCloud
+PureConnect
+PureEngage
+
+
+Routing
+
+
+Services
+
+PureBridge
+Business Consulting
+Professional Services
+Genesys Support & Care
+Genesys Customer Advocacy Program (GCAP)
+Genesys University
+
+
+Partners
+
+Genesys AppFoundry
+Genesys Partner Network
+Global Strategic Alliances
+Value Add Resellers
+Cloud Partners
+Technology Partners
+Service Partners
+Independent Consultants
+Partner Directory
+Partner Resources
+
+
+About
+
+Customer Success Stories
+Resource Center
+Newsroom
+Careers
+Make a Difference
+Genesys Newsletter
+Legal
+Global Offices
+Contact Us
+Leadership
+
+
+Events
+
+CX17
+Webinars
+PureCloud Live Demo
+
+
+Blog
+
+
+
+
+
+
+
+
+Solutions for
+
+         Customer Engagement
+       Employee Engagement
+            Business Optimization
+
+Learn More About
+
+         Customer Experience Platform
+   Genesys Cloud
+ Genesys AppFoundry
+   Workforce Optimization
+
+See More >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Genesys Is Proud To Be A Gartner Leader For The
+9th Consecutive Year!
+Get the Report Now!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advance to Next-Generation CX
+with PureBridge
+Find Out More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moments Connected
+Start the Conversation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Innovation Made For Your Customers And Your Business
+Find out more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deliver Effortless
+Omnichannel Customer
+Experiences
+FIND OUT HOW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Request A Demo
+          Try For Free
+    Contact Us
+
+
+
+
+
+Genesys is Trusted by Over 10,000 Companies Globally
+Genesys, the world’s #1 Customer Experience Platform, empowers companies to create exceptional omnichannel experiences, journeys and relationships. For over 25 years, we have put the customer at the center of all we do, and we passionately believe that great customer engagement drives great business outcomes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REQUEST A DEMOSEE CUSTOMERSJOIN A WEBINAR
+
+
+
+
+
+The Only Global Leader in Customer Experience Solutions
+Both in the Cloud & On Premise
+
+
+
+
+
+Genesys Named a Leader in the 2017 Gartner Magic Quadrant for Contact Center Infrastructure
+Gartner Names Genesys a Leader for the 9th Consecutive Year
+READ THE REPORT
+
+
+
+
+Genesys Named a Leader in TWO Forrester Waves™
+Forrester Evaluates Large & Midsize Contact Center Interaction Management Vendors Across 40 Criteria
+READ THE REPORT
+
+
+
+
+Genesys Named a Leader in the 2016 Gartner Magic Quadrant for Contact Center as a Service
+Interactive Intelligence, a Genesys company, Named a Leader 2 Years in a Row
+READ THE REPORT
+
+
+
+
+
+
+
+
+
+
+
+COMPANY
+
+About Us
+Blog
+Genesys Newsletter
+Newsroom
+Webinars
+Resources
+Careers
+Contact Us
+
+
+
+INDUSTRIES
+
+Banking
+Government
+Healthcare
+Insurance
+Telecommunications
+Travel
+Pharmaceutical
+
+
+
+SOLUTIONS
+
+Customer Engagement
+Self-Service
+Inbound
+Outbound
+Digital
+Employee Engagement
+Workforce Optimization
+Omnichannel Desktop
+Business Optimization
+Workload Management
+Integration
+Analytics
+Platform
+
+
+
+ABOUT GENESYS
+Genesys® powers 25 billion of the world’s best customer experiences each year. Our success comes from connecting employee and customer conversations on any channel, every day. Over 10,000 companies in 100+ countries trust our #1 customer experience platform to drive great business outcomes and create lasting relationships. Combining the best of technology and human ingenuity, we build solutions that mirror natural communication and work the way you think. Our industry-leading solutions foster true omnichannel engagement, performing equally well across all channels, on-premise and in the cloud. Experience communication as it should be: fluid, instinctive and profoundly empowering. 
+
+
+
+
+
+
+
++1.888.436.3797
+Support
+Careers
+Site Map
+
+
+
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+     
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+Copyright © 2017 Genesys. All rights reserved. Terms of Use | Privacy Policy
+
+
+
+   Select Region
+
+
+
+
+
+
+This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. Find out more here.X
+
+
+
+
+
+
+
+
+Genesys Logic Receives USB-IF Certification for SuperSpeed USB Product 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Genesys Logic Receives USB-IF Certification for SuperSpeed USB Product 
+
+
+Taipei, Taiwan -- April 6, 2010 -- Genesys Logic, Inc., a leading CMOS IC design company in mixed-signal high-speed I/O technologies, today announced its GL3310, a USB 3.0 to SATA 3Gb/s bridge chip, has passed USB compliance workshop tests and was certified and listed in the integrators list by the USB Implementers Forum (USB-IF) for SuperSpeed USB peripheral silicon. The USB-IF Compliance and Certification Program is a standard body to ensure product quality and interoperability. The availability of GL3310 tremendously increases the transfer speed between USB and SATA devices such as Hard Drives and Optical Drives. With in-house developed USB 2.0, USB 3.0 and SATA 3Gb/s high speed SerDes circuits built-in, GL3310 is a power efficient and highly integrated USB 3.0 to SATA 3Gb/s bridge controller. Leveraging on the success of its predecessor, GL830, a USB 2.0 to SATA bridge controller, GL3310 is efficiently architectured to support customers with even better compatibility with various USB host controllers and SATA storage devices, and at a competitive cost structure. In addition to its extended transfer performance through USB 3.0, GL3310 comes with a long list of convenient functions such as SPI interface, PWM, watchdog timers, UART monitoring and multiple of GPIO, to facilitate customers’ system development.  Firmly dedicated to its mixed-signal high-speed I/O core competence, Genesys Logic has been developing the crucial and fundamental PHY (Physical Layer) circuits with its in-house talents. Besides the cost advantages, it gives Genesys Logic the flexibility to tailor its products to different customers’ requirements and the ever-changing markets. The next generation SATA standard, operating at 6Gb/s, will pave ways to yet an even higher level of performance in external hard drive usages for customers. Genesys Logic is expected to announce products with SATA 6Gb/s within this year. GL3310 provides 64-pin LQFP and 48-pin QFN packages. For additional product information, visit at: http://www.genesyslogic.com/_en/product_01_1.php?id=72
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+   
+			
+
+
+			Contact Genesys Logic, Inc.			
+
+
+
+
+
+		Fill out this form for contacting a  Genesys Logic, Inc.  representative.
+
+
+
+Your Name:
+
+Your E-mail
+			address:
+
+Your Company
+			address:
+
+Your Phone Number:
+
+Write your message:
+
+
+
+
+
+
+   
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home | Feedback | Register | Site Map
+
+
+
+
+
+
+
+
+
+
+All material on this site Copyright © 2017 Design And Reuse S.A. All rights reserved.
+
+
+
+
+
+
+
+
+
+Genesys Logic Receives USB-IF Certification for SuperSpeed USB Product 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+≡ Menu
+Design And Reuse
+
+
+Login
+
+|
+
+Subscribe
+
+
+
+
+
+
+
+
+Company
+
+|
+
+design-reuse.cn
+
+|
+
+dr-embedded.com
+
+|
+
+D&R Products
+
+|
+
+
+
+  English
+ Chinese
+
+
+
+
+Login
+
+|
+
+Subscribe to D&R SoC News Alert
+
+
+
+
+
+Design And Reuse
+
+
+
+
+
+
+Search IP
+
+
+Categories
+
+
+Silicon IP
+Analog & Mixed Signal
+Storage Controller & PHY
+Graphic & Peripheral
+Interface Controller & PHY
+Processors & Microcontrollers
+Memory & Logic Library
+Security
+Multimedia
+Wireline Communication
+Wireless Communication
+
+Silicon IP Vendors
+
+
+
+
+
+ 
+
+
+
+Verification IP
+
+
+Search / Browse
+
+
+Verification IP Vendors
+
+
+Software IP
+
+
+Search / Browse
+
+
+Software IP Vendors
+
+
+ 
+
+
+ 
+
+
+Additional Services
+
+
+Wanted IPs
+
+
+IP Analytics
+
+
+
+
+
+	
+						Featured Products
+
+
+RISC-V processor Bandgap reference (0.7 V output, optimized for SOC integration, UMC 180 nm) DDR4 Memory Controller SATA 6G PHY, TSMC40G, LP, x1, x2
+
+
+
+
+
+News
+
+
+Categories
+
+
+
+IP/SoC Products 
+
+
+Embedded Systems 
+
+
+Foundries
+
+
+FPGA 
+
+
+Fabless / IDM 
+
+
+Deals
+
+
+Legal
+
+
+Business
+
+
+Financial Results
+
+
+People
+
+
+Commentary / Analysis
+
+
+20 Most Popular News
+
+
+
+
+
+					
+						Latest News
+
+
+Avery Design Systems Announces NVMe 1.3 and NVMe-MI Verification IP UpdatesThursday Aug. 03, 2017 Epostar Chooses PLDA's PCIe Controller for their Next-Generation NVMe-based SSD ControllerWednesday Aug. 02, 2017 Vidatronic Contributes Expertise to AMD's Latest High-Performance ProcessorsWednesday Aug. 02, 2017
+
+
+
+
+
+Industry Articles
+
+
+Categories
+
+
+
+IP/SoC Products 
+
+
+Embedded Systems 
+
+
+Foundries
+
+
+FPGA 
+
+
+Business
+
+
+20 Most Popular Articles
+
+
+
+
+
+					
+						Featured Articles
+
+
+Improving Battery-Powered Device Operation Time Thanks To Power Efficient Sleep ModeThursday Jul. 20, 2017 Generating High Speed CSI2 Video by an FPGAMonday Jul. 17, 2017 How to Reduce FPGA Logic Cell Usage by >x5 for Floating-Point FFTsMonday Jul. 10, 2017
+
+
+
+
+
+Blogs
+
+
+					
+						Industry Expert Blogs
+
+
+HBM2 continues to rampRambus Blog -  Is Designing Your Chip Architecture Like Driving a Car with No Pedals?Sonics, The Official Blog - Randy Smith, Sonics AI ASICs Exposed!SemiWiki - Daniel Nenni
+
+
+
+
+
+Videos
+
+
+Slides
+
+
+Events
+
+
+IP-SOC Days 2017
+IP-SOC 2016 
+Archives
+
+
+
+IP-SOC 2016 
+
+
+IP-SOC 2015 
+
+
+IP-SOC 2014 
+
+
+IP-SOC 2013 
+
+
+IP-SOC 2012 
+
+
+IP-SOC 2011 
+
+
+IP-SOC 2010 
+
+
+
+
+
+
+
+
+
+
+
+
+Choose a filter 
+
+Full Site Search
+Silicon IP
+Verification IP
+Software IP
+News
+Industry Articles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Genesys Logic Receives USB-IF Certification for SuperSpeed USB Product 
+
+
+Taipei, Taiwan -- April 6, 2010 -- Genesys Logic, Inc., a leading CMOS IC design company in mixed-signal high-speed I/O technologies, today announced its GL3310, a USB 3.0 to SATA 3Gb/s bridge chip, has passed USB compliance workshop tests and was certified and listed in the integrators list by the USB Implementers Forum (USB-IF) for SuperSpeed USB peripheral silicon. The USB-IF Compliance and Certification Program is a standard body to ensure product quality and interoperability. The availability of GL3310 tremendously increases the transfer speed between USB and SATA devices such as Hard Drives and Optical Drives. With in-house developed USB 2.0, USB 3.0 and SATA 3Gb/s high speed SerDes circuits built-in, GL3310 is a power efficient and highly integrated USB 3.0 to SATA 3Gb/s bridge controller. Leveraging on the success of its predecessor, GL830, a USB 2.0 to SATA bridge controller, GL3310 is efficiently architectured to support customers with even better compatibility with various USB host controllers and SATA storage devices, and at a competitive cost structure. In addition to its extended transfer performance through USB 3.0, GL3310 comes with a long list of convenient functions such as SPI interface, PWM, watchdog timers, UART monitoring and multiple of GPIO, to facilitate customers’ system development.  Firmly dedicated to its mixed-signal high-speed I/O core competence, Genesys Logic has been developing the crucial and fundamental PHY (Physical Layer) circuits with its in-house talents. Besides the cost advantages, it gives Genesys Logic the flexibility to tailor its products to different customers’ requirements and the ever-changing markets. The next generation SATA standard, operating at 6Gb/s, will pave ways to yet an even higher level of performance in external hard drive usages for customers. Genesys Logic is expected to announce products with SATA 6Gb/s within this year. GL3310 provides 64-pin LQFP and 48-pin QFN packages. For additional product information, visit at: http://www.genesyslogic.com/_en/product_01_1.php?id=72
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+   
+			
+
+
+			Contact Genesys Logic, Inc.			
+
+
+
+
+
+		Fill out this form for contacting a  Genesys Logic, Inc.  representative.
+
+
+
+Your Name:
+
+Your E-mail
+			address:
+
+Your Company
+			address:
+
+Your Phone Number:
+
+Write your message:
+
+
+
+
+
+
+   
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search Silicon IP
+
+16,000 IP Cores from 450 Vendors
+
+
+
+
+Example: SuperSpeed IP Cores
+
+ 
+
+
+Related News
+
+
+
+
+Genesys Logic's GL3310 Receives the First USB-IF SuperSpeed USB Bus-Power Certificate 
+
+Synopsys' DesignWare SuperSpeed USB 3.0 xHCI Host Controller IP Receives USB-IF Certification
+
+Fresco Logic Announces USB-IF Certification for its 2nd Generation SuperSpeed USB Host Controller FL1009
+
+GDA (L&T Infotech) Pravega SuperSpeed USB (USB 3.0) IP Receives USB-IF Certification  
+
+Evatronix Receives USB-IF Certification for Its SuperSpeed USB 3.0 Device IP Core
+
+
+ 
+
+See Genesys Logic, Inc. Latest News >>
+
+
+
+Breaking News
+
+
+
+
+GLOBALFOUNDRIES, Silicon Mobility Deliver the Industry's First Automotive FPCU to Boost Performance for Hybrid and Electric Vehicles
+
+
+CEVA, Inc. Announces Second Quarter 2017 Financial Results
+
+
+Global Unichip Achieves SGS-TUV ISO26262 Certification
+
+
+Significant Mid-Year Revision to 2017 IC Market Forecast
+
+
+Avery Design Systems Announces NVMe 1.3 and NVMe-MI Verification IP Updates
+
+
+
+ 
+
+See Latest News >>
+
+
+
+Most Popular 
+
+
+
+
+				INVECAS Acquires Lattice's HDMI Design Team and Simplay Labs Subsidiary				
+
+				Sankalp Semiconductor to hire 300 engineers				
+
+				Vidatronic Contributes Expertise to AMD's Latest High-Performance Processors				
+
+				Moortec Semiconductor announces new sales representatives in Japan				
+
+				Epostar Chooses PLDA's PCIe Controller for their Next-Generation NVMe-based SSD Controller				
+
+
+ 
+
+See the Top 20 >>
+
+
+
+
+
+
+
+E-mail This Article
+
+
+
+
+
+
+
+
+Printer-Friendly Page
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+EETimes
+© 2017 Design And Reuse All Rights Reserved.
+No portion of this site may be copied, retransmitted, reposted, duplicated or otherwise used without the express written permission of Design And Reuse.
+
+
+
+Partner with us
+
+	Visit our new Partnership Portal for more information.
+	
+
+Partner with us
+
+
+
+List your Products
+Suppliers, list
+	your IPs for free.
+
+List your Products
+
+
+
+Design-Reuse.com
+
+Contact Us
+About us
+D&R Partner Program
+Advertise with Us
+Privacy Policy
+
+
+
+
+
+
+
+
+
+
+Genesys Logic, Inc - Supplier | Russia | Import Genius
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Plans
+
+
+
+
+Limited
+
+
+
+
+Plus
+
+
+
+
+Premium
+
+
+
+
+
+
+
+
+            LimitedMonitor Your Competitors
+
+
+
+Data
+
+Access data on U.S. ocean freight imports from the last 3 months for all companies
+You'll have access to data from the previous 6-months from the date of your search. We use a rolling date range, so you can always look back 6 months from the current date.
+
+
+
+
+            LimitedMonitor Your Competitors
+
+
+
+Data
+
+Access data on U.S. ocean freight imports from the last 3 months for all companies
+Access data on U.S. ocean freight imports from the last 3 months for all companies
+You'll have access to data from the previous 3-months from the date of your search. We use a rolling date range, so you can always look back 3-months from the current date.
+
+
+
+
+            PlusSmall & Medium Business
+
+
+
+Data
+
+Access data on U.S. ocean freight imports from the last 12 months for all companies
+You'll have access to data from the previous 12-months from the date of your search. We use a rolling date range, so you can always look back 12-months from the current date.
+U.S. ocean freight exports from January 1, 2014 to present for all companies
+
+
+
+
+            Premium            Empire Builder
+
+
+
+Data
+
+Access data on U.S. ocean freight imports from November 2006 to the present for all companies
+You'll have access to our entire database of shipping manifests of U.S. Ocean freight imports going back to November 2006.
+U.S. ocean freight exports from January 1, 2014 to present for all companies
+
+
+
+
+
+            LimitedMonitor Your Competitors
+
+
+
+Usage
+
+Track the shipping activities of your 3 chosen companies
+Our Limited Plan lets you monitor the shipping activities of any three companies across all our databases. Be the first to know when your target company clears a shipment through customs in one of the countries we track.
+3 Contact Info Requests Per Month
+Our team of account managers and research assistants will help you find contact information for up to 3 companies in our database each month.
+Download (CSV and XLS) 5k Records Per Month
+If you're planning to do more in-depth research on the companies in our database, you should upgrade to the Plus or Premium plans, which allow more downloads.
+Email Alerts for up to 3 Searches
+If you need to track more than 3 companies, product segments, or trade lanes, you should upgrade to the Plus or Premium plan, which allow more email alerts.
+
+
+
+
+            LimitedMonitor Your Competitors
+
+
+
+Usage
+
+10 Company Searches Per Day
+10 searches per day may be enough if you are just monitoring a few competitors or researching suppliers in a single industry. If you're looking to connect with sales leads or do more in-depth research, you should upgrade to the Plus or Premium plan which allows more searches.
+3 Contact Info Requests Per Month
+Our team of account managers and research assistants will help you find contact information for up to 3 companies in our database each month.
+Download (CSV and XLS) 1k Records Per Month
+If you're planning to do more in-depth research on the companies in our database, you should upgrade to the Plus or Premium plan, which allow more downloads.
+Email Alerts for up to 3 Company Searches
+If you need to track more than 3 companies, product segments, or trade lanes, you should upgrade to the Plus or Premium plan, which allow more email alerts.
+
+
+
+
+            Plus            Small & Medium Business
+
+
+
+Usage
+
+25 Searches Per Day
+25 searches per day may be enough if you are just monitoring a few competitors or researching suppliers in a single industry. If you're looking to connect with sales leads or do more in-depth research, you should upgrade to the Premium plan which allows more searches.
+25 Contact Info Requests Per Month
+Our team of account managers and research assistants will help you find contact information for up to 25 companies in our database each month.
+Download (CSV and XLS) 10k Records Per Month
+If you're planning to do more in-depth research on the companies in our database, you should upgrade to the Premium plan, which allow more downloads.
+Email Alerts for up to 5 Searches
+If you need to track more than 5 companies, product segments, or trade lanes, you should upgrade to the Premium plan, which allow more email alerts.
+
+
+
+
+            Premium            Empire Builder
+
+
+
+Usage
+
+50 Searches Per Day
+ 
+50 Contact Info Requests Per Month
+Our team of account managers and research assistants will help you find contact information for up to 50 companies in our database each month
+Download (CSV and XLS) 25k Records Per Month
+If you're planning to do more in-depth research on the companies in our database, contact the Sales Department to purchase more credits and export additional shipping records.
+Email Alerts for up to 10 Searches
+
+
+
+
+
+             Plus             Small & Medium Business
+
+
+
+Features
+
+Visual Mapping
+Our Visual Mapping technology provides an instant snapshot of any company's trade connections. Navigate the global web of trading partners with the click of a mouse and visualize the relationships between companies many degrees apart.
+
+
+
+
+
+
+
+            Premium            Empire Builder
+
+
+
+Features
+
+Visual Mapping
+Our Visual Mapping technology provides an instant snapshot of any company's trade connections. Navigate the global web of trading partners with the click of a mouse and visualize the relationships between companies many degrees apart.
+
+
+
+
+
+
+
+            Limited            Monitor Your Competitors
+
+
+
+Support
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+Call or e-mail our Customer Service Agents. They will get back to as soon as possible to assist you with your data needs.
+
+
+
+
+            Plus            Small & Medium Business
+
+
+
+Support
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+Call or e-mail our Customer Service Agents. They will get back to as soon as possible to assist you with your data needs.
+
+
+
+
+            Premium            Empire Builder
+
+
+
+Support
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+Call or e-mail our Customer Service Agents. They will get back to as soon as possible to assist you with your data needs.
+Dedicated Research Assistant
+An experienced trade data specialist will serve as your dedicated account manager to locate hard-to-reach data, perform searches and compile reports on your behalf.
+
+
+
+
+            Limited            Monitor Your Competitors
+
+
+
+Data
+
+Access data on U.S. ocean freight imports from the last 3 months for all companies
+You'll have access to data from the previous 6-months from the date of your search. We use a rolling date range, so you can always look back 6 months from the current date.
+
+
+
+
+
+
+
+X
+
+
+
+
+
+
+
+
+
+
+
+
+                   Home                
+
+
+
+
+
+                        How It Works                    
+
+
+
+                            U.S. Data                        
+
+                            Additional Countries                        
+
+                            Our Datasets                        
+
+                            Our Clients                        
+
+                            IG Reviews                        
+
+                            Videos                        
+
+                            Pictures                        
+
+                            Presentation                        
+
+
+
+                   Plans & Pricing                
+
+                    Search                
+
+                  Contact Us                
+Live Chat				
+
+                    Free Demo                
+
+                    Sign In                
+
+                    Join Now                
+
+
+
+
+
+
+
+
+
+
+
+English
+中文
+French
+
+
+
+
+
+
+
+
+
+
+English
+
+
+
+中文
+
+
+
+French
+
+
+
+
+
+
+
+
+
+
+			                                                Service: 855-573-9976 
+                        Sales: +1-855-573-9976
+
+ Live Chat
+
+Choose Language
+ English
+ 中文
+ French
+
+
+
+
+ 
+
+
+
+Hi, may I help you with something?
+
+An ImportGenius.com sales agent is available to answer your question.
+
+
+							Chat Live Now						
+
+						No, thanks.					
+
+
+
+
+
+
+
+Sign Up
+
+
+
+
+
+
+Home
+How It Works
+Plans & Pricing
+Search
+Contact Us
+
+
+Live Chat
+
+2
+  
+
+
+
+ 
+
+
+
+
+
+Genesys Logic, Inc
+
+Genesys Logic, Inc exports to Ооо Самсунг Электроникс Рус Калуга 
+
+
+
+
+
+ Call +1 (480) 744 2559
+
+
+
+
+Import Genius
+
+
+
+
+
+
+                                Our bill of lading data reveals the trading activities of Genesys Logic, Inc and millions of other manufacturers.                            
+
+
+Learn More
+Join Now
+
+
+
+
+Request a Demo
+
+
+
+
+
+Would you like to schedule a free demo?
+We'd love to show you international trade data relevant to your own business.
+
+
+
+
+
+
+
+
+
+
+Name
+
+
+
+
+Email
+
+
+
+
+
+Phone
+
+
+
+
+
+
+Schedule A Free Demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Play muted
+
+
+International Trade Starts With Our Data
+
+
+
+
+
+
+
+
+
+Other companies in our database
+
+
+ GLOBAL PRODUCT PLANNING CO. LTD                            
+
+ ЗАО ""ПРОТОМ""                            
+
+ ЛУКИНОВА ЕЛЕНА ЮРЬЕВНА                            
+
+ ООО `ТРАКЬЯ ГЛАСС РУС ТРЕЙДИНГ`                            
+
+ CERACARTA S.P.A.                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View Sample Shipment Records
+Shipment Alert Subscription
+Contact This Company
+
+
+
+Sign Up
+
+ 
+
+
+
+
+
+Sample shipment record for Genesys Logic, Inc
+Genesys Logic, Inc exports to Ооо Самсунг Электроникс Рус Калуга
+
+
+            Bill of Lading        
+
+
+
+
+
+Russian Consignee Name
+Foreign Shipper Name
+
+
+
+Ооо Самсунг Электроникс Рус Калуга
+
+
+Genesys Logic, Inc
+
+
+
+Producer Name
+Russian Payee Name
+
+
+
+Genesys Logic, Inc
+
+
+
+
+
+
+Detailed Cargo Description
+
+
+
+
+
+                                        МИКРОСХЕМА ИНТЕГРАЛЬНАЯ МОНОЛИТНАЯ, ЦИФРОВАЯ, КОНТРОЛЛЕР USB (USB-ХАБ) GL852G-OHY38, 28 ПИНОВ, НАПРЯЖЕНИЕ ПИТАНИЯ 5В, МОЩНОСТЬ 0.4ВТ, РАЗМЕР 5*5*0.8ММ, ДЛЯ ПРОМ.СБОРКИ ТВ МОДЕЛИ UE48H8000ATXRU АРТ:                                    
+
+                                        МИКРОСХЕМА ИНТЕГРАЛЬНАЯ МОНОЛИТНАЯ, ЦИФРОВАЯ, КОНТРОЛЛЕР USB (USB-ХАБ) GL852G-OHY38, 28 ПИНОВ, НАПРЯЖЕНИЕ ПИТАНИЯ 5В, МОЩНОСТЬ 0.4ВТ, РАЗМЕР 5*5*0.8ММ, ДЛЯ ПРОМ.СБОРКИ ТВ МОДЕЛИ UE48H8000ATXRU АРТ:                                    
+
+
+
+
+
+
+
+
+
+Cargo Delivery PointТАЙПЕЙCargo Release Date2017-03-04Gross Weight Kilos3.00IncotermsFCANet Weight Kilos1.20Origin Country CodeTWPrice of Cargo577.65 
+
+
+
+
+
+Subscribe to access the complete shipping history for Genesys Logic, Inc Join Now
+
+
+
+
+
+
+
+
+How will your business use our trade data?
+If you're involved in international trade, our database of shipping manifests will help you find opportunities to grow your business.
+
+Find Trading Partners You Can Trust
+Monitor Competitors' Shipping Activities
+Connect With Sales Prospects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            "Very informative and great site and so quick. Pretty slick."
+                        
+
+
+
+
+
+
+
+Betty Fatzie
+
+                                                                    President,                                 
+                                                                    Lab Products, Inc.                                
+                            
+
+
+
+
+
+
+                            "The service was great, with a reasonable price and great results. We have now started using another supplier from China. We just ordered our first container from the new supplier and with the savings it more than paid for the ImportGenius.com service on the first container load."
+                        
+
+
+
+
+
+
+
+Cleve Kurz
+
+                                
+                                                                    Gifford Monument Works                                
+                            
+
+
+
+
+
+
+                            "Import Genius is not merely an investment for our organization, it’s a vital instrument to effectively manage our time. It has afforded us the ability to quickly segment, target and position ourselves in front of prospective clients. Thank you, Import Genius!"
+                        
+
+
+
+
+
+
+
+David Bryant
+
+                                                                    Director of Business Development,                                 
+                                                                    John S. James Co.                                
+                            
+
+
+
+
+
+
+                            "Import Genius data is fantastic for evaluating component manufacturers in China."
+                        
+
+
+
+
+
+
+
+Sanjay Dastoor
+
+                                
+                                                                    BoostedBoards.com                                
+                            
+
+
+
+
+
+
+                            "We have confidence that we're working with the best manufacturers in part because Import Genius showed us that they already supply some of the world's top brands"
+                        
+
+
+
+
+
+
+
+Yaniv Masjedi
+
+                                                                    Vice President,                                 
+                                                                    Nextiva.com                                
+                            
+
+
+
+
+
+
+                            "Import Genius is a highly informative tool for monitoring public companies' operating activities. It is an invaluable part of our research."
+                        
+
+
+
+
+
+
+
+Eric DeLamarter
+
+                                                                    Managing Partner,                                 
+                                                                    Half Moon Capital                                
+                            
+
+
+
+
+
+
+                            "We find new clients for our customs brokerage in the ImportGenius database almost every day"
+                        
+
+
+
+
+
+
+
+Jayson Gispan
+
+                                                                    Customs Brokerage Operations Manager,                                 
+                                                                    Flexport.com                                
+                            
+
+
+
+
+
+
+                            "ImportGenius is a great research tool. We use it to evaluate manufacturers to make sure we are working with only the highest quality, most reliable suppliers"
+                        
+
+
+
+
+
+
+
+Chris Friedland
+
+                                                                    Founder / CEO,                                 
+                                                                    Build.com                                
+                            
+
+
+
+
+
+
+                            "ImportGenius gave us visibility into the actual shipping histories of the manufacturers we were evaluating and helped us feel comfortable we were working with the best suppliers in China."
+                        
+
+
+
+
+
+
+
+Morena Simitic
+
+                                                                    COO,                                 
+                                                                    BellaBeat.com                                
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shipment Alert Subscription
+
+
+
+                        Receive free shipment alerts by email whenever Genesys Logic, Inc clears a shipment through customs.                        
+
+Processing, please wait ...
+
+
+
+
+
+
+
+Submit
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Genesys Logic, Inc
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Name
+
+
+
+Business
+
+
+
+Email
+
+
+
+Phone
+
+
+
+
+Submit
+
+
+
+
+Processing, please wait ...
+
+ 
+
+ 
+
+
+
+
+Features
+
+
+
+Save and Share Reports
+Easily get your searches out of Import Genius and into your team’s hands for further analysis. Export your findings to XLS or CSV, or send reports via email. It’s the simple things that make our trade data even more valuable to you.
+
+
+
+See the Supply Chain
+Visual Mapping shows you exactly how your target companies and their trading partners connect. Search by shipper and see everyone they’ve shipped to. Or search by consignee and see all their suppliers. Zoom in on any company to see their own trading network. Dive deep into international trade and discover the links in anyone’s supply chain.
+
+
+
+Get Real-time Shipment Alerts
+Stay on top of your competitors, suppliers, and customers with real-time alerts. Just set up a search and get an email whenever a new shipment matches your terms. Import Genius lets you know the moment they bring in a rival product or start shipping to a new partner.
+
+
+
+
+
+
+
+
+
+Genesys Logic, Inc
+You've viewed 20 profile pages on Import Genius, which is the most we allow for free. Sign up for ImportGenius to get more details on over 3 million importers and exporters. It only takes seconds.
+
+
+
+
+
+
+Sign Up for Import Genius! 
+
+
+
+
+
+
+
+
+Plans
+
+
+
+
+Limited
+Monitor Your Competitors
+
+
+
+
+Recommended Plan
+Plus
+Small & Medium Business
+
+
+
+
+Premium
+Empire Builder
+
+
+
+
+
+
+Price
+
+
+
+
+
+$
+99
+594
+/month
+for 6 months
+
+
+
+                        Sign Up                    
+
+
+
+
+
+
+$
+199
+1,194
+/month
+for 6 months
+
+
+
+                        Sign Up                    
+
+
+
+
+
+
+$
+399
+2,394
+/month
+for 6 months
+
+
+
+                        Sign Up                    
+
+
+
+
+
+
+
+Data
+
+
+
+
+Access data on U.S. ocean freight imports from the last 3 months for all companies
+View Details
+
+
+
+
+Access data on U.S. ocean freight imports from the last 12 months for all companies
+U.S. ocean freight exports from January 1, 2014 to present for all companies
+View Details
+
+
+
+
+Access data on U.S. ocean freight imports from November 2006 to the present for all companies
+U.S. ocean freight exports from January 1, 2014 to present for all companies
+View Details
+
+
+
+
+
+
+Usage
+
+
+
+
+
+Track the shipping activities of your 3 chosen companies
+3 Contact Info Requests Per Month
+Download (CSV and XLS) 5k Records Per Month
+Email Alerts for up to 3 Searches
+
+View Details
+
+
+
+
+
+25 Searches Per Day
+25 Contact Info Requests Per Month
+Download (CSV and XLS) 10k Records Per Month
+Email Alerts for up to 5 Searches
+
+View Details
+
+
+
+
+
+50 Searches Per Day
+50 Contact Info Requests Per Month
+Download (CSV and XLS) 25k Records Per Month
+Email Alerts for up to 10 Searches
+
+View Details
+
+
+
+
+
+
+Features
+
+
+ 
+
+
+Visual Mapping
+View Details
+
+
+
+
+Visual Mapping
+View Details
+
+
+
+
+
+
+Support
+
+
+
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+View Details
+
+
+
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+View Details
+
+
+
+
+
+Our Customer Service Agents are available when you need them. Call in to receive helpful tips and training.
+Dedicated Research Assistant
+
+View Details
+
+
+
+
+
+
+  
+
+
+
+
+
+
+View All U.S. Imports
+Instantly search 5,692,327 ocean freight records to monitor U.S. importers, research suppliers, generate sales leads and more.
+
+
+As Featured In
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is Import Genius
+
+
+
+
+
+Who Uses Import Genius
+
+
+
+
+
+Available Data Fields
+
+
+
+
+
+Schedule Live Demo
+
+
+
+
+
+
+
+What is Import Genius
+
+
+												Import Genius reveals the trading activities of importers and exporters around the world.								
+
+												We give you hard data about your overseas suppliers and domestic competitors. Using shipping databases from Customs agencies in the United States, Latin America, and India, Import Genius can help you find reliable new trading partners, monitor your competitors’ shipments, and keep an eye on your current suppliers and customers.								
+
+												Our team of seasoned import-export veterans, cutting-edge software developers, and customer service professionals has worked for years to build the world's most powerful and accessible database of international trade intelligence.								
+
+
+
+												We do this for a diverse client base that requires keen insight into international trade.								
+
+												Our customers include some of the world's top importers, exporters, freight forwarders, logistics companies, manufacturers, investment banks, financial analysts, intellectual property attorneys, and more. They use our tools to:								
+
+Research the trade activity of importers and suppliers
+Identify and vet new sources for any kind of product
+Monitor the competition and their trade connections
+Generate sales leads for transportation and logistics companies
+Track the activity of publicly-traded companies
+Investigate and enforce intellectual property infringement
+Ensure exclusive agent compliance
+
+
+
+
+Who Uses Import Genius
+
+Sourcing Professionals...
+
+			Use our service to view shipping histories for suppliers.		
+
+			We provide access to detailed customs records, letting you verify suppliers' true shipping volumes and U.S. customer lists. You can also look up your competing import firms to find where they buy their goods.		
++ Learn More
+Competitive Intelligence Analysts...
+
+			Use our service to learn where rivals source products.		
+
+			We give clear insights into the importing volumes, new product releases, and broader competitive dynamics of your industry.		
++ Learn More
+
+
+Sales & Marketing Teams...
+
+			Use our service to generate sales prospects.		
+
+			We give you the tools to target importers based on product type, location, shipping volumes, and more.		
++ Learn More
+Financial Analysts...
+
+			Use our service to monitor public companies' imports.		
+
+			We offer rare data on the success or failure of new product launches, shipping trends and other operating data for companies in any industry.		
++ Learn More
+
+
+
+Available Data Fields
+
+Import Genius Data Fields
+
+												By collecting the ocean freight bill of lading for all U.S. imports in our database, Import Genius provides unprecedented access to near real-time information on virtually every industry and company importing goods into the country.								
+
+												For each shipment entering the U.S. by ocean, we provide access to the following information.								
+Additional Fields Available for Some Shipments:
+
+Phone Number
+Fax Number
+Email
+Contact Person
+
+
+
+List of Data Fields
+
+
+
+ConsigneeThe company importing the shipment into the U.S.Consignee AddressThe address of the company importing the shipment into the U.S.ShipperThe overseas company exporting the shipment to the U.S.Shipper AddressThe address of the overseas company exporting the shipment to the U.S.Product DescriptionThe exporter's description of the shipment as it appears on the bill of lading or shipping manifestGross WeightThe gross weight of the shipment, excluding the weight of the actual container. This can appear in either pounds or kilograms at the discretion of the exporterNumber Of UnitsThe quantity of boxes customs would find if they were to open the shipment for inspection.VolumeThe volume of the shipment, generally defined in cubic meters or container base measurements (CBM)Arrival DateThe date the shipment arrives within the customs territory of the U.S.Foreign PortThe last port the shipment passes through before arriving in the U.S.Country Of OriginThe country of the last foreign port the shipment passes through before arriving in the U.S.U.S. PortThe U.S. port where the shipment enters the customs territory of the U.S.Carrier CodeThe four digit Standard Carrier Alpha Code of the ocean carrier or freight forwarder managing the transit of the shipmentVoyage NumberA unique code assigned to that particular sailing of the ship between two portsVessel NameThe name of the ship transporting the shipmentShip Registered InThe country where the ship is officially registeredBill Of Lading NumberThe unique number assigned to this particular shipment by the ocean carrier or freight forwarderContainer NumberThe unique number assigned to the ocean shipping container carrying the shipment in questionMarks & NumbersAny text or numbers appearing on the cartons 
+
+
+
+
+
+
+Ready for a live demo?
+Fill out this form and we'll contact you right away to set up a live demo of Import Genius.
+
+
+Schedule Live Demo
+
+
+
+Processing, please wait ...
+
+
+
+
+
+Name
+
+Tell us your Full Name
+
+
+Email
+
+Enter a valid email address
+
+
+Phone
+
+Enter valid phone number
+
+
+Preferred Date
+
+Let us know your preferred date
+
+
+Preferred Time (In Your Country)
+
+01:00 am
+01:30 am
+02:00 am
+02:30 am
+03:00 am
+03:30 am
+04:00 am
+04:30 am
+05:00 am
+05:30 am
+06:00 am
+06:30 am
+07:00 am
+07:30 am
+08:00 am
+08:30 am
+09:00 am
+09:30 am
+10:00 am
+10:30 am
+11:00 am
+11:30 am
+12:00 am
+12:30 am
+01:00 pm
+01:30 pm
+02:00 pm
+02:30 pm
+03:00 pm
+03:30 pm
+04:00 pm
+04:30 pm
+05:00 pm
+05:30 pm
+06:00 pm
+06:30 pm
+07:00 pm
+07:30 pm
+08:00 pm
+08:30 pm
+09:00 pm
+09:30 pm
+10:00 pm
+10:30 pm
+11:00 pm
+11:30 pm
+12:00 pm
+
+Let us know your preferred time
+
+
+Country
+
+Required
+
+
+Timezone
+
+Required
+
+
+What data are you interested in?
+
+Let us know what you are most interested to learn
+
+
+
+Submit
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Import Genius
+
+How It Works
+Plans & Pricing
+Our Trade Data Blog
+Search
+Latin Trade Data
+
+Import Genius Reviews & Press Coverage
+Who Uses Import Genius
+Contact Us
+
+
+
+Latest Posts
+
+
+
+
+                                    Trump Properties Have…                                
+
+
+
+
+                                    Solar panels: imports…                                
+
+
+
+
+                                    Limited Plan Now Available                                
+
+
+
+
+                                    Chilean salmon exports…                                
+
+
+
+
+                                    India, US palm oil imports…                                
+
+
+
+
+Company Profiles
+
+
+
+                                    ЗАО ""ОРМИНА"" ПО ПОРУЧЕНИЮ ""interluck Lp""                                
+
+
+
+                                    Eption Technology (hk) Co., Limited                                
+
+
+
+                                    Snf Sas                                
+
+
+
+                                    N.v. Griffith Food S.a.                                
+
+
+
+                                    ""nantong Richful Textile Co.ltd""                                
+
+
+
+
+
+
+
+
+
+
+
+                     
+                                            5,692,327  Records in our database and counting
+
+
+
+
+
+Customer Support Team: 
+
+                    Tel:  855-573-9976
+                    International: +1 480-745-3396
+                    Fax: +1 602-428-9400
+info@importgenius.com
+
+                    8901 E Pima Center Pkwy, 
+		    Suite 105 
+                    Scottsdale, AZ 85258
+
+
+Shanghai, China:
+
+                    Tel: +86-21-63806036
+
+
+                    Mobile No.: +86-13671737628
+                    Fax Number: +86-21-63806036
+
+
+Shenzhen, China
+                    
+                            Tel: +86-755-89517585
+                            Mob: +86-13925258002
+                            Fax: +86-755-89517585                
+
+
+
+Have questions? We'll reply quickly!
+
+
+
+
+
+									         		Type your info below								         		
+
+
+
+
+
+
+
+
+
+
+
+Message
+
+
+
+Submit
+
+Processing, please wait ...
+
+ 
+
+ 
+
+                Trainings, Demos, and General Contact All Available            
+Or Call Us:
+Service:
+
+                    +1-855-573-9976                
+Sales:
+
+                    +1-855-573-9976                
+Back to top
+
+ 
+
+
+
+
+
+All Rights Reserved. Copyright © 2017. Trade Data Services, Inc. 0.4077
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+We're Offline
+Please leave us a message
+
+
+
+To chat with a representative of Import Genius, your browser needs to be Internet Explorer 9 or higher. Please fill out the form below and a representative will contact you as soon as possible.
+
+
+
+Name
+
+
+
+Email
+
+
+
+Phone
+
+
+
+Message
+
+
+
+Send
+
+
+
+
+X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
